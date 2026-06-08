@@ -1155,49 +1155,75 @@
             }
 
             .dashboard-container {
-                padding: 20px 15px;
+                padding: 15px 12px;
             }
 
             .dashboard-title {
-                font-size: 1.5rem;
+                font-size: 1.15rem;
+                letter-spacing: 0;
+                margin-bottom: 6px;
             }
 
             .dashboard-subtitle {
-                font-size: 0.85rem;
-                margin-bottom: 20px;
+                font-size: 0.8rem;
+                margin-bottom: 16px;
             }
 
             .license-grid {
                 grid-template-columns: 1fr;
-                gap: 15px;
+                gap: 12px;
             }
 
             .license-card {
-                padding: 20px 15px;
-                border-radius: 16px;
+                padding: 16px 14px;
+                border-radius: 14px;
+                min-height: auto !important;
+                flex-direction: row;
+                text-align: left;
+                align-items: center;
+                gap: 14px;
+                justify-content: flex-start;
             }
 
             .license-icon {
-                width: 60px;
-                height: 60px;
-                font-size: 2.2rem;
-                margin-bottom: 15px;
+                width: 52px;
+                height: 52px;
+                font-size: 1.8rem;
+                margin-bottom: 0;
+                flex-shrink: 0;
+            }
+
+            .license-card-body {
+                flex: 1;
+                min-width: 0;
+                align-items: flex-start;
+                text-align: left;
             }
 
             .license-name {
-                font-size: 1.2rem;
+                font-size: 1rem;
+                margin-bottom: 3px;
             }
 
             .license-desc {
-                font-size: 0.85rem;
-                margin-bottom: 15px;
+                font-size: 0.78rem;
+                margin-bottom: 8px;
+                line-height: 1.4;
+            }
+
+            .license-card .btn {
+                padding: 8px 16px !important;
+                font-size: 0.8rem !important;
+                height: 36px;
+                width: auto !important;
+                margin-top: 0;
             }
 
             .license-badge {
-                top: 15px;
-                right: 15px;
-                padding: 4px 10px;
-                font-size: 0.7rem;
+                top: 10px;
+                right: 10px;
+                padding: 3px 8px;
+                font-size: 0.65rem;
             }
 
             .hub-container {
@@ -1619,6 +1645,15 @@
             margin-bottom: 25px;
             transition: all 0.3s ease;
             box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.02);
+        }
+
+        /* Body wrapper inside license card — stacks vertically on desktop */
+        .license-card-body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            flex: 1;
         }
 
         .license-card:hover .license-icon {
@@ -3722,16 +3757,20 @@
                         <div class="license-card" onclick="navigateTo('CLASS_A_HOME')">
                             <span class="license-badge active">Sẵn sàng</span>
                             <div class="license-icon">🏍️</div>
-                            <div class="license-name">Hạng A (Xe máy)</div>
-                            <div class="license-desc">Các loại xe mô tô hai bánh và ba bánh (A1, A2, A3...)</div>
-                            <button class="btn btn-primary" style="margin-top: auto; width: 100%;">Vào Ôn Luyện</button>
+                            <div class="license-card-body">
+                                <div class="license-name">Hạng A (Xe máy)</div>
+                                <div class="license-desc">Các loại xe mô tô hai bánh và ba bánh (A1, A2, A3...)</div>
+                                <button class="btn btn-primary">Vào Ôn Luyện</button>
+                            </div>
                         </div>
                         <div class="license-card" onclick="navigateTo('CLASS_B_HOME')">
                             <span class="license-badge active">Sẵn sàng</span>
                             <div class="license-icon">🚗</div>
-                            <div class="license-name">Hạng B (Ô tô)</div>
-                            <div class="license-desc">Các loại xe ô tô chở người, ô tô tải chở hàng (B1, B2...)</div>
-                            <button class="btn btn-primary" style="margin-top: auto; width: 100%;">Vào Ôn Luyện</button>
+                            <div class="license-card-body">
+                                <div class="license-name">Hạng B (Ô tô)</div>
+                                <div class="license-desc">Các loại xe ô tô chở người, ô tô tải chở hàng (B1, B2...)</div>
+                                <button class="btn btn-primary">Vào Ôn Luyện</button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -3752,23 +3791,29 @@
                         <div class="license-card" onclick="currentClass = 'A1'; navigateTo('LEARNING_HUB')">
                             <span class="license-badge active">Sẵn sàng</span>
                             <div class="license-icon">🛵</div>
-                            <div class="license-name">Hạng A1</div>
-                            <div class="license-desc">Mô tô hai bánh có dung tích xi lanh từ 50cm3 đến dưới 175cm3</div>
-                            <button class="btn btn-primary" style="margin-top: auto; width: 100%;">Chọn Ôn Thi</button>
+                            <div class="license-card-body">
+                                <div class="license-name">Hạng A1</div>
+                                <div class="license-desc">Mô tô hai bánh có dung tích xi lanh từ 50cm3 đến dưới 175cm3</div>
+                                <button class="btn btn-primary">Chọn Ôn Thi</button>
+                            </div>
                         </div>
                         <div class="license-card" onclick="currentClass = 'A2'; navigateTo('LEARNING_HUB')">
                             <span class="license-badge active">Sẵn sàng</span>
                             <div class="license-icon">🏍️</div>
-                            <div class="license-name">Hạng A2</div>
-                            <div class="license-desc">Mô tô hai bánh có dung tích xi lanh từ 175cm3 trở lên (Xe phân khối lớn)</div>
-                            <button class="btn btn-primary" style="margin-top: auto; width: 100%;">Chọn Ôn Thi</button>
+                            <div class="license-card-body">
+                                <div class="license-name">Hạng A2</div>
+                                <div class="license-desc">Mô tô hai bánh có dung tích xi lanh từ 175cm3 trở lên (Xe phân khối lớn)</div>
+                                <button class="btn btn-primary">Chọn Ôn Thi</button>
+                            </div>
                         </div>
                         <div class="license-card" onclick="currentClass = 'A3'; navigateTo('LEARNING_HUB')">
                             <span class="license-badge active">Sẵn sàng</span>
                             <div class="license-icon">🛺</div>
-                            <div class="license-name">Hạng A3</div>
-                            <div class="license-desc">Xe mô tô ba bánh, xe lam, xích lô máy và các loại xe tương tự</div>
-                            <button class="btn btn-primary" style="margin-top: auto; width: 100%;">Chọn Ôn Thi</button>
+                            <div class="license-card-body">
+                                <div class="license-name">Hạng A3</div>
+                                <div class="license-desc">Xe mô tô ba bánh, xe lam, xích lô máy và các loại xe tương tự</div>
+                                <button class="btn btn-primary">Chọn Ôn Thi</button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -3790,23 +3835,29 @@
                         <div class="license-card" onclick="currentClass = 'B1'; navigateTo('LEARNING_HUB')">
                             <span class="license-badge active">Sẵn sàng</span>
                             <div class="license-icon">🚗</div>
-                            <div class="license-name">Hạng B1</div>
-                            <div class="license-desc">Ô tô số tự động chở người đến 9 chỗ; tải số tự động dưới 3.500 kg</div>
-                            <button class="btn btn-primary" style="margin-top: auto; width: 100%;">Chọn Ôn Thi</button>
+                            <div class="license-card-body">
+                                <div class="license-name">Hạng B1</div>
+                                <div class="license-desc">Ô tô số tự động chở người đến 9 chỗ; tải số tự động dưới 3.500 kg</div>
+                                <button class="btn btn-primary">Chọn Ôn Thi</button>
+                            </div>
                         </div>
                         <div class="license-card" onclick="currentClass = 'B2'; navigateTo('LEARNING_HUB')">
                             <span class="license-badge active">Sẵn sàng</span>
                             <div class="license-icon">🚘</div>
-                            <div class="license-name">Hạng B2</div>
-                            <div class="license-desc">Ô tô số sàn chở người đến 9 chỗ; xe tải số sàn dưới 3.500 kg</div>
-                            <button class="btn btn-primary" style="margin-top: auto; width: 100%;">Chọn Ôn Thi</button>
+                            <div class="license-card-body">
+                                <div class="license-name">Hạng B2</div>
+                                <div class="license-desc">Ô tô số sàn chở người đến 9 chỗ; xe tải số sàn dưới 3.500 kg</div>
+                                <button class="btn btn-primary">Chọn Ôn Thi</button>
+                            </div>
                         </div>
                         <div class="license-card locked">
                             <span class="license-badge locked">Đang cập nhật</span>
                             <div class="license-icon">🚛</div>
-                            <div class="license-name">Hạng C</div>
-                            <div class="license-desc">Xe ô tô tải chở hàng có trọng tải từ 3.500 kg trở lên</div>
-                            <button class="btn btn-secondary" style="margin-top: auto; width: 100%; cursor: not-allowed;" disabled>Sắp ra mắt</button>
+                            <div class="license-card-body">
+                                <div class="license-name">Hạng C</div>
+                                <div class="license-desc">Xe ô tô tải chở hàng có trọng tải từ 3.500 kg trở lên</div>
+                                <button class="btn btn-secondary" style="cursor: not-allowed;" disabled>Sắp ra mắt</button>
+                            </div>
                         </div>
                     </div>
                 </div>
