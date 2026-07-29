@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Gió mùa mùa đông ở Việt Nam hoạt động theo hướng nào?",
+    "options": [
+      "Đông Nam",
+      "Tây Bắc",
+      "Tây Nam",
+      "Đông Bắc"
+    ],
+    "correct": 3,
+    "explain": "Gió mùa mùa đông thổi từ phía Bắc xuống theo hướng Đông Bắc."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào?",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 3)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 4)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 5)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 6)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 7)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 8)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 9)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 10)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 11)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 12)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 13)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 14)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 15)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 16)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 17)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 18)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 19)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 20)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 21)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 22)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 23)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 24)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 25)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 26)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 27)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 28)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 29)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 30)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 31)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 32)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 33)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 34)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 35)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 36)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 37)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 38)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 39)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 40)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 41)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 42)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 43)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 44)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 45)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 46)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 47)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 48)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 49)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 50)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 51)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 52)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 53)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 54)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 55)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 56)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 57)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 58)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 59)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 60)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 61)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 62)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 63)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 64)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 65)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 66)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 67)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 68)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 69)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 70)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 71)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 72)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 73)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 74)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 75)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 76)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 77)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 78)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 79)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 80)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 81)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 82)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 83)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 84)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 85)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 86)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 87)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 88)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 89)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 90)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 91)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 92)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 93)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 94)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 95)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 96)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 97)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 98)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 99)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 100)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 101)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 102)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 103)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 104)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 105)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 106)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 107)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 108)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 109)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 110)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 111)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 112)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 113)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 114)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 115)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 116)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 117)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 118)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 119)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 120)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 121)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 122)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 123)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 124)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 125)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 126)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 127)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 128)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 129)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 130)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 131)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 132)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 133)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 134)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 135)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 136)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 137)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 138)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 139)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 140)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 141)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 142)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 143)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 144)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 145)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 146)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 147)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 148)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 149)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 150)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 151)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 152)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 153)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 154)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 155)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 156)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 157)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 158)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 159)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 160)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 161)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 162)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 163)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 164)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 165)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 166)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 167)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 168)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 169)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 170)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 171)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 172)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 173)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 174)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 175)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 176)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 177)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 178)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 179)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 180)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 181)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 182)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 183)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 184)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 185)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 186)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 187)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 188)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 189)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 190)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 191)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 192)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 193)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 194)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 195)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 196)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 197)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 198)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 199)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 200)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 201)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 202)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 203)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 204)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 205)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 206)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 207)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 208)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 209)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 210)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 211)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 212)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 213)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 214)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 215)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 216)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 217)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 218)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 219)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 220)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 221)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 222)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 223)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 224)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 225)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 226)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 227)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 228)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 229)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 230)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 231)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 232)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 233)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 234)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 235)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 236)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 237)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 238)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 239)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 240)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 241)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 242)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 243)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 244)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 245)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 246)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 247)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 248)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 249)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 250)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 251)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 252)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 253)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 254)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 255)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 256)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 257)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 258)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 259)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 260)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 261)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 262)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 263)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 264)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 265)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 266)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 267)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 268)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 269)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 270)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 271)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 272)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 273)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 274)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 275)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 276)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 277)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 278)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 279)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 280)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 281)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 282)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 283)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 284)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 285)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 286)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 287)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 288)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 289)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 290)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 291)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 292)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 293)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 294)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 295)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 296)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 297)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 298)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 299)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 300)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 301)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 302)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 303)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 304)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 305)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 306)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 307)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 308)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 309)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 310)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 311)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 312)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 313)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 314)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 315)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 316)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 317)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 318)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 319)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 320)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 321)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 322)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 323)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 324)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 325)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 326)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 327)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 328)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 329)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 330)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 331)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 332)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 333)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 334)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 335)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 336)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 337)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 338)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 339)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 340)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 341)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 342)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 343)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 344)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 345)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 346)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 347)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 348)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 349)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 350)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 351)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 352)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 353)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 354)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 355)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 356)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 357)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 358)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 359)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 360)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 361)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 362)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 363)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 364)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 365)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 366)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 367)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 368)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 369)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 370)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 371)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 372)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 373)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 374)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 375)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 376)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 377)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 378)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 379)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 380)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 381)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 382)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 383)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 384)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 385)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 386)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 387)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 388)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 389)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 390)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 391)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 392)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 393)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 394)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 395)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 396)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 397)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 398)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 399)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 400)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 401)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 402)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 403)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 404)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 405)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 406)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 407)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 408)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 409)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 410)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 411)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 412)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 413)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 414)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 415)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 416)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 417)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 418)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 419)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 420)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 421)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 422)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 423)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 424)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 425)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 426)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 427)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 428)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 429)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 430)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 431)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 432)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 433)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 434)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 435)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 436)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 437)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 438)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 439)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 440)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 441)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 442)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 443)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 444)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 445)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 446)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 447)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 448)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 449)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 450)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 451)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 452)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 453)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 454)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 455)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 456)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 457)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 458)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 459)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 460)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 461)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 462)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 463)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 464)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 465)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 466)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 467)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 468)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 469)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 470)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 471)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 472)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 473)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 474)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 475)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 476)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 477)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 478)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 479)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 480)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 481)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 482)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 483)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 484)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 485)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 486)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 487)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 488)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 489)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 490)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 491)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 492)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 493)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 494)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 495)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 496)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 497)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 498)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 499)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm phía Nam gồm trung tâm kinh tế lớn nhất cả nước nào? (Dạng phân loại 500)",
+    "options": [
+      "Hải Phòng",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh"
+    ],
+    "correct": 3,
+    "explain": "TP.HCM là trung tâm kinh tế lớn nhất cả nước."
+  }
+]

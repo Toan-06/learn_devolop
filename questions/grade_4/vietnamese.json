@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Danh từ là gì?",
+    "options": [
+      "Từ chỉ hoạt động, trạng thái",
+      "Từ chỉ tính chất, màu sắc",
+      "Từ chỉ người, vật, hiện tượng, khái niệm",
+      "Từ nối câu"
+    ],
+    "correct": 2,
+    "explain": "Danh từ là từ chỉ sự vật (người, vật, hiện tượng, khái niệm)."
+  },
+  {
+    "question": "Động từ là gì?",
+    "options": [
+      "Từ chỉ hoạt động, trạng thái của sự vật",
+      "Từ thay thế",
+      "Từ chỉ người, vật",
+      "Từ chỉ tính chất, kích thước"
+    ],
+    "correct": 0,
+    "explain": "Động từ là từ chỉ hoạt động, trạng thái của sự vật."
+  },
+  {
+    "question": "Tính từ là gì?",
+    "options": [
+      "Từ chỉ đặc điểm, tính chất của sự vật, hoạt động",
+      "Từ chỉ hoạt động",
+      "Từ thay thế",
+      "Từ chỉ sự vật"
+    ],
+    "correct": 0,
+    "explain": "Tính từ là từ chỉ đặc điểm, tính chất của sự vật, hoạt động, trạng thái."
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 4)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 5)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 6)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 7)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 8)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 9)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 10)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 11)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 12)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 13)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 14)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 15)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 16)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 17)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 18)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 19)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 20)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 21)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 22)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 23)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 24)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 25)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 26)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 27)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 28)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 29)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 30)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 31)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 32)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 33)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 34)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 35)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 36)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 37)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 38)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 39)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 40)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 41)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 42)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 43)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 44)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 45)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 46)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 47)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 48)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 49)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 50)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 51)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 52)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 53)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 54)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 55)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 56)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 57)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 58)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 59)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 60)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 61)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 62)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 63)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 64)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 65)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 66)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 67)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 68)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 69)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 70)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 71)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 72)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 73)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 74)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 75)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 76)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 77)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 78)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 79)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 80)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 81)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 82)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 83)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 84)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 85)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 86)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 87)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 88)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 89)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 90)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 91)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 92)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 93)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 94)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 95)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 96)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 97)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 98)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 99)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 100)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 101)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 102)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 103)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 104)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 105)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 106)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 107)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 108)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 109)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 110)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 111)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 112)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 113)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 114)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 115)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 116)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 117)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 118)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 119)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 120)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 121)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 122)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 123)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 124)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 125)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 126)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 127)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 128)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 129)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 130)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 131)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 132)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 133)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 134)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 135)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 136)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 137)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 138)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 139)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 140)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 141)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 142)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 143)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 144)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 145)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 146)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 147)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 148)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 149)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 150)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 151)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 152)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 153)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 154)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 155)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 156)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 157)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 158)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 159)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 160)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 161)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 162)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 163)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 164)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 165)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 166)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 167)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 168)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 169)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 170)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 171)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 172)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 173)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 174)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 175)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 176)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 177)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 178)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 179)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 180)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 181)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 182)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 183)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 184)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 185)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 186)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 187)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 188)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 189)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 190)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 191)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 192)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 193)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 194)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 195)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 196)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 197)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 198)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 199)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 200)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 201)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 202)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 203)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 204)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 205)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 206)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 207)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 208)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 209)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 210)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 211)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 212)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 213)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 214)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 215)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 216)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 217)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 218)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 219)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 220)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 221)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 222)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 223)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 224)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 225)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 226)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 227)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 228)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 229)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 230)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 231)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 232)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 233)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 234)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 235)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 236)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 237)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 238)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 239)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 240)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 241)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 242)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 243)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 244)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 245)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 246)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 247)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 248)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 249)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 250)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 251)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 252)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 253)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 254)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 255)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 256)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 257)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 258)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 259)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 260)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 261)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 262)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 263)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 264)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 265)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 266)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 267)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 268)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 269)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 270)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 271)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 272)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 273)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 274)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 275)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 276)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 277)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 278)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 279)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 280)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 281)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 282)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 283)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 284)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 285)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 286)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 287)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 288)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 289)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 290)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 291)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 292)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 293)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 294)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 295)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 296)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 297)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 298)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 299)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 300)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 301)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 302)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 303)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 304)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 305)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 306)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 307)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 308)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 309)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 310)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 311)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 312)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 313)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 314)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 315)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 316)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 317)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 318)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 319)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 320)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 321)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 322)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 323)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 324)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 325)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 326)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 327)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 328)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 329)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 330)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 331)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 332)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 333)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 334)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 335)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 336)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 337)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 338)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 339)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 340)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 341)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 342)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 343)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 344)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 345)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 346)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 347)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 348)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 349)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 350)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 351)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 352)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 353)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 354)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 355)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 356)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 357)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 358)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 359)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 360)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 361)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 362)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 363)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 364)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 365)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 366)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 367)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 368)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 369)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 370)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 371)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 372)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 373)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 374)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 375)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 376)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 377)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 378)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 379)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 380)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 381)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 382)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 383)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 384)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 385)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 386)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 387)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 388)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 389)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 390)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 391)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 392)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 393)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 394)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 395)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 396)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 397)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 398)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 399)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 400)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 401)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 402)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 403)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 404)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 405)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 406)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 407)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 408)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 409)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 410)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 411)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 412)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 413)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 414)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 415)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 416)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 417)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 418)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 419)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 420)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 421)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 422)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 423)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 424)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 425)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 426)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 427)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 428)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 429)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 430)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 431)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 432)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 433)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 434)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 435)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 436)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 437)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 438)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 439)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 440)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 441)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 442)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 443)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 444)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 445)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 446)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 447)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 448)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 449)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 450)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 451)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 452)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 453)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 454)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 455)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 456)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 457)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 458)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 459)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 460)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 461)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 462)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 463)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 464)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 465)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 466)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 467)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 468)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 469)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 470)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 471)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 472)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 473)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 474)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 475)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 476)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 477)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 478)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 479)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 480)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 481)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 482)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 483)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 484)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 485)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 486)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 487)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 488)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 489)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 490)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 491)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 492)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 493)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 494)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 495)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 496)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 497)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 498)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 499)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  },
+  {
+    "question": "Từ nào là câu kể Ai làm gì? (Câu 500)",
+    "options": [
+      "Học sinh đang đá bóng trên sân.",
+      "Mặt trời rực rỡ.",
+      "Trường học rất đẹp.",
+      "Em là học sinh lớp 4."
+    ],
+    "correct": 0,
+    "explain": "'Học sinh đang đá bóng trên sân' trả lời cho câu hỏi Ai làm gì?"
+  }
+]

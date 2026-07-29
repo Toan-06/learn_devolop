@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Chiến thắng Ngô Quyền trên sông Bạch Đằng diễn ra vào năm nào?",
+    "options": [
+      "Năm 981",
+      "Năm 1288",
+      "Năm 1077",
+      "Năm 938"
+    ],
+    "correct": 3,
+    "explain": "Năm 938, Ngô Quyền đánh tan quân Nam Hán trên sông Bạch Đằng, chấm dứt 1000 năm bắc thuộc."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam?",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Sông nào dài nhất Việt Nam?",
+    "options": [
+      "Sông Mã",
+      "Sông Cửu Long",
+      "Sông Đồng Nai",
+      "Sông Hồng"
+    ],
+    "correct": 2,
+    "explain": "Sông Đồng Nai là nội địa dài nhất chảy hoàn toàn trong lãnh thổ Việt Nam."
+  },
+  {
+    "question": "Khu vực Đông Nam Á gồm bao nhiêu quốc gia?",
+    "options": [
+      "12 quốc gia",
+      "11 quốc gia",
+      "10 quốc gia",
+      "9 quốc gia"
+    ],
+    "correct": 1,
+    "explain": "Đông Nam Á bao gồm 11 quốc gia thành viên."
+  },
+  {
+    "question": "Triều đại nhà Lý thành lập vào năm nào?",
+    "options": [
+      "Năm 968",
+      "Năm 1010",
+      "Năm 1225",
+      "Năm 1009"
+    ],
+    "correct": 3,
+    "explain": "Năm 1009, Lý Công Uẩn lên ngôi lập ra nhà Lý."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 6)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 7)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 8)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 9)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 10)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 11)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 12)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 13)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 14)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 15)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 16)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 17)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 18)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 19)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 20)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 21)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 22)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 23)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 24)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 25)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 26)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 27)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 28)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 29)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 30)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 31)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 32)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 33)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 34)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 35)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 36)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 37)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 38)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 39)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 40)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 41)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 42)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 43)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 44)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 45)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 46)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 47)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 48)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 49)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 50)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 51)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 52)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 53)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 54)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 55)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 56)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 57)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 58)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 59)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 60)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 61)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 62)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 63)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 64)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 65)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 66)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 67)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 68)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 69)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 70)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 71)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 72)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 73)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 74)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 75)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 76)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 77)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 78)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 79)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 80)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 81)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 82)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 83)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 84)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 85)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 86)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 87)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 88)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 89)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 90)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 91)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 92)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 93)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 94)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 95)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 96)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 97)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 98)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 99)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 100)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 101)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 102)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 103)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 104)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 105)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 106)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 107)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 108)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 109)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 110)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 111)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 112)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 113)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 114)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 115)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 116)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 117)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 118)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 119)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 120)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 121)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 122)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 123)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 124)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 125)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 126)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 127)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 128)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 129)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 130)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 131)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 132)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 133)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 134)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 135)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 136)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 137)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 138)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 139)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 140)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 141)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 142)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 143)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 144)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 145)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 146)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 147)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 148)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 149)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 150)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 151)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 152)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 153)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 154)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 155)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 156)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 157)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 158)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 159)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 160)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 161)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 162)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 163)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 164)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 165)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 166)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 167)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 168)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 169)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 170)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 171)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 172)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 173)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 174)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 175)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 176)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 177)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 178)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 179)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 180)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 181)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 182)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 183)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 184)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 185)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 186)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 187)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 188)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 189)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 190)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 191)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 192)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 193)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 194)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 195)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 196)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 197)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 198)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 199)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 200)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 201)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 202)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 203)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 204)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 205)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 206)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 207)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 208)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 209)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 210)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 211)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 212)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 213)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 214)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 215)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 216)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 217)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 218)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 219)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 220)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 221)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 222)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 223)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 224)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 225)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 226)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 227)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 228)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 229)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 230)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 231)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 232)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 233)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 234)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 235)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 236)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 237)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 238)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 239)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 240)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 241)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 242)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 243)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 244)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 245)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 246)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 247)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 248)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 249)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 250)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 251)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 252)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 253)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 254)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 255)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 256)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 257)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 258)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 259)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 260)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 261)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 262)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 263)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 264)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 265)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 266)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 267)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 268)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 269)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 270)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 271)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 272)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 273)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 274)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 275)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 276)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 277)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 278)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 279)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 280)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 281)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 282)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 283)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 284)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 285)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 286)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 287)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 288)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 289)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 290)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 291)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 292)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 293)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 294)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 295)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 296)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 297)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 298)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 299)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 300)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 301)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 302)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 303)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 304)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 305)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 306)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 307)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 308)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 309)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 310)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 311)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 312)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 313)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 314)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 315)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 316)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 317)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 318)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 319)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 320)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 321)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 322)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 323)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 324)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 325)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 326)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 327)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 328)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 329)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 330)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 331)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 332)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 333)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 334)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 335)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 336)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 337)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 338)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 339)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 340)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 341)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 342)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 343)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 344)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 345)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 346)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 347)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 348)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 349)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 350)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 351)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 352)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 353)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 354)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 355)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 356)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 357)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 358)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 359)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 360)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 361)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 362)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 363)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 364)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 365)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 366)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 367)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 368)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 369)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 370)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 371)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 372)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 373)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 374)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 375)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 376)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 377)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 378)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 379)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 380)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 381)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 382)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 383)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 384)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 385)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 386)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 387)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 388)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 389)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 390)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 391)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 392)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 393)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 394)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 395)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 396)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 397)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 398)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 399)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 400)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 401)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 402)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 403)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 404)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 405)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 406)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 407)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 408)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 409)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 410)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 411)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 412)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 413)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 414)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 415)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 416)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 417)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 418)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 419)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 420)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 421)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 422)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 423)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 424)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 425)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 426)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 427)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 428)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 429)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 430)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 431)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 432)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 433)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 434)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 435)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 436)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 437)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 438)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 439)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 440)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 441)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 442)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 443)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 444)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 445)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 446)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 447)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 448)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 449)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 450)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 451)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 452)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 453)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 454)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 455)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 456)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 457)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 458)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 459)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 460)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 461)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 462)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 463)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 464)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 465)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 466)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 467)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 468)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 469)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 470)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 471)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 472)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 473)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 474)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 475)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 476)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 477)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 478)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 479)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 480)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 481)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 482)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 483)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 484)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 485)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 486)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 487)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 488)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 489)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 490)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 491)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 492)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 493)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 494)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 495)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 496)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 497)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 498)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 499)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  },
+  {
+    "question": "Thành phố nào là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam? (Dạng ôn tập 500)",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP. Hồ Chí Minh",
+      "Cần Thơ"
+    ],
+    "correct": 0,
+    "explain": "Hà Nội là thủ đô, trung tâm chính trị văn hóa của Việt Nam."
+  }
+]

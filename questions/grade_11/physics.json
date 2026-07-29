@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Vận tốc trung bình được tính bằng công thức nào?",
+    "options": [
+      "v = a × t",
+      "v = s / t",
+      "v = s × t",
+      "v = m × g"
+    ],
+    "correct": 1,
+    "explain": "Vận tốc trung bình bằng quãng đường chia cho thời gian."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào?",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Đơn vị đo công suất trong hệ SI là gì?",
+    "options": [
+      "Newton (N)",
+      "Watt (W)",
+      "Volt (V)",
+      "Joule (J)"
+    ],
+    "correct": 1,
+    "explain": "Công suất được đo bằng Watt (W)."
+  },
+  {
+    "question": "Tần số f và chu kỳ T có mối quan hệ như thế nào?",
+    "options": [
+      "f = T²",
+      "f = 1 / T",
+      "f = T",
+      "f = 2πT"
+    ],
+    "correct": 1,
+    "explain": "Tần số là nghịch đảo của chu kỳ: f = 1/T."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 5)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 6)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 7)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 8)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 9)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 10)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 11)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 12)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 13)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 14)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 15)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 16)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 17)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 18)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 19)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 20)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 21)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 22)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 23)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 24)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 25)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 26)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 27)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 28)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 29)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 30)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 31)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 32)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 33)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 34)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 35)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 36)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 37)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 38)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 39)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 40)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 41)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 42)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 43)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 44)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 45)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 46)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 47)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 48)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 49)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 50)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 51)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 52)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 53)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 54)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 55)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 56)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 57)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 58)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 59)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 60)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 61)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 62)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 63)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 64)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 65)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 66)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 67)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 68)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 69)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 70)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 71)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 72)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 73)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 74)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 75)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 76)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 77)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 78)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 79)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 80)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 81)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 82)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 83)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 84)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 85)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 86)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 87)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 88)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 89)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 90)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 91)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 92)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 93)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 94)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 95)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 96)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 97)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 98)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 99)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 100)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 101)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 102)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 103)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 104)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 105)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 106)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 107)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 108)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 109)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 110)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 111)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 112)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 113)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 114)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 115)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 116)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 117)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 118)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 119)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 120)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 121)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 122)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 123)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 124)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 125)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 126)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 127)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 128)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 129)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 130)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 131)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 132)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 133)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 134)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 135)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 136)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 137)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 138)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 139)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 140)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 141)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 142)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 143)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 144)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 145)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 146)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 147)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 148)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 149)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 150)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 151)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 152)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 153)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 154)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 155)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 156)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 157)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 158)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 159)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 160)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 161)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 162)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 163)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 164)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 165)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 166)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 167)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 168)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 169)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 170)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 171)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 172)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 173)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 174)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 175)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 176)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 177)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 178)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 179)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 180)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 181)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 182)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 183)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 184)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 185)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 186)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 187)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 188)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 189)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 190)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 191)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 192)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 193)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 194)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 195)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 196)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 197)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 198)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 199)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 200)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 201)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 202)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 203)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 204)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 205)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 206)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 207)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 208)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 209)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 210)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 211)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 212)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 213)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 214)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 215)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 216)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 217)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 218)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 219)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 220)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 221)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 222)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 223)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 224)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 225)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 226)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 227)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 228)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 229)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 230)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 231)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 232)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 233)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 234)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 235)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 236)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 237)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 238)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 239)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 240)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 241)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 242)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 243)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 244)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 245)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 246)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 247)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 248)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 249)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 250)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 251)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 252)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 253)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 254)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 255)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 256)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 257)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 258)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 259)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 260)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 261)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 262)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 263)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 264)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 265)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 266)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 267)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 268)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 269)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 270)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 271)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 272)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 273)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 274)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 275)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 276)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 277)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 278)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 279)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 280)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 281)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 282)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 283)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 284)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 285)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 286)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 287)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 288)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 289)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 290)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 291)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 292)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 293)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 294)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 295)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 296)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 297)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 298)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 299)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 300)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 301)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 302)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 303)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 304)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 305)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 306)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 307)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 308)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 309)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 310)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 311)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 312)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 313)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 314)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 315)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 316)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 317)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 318)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 319)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 320)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 321)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 322)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 323)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 324)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 325)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 326)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 327)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 328)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 329)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 330)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 331)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 332)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 333)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 334)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 335)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 336)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 337)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 338)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 339)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 340)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 341)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 342)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 343)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 344)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 345)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 346)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 347)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 348)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 349)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 350)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 351)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 352)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 353)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 354)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 355)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 356)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 357)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 358)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 359)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 360)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 361)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 362)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 363)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 364)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 365)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 366)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 367)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 368)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 369)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 370)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 371)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 372)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 373)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 374)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 375)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 376)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 377)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 378)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 379)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 380)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 381)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 382)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 383)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 384)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 385)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 386)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 387)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 388)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 389)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 390)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 391)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 392)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 393)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 394)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 395)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 396)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 397)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 398)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 399)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 400)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 401)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 402)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 403)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 404)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 405)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 406)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 407)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 408)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 409)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 410)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 411)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 412)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 413)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 414)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 415)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 416)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 417)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 418)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 419)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 420)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 421)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 422)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 423)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 424)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 425)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 426)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 427)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 428)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 429)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 430)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 431)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 432)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 433)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 434)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 435)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 436)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 437)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 438)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 439)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 440)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 441)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 442)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 443)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 444)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 445)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 446)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 447)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 448)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 449)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 450)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 451)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 452)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 453)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 454)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 455)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 456)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 457)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 458)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 459)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 460)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 461)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 462)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 463)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 464)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 465)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 466)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 467)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 468)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 469)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 470)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 471)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 472)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 473)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 474)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 475)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 476)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 477)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 478)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 479)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 480)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 481)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 482)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 483)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 484)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 485)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 486)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 487)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 488)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 489)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 490)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 491)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 492)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 493)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 494)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 495)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 496)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 497)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 498)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 499)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  },
+  {
+    "question": "Định luật II Newton được phát biểu bằng công thức nào? (Dạng phân loại 500)",
+    "options": [
+      "P = m.g",
+      "F = m.a",
+      "F = m.v",
+      "A = F.s"
+    ],
+    "correct": 1,
+    "explain": "Định luật II Newton: Gia tốc cùng hướng lực tác dụng F = m.a."
+  }
+]

@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Where ___ you go last summer?",
+    "options": [
+      "do",
+      "did",
+      "does",
+      "are"
+    ],
+    "correct": 1,
+    "explain": "Quá khứ đơn hỏi địa điểm đã đi dùng trợ động từ 'did'."
+  },
+  {
+    "question": "What will the weather be like tomorrow? - It ___ be sunny.",
+    "options": [
+      "is",
+      "was",
+      "will",
+      "did"
+    ],
+    "correct": 2,
+    "explain": "Thì tương lai đơn hỏi dự báo thời tiết dùng 'will'."
+  },
+  {
+    "question": "How ___ is it from Hanoi to Danang?",
+    "options": [
+      "much",
+      "many",
+      "far",
+      "long"
+    ],
+    "correct": 2,
+    "explain": "Hỏi khoảng cách dùng 'How far'."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 4)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 5)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 6)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 7)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 8)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 9)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 10)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 11)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 12)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 13)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 14)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 15)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 16)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 17)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 18)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 19)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 20)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 21)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 22)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 23)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 24)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 25)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 26)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 27)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 28)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 29)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 30)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 31)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 32)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 33)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 34)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 35)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 36)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 37)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 38)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 39)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 40)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 41)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 42)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 43)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 44)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 45)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 46)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 47)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 48)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 49)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 50)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 51)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 52)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 53)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 54)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 55)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 56)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 57)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 58)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 59)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 60)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 61)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 62)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 63)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 64)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 65)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 66)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 67)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 68)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 69)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 70)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 71)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 72)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 73)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 74)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 75)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 76)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 77)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 78)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 79)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 80)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 81)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 82)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 83)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 84)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 85)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 86)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 87)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 88)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 89)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 90)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 91)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 92)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 93)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 94)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 95)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 96)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 97)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 98)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 99)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 100)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 101)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 102)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 103)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 104)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 105)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 106)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 107)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 108)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 109)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 110)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 111)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 112)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 113)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 114)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 115)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 116)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 117)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 118)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 119)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 120)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 121)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 122)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 123)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 124)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 125)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 126)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 127)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 128)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 129)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 130)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 131)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 132)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 133)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 134)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 135)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 136)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 137)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 138)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 139)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 140)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 141)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 142)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 143)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 144)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 145)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 146)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 147)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 148)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 149)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 150)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 151)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 152)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 153)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 154)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 155)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 156)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 157)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 158)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 159)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 160)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 161)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 162)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 163)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 164)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 165)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 166)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 167)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 168)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 169)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 170)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 171)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 172)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 173)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 174)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 175)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 176)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 177)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 178)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 179)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 180)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 181)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 182)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 183)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 184)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 185)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 186)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 187)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 188)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 189)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 190)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 191)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 192)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 193)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 194)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 195)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 196)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 197)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 198)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 199)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 200)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 201)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 202)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 203)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 204)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 205)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 206)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 207)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 208)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 209)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 210)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 211)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 212)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 213)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 214)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 215)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 216)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 217)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 218)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 219)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 220)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 221)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 222)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 223)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 224)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 225)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 226)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 227)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 228)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 229)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 230)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 231)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 232)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 233)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 234)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 235)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 236)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 237)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 238)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 239)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 240)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 241)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 242)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 243)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 244)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 245)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 246)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 247)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 248)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 249)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 250)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 251)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 252)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 253)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 254)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 255)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 256)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 257)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 258)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 259)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 260)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 261)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 262)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 263)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 264)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 265)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 266)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 267)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 268)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 269)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 270)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 271)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 272)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 273)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 274)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 275)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 276)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 277)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 278)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 279)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 280)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 281)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 282)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 283)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 284)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 285)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 286)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 287)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 288)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 289)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 290)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 291)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 292)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 293)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 294)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 295)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 296)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 297)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 298)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 299)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 300)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 301)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 302)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 303)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 304)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 305)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 306)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 307)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 308)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 309)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 310)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 311)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 312)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 313)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 314)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 315)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 316)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 317)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 318)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 319)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 320)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 321)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 322)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 323)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 324)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 325)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 326)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 327)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 328)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 329)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 330)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 331)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 332)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 333)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 334)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 335)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 336)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 337)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 338)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 339)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 340)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 341)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 342)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 343)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 344)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 345)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 346)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 347)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 348)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 349)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 350)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 351)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 352)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 353)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 354)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 355)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 356)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 357)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 358)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 359)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 360)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 361)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 362)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 363)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 364)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 365)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 366)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 367)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 368)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 369)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 370)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 371)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 372)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 373)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 374)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 375)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 376)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 377)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 378)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 379)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 380)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 381)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 382)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 383)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 384)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 385)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 386)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 387)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 388)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 389)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 390)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 391)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 392)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 393)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 394)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 395)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 396)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 397)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 398)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 399)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 400)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 401)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 402)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 403)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 404)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 405)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 406)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 407)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 408)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 409)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 410)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 411)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 412)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 413)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 414)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 415)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 416)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 417)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 418)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 419)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 420)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 421)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 422)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 423)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 424)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 425)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 426)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 427)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 428)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 429)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 430)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 431)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 432)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 433)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 434)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 435)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 436)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 437)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 438)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 439)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 440)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 441)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 442)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 443)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 444)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 445)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 446)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 447)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 448)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 449)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 450)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 451)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 452)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 453)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 454)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 455)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 456)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 457)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 458)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 459)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 460)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 461)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 462)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 463)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 464)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 465)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 466)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 467)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 468)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 469)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 470)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 471)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 472)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 473)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 474)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 475)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 476)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 477)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 478)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 479)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 480)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 481)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 482)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 483)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 484)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 485)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 486)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 487)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 488)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 489)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 490)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 491)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 492)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 493)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 494)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 495)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 496)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 497)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 498)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 499)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  },
+  {
+    "question": "Choose the correct option: 'Ha Long Bay is more ___ than I expected.' (Câu 500)",
+    "options": [
+      "beautiful",
+      "beauty",
+      "beautify",
+      "beautifully"
+    ],
+    "correct": 0,
+    "explain": "So sánh hơn của tính từ dài dùng 'more + tính từ' (more beautiful)."
+  }
+]

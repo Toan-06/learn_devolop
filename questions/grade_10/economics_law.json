@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Thị trường là gì?",
+    "options": [
+      "Nơi làm việc của công chức",
+      "Nơi cất giữ tiền",
+      "Nơi diễn ra các hoạt động mua bán, trao đổi hàng hóa dịch vụ",
+      "Nơi sản xuất hàng hóa"
+    ],
+    "correct": 2,
+    "explain": "Thị trường là tổng thể các mối quan hệ mua bán hàng hóa dịch vụ."
+  },
+  {
+    "question": "Hiến pháp là gì?",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 3)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 4)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 5)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 6)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 7)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 8)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 9)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 10)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 11)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 12)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 13)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 14)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 15)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 16)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 17)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 18)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 19)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 20)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 21)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 22)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 23)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 24)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 25)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 26)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 27)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 28)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 29)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 30)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 31)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 32)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 33)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 34)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 35)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 36)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 37)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 38)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 39)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 40)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 41)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 42)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 43)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 44)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 45)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 46)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 47)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 48)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 49)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 50)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 51)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 52)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 53)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 54)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 55)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 56)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 57)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 58)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 59)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 60)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 61)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 62)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 63)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 64)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 65)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 66)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 67)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 68)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 69)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 70)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 71)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 72)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 73)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 74)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 75)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 76)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 77)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 78)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 79)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 80)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 81)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 82)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 83)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 84)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 85)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 86)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 87)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 88)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 89)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 90)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 91)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 92)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 93)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 94)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 95)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 96)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 97)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 98)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 99)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 100)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 101)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 102)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 103)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 104)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 105)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 106)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 107)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 108)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 109)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 110)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 111)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 112)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 113)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 114)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 115)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 116)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 117)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 118)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 119)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 120)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 121)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 122)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 123)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 124)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 125)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 126)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 127)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 128)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 129)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 130)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 131)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 132)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 133)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 134)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 135)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 136)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 137)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 138)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 139)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 140)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 141)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 142)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 143)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 144)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 145)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 146)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 147)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 148)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 149)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 150)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 151)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 152)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 153)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 154)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 155)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 156)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 157)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 158)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 159)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 160)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 161)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 162)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 163)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 164)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 165)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 166)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 167)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 168)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 169)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 170)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 171)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 172)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 173)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 174)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 175)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 176)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 177)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 178)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 179)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 180)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 181)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 182)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 183)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 184)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 185)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 186)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 187)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 188)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 189)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 190)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 191)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 192)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 193)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 194)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 195)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 196)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 197)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 198)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 199)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 200)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 201)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 202)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 203)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 204)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 205)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 206)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 207)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 208)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 209)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 210)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 211)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 212)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 213)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 214)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 215)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 216)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 217)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 218)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 219)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 220)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 221)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 222)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 223)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 224)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 225)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 226)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 227)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 228)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 229)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 230)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 231)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 232)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 233)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 234)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 235)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 236)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 237)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 238)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 239)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 240)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 241)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 242)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 243)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 244)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 245)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 246)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 247)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 248)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 249)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 250)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 251)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 252)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 253)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 254)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 255)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 256)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 257)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 258)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 259)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 260)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 261)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 262)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 263)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 264)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 265)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 266)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 267)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 268)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 269)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 270)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 271)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 272)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 273)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 274)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 275)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 276)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 277)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 278)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 279)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 280)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 281)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 282)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 283)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 284)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 285)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 286)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 287)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 288)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 289)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 290)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 291)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 292)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 293)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 294)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 295)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 296)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 297)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 298)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 299)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 300)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 301)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 302)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 303)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 304)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 305)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 306)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 307)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 308)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 309)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 310)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 311)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 312)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 313)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 314)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 315)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 316)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 317)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 318)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 319)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 320)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 321)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 322)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 323)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 324)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 325)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 326)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 327)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 328)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 329)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 330)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 331)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 332)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 333)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 334)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 335)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 336)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 337)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 338)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 339)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 340)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 341)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 342)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 343)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 344)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 345)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 346)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 347)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 348)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 349)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 350)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 351)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 352)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 353)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 354)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 355)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 356)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 357)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 358)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 359)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 360)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 361)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 362)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 363)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 364)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 365)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 366)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 367)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 368)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 369)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 370)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 371)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 372)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 373)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 374)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 375)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 376)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 377)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 378)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 379)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 380)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 381)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 382)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 383)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 384)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 385)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 386)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 387)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 388)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 389)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 390)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 391)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 392)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 393)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 394)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 395)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 396)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 397)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 398)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 399)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 400)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 401)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 402)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 403)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 404)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 405)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 406)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 407)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 408)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 409)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 410)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 411)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 412)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 413)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 414)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 415)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 416)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 417)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 418)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 419)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 420)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 421)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 422)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 423)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 424)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 425)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 426)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 427)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 428)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 429)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 430)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 431)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 432)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 433)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 434)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 435)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 436)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 437)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 438)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 439)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 440)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 441)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 442)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 443)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 444)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 445)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 446)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 447)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 448)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 449)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 450)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 451)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 452)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 453)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 454)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 455)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 456)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 457)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 458)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 459)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 460)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 461)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 462)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 463)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 464)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 465)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 466)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 467)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 468)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 469)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 470)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 471)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 472)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 473)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 474)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 475)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 476)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 477)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 478)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 479)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 480)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 481)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 482)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 483)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 484)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 485)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 486)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 487)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 488)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 489)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 490)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 491)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 492)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 493)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 494)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 495)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 496)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 497)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 498)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 499)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  },
+  {
+    "question": "Hiến pháp là gì? (Dạng phân loại 500)",
+    "options": [
+      "Luật giao thông",
+      "Bộ luật dân sự",
+      "Văn bản hành chính",
+      "Luật cơ bản có hiệu lực pháp lý cao nhất của nhà nước"
+    ],
+    "correct": 3,
+    "explain": "Hiến pháp là đạo luật gốc có hiệu lực pháp lý tối cao."
+  }
+]

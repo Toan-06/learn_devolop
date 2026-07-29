@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "If it rains, we ___ at home.",
+    "options": [
+      "stayed",
+      "would stay",
+      "will stay",
+      "stay"
+    ],
+    "correct": 2,
+    "explain": "Câu điều kiện loại 1: If + HTĐ, S + will + V-inf."
+  },
+  {
+    "question": "She is the ___ student in our class.",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "He has lived in Hanoi ___ 5 years.",
+    "options": [
+      "for",
+      "at",
+      "since",
+      "in"
+    ],
+    "correct": 0,
+    "explain": "Thì hiện tại hoàn thành: 'for + khoảng thời gian'."
+  },
+  {
+    "question": "The book ___ was written by Nam is very good.",
+    "options": [
+      "whom",
+      "who",
+      "which",
+      "whose"
+    ],
+    "correct": 2,
+    "explain": "Đại từ quan hệ 'which' thay thế cho danh từ chỉ vật 'book'."
+  },
+  {
+    "question": "They suggested ___ to the cinema tonight.",
+    "options": [
+      "go",
+      "going",
+      "to go",
+      "went"
+    ],
+    "correct": 1,
+    "explain": "Cấu trúc 'suggest + V-ing' đề xuất làm gì."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 6)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 7)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 8)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 9)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 10)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 11)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 12)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 13)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 14)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 15)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 16)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 17)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 18)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 19)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 20)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 21)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 22)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 23)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 24)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 25)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 26)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 27)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 28)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 29)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 30)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 31)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 32)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 33)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 34)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 35)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 36)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 37)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 38)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 39)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 40)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 41)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 42)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 43)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 44)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 45)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 46)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 47)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 48)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 49)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 50)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 51)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 52)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 53)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 54)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 55)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 56)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 57)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 58)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 59)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 60)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 61)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 62)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 63)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 64)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 65)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 66)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 67)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 68)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 69)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 70)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 71)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 72)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 73)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 74)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 75)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 76)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 77)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 78)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 79)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 80)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 81)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 82)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 83)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 84)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 85)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 86)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 87)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 88)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 89)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 90)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 91)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 92)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 93)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 94)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 95)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 96)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 97)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 98)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 99)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 100)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 101)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 102)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 103)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 104)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 105)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 106)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 107)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 108)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 109)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 110)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 111)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 112)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 113)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 114)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 115)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 116)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 117)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 118)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 119)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 120)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 121)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 122)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 123)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 124)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 125)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 126)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 127)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 128)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 129)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 130)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 131)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 132)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 133)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 134)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 135)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 136)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 137)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 138)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 139)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 140)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 141)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 142)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 143)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 144)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 145)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 146)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 147)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 148)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 149)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 150)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 151)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 152)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 153)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 154)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 155)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 156)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 157)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 158)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 159)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 160)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 161)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 162)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 163)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 164)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 165)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 166)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 167)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 168)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 169)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 170)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 171)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 172)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 173)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 174)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 175)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 176)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 177)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 178)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 179)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 180)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 181)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 182)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 183)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 184)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 185)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 186)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 187)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 188)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 189)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 190)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 191)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 192)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 193)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 194)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 195)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 196)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 197)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 198)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 199)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 200)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 201)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 202)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 203)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 204)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 205)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 206)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 207)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 208)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 209)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 210)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 211)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 212)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 213)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 214)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 215)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 216)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 217)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 218)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 219)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 220)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 221)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 222)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 223)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 224)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 225)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 226)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 227)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 228)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 229)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 230)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 231)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 232)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 233)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 234)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 235)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 236)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 237)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 238)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 239)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 240)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 241)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 242)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 243)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 244)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 245)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 246)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 247)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 248)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 249)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 250)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 251)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 252)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 253)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 254)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 255)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 256)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 257)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 258)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 259)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 260)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 261)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 262)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 263)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 264)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 265)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 266)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 267)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 268)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 269)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 270)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 271)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 272)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 273)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 274)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 275)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 276)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 277)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 278)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 279)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 280)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 281)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 282)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 283)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 284)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 285)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 286)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 287)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 288)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 289)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 290)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 291)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 292)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 293)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 294)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 295)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 296)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 297)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 298)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 299)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 300)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 301)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 302)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 303)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 304)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 305)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 306)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 307)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 308)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 309)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 310)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 311)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 312)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 313)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 314)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 315)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 316)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 317)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 318)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 319)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 320)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 321)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 322)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 323)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 324)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 325)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 326)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 327)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 328)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 329)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 330)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 331)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 332)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 333)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 334)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 335)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 336)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 337)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 338)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 339)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 340)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 341)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 342)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 343)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 344)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 345)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 346)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 347)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 348)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 349)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 350)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 351)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 352)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 353)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 354)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 355)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 356)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 357)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 358)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 359)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 360)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 361)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 362)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 363)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 364)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 365)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 366)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 367)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 368)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 369)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 370)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 371)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 372)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 373)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 374)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 375)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 376)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 377)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 378)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 379)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 380)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 381)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 382)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 383)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 384)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 385)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 386)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 387)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 388)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 389)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 390)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 391)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 392)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 393)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 394)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 395)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 396)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 397)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 398)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 399)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 400)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 401)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 402)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 403)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 404)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 405)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 406)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 407)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 408)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 409)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 410)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 411)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 412)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 413)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 414)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 415)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 416)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 417)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 418)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 419)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 420)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 421)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 422)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 423)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 424)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 425)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 426)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 427)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 428)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 429)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 430)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 431)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 432)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 433)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 434)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 435)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 436)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 437)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 438)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 439)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 440)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 441)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 442)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 443)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 444)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 445)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 446)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 447)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 448)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 449)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 450)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 451)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 452)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 453)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 454)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 455)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 456)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 457)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 458)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 459)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 460)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 461)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 462)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 463)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 464)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 465)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 466)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 467)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 468)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 469)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 470)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 471)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 472)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 473)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 474)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 475)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 476)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 477)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 478)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 479)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 480)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 481)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 482)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 483)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 484)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 485)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 486)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 487)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 488)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 489)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 490)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 491)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 492)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 493)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 494)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 495)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 496)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 497)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 498)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 499)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  },
+  {
+    "question": "She is the ___ student in our class. (Dạng ôn tập 500)",
+    "options": [
+      "as intelligent",
+      "intelligent",
+      "more intelligent",
+      "most intelligent"
+    ],
+    "correct": 3,
+    "explain": "So sánh nhất của tính từ dài dùng 'the most + Adj'."
+  }
+]

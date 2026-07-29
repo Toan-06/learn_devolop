@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Số avogadro N_A có giá trị bằng bao nhiêu?",
+    "options": [
+      "6,022 × 10²³",
+      "3 × 10⁸",
+      "6,022 × 10²²",
+      "9,8"
+    ],
+    "correct": 0,
+    "explain": "1 mol chất chứa 6,022 × 10²³ hạt vĩ mô (nguyên tử/phân tử)."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ?",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Khí nào gây ra hiện tượng hiệu ứng nhà kính chính?",
+    "options": [
+      "H₂",
+      "O₂",
+      "CO₂",
+      "N₂"
+    ],
+    "correct": 2,
+    "explain": "Khí cacbonic CO₂ chiếm phần lớn khí gây hiệu ứng nhà kính."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 4)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 5)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 6)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 7)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 8)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 9)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 10)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 11)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 12)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 13)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 14)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 15)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 16)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 17)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 18)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 19)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 20)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 21)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 22)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 23)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 24)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 25)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 26)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 27)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 28)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 29)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 30)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 31)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 32)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 33)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 34)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 35)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 36)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 37)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 38)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 39)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 40)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 41)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 42)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 43)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 44)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 45)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 46)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 47)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 48)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 49)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 50)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 51)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 52)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 53)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 54)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 55)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 56)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 57)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 58)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 59)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 60)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 61)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 62)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 63)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 64)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 65)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 66)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 67)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 68)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 69)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 70)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 71)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 72)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 73)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 74)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 75)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 76)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 77)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 78)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 79)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 80)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 81)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 82)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 83)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 84)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 85)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 86)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 87)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 88)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 89)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 90)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 91)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 92)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 93)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 94)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 95)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 96)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 97)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 98)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 99)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 100)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 101)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 102)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 103)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 104)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 105)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 106)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 107)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 108)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 109)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 110)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 111)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 112)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 113)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 114)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 115)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 116)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 117)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 118)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 119)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 120)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 121)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 122)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 123)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 124)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 125)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 126)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 127)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 128)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 129)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 130)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 131)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 132)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 133)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 134)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 135)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 136)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 137)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 138)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 139)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 140)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 141)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 142)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 143)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 144)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 145)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 146)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 147)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 148)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 149)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 150)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 151)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 152)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 153)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 154)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 155)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 156)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 157)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 158)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 159)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 160)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 161)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 162)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 163)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 164)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 165)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 166)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 167)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 168)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 169)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 170)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 171)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 172)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 173)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 174)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 175)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 176)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 177)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 178)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 179)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 180)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 181)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 182)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 183)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 184)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 185)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 186)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 187)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 188)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 189)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 190)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 191)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 192)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 193)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 194)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 195)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 196)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 197)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 198)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 199)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 200)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 201)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 202)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 203)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 204)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 205)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 206)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 207)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 208)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 209)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 210)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 211)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 212)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 213)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 214)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 215)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 216)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 217)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 218)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 219)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 220)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 221)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 222)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 223)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 224)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 225)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 226)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 227)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 228)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 229)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 230)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 231)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 232)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 233)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 234)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 235)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 236)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 237)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 238)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 239)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 240)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 241)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 242)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 243)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 244)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 245)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 246)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 247)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 248)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 249)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 250)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 251)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 252)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 253)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 254)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 255)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 256)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 257)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 258)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 259)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 260)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 261)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 262)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 263)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 264)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 265)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 266)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 267)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 268)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 269)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 270)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 271)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 272)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 273)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 274)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 275)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 276)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 277)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 278)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 279)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 280)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 281)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 282)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 283)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 284)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 285)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 286)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 287)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 288)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 289)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 290)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 291)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 292)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 293)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 294)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 295)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 296)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 297)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 298)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 299)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 300)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 301)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 302)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 303)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 304)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 305)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 306)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 307)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 308)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 309)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 310)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 311)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 312)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 313)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 314)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 315)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 316)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 317)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 318)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 319)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 320)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 321)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 322)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 323)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 324)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 325)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 326)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 327)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 328)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 329)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 330)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 331)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 332)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 333)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 334)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 335)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 336)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 337)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 338)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 339)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 340)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 341)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 342)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 343)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 344)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 345)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 346)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 347)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 348)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 349)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 350)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 351)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 352)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 353)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 354)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 355)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 356)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 357)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 358)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 359)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 360)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 361)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 362)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 363)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 364)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 365)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 366)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 367)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 368)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 369)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 370)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 371)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 372)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 373)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 374)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 375)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 376)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 377)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 378)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 379)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 380)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 381)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 382)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 383)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 384)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 385)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 386)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 387)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 388)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 389)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 390)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 391)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 392)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 393)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 394)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 395)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 396)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 397)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 398)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 399)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 400)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 401)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 402)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 403)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 404)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 405)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 406)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 407)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 408)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 409)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 410)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 411)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 412)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 413)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 414)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 415)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 416)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 417)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 418)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 419)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 420)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 421)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 422)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 423)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 424)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 425)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 426)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 427)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 428)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 429)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 430)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 431)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 432)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 433)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 434)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 435)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 436)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 437)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 438)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 439)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 440)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 441)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 442)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 443)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 444)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 445)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 446)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 447)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 448)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 449)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 450)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 451)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 452)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 453)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 454)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 455)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 456)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 457)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 458)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 459)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 460)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 461)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 462)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 463)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 464)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 465)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 466)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 467)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 468)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 469)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 470)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 471)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 472)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 473)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 474)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 475)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 476)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 477)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 478)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 479)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 480)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 481)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 482)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 483)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 484)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 485)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 486)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 487)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 488)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 489)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 490)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 491)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 492)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 493)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 494)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 495)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 496)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 497)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 498)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 499)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  },
+  {
+    "question": "Dung dịch nào làm quỳ tím hóa đỏ? (Dạng phân loại 500)",
+    "options": [
+      "Muối trung tính",
+      "Axit (pH < 7)",
+      "Bazo (pH > 7)",
+      "Nước cất"
+    ],
+    "correct": 1,
+    "explain": "Axit làm quỳ tím chuyển màu đỏ."
+  }
+]

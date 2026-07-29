@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Tính: 1/12 + 2/12 = ?",
+    "options": [
+      "3/12",
+      "3/24",
+      "2/12",
+      "4/12"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 2 = 3/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ?",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 4/12 = ?",
+    "options": [
+      "5/6",
+      "5/12",
+      "5/24",
+      "6/12"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 4 = 5/12."
+  },
+  {
+    "question": "Tính: 1/12 + 5/12 = ?",
+    "options": [
+      "6/24",
+      "7/12",
+      "6/6",
+      "6/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 5 = 6/12."
+  },
+  {
+    "question": "Tính: 1/12 + 6/12 = ?",
+    "options": [
+      "8/12",
+      "7/12",
+      "6/12",
+      "7/6"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 6 = 7/12."
+  },
+  {
+    "question": "Tính: 1/12 + 7/12 = ?",
+    "options": [
+      "9/12",
+      "8/12",
+      "7/12",
+      "8/24"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 7 = 8/12."
+  },
+  {
+    "question": "Tính: 1/12 + 8/12 = ?",
+    "options": [
+      "8/12",
+      "10/12",
+      "9/12",
+      "9/24"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 8 = 9/12."
+  },
+  {
+    "question": "Tính: 1/12 + 9/12 = ?",
+    "options": [
+      "10/12",
+      "10/24",
+      "11/12",
+      "10/6"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 9 = 10/12."
+  },
+  {
+    "question": "Tính: 2/12 + 1/12 = ?",
+    "options": [
+      "3/24",
+      "3/6",
+      "2/12",
+      "3/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 1 = 3/12."
+  },
+  {
+    "question": "Tính: 2/12 + 3/12 = ?",
+    "options": [
+      "6/12",
+      "5/24",
+      "5/6",
+      "5/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 3 = 5/12."
+  },
+  {
+    "question": "Tính: 2/12 + 4/12 = ?",
+    "options": [
+      "6/24",
+      "6/12",
+      "6/6",
+      "7/12"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 4 = 6/12."
+  },
+  {
+    "question": "Tính: 2/12 + 5/12 = ?",
+    "options": [
+      "7/12",
+      "7/24",
+      "7/6",
+      "6/12"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 5 = 7/12."
+  },
+  {
+    "question": "Tính: 2/12 + 6/12 = ?",
+    "options": [
+      "8/6",
+      "8/12",
+      "8/24",
+      "7/12"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 6 = 8/12."
+  },
+  {
+    "question": "Tính: 2/12 + 7/12 = ?",
+    "options": [
+      "10/12",
+      "8/12",
+      "9/24",
+      "9/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 7 = 9/12."
+  },
+  {
+    "question": "Tính: 2/12 + 8/12 = ?",
+    "options": [
+      "11/12",
+      "10/12",
+      "9/12",
+      "10/24"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 8 = 10/12."
+  },
+  {
+    "question": "Tính: 2/12 + 9/12 = ?",
+    "options": [
+      "12/12",
+      "11/24",
+      "11/6",
+      "11/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 9 = 11/12."
+  },
+  {
+    "question": "Tính: 3/12 + 1/12 = ?",
+    "options": [
+      "4/24",
+      "5/12",
+      "3/12",
+      "4/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 1 = 4/12."
+  },
+  {
+    "question": "Tính: 3/12 + 2/12 = ?",
+    "options": [
+      "4/12",
+      "5/6",
+      "5/24",
+      "5/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 2 = 5/12."
+  },
+  {
+    "question": "Tính: 3/12 + 4/12 = ?",
+    "options": [
+      "6/12",
+      "7/6",
+      "8/12",
+      "7/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 4 = 7/12."
+  },
+  {
+    "question": "Tính: 3/12 + 5/12 = ?",
+    "options": [
+      "8/6",
+      "8/24",
+      "8/12",
+      "7/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 5 = 8/12."
+  },
+  {
+    "question": "Tính: 3/12 + 6/12 = ?",
+    "options": [
+      "9/12",
+      "8/12",
+      "9/24",
+      "10/12"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 6 = 9/12."
+  },
+  {
+    "question": "Tính: 3/12 + 7/12 = ?",
+    "options": [
+      "10/12",
+      "10/24",
+      "11/12",
+      "10/6"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 7 = 10/12."
+  },
+  {
+    "question": "Tính: 3/12 + 8/12 = ?",
+    "options": [
+      "10/12",
+      "11/24",
+      "11/12",
+      "12/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 8 = 11/12."
+  },
+  {
+    "question": "Tính: 3/12 + 9/12 = ?",
+    "options": [
+      "12/12",
+      "13/12",
+      "12/24",
+      "12/6"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 9 = 12/12."
+  },
+  {
+    "question": "Tính: 4/12 + 1/12 = ?",
+    "options": [
+      "4/12",
+      "5/12",
+      "6/12",
+      "5/24"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 1 = 5/12."
+  },
+  {
+    "question": "Tính: 4/12 + 2/12 = ?",
+    "options": [
+      "6/24",
+      "6/6",
+      "5/12",
+      "6/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 2 = 6/12."
+  },
+  {
+    "question": "Tính: 4/12 + 3/12 = ?",
+    "options": [
+      "7/6",
+      "6/12",
+      "7/24",
+      "7/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 3 = 7/12."
+  },
+  {
+    "question": "Tính: 4/12 + 5/12 = ?",
+    "options": [
+      "9/12",
+      "9/24",
+      "8/12",
+      "9/6"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 5 = 9/12."
+  },
+  {
+    "question": "Tính: 4/12 + 6/12 = ?",
+    "options": [
+      "10/24",
+      "10/6",
+      "11/12",
+      "10/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 6 = 10/12."
+  },
+  {
+    "question": "Tính: 4/12 + 7/12 = ?",
+    "options": [
+      "11/12",
+      "12/12",
+      "11/6",
+      "11/24"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 7 = 11/12."
+  },
+  {
+    "question": "Tính: 4/12 + 8/12 = ?",
+    "options": [
+      "12/6",
+      "12/12",
+      "13/12",
+      "12/24"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 8 = 12/12."
+  },
+  {
+    "question": "Tính: 4/12 + 9/12 = ?",
+    "options": [
+      "13/24",
+      "13/6",
+      "13/12",
+      "14/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 9 = 13/12."
+  },
+  {
+    "question": "Tính: 5/12 + 1/12 = ?",
+    "options": [
+      "6/12",
+      "5/12",
+      "7/12",
+      "6/24"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 1 = 6/12."
+  },
+  {
+    "question": "Tính: 5/12 + 2/12 = ?",
+    "options": [
+      "7/6",
+      "7/12",
+      "7/24",
+      "6/12"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 2 = 7/12."
+  },
+  {
+    "question": "Tính: 5/12 + 3/12 = ?",
+    "options": [
+      "8/12",
+      "7/12",
+      "8/24",
+      "8/6"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 3 = 8/12."
+  },
+  {
+    "question": "Tính: 5/12 + 4/12 = ?",
+    "options": [
+      "9/24",
+      "10/12",
+      "8/12",
+      "9/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 4 = 9/12."
+  },
+  {
+    "question": "Tính: 5/12 + 6/12 = ?",
+    "options": [
+      "11/24",
+      "10/12",
+      "12/12",
+      "11/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 6 = 11/12."
+  },
+  {
+    "question": "Tính: 5/12 + 7/12 = ?",
+    "options": [
+      "11/12",
+      "13/12",
+      "12/12",
+      "12/24"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 7 = 12/12."
+  },
+  {
+    "question": "Tính: 5/12 + 8/12 = ?",
+    "options": [
+      "12/12",
+      "13/6",
+      "14/12",
+      "13/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 8 = 13/12."
+  },
+  {
+    "question": "Tính: 5/12 + 9/12 = ?",
+    "options": [
+      "13/12",
+      "14/12",
+      "14/6",
+      "14/24"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 9 = 14/12."
+  },
+  {
+    "question": "Tính: 6/12 + 1/12 = ?",
+    "options": [
+      "7/6",
+      "8/12",
+      "6/12",
+      "7/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 1 = 7/12."
+  },
+  {
+    "question": "Tính: 6/12 + 2/12 = ?",
+    "options": [
+      "8/12",
+      "8/24",
+      "8/6",
+      "9/12"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 2 = 8/12."
+  },
+  {
+    "question": "Tính: 6/12 + 3/12 = ?",
+    "options": [
+      "9/6",
+      "10/12",
+      "9/24",
+      "9/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 3 = 9/12."
+  },
+  {
+    "question": "Tính: 6/12 + 4/12 = ?",
+    "options": [
+      "10/12",
+      "10/6",
+      "11/12",
+      "9/12"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 4 = 10/12."
+  },
+  {
+    "question": "Tính: 6/12 + 5/12 = ?",
+    "options": [
+      "12/12",
+      "10/12",
+      "11/24",
+      "11/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 5 = 11/12."
+  },
+  {
+    "question": "Tính: 6/12 + 7/12 = ?",
+    "options": [
+      "13/6",
+      "13/24",
+      "13/12",
+      "14/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 7 = 13/12."
+  },
+  {
+    "question": "Tính: 6/12 + 8/12 = ?",
+    "options": [
+      "14/24",
+      "13/12",
+      "14/12",
+      "15/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 8 = 14/12."
+  },
+  {
+    "question": "Tính: 6/12 + 9/12 = ?",
+    "options": [
+      "16/12",
+      "15/6",
+      "15/24",
+      "15/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 9 = 15/12."
+  },
+  {
+    "question": "Tính: 7/12 + 1/12 = ?",
+    "options": [
+      "8/6",
+      "7/12",
+      "8/12",
+      "8/24"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 1 = 8/12."
+  },
+  {
+    "question": "Tính: 7/12 + 2/12 = ?",
+    "options": [
+      "9/12",
+      "9/24",
+      "9/6",
+      "10/12"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 2 = 9/12."
+  },
+  {
+    "question": "Tính: 7/12 + 3/12 = ?",
+    "options": [
+      "10/24",
+      "9/12",
+      "10/12",
+      "11/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 3 = 10/12."
+  },
+  {
+    "question": "Tính: 7/12 + 4/12 = ?",
+    "options": [
+      "12/12",
+      "10/12",
+      "11/6",
+      "11/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 4 = 11/12."
+  },
+  {
+    "question": "Tính: 7/12 + 5/12 = ?",
+    "options": [
+      "12/24",
+      "12/6",
+      "11/12",
+      "12/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 5 = 12/12."
+  },
+  {
+    "question": "Tính: 7/12 + 6/12 = ?",
+    "options": [
+      "13/24",
+      "14/12",
+      "12/12",
+      "13/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 6 = 13/12."
+  },
+  {
+    "question": "Tính: 7/12 + 8/12 = ?",
+    "options": [
+      "16/12",
+      "15/12",
+      "15/6",
+      "15/24"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 8 = 15/12."
+  },
+  {
+    "question": "Tính: 7/12 + 9/12 = ?",
+    "options": [
+      "15/12",
+      "16/12",
+      "16/24",
+      "16/6"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 9 = 16/12."
+  },
+  {
+    "question": "Tính: 8/12 + 1/12 = ?",
+    "options": [
+      "10/12",
+      "9/24",
+      "8/12",
+      "9/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 1 = 9/12."
+  },
+  {
+    "question": "Tính: 8/12 + 2/12 = ?",
+    "options": [
+      "10/6",
+      "10/12",
+      "9/12",
+      "11/12"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 2 = 10/12."
+  },
+  {
+    "question": "Tính: 8/12 + 3/12 = ?",
+    "options": [
+      "11/6",
+      "10/12",
+      "11/12",
+      "12/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 3 = 11/12."
+  },
+  {
+    "question": "Tính: 8/12 + 4/12 = ?",
+    "options": [
+      "11/12",
+      "12/12",
+      "13/12",
+      "12/6"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 4 = 12/12."
+  },
+  {
+    "question": "Tính: 8/12 + 5/12 = ?",
+    "options": [
+      "13/6",
+      "13/24",
+      "13/12",
+      "14/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 5 = 13/12."
+  },
+  {
+    "question": "Tính: 8/12 + 6/12 = ?",
+    "options": [
+      "13/12",
+      "14/12",
+      "14/6",
+      "15/12"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 6 = 14/12."
+  },
+  {
+    "question": "Tính: 8/12 + 7/12 = ?",
+    "options": [
+      "14/12",
+      "15/12",
+      "15/24",
+      "15/6"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 7 = 15/12."
+  },
+  {
+    "question": "Tính: 8/12 + 9/12 = ?",
+    "options": [
+      "17/24",
+      "17/6",
+      "17/12",
+      "18/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 9 = 17/12."
+  },
+  {
+    "question": "Tính: 9/12 + 1/12 = ?",
+    "options": [
+      "10/6",
+      "11/12",
+      "10/24",
+      "10/12"
+    ],
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 1 = 10/12."
+  },
+  {
+    "question": "Tính: 9/12 + 2/12 = ?",
+    "options": [
+      "11/24",
+      "11/6",
+      "11/12",
+      "12/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 2 = 11/12."
+  },
+  {
+    "question": "Tính: 9/12 + 3/12 = ?",
+    "options": [
+      "12/12",
+      "12/24",
+      "13/12",
+      "11/12"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 3 = 12/12."
+  },
+  {
+    "question": "Tính: 9/12 + 4/12 = ?",
+    "options": [
+      "12/12",
+      "13/12",
+      "14/12",
+      "13/6"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 4 = 13/12."
+  },
+  {
+    "question": "Tính: 9/12 + 5/12 = ?",
+    "options": [
+      "15/12",
+      "14/12",
+      "13/12",
+      "14/6"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 5 = 14/12."
+  },
+  {
+    "question": "Tính: 9/12 + 6/12 = ?",
+    "options": [
+      "16/12",
+      "15/12",
+      "15/6",
+      "14/12"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 6 = 15/12."
+  },
+  {
+    "question": "Tính: 9/12 + 7/12 = ?",
+    "options": [
+      "16/24",
+      "16/12",
+      "15/12",
+      "16/6"
+    ],
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 7 = 16/12."
+  },
+  {
+    "question": "Tính: 9/12 + 8/12 = ?",
+    "options": [
+      "17/12",
+      "16/12",
+      "18/12",
+      "17/6"
+    ],
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 8 = 17/12."
+  },
+  {
+    "question": "Trung bình cộng của hai số 10 và 10 là:",
+    "options": [
+      "8",
+      "10",
+      "15",
+      "12"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (10 + 10) : 2 = 20 : 2 = 10."
+  },
+  {
+    "question": "Trung bình cộng của hai số 10 và 15 là:",
+    "options": [
+      "7",
+      "10",
+      "14",
+      "12"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (10 + 15) : 2 = 25 : 2 = 12."
+  },
+  {
+    "question": "Trung bình cộng của hai số 10 và 20 là:",
+    "options": [
+      "17",
+      "13",
+      "10",
+      "15"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (10 + 20) : 2 = 30 : 2 = 15."
+  },
+  {
+    "question": "Trung bình cộng của hai số 10 và 25 là:",
+    "options": [
+      "19",
+      "17",
+      "12",
+      "22"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (10 + 25) : 2 = 35 : 2 = 17."
+  },
+  {
+    "question": "Trung bình cộng của hai số 10 và 30 là:",
+    "options": [
+      "25",
+      "15",
+      "20",
+      "22"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (10 + 30) : 2 = 40 : 2 = 20."
+  },
+  {
+    "question": "Trung bình cộng của hai số 10 và 35 là:",
+    "options": [
+      "22",
+      "20",
+      "17",
+      "24"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (10 + 35) : 2 = 45 : 2 = 22."
+  },
+  {
+    "question": "Trung bình cộng của hai số 10 và 40 là:",
+    "options": [
+      "23",
+      "25",
+      "20",
+      "27"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (10 + 40) : 2 = 50 : 2 = 25."
+  },
+  {
+    "question": "Trung bình cộng của hai số 10 và 45 là:",
+    "options": [
+      "27",
+      "25",
+      "22",
+      "29"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (10 + 45) : 2 = 55 : 2 = 27."
+  },
+  {
+    "question": "Trung bình cộng của hai số 15 và 10 là:",
+    "options": [
+      "12",
+      "14",
+      "7",
+      "17"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (15 + 10) : 2 = 25 : 2 = 12."
+  },
+  {
+    "question": "Trung bình cộng của hai số 15 và 15 là:",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "17"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (15 + 15) : 2 = 30 : 2 = 15."
+  },
+  {
+    "question": "Trung bình cộng của hai số 15 và 20 là:",
+    "options": [
+      "17",
+      "12",
+      "15",
+      "19"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (15 + 20) : 2 = 35 : 2 = 17."
+  },
+  {
+    "question": "Trung bình cộng của hai số 15 và 25 là:",
+    "options": [
+      "15",
+      "22",
+      "18",
+      "20"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (15 + 25) : 2 = 40 : 2 = 20."
+  },
+  {
+    "question": "Trung bình cộng của hai số 15 và 30 là:",
+    "options": [
+      "24",
+      "22",
+      "20",
+      "27"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (15 + 30) : 2 = 45 : 2 = 22."
+  },
+  {
+    "question": "Trung bình cộng của hai số 15 và 35 là:",
+    "options": [
+      "23",
+      "30",
+      "20",
+      "25"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (15 + 35) : 2 = 50 : 2 = 25."
+  },
+  {
+    "question": "Trung bình cộng của hai số 15 và 40 là:",
+    "options": [
+      "32",
+      "27",
+      "29",
+      "22"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (15 + 40) : 2 = 55 : 2 = 27."
+  },
+  {
+    "question": "Trung bình cộng của hai số 15 và 45 là:",
+    "options": [
+      "32",
+      "30",
+      "28",
+      "25"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (15 + 45) : 2 = 60 : 2 = 30."
+  },
+  {
+    "question": "Trung bình cộng của hai số 20 và 10 là:",
+    "options": [
+      "17",
+      "20",
+      "15",
+      "13"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (20 + 10) : 2 = 30 : 2 = 15."
+  },
+  {
+    "question": "Trung bình cộng của hai số 20 và 15 là:",
+    "options": [
+      "22",
+      "12",
+      "19",
+      "17"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (20 + 15) : 2 = 35 : 2 = 17."
+  },
+  {
+    "question": "Trung bình cộng của hai số 20 và 20 là:",
+    "options": [
+      "22",
+      "18",
+      "20",
+      "25"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (20 + 20) : 2 = 40 : 2 = 20."
+  },
+  {
+    "question": "Trung bình cộng của hai số 20 và 25 là:",
+    "options": [
+      "17",
+      "27",
+      "20",
+      "22"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (20 + 25) : 2 = 45 : 2 = 22."
+  },
+  {
+    "question": "Trung bình cộng của hai số 20 và 30 là:",
+    "options": [
+      "30",
+      "20",
+      "25",
+      "23"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (20 + 30) : 2 = 50 : 2 = 25."
+  },
+  {
+    "question": "Trung bình cộng của hai số 20 và 35 là:",
+    "options": [
+      "25",
+      "29",
+      "27",
+      "22"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (20 + 35) : 2 = 55 : 2 = 27."
+  },
+  {
+    "question": "Trung bình cộng của hai số 20 và 40 là:",
+    "options": [
+      "32",
+      "28",
+      "30",
+      "25"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (20 + 40) : 2 = 60 : 2 = 30."
+  },
+  {
+    "question": "Trung bình cộng của hai số 20 và 45 là:",
+    "options": [
+      "27",
+      "30",
+      "37",
+      "32"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (20 + 45) : 2 = 65 : 2 = 32."
+  },
+  {
+    "question": "Trung bình cộng của hai số 25 và 10 là:",
+    "options": [
+      "17",
+      "12",
+      "15",
+      "22"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (25 + 10) : 2 = 35 : 2 = 17."
+  },
+  {
+    "question": "Trung bình cộng của hai số 25 và 15 là:",
+    "options": [
+      "25",
+      "20",
+      "18",
+      "22"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (25 + 15) : 2 = 40 : 2 = 20."
+  },
+  {
+    "question": "Trung bình cộng của hai số 25 và 20 là:",
+    "options": [
+      "20",
+      "27",
+      "17",
+      "22"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (25 + 20) : 2 = 45 : 2 = 22."
+  },
+  {
+    "question": "Trung bình cộng của hai số 25 và 25 là:",
+    "options": [
+      "20",
+      "25",
+      "27",
+      "23"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (25 + 25) : 2 = 50 : 2 = 25."
+  },
+  {
+    "question": "Trung bình cộng của hai số 25 và 30 là:",
+    "options": [
+      "27",
+      "29",
+      "32",
+      "25"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (25 + 30) : 2 = 55 : 2 = 27."
+  },
+  {
+    "question": "Trung bình cộng của hai số 25 và 35 là:",
+    "options": [
+      "32",
+      "28",
+      "35",
+      "30"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (25 + 35) : 2 = 60 : 2 = 30."
+  },
+  {
+    "question": "Trung bình cộng của hai số 25 và 40 là:",
+    "options": [
+      "32",
+      "37",
+      "34",
+      "27"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (25 + 40) : 2 = 65 : 2 = 32."
+  },
+  {
+    "question": "Trung bình cộng của hai số 25 và 45 là:",
+    "options": [
+      "40",
+      "37",
+      "33",
+      "35"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (25 + 45) : 2 = 70 : 2 = 35."
+  },
+  {
+    "question": "Trung bình cộng của hai số 30 và 10 là:",
+    "options": [
+      "20",
+      "18",
+      "22",
+      "25"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (30 + 10) : 2 = 40 : 2 = 20."
+  },
+  {
+    "question": "Trung bình cộng của hai số 30 và 15 là:",
+    "options": [
+      "24",
+      "27",
+      "17",
+      "22"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (30 + 15) : 2 = 45 : 2 = 22."
+  },
+  {
+    "question": "Trung bình cộng của hai số 30 và 20 là:",
+    "options": [
+      "20",
+      "23",
+      "25",
+      "27"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (30 + 20) : 2 = 50 : 2 = 25."
+  },
+  {
+    "question": "Trung bình cộng của hai số 30 và 25 là:",
+    "options": [
+      "22",
+      "32",
+      "27",
+      "25"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (30 + 25) : 2 = 55 : 2 = 27."
+  },
+  {
+    "question": "Trung bình cộng của hai số 30 và 30 là:",
+    "options": [
+      "28",
+      "25",
+      "30",
+      "32"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (30 + 30) : 2 = 60 : 2 = 30."
+  },
+  {
+    "question": "Trung bình cộng của hai số 30 và 35 là:",
+    "options": [
+      "30",
+      "37",
+      "32",
+      "34"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (30 + 35) : 2 = 65 : 2 = 32."
+  },
+  {
+    "question": "Trung bình cộng của hai số 30 và 40 là:",
+    "options": [
+      "35",
+      "30",
+      "40",
+      "33"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (30 + 40) : 2 = 70 : 2 = 35."
+  },
+  {
+    "question": "Trung bình cộng của hai số 30 và 45 là:",
+    "options": [
+      "32",
+      "37",
+      "42",
+      "35"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (30 + 45) : 2 = 75 : 2 = 37."
+  },
+  {
+    "question": "Trung bình cộng của hai số 35 và 10 là:",
+    "options": [
+      "17",
+      "27",
+      "20",
+      "22"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (35 + 10) : 2 = 45 : 2 = 22."
+  },
+  {
+    "question": "Trung bình cộng của hai số 35 và 15 là:",
+    "options": [
+      "20",
+      "23",
+      "27",
+      "25"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (35 + 15) : 2 = 50 : 2 = 25."
+  },
+  {
+    "question": "Trung bình cộng của hai số 35 và 20 là:",
+    "options": [
+      "27",
+      "29",
+      "25",
+      "32"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (35 + 20) : 2 = 55 : 2 = 27."
+  },
+  {
+    "question": "Trung bình cộng của hai số 35 và 25 là:",
+    "options": [
+      "32",
+      "30",
+      "25",
+      "28"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (35 + 25) : 2 = 60 : 2 = 30."
+  },
+  {
+    "question": "Trung bình cộng của hai số 35 và 30 là:",
+    "options": [
+      "30",
+      "32",
+      "37",
+      "27"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (35 + 30) : 2 = 65 : 2 = 32."
+  },
+  {
+    "question": "Trung bình cộng của hai số 35 và 35 là:",
+    "options": [
+      "30",
+      "37",
+      "33",
+      "35"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (35 + 35) : 2 = 70 : 2 = 35."
+  },
+  {
+    "question": "Trung bình cộng của hai số 35 và 40 là:",
+    "options": [
+      "39",
+      "32",
+      "42",
+      "37"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (35 + 40) : 2 = 75 : 2 = 37."
+  },
+  {
+    "question": "Trung bình cộng của hai số 35 và 45 là:",
+    "options": [
+      "40",
+      "38",
+      "35",
+      "45"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (35 + 45) : 2 = 80 : 2 = 40."
+  },
+  {
+    "question": "Trung bình cộng của hai số 40 và 10 là:",
+    "options": [
+      "23",
+      "30",
+      "27",
+      "25"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (40 + 10) : 2 = 50 : 2 = 25."
+  },
+  {
+    "question": "Trung bình cộng của hai số 40 và 15 là:",
+    "options": [
+      "25",
+      "27",
+      "22",
+      "32"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (40 + 15) : 2 = 55 : 2 = 27."
+  },
+  {
+    "question": "Trung bình cộng của hai số 40 và 20 là:",
+    "options": [
+      "30",
+      "28",
+      "32",
+      "25"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (40 + 20) : 2 = 60 : 2 = 30."
+  },
+  {
+    "question": "Trung bình cộng của hai số 40 và 25 là:",
+    "options": [
+      "34",
+      "37",
+      "30",
+      "32"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (40 + 25) : 2 = 65 : 2 = 32."
+  },
+  {
+    "question": "Trung bình cộng của hai số 40 và 30 là:",
+    "options": [
+      "30",
+      "37",
+      "35",
+      "40"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (40 + 30) : 2 = 70 : 2 = 35."
+  },
+  {
+    "question": "Trung bình cộng của hai số 40 và 35 là:",
+    "options": [
+      "32",
+      "42",
+      "35",
+      "37"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (40 + 35) : 2 = 75 : 2 = 37."
+  },
+  {
+    "question": "Trung bình cộng của hai số 40 và 40 là:",
+    "options": [
+      "40",
+      "35",
+      "42",
+      "38"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (40 + 40) : 2 = 80 : 2 = 40."
+  },
+  {
+    "question": "Trung bình cộng của hai số 40 và 45 là:",
+    "options": [
+      "47",
+      "44",
+      "42",
+      "37"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (40 + 45) : 2 = 85 : 2 = 42."
+  },
+  {
+    "question": "Trung bình cộng của hai số 45 và 10 là:",
+    "options": [
+      "27",
+      "32",
+      "22",
+      "29"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (45 + 10) : 2 = 55 : 2 = 27."
+  },
+  {
+    "question": "Trung bình cộng của hai số 45 và 15 là:",
+    "options": [
+      "30",
+      "28",
+      "32",
+      "25"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (45 + 15) : 2 = 60 : 2 = 30."
+  },
+  {
+    "question": "Trung bình cộng của hai số 45 và 20 là:",
+    "options": [
+      "32",
+      "37",
+      "34",
+      "27"
+    ],
+    "correct": 0,
+    "explain": "Trung bình cộng = (45 + 20) : 2 = 65 : 2 = 32."
+  },
+  {
+    "question": "Trung bình cộng của hai số 45 và 25 là:",
+    "options": [
+      "37",
+      "35",
+      "33",
+      "30"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (45 + 25) : 2 = 70 : 2 = 35."
+  },
+  {
+    "question": "Trung bình cộng của hai số 45 và 30 là:",
+    "options": [
+      "35",
+      "42",
+      "32",
+      "37"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (45 + 30) : 2 = 75 : 2 = 37."
+  },
+  {
+    "question": "Trung bình cộng của hai số 45 và 35 là:",
+    "options": [
+      "42",
+      "40",
+      "45",
+      "38"
+    ],
+    "correct": 1,
+    "explain": "Trung bình cộng = (45 + 35) : 2 = 80 : 2 = 40."
+  },
+  {
+    "question": "Trung bình cộng của hai số 45 và 40 là:",
+    "options": [
+      "40",
+      "47",
+      "42",
+      "37"
+    ],
+    "correct": 2,
+    "explain": "Trung bình cộng = (45 + 40) : 2 = 85 : 2 = 42."
+  },
+  {
+    "question": "Trung bình cộng của hai số 45 và 45 là:",
+    "options": [
+      "43",
+      "40",
+      "50",
+      "45"
+    ],
+    "correct": 3,
+    "explain": "Trung bình cộng = (45 + 45) : 2 = 90 : 2 = 45."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 6 cm và chiều cao 4 cm là:",
+    "options": [
+      "18 cm²",
+      "24 cm²",
+      "26 cm²",
+      "30 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 6 × 4 = 24 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 6 cm và chiều cao 5 cm là:",
+    "options": [
+      "28 cm²",
+      "30 cm²",
+      "24 cm²",
+      "32 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 6 × 5 = 30 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 7 cm và chiều cao 4 cm là:",
+    "options": [
+      "28 cm²",
+      "30 cm²",
+      "35 cm²",
+      "26 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 7 × 4 = 28 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 7 cm và chiều cao 5 cm là:",
+    "options": [
+      "33 cm²",
+      "42 cm²",
+      "28 cm²",
+      "35 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 7 × 5 = 35 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 7 cm và chiều cao 6 cm là:",
+    "options": [
+      "42 cm²",
+      "49 cm²",
+      "44 cm²",
+      "40 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 7 × 6 = 42 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 8 cm và chiều cao 4 cm là:",
+    "options": [
+      "34 cm²",
+      "24 cm²",
+      "32 cm²",
+      "40 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 8 × 4 = 32 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 8 cm và chiều cao 5 cm là:",
+    "options": [
+      "42 cm²",
+      "40 cm²",
+      "32 cm²",
+      "48 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 8 × 5 = 40 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 8 cm và chiều cao 6 cm là:",
+    "options": [
+      "50 cm²",
+      "56 cm²",
+      "48 cm²",
+      "46 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 8 × 6 = 48 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 8 cm và chiều cao 7 cm là:",
+    "options": [
+      "58 cm²",
+      "54 cm²",
+      "56 cm²",
+      "64 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 8 × 7 = 56 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 9 cm và chiều cao 4 cm là:",
+    "options": [
+      "45 cm²",
+      "34 cm²",
+      "27 cm²",
+      "36 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 9 × 4 = 36 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 9 cm và chiều cao 5 cm là:",
+    "options": [
+      "54 cm²",
+      "43 cm²",
+      "47 cm²",
+      "45 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 9 × 5 = 45 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 9 cm và chiều cao 6 cm là:",
+    "options": [
+      "63 cm²",
+      "56 cm²",
+      "54 cm²",
+      "45 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 9 × 6 = 54 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 9 cm và chiều cao 7 cm là:",
+    "options": [
+      "63 cm²",
+      "61 cm²",
+      "54 cm²",
+      "72 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 9 × 7 = 63 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 9 cm và chiều cao 8 cm là:",
+    "options": [
+      "63 cm²",
+      "72 cm²",
+      "74 cm²",
+      "70 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 9 × 8 = 72 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 10 cm và chiều cao 4 cm là:",
+    "options": [
+      "40 cm²",
+      "42 cm²",
+      "50 cm²",
+      "38 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 10 × 4 = 40 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 10 cm và chiều cao 5 cm là:",
+    "options": [
+      "52 cm²",
+      "50 cm²",
+      "48 cm²",
+      "60 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 10 × 5 = 50 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 10 cm và chiều cao 6 cm là:",
+    "options": [
+      "60 cm²",
+      "62 cm²",
+      "58 cm²",
+      "70 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 10 × 6 = 60 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 10 cm và chiều cao 7 cm là:",
+    "options": [
+      "60 cm²",
+      "72 cm²",
+      "80 cm²",
+      "70 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 10 × 7 = 70 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 10 cm và chiều cao 8 cm là:",
+    "options": [
+      "90 cm²",
+      "78 cm²",
+      "80 cm²",
+      "82 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 10 × 8 = 80 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 10 cm và chiều cao 9 cm là:",
+    "options": [
+      "80 cm²",
+      "90 cm²",
+      "92 cm²",
+      "88 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 10 × 9 = 90 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 4 cm là:",
+    "options": [
+      "55 cm²",
+      "44 cm²",
+      "42 cm²",
+      "33 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 4 = 44 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 5 cm là:",
+    "options": [
+      "55 cm²",
+      "53 cm²",
+      "44 cm²",
+      "57 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 5 = 55 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 6 cm là:",
+    "options": [
+      "66 cm²",
+      "68 cm²",
+      "55 cm²",
+      "77 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 6 = 66 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 7 cm là:",
+    "options": [
+      "75 cm²",
+      "66 cm²",
+      "77 cm²",
+      "79 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 7 = 77 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 8 cm là:",
+    "options": [
+      "99 cm²",
+      "90 cm²",
+      "88 cm²",
+      "77 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 8 = 88 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 9 cm là:",
+    "options": [
+      "110 cm²",
+      "99 cm²",
+      "101 cm²",
+      "97 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 9 = 99 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 10 cm là:",
+    "options": [
+      "110 cm²",
+      "112 cm²",
+      "121 cm²",
+      "99 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 10 = 110 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 4 cm là:",
+    "options": [
+      "46 cm²",
+      "48 cm²",
+      "60 cm²",
+      "36 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 4 = 48 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 5 cm là:",
+    "options": [
+      "48 cm²",
+      "60 cm²",
+      "62 cm²",
+      "58 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 5 = 60 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 6 cm là:",
+    "options": [
+      "72 cm²",
+      "60 cm²",
+      "70 cm²",
+      "74 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 6 = 72 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 7 cm là:",
+    "options": [
+      "84 cm²",
+      "72 cm²",
+      "86 cm²",
+      "96 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 7 = 84 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 8 cm là:",
+    "options": [
+      "108 cm²",
+      "96 cm²",
+      "98 cm²",
+      "84 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 8 = 96 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 9 cm là:",
+    "options": [
+      "108 cm²",
+      "106 cm²",
+      "96 cm²",
+      "110 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 9 = 108 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 10 cm là:",
+    "options": [
+      "118 cm²",
+      "122 cm²",
+      "132 cm²",
+      "120 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 10 = 120 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 11 cm là:",
+    "options": [
+      "130 cm²",
+      "144 cm²",
+      "132 cm²",
+      "134 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 11 = 132 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 4 cm là:",
+    "options": [
+      "39 cm²",
+      "52 cm²",
+      "54 cm²",
+      "65 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 4 = 52 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 5 cm là:",
+    "options": [
+      "78 cm²",
+      "65 cm²",
+      "52 cm²",
+      "63 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 5 = 65 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 6 cm là:",
+    "options": [
+      "80 cm²",
+      "91 cm²",
+      "76 cm²",
+      "78 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 6 = 78 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 7 cm là:",
+    "options": [
+      "104 cm²",
+      "91 cm²",
+      "89 cm²",
+      "93 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 7 = 91 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 8 cm là:",
+    "options": [
+      "104 cm²",
+      "117 cm²",
+      "91 cm²",
+      "106 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 8 = 104 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 9 cm là:",
+    "options": [
+      "119 cm²",
+      "117 cm²",
+      "130 cm²",
+      "115 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 9 = 117 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 10 cm là:",
+    "options": [
+      "143 cm²",
+      "128 cm²",
+      "130 cm²",
+      "117 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 10 = 130 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 11 cm là:",
+    "options": [
+      "143 cm²",
+      "156 cm²",
+      "141 cm²",
+      "130 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 11 = 143 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 12 cm là:",
+    "options": [
+      "154 cm²",
+      "156 cm²",
+      "169 cm²",
+      "158 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 12 = 156 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 4 cm là:",
+    "options": [
+      "70 cm²",
+      "56 cm²",
+      "42 cm²",
+      "54 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 4 = 56 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 5 cm là:",
+    "options": [
+      "84 cm²",
+      "68 cm²",
+      "72 cm²",
+      "70 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 5 = 70 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 6 cm là:",
+    "options": [
+      "86 cm²",
+      "98 cm²",
+      "84 cm²",
+      "70 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 6 = 84 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 7 cm là:",
+    "options": [
+      "96 cm²",
+      "98 cm²",
+      "112 cm²",
+      "84 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 7 = 98 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 8 cm là:",
+    "options": [
+      "112 cm²",
+      "126 cm²",
+      "114 cm²",
+      "98 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 8 = 112 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 9 cm là:",
+    "options": [
+      "112 cm²",
+      "124 cm²",
+      "126 cm²",
+      "140 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 9 = 126 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 10 cm là:",
+    "options": [
+      "138 cm²",
+      "140 cm²",
+      "154 cm²",
+      "142 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 10 = 140 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 11 cm là:",
+    "options": [
+      "140 cm²",
+      "168 cm²",
+      "156 cm²",
+      "154 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 11 = 154 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 12 cm là:",
+    "options": [
+      "154 cm²",
+      "168 cm²",
+      "182 cm²",
+      "170 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 12 = 168 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 13 cm là:",
+    "options": [
+      "182 cm²",
+      "196 cm²",
+      "168 cm²",
+      "184 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 13 = 182 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 4 cm là:",
+    "options": [
+      "60 cm²",
+      "62 cm²",
+      "75 cm²",
+      "45 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 4 = 60 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 5 cm là:",
+    "options": [
+      "77 cm²",
+      "90 cm²",
+      "60 cm²",
+      "75 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 5 = 75 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 6 cm là:",
+    "options": [
+      "88 cm²",
+      "75 cm²",
+      "90 cm²",
+      "92 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 6 = 90 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 7 cm là:",
+    "options": [
+      "105 cm²",
+      "90 cm²",
+      "103 cm²",
+      "120 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 7 = 105 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 8 cm là:",
+    "options": [
+      "118 cm²",
+      "105 cm²",
+      "122 cm²",
+      "120 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 8 = 120 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 9 cm là:",
+    "options": [
+      "120 cm²",
+      "137 cm²",
+      "150 cm²",
+      "135 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 9 = 135 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 10 cm là:",
+    "options": [
+      "165 cm²",
+      "152 cm²",
+      "135 cm²",
+      "150 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 10 = 150 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 11 cm là:",
+    "options": [
+      "167 cm²",
+      "165 cm²",
+      "163 cm²",
+      "180 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 11 = 165 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 12 cm là:",
+    "options": [
+      "165 cm²",
+      "178 cm²",
+      "180 cm²",
+      "182 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 12 = 180 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 13 cm là:",
+    "options": [
+      "180 cm²",
+      "195 cm²",
+      "197 cm²",
+      "210 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 13 = 195 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 14 cm là:",
+    "options": [
+      "195 cm²",
+      "210 cm²",
+      "212 cm²",
+      "208 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 14 = 210 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 4 cm là:",
+    "options": [
+      "62 cm²",
+      "48 cm²",
+      "66 cm²",
+      "64 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 4 = 64 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 5 cm là:",
+    "options": [
+      "80 cm²",
+      "64 cm²",
+      "96 cm²",
+      "82 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 5 = 80 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 6 cm là:",
+    "options": [
+      "80 cm²",
+      "98 cm²",
+      "94 cm²",
+      "96 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 6 = 96 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 7 cm là:",
+    "options": [
+      "114 cm²",
+      "112 cm²",
+      "96 cm²",
+      "128 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 7 = 112 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 8 cm là:",
+    "options": [
+      "126 cm²",
+      "130 cm²",
+      "144 cm²",
+      "128 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 8 = 128 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 9 cm là:",
+    "options": [
+      "146 cm²",
+      "142 cm²",
+      "160 cm²",
+      "144 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 9 = 144 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 10 cm là:",
+    "options": [
+      "144 cm²",
+      "158 cm²",
+      "160 cm²",
+      "162 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 10 = 160 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 11 cm là:",
+    "options": [
+      "160 cm²",
+      "178 cm²",
+      "176 cm²",
+      "174 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 11 = 176 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 12 cm là:",
+    "options": [
+      "176 cm²",
+      "192 cm²",
+      "194 cm²",
+      "208 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 12 = 192 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 13 cm là:",
+    "options": [
+      "206 cm²",
+      "208 cm²",
+      "224 cm²",
+      "192 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 13 = 208 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 14 cm là:",
+    "options": [
+      "222 cm²",
+      "208 cm²",
+      "226 cm²",
+      "224 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 14 = 224 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 15 cm là:",
+    "options": [
+      "240 cm²",
+      "238 cm²",
+      "242 cm²",
+      "224 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 15 = 240 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 4 cm là:",
+    "options": [
+      "51 cm²",
+      "66 cm²",
+      "68 cm²",
+      "70 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 4 = 68 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 5 cm là:",
+    "options": [
+      "68 cm²",
+      "83 cm²",
+      "85 cm²",
+      "87 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 5 = 85 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 6 cm là:",
+    "options": [
+      "104 cm²",
+      "119 cm²",
+      "102 cm²",
+      "100 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 6 = 102 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 7 cm là:",
+    "options": [
+      "119 cm²",
+      "121 cm²",
+      "117 cm²",
+      "102 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 7 = 119 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 8 cm là:",
+    "options": [
+      "134 cm²",
+      "136 cm²",
+      "153 cm²",
+      "138 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 8 = 136 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 9 cm là:",
+    "options": [
+      "170 cm²",
+      "136 cm²",
+      "153 cm²",
+      "155 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 9 = 153 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 10 cm là:",
+    "options": [
+      "187 cm²",
+      "153 cm²",
+      "168 cm²",
+      "170 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 10 = 170 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 11 cm là:",
+    "options": [
+      "185 cm²",
+      "187 cm²",
+      "170 cm²",
+      "189 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 11 = 187 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 12 cm là:",
+    "options": [
+      "202 cm²",
+      "221 cm²",
+      "204 cm²",
+      "206 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 12 = 204 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 13 cm là:",
+    "options": [
+      "204 cm²",
+      "219 cm²",
+      "238 cm²",
+      "221 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 13 = 221 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 14 cm là:",
+    "options": [
+      "221 cm²",
+      "238 cm²",
+      "240 cm²",
+      "255 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 14 = 238 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 15 cm là:",
+    "options": [
+      "253 cm²",
+      "255 cm²",
+      "238 cm²",
+      "272 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 15 = 255 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 16 cm là:",
+    "options": [
+      "289 cm²",
+      "272 cm²",
+      "274 cm²",
+      "270 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 16 = 272 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 4 cm là:",
+    "options": [
+      "72 cm²",
+      "74 cm²",
+      "70 cm²",
+      "90 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 4 = 72 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 5 cm là:",
+    "options": [
+      "88 cm²",
+      "108 cm²",
+      "92 cm²",
+      "90 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 5 = 90 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 6 cm là:",
+    "options": [
+      "106 cm²",
+      "110 cm²",
+      "90 cm²",
+      "108 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 6 = 108 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 7 cm là:",
+    "options": [
+      "144 cm²",
+      "124 cm²",
+      "126 cm²",
+      "128 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 7 = 126 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 8 cm là:",
+    "options": [
+      "142 cm²",
+      "144 cm²",
+      "146 cm²",
+      "162 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 8 = 144 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 9 cm là:",
+    "options": [
+      "180 cm²",
+      "160 cm²",
+      "144 cm²",
+      "162 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 9 = 162 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 10 cm là:",
+    "options": [
+      "178 cm²",
+      "162 cm²",
+      "182 cm²",
+      "180 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 10 = 180 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 11 cm là:",
+    "options": [
+      "180 cm²",
+      "198 cm²",
+      "196 cm²",
+      "200 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 11 = 198 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 12 cm là:",
+    "options": [
+      "198 cm²",
+      "214 cm²",
+      "216 cm²",
+      "234 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 12 = 216 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 13 cm là:",
+    "options": [
+      "232 cm²",
+      "252 cm²",
+      "216 cm²",
+      "234 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 13 = 234 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 14 cm là:",
+    "options": [
+      "270 cm²",
+      "250 cm²",
+      "252 cm²",
+      "234 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 14 = 252 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 15 cm là:",
+    "options": [
+      "268 cm²",
+      "270 cm²",
+      "272 cm²",
+      "288 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 15 = 270 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 16 cm là:",
+    "options": [
+      "288 cm²",
+      "306 cm²",
+      "290 cm²",
+      "270 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 16 = 288 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 17 cm là:",
+    "options": [
+      "306 cm²",
+      "324 cm²",
+      "308 cm²",
+      "304 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 17 = 306 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 4 cm là:",
+    "options": [
+      "57 cm²",
+      "74 cm²",
+      "95 cm²",
+      "76 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 4 = 76 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 5 cm là:",
+    "options": [
+      "95 cm²",
+      "114 cm²",
+      "97 cm²",
+      "93 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 5 = 95 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 6 cm là:",
+    "options": [
+      "114 cm²",
+      "116 cm²",
+      "133 cm²",
+      "112 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 6 = 114 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 7 cm là:",
+    "options": [
+      "135 cm²",
+      "152 cm²",
+      "114 cm²",
+      "133 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 7 = 133 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 8 cm là:",
+    "options": [
+      "154 cm²",
+      "150 cm²",
+      "152 cm²",
+      "133 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 8 = 152 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 9 cm là:",
+    "options": [
+      "190 cm²",
+      "152 cm²",
+      "173 cm²",
+      "171 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 9 = 171 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 10 cm là:",
+    "options": [
+      "209 cm²",
+      "171 cm²",
+      "190 cm²",
+      "188 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 10 = 190 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 11 cm là:",
+    "options": [
+      "211 cm²",
+      "190 cm²",
+      "228 cm²",
+      "209 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 11 = 209 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 12 cm là:",
+    "options": [
+      "209 cm²",
+      "226 cm²",
+      "228 cm²",
+      "247 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 12 = 228 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 13 cm là:",
+    "options": [
+      "247 cm²",
+      "228 cm²",
+      "249 cm²",
+      "266 cm²"
+    ],
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 13 = 247 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 14 cm là:",
+    "options": [
+      "268 cm²",
+      "285 cm²",
+      "264 cm²",
+      "266 cm²"
+    ],
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 14 = 266 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 15 cm là:",
+    "options": [
+      "266 cm²",
+      "285 cm²",
+      "287 cm²",
+      "304 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 15 = 285 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 16 cm là:",
+    "options": [
+      "302 cm²",
+      "306 cm²",
+      "304 cm²",
+      "323 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 16 = 304 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 17 cm là:",
+    "options": [
+      "304 cm²",
+      "323 cm²",
+      "325 cm²",
+      "342 cm²"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 17 = 323 cm²."
+  },
+  {
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 18 cm là:",
+    "options": [
+      "344 cm²",
+      "340 cm²",
+      "342 cm²",
+      "361 cm²"
+    ],
+    "correct": 2,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 18 = 342 cm²."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 256)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 257)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 258)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 259)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 260)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 261)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 262)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 263)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 264)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 265)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 266)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 267)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 268)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 269)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 270)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 271)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 272)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 273)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 274)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 275)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 276)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 277)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 278)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 279)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 280)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 281)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 282)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 283)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 284)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 285)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 286)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 287)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 288)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 289)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 290)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 291)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 292)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 293)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 294)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 295)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 296)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 297)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 298)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 299)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 300)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 301)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 302)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 303)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 304)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 305)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 306)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 307)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 308)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 309)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 310)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 311)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 312)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 313)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 314)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 315)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 316)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 317)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 318)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 319)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 320)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 321)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 322)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 323)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 324)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 325)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 326)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 327)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 328)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 329)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 330)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 331)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 332)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 333)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 334)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 335)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 336)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 337)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 338)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 339)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 340)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 341)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 342)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 343)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 344)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 345)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 346)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 347)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 348)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 349)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 350)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 351)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 352)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 353)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 354)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 355)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 356)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 357)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 358)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 359)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 360)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 361)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 362)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 363)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 364)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 365)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 366)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 367)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 368)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 369)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 370)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 371)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 372)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 373)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 374)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 375)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 376)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 377)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 378)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 379)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 380)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 381)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 382)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 383)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 384)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 385)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 386)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 387)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 388)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 389)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 390)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 391)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 392)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 393)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 394)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 395)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 396)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 397)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 398)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 399)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 400)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 401)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 402)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 403)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 404)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 405)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 406)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 407)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 408)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 409)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 410)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 411)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 412)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 413)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 414)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 415)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 416)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 417)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 418)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 419)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 420)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 421)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 422)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 423)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 424)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 425)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 426)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 427)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 428)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 429)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 430)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 431)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 432)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 433)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 434)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 435)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 436)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 437)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 438)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 439)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 440)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 441)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 442)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 443)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 444)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 445)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 446)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 447)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 448)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 449)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 450)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 451)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 452)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 453)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 454)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 455)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 456)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 457)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 458)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 459)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 460)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 461)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 462)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 463)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 464)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 465)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 466)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 467)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 468)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 469)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 470)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 471)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 472)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 473)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 474)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 475)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 476)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 477)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 478)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 479)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 480)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 481)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 482)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 483)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 484)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 485)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 486)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 487)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 488)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 489)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 490)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 491)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 492)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 493)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 494)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 495)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 496)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 497)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 498)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 499)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  },
+  {
+    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 500)",
+    "options": [
+      "4/24",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correct": 2,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+  }
+]

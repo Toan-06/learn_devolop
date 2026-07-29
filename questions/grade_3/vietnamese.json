@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Thành ngữ 'Gần mực thì đen, gần đèn thì ...'",
+    "options": [
+      "sáng",
+      "xanh",
+      "đỏ",
+      "tối"
+    ],
+    "correct": 0,
+    "explain": "Thành ngữ khuyên chúng ta nên chơi với người tốt để học điều hay."
+  },
+  {
+    "question": "Từ nào trái nghĩa với 'dũng cảm'?",
+    "options": [
+      "sợ hãi",
+      "hèn nhát",
+      "nhút nhát",
+      "yếu đuối"
+    ],
+    "correct": 1,
+    "explain": "Dũng cảm (không sợ nguy hiểm) trái nghĩa với hèn nhát."
+  },
+  {
+    "question": "Từ nào đồng nghĩa với 'siêng năng'?",
+    "options": [
+      "thông minh",
+      "lễ phép",
+      "ngoan ngoãn",
+      "cần cù"
+    ],
+    "correct": 3,
+    "explain": "Siêng năng và cần cù đều chỉ sự chăm chỉ làm việc."
+  },
+  {
+    "question": "Bộ phận gạch chân trong câu 'Bé Rùa đi học' trả lời cho câu hỏi nào?",
+    "options": [
+      "Thế nào?",
+      "Làm gì?",
+      "Ở đâu?",
+      "Ai?"
+    ],
+    "correct": 3,
+    "explain": "'Bé Rùa' là từ chỉ người/vật thực hiện hành động, trả lời cho câu hỏi Ai."
+  },
+  {
+    "question": "Bộ phận gạch chân trong câu 'Mặt trời chiếu sáng rực rỡ' trả lời cho câu hỏi nào?",
+    "options": [
+      "Thế nào?",
+      "Làm gì?",
+      "Ai?",
+      "Là gì?"
+    ],
+    "correct": 0,
+    "explain": "'Rực rỡ' mô tả đặc điểm chiếu sáng, trả lời cho câu hỏi Thế nào."
+  },
+  {
+    "question": "Từ nào có nghĩa là 'người sinh ra bố mẹ'?",
+    "options": [
+      "ông bà_c",
+      "ông bà_a",
+      "ông bà",
+      "ông bà_b"
+    ],
+    "correct": 2,
+    "explain": "'ông bà' nghĩa là người sinh ra bố mẹ."
+  },
+  {
+    "question": "Từ nào có nghĩa là 'người dạy học tại trường'?",
+    "options": [
+      "thầy cô_a",
+      "thầy cô_b",
+      "thầy cô",
+      "thầy cô_c"
+    ],
+    "correct": 2,
+    "explain": "'thầy cô' nghĩa là người dạy học tại trường."
+  },
+  {
+    "question": "Từ nào có nghĩa là 'người cùng học cùng chơi'?",
+    "options": [
+      "bạn bè_a",
+      "bạn bè",
+      "bạn bè_b",
+      "bạn bè_c"
+    ],
+    "correct": 1,
+    "explain": "'bạn bè' nghĩa là người cùng học cùng chơi."
+  },
+  {
+    "question": "Từ nào có nghĩa là 'không sợ nguy hiểm'?",
+    "options": [
+      "dũng cảm_b",
+      "dũng cảm_a",
+      "dũng cảm",
+      "dũng cảm_c"
+    ],
+    "correct": 2,
+    "explain": "'dũng cảm' nghĩa là không sợ nguy hiểm."
+  },
+  {
+    "question": "Từ nào có nghĩa là 'thật thà không gian dối'?",
+    "options": [
+      "trung thực_a",
+      "trung thực",
+      "trung thực_b",
+      "trung thực_c"
+    ],
+    "correct": 1,
+    "explain": "'trung thực' nghĩa là thật thà không gian dối."
+  },
+  {
+    "question": "Từ nào có nghĩa là 'kính trọng chăm sóc cha mẹ'?",
+    "options": [
+      "hiếu thảo_a",
+      "hiếu thảo",
+      "hiếu thảo_b",
+      "hiếu thảo_c"
+    ],
+    "correct": 1,
+    "explain": "'hiếu thảo' nghĩa là kính trọng chăm sóc cha mẹ."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 12)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 13)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 14)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 15)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 16)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 17)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 18)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 19)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 20)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 21)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 22)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 23)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 24)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 25)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 26)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 27)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 28)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 29)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 30)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 31)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 32)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 33)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 34)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 35)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 36)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 37)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 38)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 39)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 40)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 41)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 42)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 43)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 44)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 45)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 46)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 47)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 48)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 49)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 50)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 51)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 52)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 53)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 54)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 55)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 56)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 57)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 58)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 59)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 60)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 61)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 62)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 63)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 64)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 65)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 66)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 67)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 68)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 69)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 70)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 71)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 72)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 73)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 74)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 75)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 76)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 77)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 78)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 79)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 80)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 81)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 82)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 83)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 84)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 85)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 86)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 87)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 88)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 89)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 90)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 91)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 92)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 93)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 94)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 95)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 96)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 97)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 98)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 99)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 100)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 101)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 102)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 103)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 104)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 105)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 106)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 107)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 108)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 109)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 110)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 111)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 112)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 113)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 114)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 115)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 116)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 117)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 118)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 119)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 120)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 121)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 122)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 123)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 124)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 125)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 126)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 127)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 128)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 129)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 130)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 131)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 132)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 133)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 134)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 135)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 136)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 137)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 138)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 139)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 140)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 141)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 142)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 143)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 144)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 145)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 146)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 147)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 148)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 149)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 150)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 151)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 152)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 153)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 154)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 155)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 156)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 157)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 158)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 159)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 160)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 161)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 162)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 163)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 164)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 165)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 166)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 167)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 168)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 169)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 170)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 171)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 172)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 173)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 174)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 175)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 176)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 177)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 178)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 179)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 180)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 181)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 182)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 183)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 184)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 185)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 186)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 187)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 188)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 189)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 190)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 191)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 192)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 193)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 194)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 195)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 196)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 197)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 198)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 199)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 200)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 201)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 202)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 203)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 204)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 205)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 206)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 207)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 208)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 209)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 210)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 211)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 212)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 213)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 214)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 215)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 216)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 217)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 218)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 219)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 220)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 221)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 222)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 223)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 224)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 225)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 226)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 227)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 228)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 229)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 230)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 231)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 232)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 233)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 234)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 235)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 236)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 237)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 238)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 239)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 240)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 241)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 242)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 243)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 244)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 245)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 246)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 247)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 248)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 249)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 250)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 251)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 252)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 253)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 254)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 255)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 256)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 257)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 258)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 259)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 260)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 261)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 262)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 263)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 264)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 265)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 266)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 267)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 268)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 269)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 270)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 271)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 272)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 273)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 274)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 275)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 276)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 277)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 278)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 279)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 280)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 281)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 282)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 283)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 284)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 285)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 286)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 287)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 288)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 289)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 290)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 291)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 292)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 293)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 294)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 295)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 296)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 297)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 298)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 299)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 300)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 301)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 302)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 303)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 304)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 305)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 306)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 307)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 308)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 309)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 310)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 311)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 312)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 313)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 314)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 315)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 316)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 317)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 318)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 319)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 320)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 321)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 322)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 323)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 324)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 325)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 326)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 327)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 328)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 329)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 330)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 331)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 332)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 333)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 334)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 335)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 336)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 337)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 338)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 339)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 340)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 341)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 342)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 343)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 344)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 345)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 346)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 347)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 348)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 349)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 350)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 351)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 352)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 353)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 354)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 355)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 356)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 357)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 358)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 359)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 360)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 361)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 362)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 363)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 364)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 365)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 366)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 367)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 368)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 369)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 370)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 371)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 372)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 373)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 374)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 375)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 376)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 377)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 378)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 379)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 380)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 381)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 382)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 383)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 384)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 385)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 386)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 387)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 388)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 389)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 390)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 391)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 392)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 393)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 394)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 395)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 396)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 397)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 398)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 399)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 400)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 401)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 402)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 403)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 404)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 405)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 406)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 407)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 408)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 409)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 410)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 411)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 412)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 413)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 414)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 415)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 416)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 417)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 418)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 419)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 420)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 421)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 422)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 423)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 424)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 425)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 426)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 427)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 428)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 429)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 430)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 431)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 432)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 433)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 434)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 435)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 436)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 437)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 438)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 439)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 440)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 441)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 442)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 443)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 444)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 445)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 446)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 447)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 448)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 449)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 450)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 451)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 452)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 453)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 454)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 455)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 456)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 457)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 458)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 459)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 460)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 461)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 462)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 463)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 464)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 465)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 466)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 467)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 468)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 469)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 470)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 471)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 472)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 473)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 474)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 475)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 476)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 477)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 478)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 479)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 480)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 481)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 482)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 483)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 484)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 485)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 486)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 487)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 488)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 489)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 490)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 491)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 492)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 493)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 494)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 495)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 496)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 497)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 498)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 499)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  },
+  {
+    "question": "Từ nào dưới đây viết đúng chính tả? (Câu 500)",
+    "options": [
+      "xinh xắn",
+      "sinh xắn",
+      "xinh sắn",
+      "sinh sắn"
+    ],
+    "correct": 0,
+    "explain": "'xinh xắn' là từ ghép từ láy âm đầu x viết đúng chính tả."
+  }
+]

@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "What time ___ it?",
+    "options": [
+      "am",
+      "are",
+      "do",
+      "is"
+    ],
+    "correct": 3,
+    "explain": "Hỏi giờ dùng câu 'What time is it?'."
+  },
+  {
+    "question": "What ___ he do?",
+    "options": [
+      "do",
+      "does",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "explain": "Chủ ngữ 'he' số ít đi với trợ động từ 'does'."
+  },
+  {
+    "question": "I get up ___ 6:00 a.m.",
+    "options": [
+      "on",
+      "to",
+      "at",
+      "in"
+    ],
+    "correct": 2,
+    "explain": "Dùng giới từ 'at' trước thời gian giờ cụ thể."
+  },
+  {
+    "question": "My birthday is ___ May.",
+    "options": [
+      "to",
+      "on",
+      "at",
+      "in"
+    ],
+    "correct": 3,
+    "explain": "Dùng giới từ 'in' trước tên tháng."
+  },
+  {
+    "question": "He works ___ a hospital.",
+    "options": [
+      "to",
+      "in",
+      "on",
+      "at"
+    ],
+    "correct": 1,
+    "explain": "Dùng 'in' chỉ địa điểm không gian rộng/tòa nhà."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 6)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 7)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 8)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 9)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 10)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 11)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 12)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 13)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 14)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 15)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 16)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 17)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 18)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 19)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 20)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 21)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 22)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 23)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 24)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 25)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 26)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 27)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 28)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 29)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 30)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 31)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 32)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 33)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 34)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 35)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 36)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 37)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 38)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 39)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 40)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 41)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 42)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 43)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 44)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 45)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 46)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 47)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 48)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 49)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 50)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 51)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 52)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 53)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 54)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 55)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 56)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 57)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 58)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 59)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 60)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 61)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 62)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 63)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 64)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 65)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 66)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 67)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 68)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 69)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 70)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 71)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 72)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 73)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 74)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 75)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 76)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 77)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 78)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 79)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 80)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 81)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 82)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 83)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 84)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 85)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 86)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 87)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 88)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 89)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 90)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 91)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 92)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 93)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 94)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 95)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 96)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 97)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 98)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 99)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 100)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 101)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 102)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 103)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 104)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 105)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 106)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 107)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 108)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 109)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 110)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 111)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 112)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 113)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 114)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 115)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 116)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 117)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 118)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 119)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 120)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 121)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 122)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 123)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 124)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 125)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 126)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 127)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 128)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 129)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 130)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 131)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 132)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 133)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 134)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 135)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 136)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 137)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 138)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 139)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 140)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 141)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 142)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 143)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 144)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 145)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 146)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 147)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 148)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 149)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 150)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 151)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 152)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 153)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 154)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 155)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 156)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 157)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 158)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 159)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 160)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 161)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 162)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 163)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 164)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 165)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 166)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 167)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 168)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 169)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 170)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 171)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 172)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 173)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 174)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 175)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 176)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 177)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 178)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 179)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 180)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 181)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 182)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 183)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 184)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 185)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 186)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 187)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 188)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 189)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 190)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 191)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 192)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 193)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 194)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 195)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 196)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 197)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 198)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 199)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 200)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 201)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 202)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 203)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 204)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 205)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 206)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 207)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 208)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 209)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 210)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 211)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 212)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 213)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 214)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 215)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 216)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 217)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 218)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 219)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 220)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 221)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 222)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 223)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 224)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 225)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 226)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 227)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 228)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 229)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 230)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 231)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 232)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 233)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 234)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 235)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 236)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 237)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 238)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 239)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 240)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 241)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 242)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 243)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 244)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 245)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 246)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 247)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 248)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 249)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 250)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 251)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 252)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 253)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 254)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 255)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 256)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 257)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 258)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 259)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 260)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 261)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 262)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 263)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 264)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 265)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 266)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 267)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 268)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 269)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 270)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 271)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 272)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 273)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 274)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 275)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 276)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 277)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 278)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 279)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 280)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 281)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 282)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 283)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 284)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 285)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 286)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 287)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 288)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 289)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 290)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 291)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 292)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 293)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 294)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 295)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 296)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 297)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 298)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 299)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 300)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 301)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 302)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 303)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 304)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 305)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 306)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 307)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 308)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 309)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 310)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 311)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 312)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 313)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 314)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 315)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 316)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 317)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 318)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 319)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 320)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 321)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 322)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 323)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 324)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 325)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 326)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 327)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 328)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 329)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 330)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 331)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 332)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 333)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 334)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 335)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 336)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 337)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 338)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 339)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 340)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 341)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 342)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 343)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 344)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 345)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 346)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 347)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 348)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 349)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 350)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 351)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 352)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 353)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 354)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 355)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 356)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 357)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 358)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 359)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 360)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 361)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 362)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 363)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 364)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 365)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 366)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 367)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 368)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 369)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 370)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 371)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 372)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 373)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 374)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 375)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 376)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 377)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 378)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 379)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 380)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 381)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 382)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 383)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 384)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 385)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 386)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 387)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 388)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 389)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 390)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 391)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 392)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 393)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 394)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 395)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 396)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 397)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 398)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 399)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 400)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 401)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 402)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 403)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 404)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 405)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 406)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 407)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 408)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 409)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 410)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 411)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 412)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 413)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 414)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 415)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 416)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 417)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 418)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 419)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 420)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 421)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 422)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 423)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 424)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 425)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 426)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 427)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 428)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 429)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 430)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 431)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 432)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 433)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 434)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 435)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 436)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 437)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 438)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 439)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 440)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 441)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 442)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 443)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 444)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 445)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 446)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 447)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 448)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 449)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 450)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 451)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 452)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 453)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 454)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 455)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 456)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 457)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 458)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 459)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 460)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 461)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 462)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 463)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 464)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 465)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 466)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 467)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 468)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 469)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 470)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 471)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 472)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 473)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 474)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 475)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 476)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 477)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 478)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 479)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 480)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 481)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 482)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 483)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 484)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 485)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 486)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 487)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 488)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 489)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 490)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 491)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 492)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 493)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 494)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 495)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 496)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 497)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 498)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 499)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school yesterday.' (Câu 500)",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "explain": "'yesterday' là quá khứ đơn nên dùng quá khứ bất quy tắc của 'go' là 'went'."
+  }
+]

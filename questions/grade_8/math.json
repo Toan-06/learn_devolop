@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây?",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây?",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là:",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì?",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì?",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì?",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 2)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 2)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 2)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 2)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 2)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 2)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 3)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 3)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 3)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 3)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 3)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 3)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 4)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 4)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 4)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 4)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 4)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 4)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 5)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 5)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 5)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 5)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 5)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 5)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 6)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 6)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 6)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 6)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 6)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 6)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 7)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 7)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 7)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 7)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 7)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 7)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 8)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 8)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 8)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 8)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 8)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 8)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 9)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 9)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 9)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 9)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 9)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 9)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 10)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 10)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 10)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 10)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 10)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 10)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 11)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 11)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 11)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 11)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 11)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 11)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 12)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 12)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 12)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 12)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 12)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 12)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 13)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 13)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 13)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 13)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 13)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 13)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 14)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 14)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 14)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 14)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 14)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 14)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 15)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 15)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 15)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 15)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 15)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 15)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 16)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 16)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 16)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 16)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 16)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 16)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 17)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 17)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 17)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 17)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 17)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 17)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 18)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 18)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 18)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 18)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 18)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 18)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 19)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 19)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 19)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 19)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 19)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 19)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 20)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 20)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 20)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 20)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 20)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 20)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 21)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 21)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 21)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 21)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 21)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 21)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 22)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 22)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 22)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 22)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 22)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 22)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 23)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 23)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 23)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 23)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 23)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 23)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 24)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 24)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 24)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 24)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 24)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 24)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 25)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 25)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 25)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 25)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 25)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 25)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 26)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 26)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 26)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 26)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 26)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 26)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 27)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 27)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 27)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 27)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 27)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 27)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 28)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 28)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 28)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 28)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 28)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 28)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 29)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 29)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 29)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 29)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 29)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 29)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 30)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 30)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 30)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 30)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 30)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 30)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 31)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 31)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 31)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 31)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 31)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 31)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 32)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 32)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 32)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 32)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 32)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 32)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 33)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 33)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 33)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 33)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 33)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 33)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 34)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 34)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 34)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 34)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 34)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 34)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 35)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 35)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 35)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 35)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 35)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 35)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 36)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 36)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 36)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 36)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 36)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 36)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 37)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 37)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 37)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 37)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 37)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 37)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 38)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 38)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 38)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 38)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 38)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 38)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 39)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 39)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 39)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 39)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 39)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 39)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 40)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 40)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 40)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 40)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 40)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 40)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 41)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 41)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 41)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 41)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 41)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 41)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 42)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 42)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 42)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 42)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 42)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 42)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 43)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 43)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 43)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 43)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 43)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 43)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 44)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 44)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 44)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 44)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 44)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 44)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 45)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 45)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 45)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 45)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 45)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 45)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 46)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 46)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 46)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 46)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 46)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 46)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 47)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 47)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 47)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 47)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 47)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 47)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 48)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 48)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 48)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 48)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 48)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 48)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 49)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 49)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 49)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 49)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 49)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 49)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 50)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 50)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 50)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 50)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 50)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 50)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 51)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 51)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 51)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 51)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 51)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 51)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 52)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 52)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 52)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 52)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 52)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 52)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 53)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 53)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 53)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 53)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 53)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 53)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 54)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 54)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 54)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 54)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 54)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 54)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 55)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 55)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 55)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 55)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 55)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 55)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 56)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 56)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 56)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 56)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 56)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 56)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 57)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 57)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 57)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 57)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 57)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 57)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 58)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 58)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 58)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 58)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 58)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 58)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 59)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 59)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 59)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 59)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 59)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 59)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 60)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 60)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 60)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 60)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 60)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 60)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 61)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 61)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 61)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 61)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 61)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 61)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 62)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 62)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 62)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 62)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 62)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 62)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 63)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 63)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 63)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 63)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 63)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 63)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 64)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 64)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 64)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 64)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 64)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 64)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 65)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 65)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 65)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 65)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 65)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 65)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 66)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 66)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 66)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 66)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 66)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 66)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 67)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 67)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 67)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 67)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 67)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 67)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 68)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 68)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 68)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 68)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 68)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 68)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 69)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 69)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 69)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 69)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 69)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 69)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 70)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 70)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 70)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 70)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 70)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 70)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 71)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 71)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 71)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 71)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 71)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 71)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 72)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 72)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 72)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 72)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 72)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 72)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 73)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 73)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 73)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 73)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 73)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 73)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 74)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 74)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 74)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 74)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 74)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 74)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 75)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 75)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 75)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 75)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 75)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 75)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 76)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 76)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 76)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 76)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 76)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 76)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 77)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 77)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 77)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 77)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 77)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 77)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 78)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 78)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 78)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 78)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 78)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 78)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 79)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 79)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 79)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 79)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 79)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 79)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 80)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 80)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 80)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 80)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 80)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 80)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 81)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 81)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 81)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 81)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 81)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 81)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 82)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 82)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 82)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 82)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 82)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 82)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 83)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 83)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  },
+  {
+    "question": "a² - b² phân tích thành nhân tử là: (Dạng 83)",
+    "options": [
+      "a(a - b)",
+      "(a - b)(a + b)",
+      "(a - b)²",
+      "(a + b)²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 3 (Hiệu hai bình phương): a² - b² = (a - b)(a + b)."
+  },
+  {
+    "question": "Tứ giác có hai cạnh đối song song là hình gì? (Dạng 83)",
+    "options": [
+      "Hình thang",
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình bình hành"
+    ],
+    "correct": 0,
+    "explain": "Định nghĩa: Hình thang là tứ giác có hai cạnh đối song song."
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì? (Dạng 83)",
+    "options": [
+      "Hình thoi",
+      "Hình chữ nhật",
+      "Hình thang cân",
+      "Hình vuông"
+    ],
+    "correct": 1,
+    "explain": "Dấu hiệu nhận biết: Hình bình hành có 1 góc vuông là hình chữ nhật."
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì? (Dạng 83)",
+    "options": [
+      "Hình thang",
+      "Hình bình hành",
+      "Hình thoi",
+      "Hình vuông"
+    ],
+    "correct": 3,
+    "explain": "Dấu hiệu nhận biết: Hình chữ nhật có 2 cạnh kề bằng nhau là hình vuông."
+  },
+  {
+    "question": "(a + b)² bằng biểu thức nào sau đây? (Dạng 84)",
+    "options": [
+      "a² - 2ab + b²",
+      "a² + b²",
+      "a² + 2ab + b²",
+      "a² + ab + b²"
+    ],
+    "correct": 2,
+    "explain": "Hằng đẳng thức số 1: (a + b)² = a² + 2ab + b²."
+  },
+  {
+    "question": "(a - b)² bằng biểu thức nào sau đây? (Dạng 84)",
+    "options": [
+      "a² + 2ab + b²",
+      "a² - 2ab + b²",
+      "a² - ab + b²",
+      "a² - b²"
+    ],
+    "correct": 1,
+    "explain": "Hằng đẳng thức số 2: (a - b)² = a² - 2ab + b²."
+  }
+]

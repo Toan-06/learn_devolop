@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Từ 'nhà trường' có nghĩa là gì?",
+    "options": [
+      "nơi học tập",
+      "nhà tắm",
+      "nhà kho",
+      "nhà bếp"
+    ],
+    "correct": 0,
+    "explain": "'nhà trường' = trường học, nơi các em đến học."
+  },
+  {
+    "question": "Từ 'sách giáo khoa' có nghĩa là gì?",
+    "options": [
+      "sách truyện",
+      "sách dùng để học",
+      "sách ảnh",
+      "từ điển"
+    ],
+    "correct": 1,
+    "explain": "'sách giáo khoa' là sách dùng trong học tập chính thức."
+  },
+  {
+    "question": "Từ 'bạn bè' có nghĩa là gì?",
+    "options": [
+      "hàng xóm",
+      "những người bạn",
+      "thầy cô",
+      "người thân"
+    ],
+    "correct": 1,
+    "explain": "'bạn bè' chỉ những người bạn thân thiết."
+  },
+  {
+    "question": "Từ 'gia đình' có nghĩa là gì?",
+    "options": [
+      "những người thân trong nhà",
+      "thầy cô",
+      "hàng xóm",
+      "bạn bè"
+    ],
+    "correct": 0,
+    "explain": "'gia đình' gồm bố mẹ và con cái cùng chung sống."
+  },
+  {
+    "question": "Từ 'học sinh' có nghĩa là gì?",
+    "options": [
+      "người đang đi học",
+      "bác sĩ",
+      "giáo viên",
+      "kỹ sư"
+    ],
+    "correct": 0,
+    "explain": "'học sinh' là người đang theo học tại trường."
+  },
+  {
+    "question": "Mẹ em ___ cơm mỗi buổi sáng.",
+    "options": [
+      "ăn",
+      "nấu",
+      "uống",
+      "mua"
+    ],
+    "correct": 1,
+    "explain": "'Nấu' cơm là hành động đúng của mẹ trong câu này."
+  },
+  {
+    "question": "Em rất ___ khi được điểm 10.",
+    "options": [
+      "buồn",
+      "sợ",
+      "vui",
+      "mệt"
+    ],
+    "correct": 2,
+    "explain": "Điểm 10 là niềm vui, nên 'vui' là đúng."
+  },
+  {
+    "question": "Trời ___ nên em phải mang áo mưa.",
+    "options": [
+      "lạnh",
+      "gió",
+      "mưa",
+      "nắng"
+    ],
+    "correct": 2,
+    "explain": "Mang áo mưa khi trời mưa."
+  },
+  {
+    "question": "Con chim ___ trên cành cây.",
+    "options": [
+      "đậu",
+      "bơi",
+      "chạy",
+      "leo"
+    ],
+    "correct": 0,
+    "explain": "Chim 'đậu' trên cành."
+  },
+  {
+    "question": "Cá ___ dưới nước.",
+    "options": [
+      "chạy",
+      "nhảy",
+      "bơi",
+      "bay"
+    ],
+    "correct": 2,
+    "explain": "Cá 'bơi' dưới nước."
+  },
+  {
+    "question": "Em ___ răng mỗi sáng và tối.",
+    "options": [
+      "lau",
+      "chải",
+      "rửa",
+      "đánh"
+    ],
+    "correct": 3,
+    "explain": "Chúng ta 'đánh' răng bằng bàn chải."
+  },
+  {
+    "question": "Thầy giáo ___ bài cho học sinh.",
+    "options": [
+      "đọc",
+      "viết",
+      "giảng",
+      "hát"
+    ],
+    "correct": 2,
+    "explain": "Thầy giáo 'giảng' bài để học sinh hiểu."
+  },
+  {
+    "question": "Hoa ___ rất thơm vào buổi sáng.",
+    "options": [
+      "tỏa hương",
+      "nhảy",
+      "kêu",
+      "chạy"
+    ],
+    "correct": 0,
+    "explain": "Hoa tỏa hương thơm."
+  },
+  {
+    "question": "Em ___ sách để ôn bài.",
+    "options": [
+      "hát",
+      "viết",
+      "đọc",
+      "vẽ"
+    ],
+    "correct": 2,
+    "explain": "Đọc sách để ôn bài."
+  },
+  {
+    "question": "Bầu trời ___ sau cơn mưa.",
+    "options": [
+      "tối tăm",
+      "mờ mịt",
+      "u ám",
+      "trong xanh"
+    ],
+    "correct": 3,
+    "explain": "Sau mưa bầu trời trong xanh."
+  },
+  {
+    "question": "Đọc đoạn: \"Mùa xuân hoa nở rộ, bướm bay đầy vườn. Không khí mát mẻ, dễ chịu.\"\n\nMùa xuân có gì đặc biệt?",
+    "options": [
+      "Hoa nở rộ, bướm bay đầy vườn",
+      "Trời nóng bức",
+      "Hoa tàn, lá rụng",
+      "Mưa nhiều"
+    ],
+    "correct": 0,
+    "explain": "Bài đọc nói hoa nở rộ bướm bay đầy vườn."
+  },
+  {
+    "question": "Đọc đoạn: \"Mùa xuân hoa nở rộ, bướm bay đầy vườn. Không khí mát mẻ, dễ chịu.\"\n\nKhông khí mùa xuân như thế nào?",
+    "options": [
+      "Lạnh giá",
+      "Mát mẻ, dễ chịu",
+      "Ẩm ướt",
+      "Nóng bức"
+    ],
+    "correct": 1,
+    "explain": "Bài đọc nói không khí mát mẻ, dễ chịu."
+  },
+  {
+    "question": "Đọc đoạn: \"Chú gà trống gáy vào lúc bình minh. Tiếng gáy vang xa, báo hiệu một ngày mới bắt đầu.\"\n\nChú gà trống gáy lúc nào?",
+    "options": [
+      "Lúc bình minh",
+      "Lúc tối",
+      "Lúc chiều",
+      "Lúc trưa"
+    ],
+    "correct": 0,
+    "explain": "Bài đọc nói gà trống gáy lúc bình minh."
+  },
+  {
+    "question": "Đọc đoạn: \"Chú gà trống gáy vào lúc bình minh. Tiếng gáy vang xa, báo hiệu một ngày mới bắt đầu.\"\n\nTiếng gáy báo hiệu điều gì?",
+    "options": [
+      "Mùa đông",
+      "Trời mưa",
+      "Ngày mới bắt đầu",
+      "Đêm đến"
+    ],
+    "correct": 2,
+    "explain": "Bài đọc nói tiếng gáy báo hiệu ngày mới."
+  },
+  {
+    "question": "Từ 'chạy' thuộc loại từ nào?",
+    "options": [
+      "tính từ",
+      "quan hệ từ",
+      "động từ",
+      "danh từ"
+    ],
+    "correct": 2,
+    "explain": "'chạy' là động từ (chỉ hành động)."
+  },
+  {
+    "question": "Từ 'đẹp' thuộc loại từ nào?",
+    "options": [
+      "động từ",
+      "danh từ",
+      "tính từ",
+      "quan hệ từ"
+    ],
+    "correct": 2,
+    "explain": "'đẹp' là tính từ (chỉ tính chất)."
+  },
+  {
+    "question": "Từ 'bàn' thuộc loại từ nào?",
+    "options": [
+      "danh từ",
+      "quan hệ từ",
+      "tính từ",
+      "động từ"
+    ],
+    "correct": 0,
+    "explain": "'bàn' là danh từ (chỉ sự vật)."
+  },
+  {
+    "question": "Từ 'và' thuộc loại từ nào?",
+    "options": [
+      "danh từ",
+      "động từ",
+      "tính từ",
+      "quan hệ từ"
+    ],
+    "correct": 3,
+    "explain": "'và' là quan hệ từ nối các từ/ý."
+  },
+  {
+    "question": "Từ 'nhanh' thuộc loại từ nào?",
+    "options": [
+      "tính từ",
+      "động từ",
+      "danh từ",
+      "quan hệ từ"
+    ],
+    "correct": 0,
+    "explain": "'nhanh' là tính từ chỉ tốc độ."
+  },
+  {
+    "question": "Từ 'hát' thuộc loại từ nào?",
+    "options": [
+      "động từ",
+      "tính từ",
+      "danh từ",
+      "quan hệ từ"
+    ],
+    "correct": 0,
+    "explain": "'hát' là động từ chỉ hành động."
+  },
+  {
+    "question": "Từ 'sông' thuộc loại từ nào?",
+    "options": [
+      "quan hệ từ",
+      "động từ",
+      "tính từ",
+      "danh từ"
+    ],
+    "correct": 3,
+    "explain": "'sông' là danh từ chỉ sự vật thiên nhiên."
+  },
+  {
+    "question": "Từ 'xanh' thuộc loại từ nào?",
+    "options": [
+      "danh từ",
+      "động từ",
+      "quan hệ từ",
+      "tính từ"
+    ],
+    "correct": 3,
+    "explain": "'xanh' là tính từ chỉ màu sắc."
+  },
+  {
+    "question": "Từ 'nhảy' thuộc loại từ nào?",
+    "options": [
+      "quan hệ từ",
+      "tính từ",
+      "động từ",
+      "danh từ"
+    ],
+    "correct": 2,
+    "explain": "'nhảy' là động từ chỉ hành động."
+  },
+  {
+    "question": "Từ 'nhà' thuộc loại từ nào?",
+    "options": [
+      "tính từ",
+      "danh từ",
+      "quan hệ từ",
+      "động từ"
+    ],
+    "correct": 1,
+    "explain": "'nhà' là danh từ chỉ sự vật."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongz",
+      "ngoài",
+      "trongy",
+      "trongx"
+    ],
+    "correct": 1,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhy",
+      "nhanhx",
+      "nhanhz",
+      "chậm"
+    ],
+    "correct": 3,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toz",
+      "toy",
+      "tox",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "ngắn",
+      "dàiz",
+      "dàix",
+      "dàiy"
+    ],
+    "correct": 0,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoy",
+      "caox",
+      "thấp",
+      "caoz"
+    ],
+    "correct": 2,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "lạnh",
+      "nóngx",
+      "nóngz",
+      "nóngy"
+    ],
+    "correct": 0,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "tối",
+      "sángz",
+      "sángx",
+      "sángy"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuix",
+      "vuiz",
+      "buồn",
+      "vuiy"
+    ],
+    "correct": 2,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớix",
+      "mớiy",
+      "mớiz",
+      "cũ"
+    ],
+    "correct": 3,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuz",
+      "nhiềuy",
+      "ít",
+      "nhiềux"
+    ],
+    "correct": 2,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngz",
+      "rộngx",
+      "hẹp",
+      "rộngy"
+    ],
+    "correct": 2,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchz",
+      "sạchy",
+      "sạchx",
+      "bẩn"
+    ],
+    "correct": 3,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngz",
+      "cong",
+      "thẳngx",
+      "thẳngy"
+    ],
+    "correct": 1,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcy",
+      "sau",
+      "trướcx",
+      "trướcz"
+    ],
+    "correct": 1,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênx",
+      "trêny",
+      "trênz",
+      "dưới"
+    ],
+    "correct": 3,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "ngoài",
+      "trongy",
+      "trongx",
+      "trongz"
+    ],
+    "correct": 0,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhz",
+      "nhanhx",
+      "chậm",
+      "nhanhy"
+    ],
+    "correct": 2,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "nhỏ",
+      "toz",
+      "toy",
+      "tox"
+    ],
+    "correct": 0,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "ngắn",
+      "dàiy",
+      "dàix",
+      "dàiz"
+    ],
+    "correct": 0,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "thấp",
+      "caox",
+      "caoy",
+      "caoz"
+    ],
+    "correct": 0,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngx",
+      "nóngy",
+      "nóngz",
+      "lạnh"
+    ],
+    "correct": 3,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "tối",
+      "sángx",
+      "sángy",
+      "sángz"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiz",
+      "vuix",
+      "vuiy",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiy",
+      "mớix",
+      "mớiz",
+      "cũ"
+    ],
+    "correct": 3,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "ít",
+      "nhiềuy",
+      "nhiềux",
+      "nhiềuz"
+    ],
+    "correct": 0,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "hẹp",
+      "rộngy",
+      "rộngz",
+      "rộngx"
+    ],
+    "correct": 0,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchx",
+      "bẩn",
+      "sạchy",
+      "sạchz"
+    ],
+    "correct": 1,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngx",
+      "cong",
+      "thẳngy",
+      "thẳngz"
+    ],
+    "correct": 1,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "sau",
+      "trướcy",
+      "trướcz",
+      "trướcx"
+    ],
+    "correct": 0,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trêny",
+      "trênx",
+      "dưới",
+      "trênz"
+    ],
+    "correct": 2,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongx",
+      "trongz",
+      "ngoài",
+      "trongy"
+    ],
+    "correct": 2,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhz",
+      "nhanhx",
+      "nhanhy",
+      "chậm"
+    ],
+    "correct": 3,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "nhỏ",
+      "toz",
+      "toy",
+      "tox"
+    ],
+    "correct": 0,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàix",
+      "ngắn",
+      "dàiz",
+      "dàiy"
+    ],
+    "correct": 1,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caox",
+      "caoy",
+      "thấp",
+      "caoz"
+    ],
+    "correct": 2,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngy",
+      "lạnh",
+      "nóngz",
+      "nóngx"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "tối",
+      "sángx",
+      "sángz",
+      "sángy"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuix",
+      "vuiy",
+      "buồn",
+      "vuiz"
+    ],
+    "correct": 2,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "cũ",
+      "mớiz",
+      "mớix",
+      "mớiy"
+    ],
+    "correct": 0,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "ít",
+      "nhiềux",
+      "nhiềuy",
+      "nhiềuz"
+    ],
+    "correct": 0,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "hẹp",
+      "rộngx",
+      "rộngz",
+      "rộngy"
+    ],
+    "correct": 0,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchy",
+      "bẩn",
+      "sạchz",
+      "sạchx"
+    ],
+    "correct": 1,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngz",
+      "thẳngx",
+      "cong",
+      "thẳngy"
+    ],
+    "correct": 2,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcy",
+      "trướcx",
+      "sau",
+      "trướcz"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênz",
+      "dưới",
+      "trênx",
+      "trêny"
+    ],
+    "correct": 1,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongx",
+      "trongz",
+      "ngoài",
+      "trongy"
+    ],
+    "correct": 2,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhz",
+      "chậm",
+      "nhanhx",
+      "nhanhy"
+    ],
+    "correct": 1,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "tox",
+      "toy",
+      "toz",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiz",
+      "ngắn",
+      "dàiy",
+      "dàix"
+    ],
+    "correct": 1,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "thấp",
+      "caox",
+      "caoy",
+      "caoz"
+    ],
+    "correct": 0,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngy",
+      "lạnh",
+      "nóngz",
+      "nóngx"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángx",
+      "sángy",
+      "tối",
+      "sángz"
+    ],
+    "correct": 2,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "buồn",
+      "vuiz",
+      "vuix",
+      "vuiy"
+    ],
+    "correct": 0,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiy",
+      "mớix",
+      "mớiz",
+      "cũ"
+    ],
+    "correct": 3,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "ít",
+      "nhiềuz",
+      "nhiềuy",
+      "nhiềux"
+    ],
+    "correct": 0,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "hẹp",
+      "rộngz",
+      "rộngx",
+      "rộngy"
+    ],
+    "correct": 0,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchz",
+      "bẩn",
+      "sạchx",
+      "sạchy"
+    ],
+    "correct": 1,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "cong",
+      "thẳngx",
+      "thẳngz",
+      "thẳngy"
+    ],
+    "correct": 0,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcx",
+      "trướcy",
+      "sau",
+      "trướcz"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "dưới",
+      "trêny",
+      "trênz",
+      "trênx"
+    ],
+    "correct": 0,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongy",
+      "ngoài",
+      "trongx",
+      "trongz"
+    ],
+    "correct": 1,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhz",
+      "nhanhx",
+      "chậm",
+      "nhanhy"
+    ],
+    "correct": 2,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toz",
+      "tox",
+      "nhỏ",
+      "toy"
+    ],
+    "correct": 2,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiz",
+      "dàix",
+      "ngắn",
+      "dàiy"
+    ],
+    "correct": 2,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoy",
+      "caoz",
+      "caox",
+      "thấp"
+    ],
+    "correct": 3,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngy",
+      "lạnh",
+      "nóngz",
+      "nóngx"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángy",
+      "tối",
+      "sángz",
+      "sángx"
+    ],
+    "correct": 1,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuix",
+      "vuiz",
+      "buồn",
+      "vuiy"
+    ],
+    "correct": 2,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiz",
+      "cũ",
+      "mớix",
+      "mớiy"
+    ],
+    "correct": 1,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuy",
+      "ít",
+      "nhiềuz",
+      "nhiềux"
+    ],
+    "correct": 1,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngy",
+      "hẹp",
+      "rộngx",
+      "rộngz"
+    ],
+    "correct": 1,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchz",
+      "sạchx",
+      "bẩn",
+      "sạchy"
+    ],
+    "correct": 2,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngz",
+      "thẳngx",
+      "thẳngy",
+      "cong"
+    ],
+    "correct": 3,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcy",
+      "sau",
+      "trướcx",
+      "trướcz"
+    ],
+    "correct": 1,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênx",
+      "dưới",
+      "trênz",
+      "trêny"
+    ],
+    "correct": 1,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongy",
+      "trongz",
+      "ngoài",
+      "trongx"
+    ],
+    "correct": 2,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhz",
+      "chậm",
+      "nhanhx",
+      "nhanhy"
+    ],
+    "correct": 1,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "tox",
+      "nhỏ",
+      "toz",
+      "toy"
+    ],
+    "correct": 1,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiz",
+      "dàix",
+      "dàiy",
+      "ngắn"
+    ],
+    "correct": 3,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caox",
+      "caoy",
+      "thấp",
+      "caoz"
+    ],
+    "correct": 2,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngx",
+      "lạnh",
+      "nóngy",
+      "nóngz"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángy",
+      "sángx",
+      "tối",
+      "sángz"
+    ],
+    "correct": 2,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiy",
+      "vuix",
+      "buồn",
+      "vuiz"
+    ],
+    "correct": 2,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "cũ",
+      "mớix",
+      "mớiy",
+      "mớiz"
+    ],
+    "correct": 0,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "ít",
+      "nhiềuz",
+      "nhiềux",
+      "nhiềuy"
+    ],
+    "correct": 0,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngx",
+      "rộngz",
+      "hẹp",
+      "rộngy"
+    ],
+    "correct": 2,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "bẩn",
+      "sạchz",
+      "sạchx",
+      "sạchy"
+    ],
+    "correct": 0,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngy",
+      "thẳngz",
+      "cong",
+      "thẳngx"
+    ],
+    "correct": 2,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcx",
+      "trướcy",
+      "trướcz",
+      "sau"
+    ],
+    "correct": 3,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênx",
+      "trêny",
+      "trênz",
+      "dưới"
+    ],
+    "correct": 3,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongx",
+      "ngoài",
+      "trongz",
+      "trongy"
+    ],
+    "correct": 1,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhx",
+      "nhanhy",
+      "nhanhz",
+      "chậm"
+    ],
+    "correct": 3,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toy",
+      "toz",
+      "nhỏ",
+      "tox"
+    ],
+    "correct": 2,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiy",
+      "ngắn",
+      "dàix",
+      "dàiz"
+    ],
+    "correct": 1,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoy",
+      "thấp",
+      "caoz",
+      "caox"
+    ],
+    "correct": 1,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngy",
+      "nóngz",
+      "nóngx",
+      "lạnh"
+    ],
+    "correct": 3,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángz",
+      "sángy",
+      "tối",
+      "sángx"
+    ],
+    "correct": 2,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiz",
+      "vuiy",
+      "vuix",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiz",
+      "cũ",
+      "mớix",
+      "mớiy"
+    ],
+    "correct": 1,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuz",
+      "ít",
+      "nhiềuy",
+      "nhiềux"
+    ],
+    "correct": 1,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngx",
+      "rộngy",
+      "rộngz",
+      "hẹp"
+    ],
+    "correct": 3,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchy",
+      "sạchx",
+      "bẩn",
+      "sạchz"
+    ],
+    "correct": 2,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngz",
+      "thẳngx",
+      "thẳngy",
+      "cong"
+    ],
+    "correct": 3,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcz",
+      "sau",
+      "trướcx",
+      "trướcy"
+    ],
+    "correct": 1,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênz",
+      "trênx",
+      "trêny",
+      "dưới"
+    ],
+    "correct": 3,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongx",
+      "trongy",
+      "ngoài",
+      "trongz"
+    ],
+    "correct": 2,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhx",
+      "nhanhy",
+      "nhanhz",
+      "chậm"
+    ],
+    "correct": 3,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "tox",
+      "toy",
+      "toz",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàix",
+      "ngắn",
+      "dàiy",
+      "dàiz"
+    ],
+    "correct": 1,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caox",
+      "caoy",
+      "caoz",
+      "thấp"
+    ],
+    "correct": 3,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngy",
+      "nóngz",
+      "nóngx",
+      "lạnh"
+    ],
+    "correct": 3,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "tối",
+      "sángz",
+      "sángy",
+      "sángx"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "buồn",
+      "vuiy",
+      "vuiz",
+      "vuix"
+    ],
+    "correct": 0,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiz",
+      "mớix",
+      "mớiy",
+      "cũ"
+    ],
+    "correct": 3,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuz",
+      "ít",
+      "nhiềuy",
+      "nhiềux"
+    ],
+    "correct": 1,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngz",
+      "rộngx",
+      "rộngy",
+      "hẹp"
+    ],
+    "correct": 3,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "bẩn",
+      "sạchz",
+      "sạchx",
+      "sạchy"
+    ],
+    "correct": 0,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngy",
+      "thẳngx",
+      "cong",
+      "thẳngz"
+    ],
+    "correct": 2,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcz",
+      "trướcx",
+      "trướcy",
+      "sau"
+    ],
+    "correct": 3,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trêny",
+      "dưới",
+      "trênz",
+      "trênx"
+    ],
+    "correct": 1,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongy",
+      "ngoài",
+      "trongz",
+      "trongx"
+    ],
+    "correct": 1,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhy",
+      "nhanhz",
+      "chậm",
+      "nhanhx"
+    ],
+    "correct": 2,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toz",
+      "toy",
+      "tox",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàix",
+      "dàiy",
+      "ngắn",
+      "dàiz"
+    ],
+    "correct": 2,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoz",
+      "caox",
+      "thấp",
+      "caoy"
+    ],
+    "correct": 2,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngz",
+      "lạnh",
+      "nóngx",
+      "nóngy"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "tối",
+      "sángy",
+      "sángx",
+      "sángz"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuix",
+      "vuiy",
+      "vuiz",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "cũ",
+      "mớiz",
+      "mớiy",
+      "mớix"
+    ],
+    "correct": 0,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềux",
+      "ít",
+      "nhiềuy",
+      "nhiềuz"
+    ],
+    "correct": 1,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngz",
+      "rộngx",
+      "hẹp",
+      "rộngy"
+    ],
+    "correct": 2,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchz",
+      "sạchx",
+      "bẩn",
+      "sạchy"
+    ],
+    "correct": 2,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngx",
+      "thẳngz",
+      "cong",
+      "thẳngy"
+    ],
+    "correct": 2,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcy",
+      "trướcz",
+      "trướcx",
+      "sau"
+    ],
+    "correct": 3,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênz",
+      "trêny",
+      "dưới",
+      "trênx"
+    ],
+    "correct": 2,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "ngoài",
+      "trongy",
+      "trongz",
+      "trongx"
+    ],
+    "correct": 0,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhz",
+      "nhanhx",
+      "chậm",
+      "nhanhy"
+    ],
+    "correct": 2,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toz",
+      "tox",
+      "toy",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiy",
+      "ngắn",
+      "dàiz",
+      "dàix"
+    ],
+    "correct": 1,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "thấp",
+      "caox",
+      "caoz",
+      "caoy"
+    ],
+    "correct": 0,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngx",
+      "nóngz",
+      "lạnh",
+      "nóngy"
+    ],
+    "correct": 2,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "tối",
+      "sángx",
+      "sángy",
+      "sángz"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiz",
+      "vuix",
+      "vuiy",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớix",
+      "cũ",
+      "mớiy",
+      "mớiz"
+    ],
+    "correct": 1,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềux",
+      "nhiềuy",
+      "nhiềuz",
+      "ít"
+    ],
+    "correct": 3,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngz",
+      "rộngy",
+      "rộngx",
+      "hẹp"
+    ],
+    "correct": 3,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchx",
+      "sạchy",
+      "bẩn",
+      "sạchz"
+    ],
+    "correct": 2,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngx",
+      "thẳngy",
+      "thẳngz",
+      "cong"
+    ],
+    "correct": 3,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcz",
+      "trướcx",
+      "sau",
+      "trướcy"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênx",
+      "trêny",
+      "trênz",
+      "dưới"
+    ],
+    "correct": 3,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongz",
+      "ngoài",
+      "trongy",
+      "trongx"
+    ],
+    "correct": 1,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhz",
+      "chậm",
+      "nhanhx",
+      "nhanhy"
+    ],
+    "correct": 1,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "tox",
+      "nhỏ",
+      "toz",
+      "toy"
+    ],
+    "correct": 1,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàix",
+      "dàiz",
+      "ngắn",
+      "dàiy"
+    ],
+    "correct": 2,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caox",
+      "caoz",
+      "thấp",
+      "caoy"
+    ],
+    "correct": 2,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "lạnh",
+      "nóngy",
+      "nóngz",
+      "nóngx"
+    ],
+    "correct": 0,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángy",
+      "sángz",
+      "tối",
+      "sángx"
+    ],
+    "correct": 2,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiy",
+      "buồn",
+      "vuiz",
+      "vuix"
+    ],
+    "correct": 1,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiz",
+      "mớiy",
+      "cũ",
+      "mớix"
+    ],
+    "correct": 2,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "ít",
+      "nhiềuz",
+      "nhiềux",
+      "nhiềuy"
+    ],
+    "correct": 0,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngz",
+      "rộngy",
+      "rộngx",
+      "hẹp"
+    ],
+    "correct": 3,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchy",
+      "sạchz",
+      "sạchx",
+      "bẩn"
+    ],
+    "correct": 3,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "cong",
+      "thẳngx",
+      "thẳngz",
+      "thẳngy"
+    ],
+    "correct": 0,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcx",
+      "sau",
+      "trướcy",
+      "trướcz"
+    ],
+    "correct": 1,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênx",
+      "trêny",
+      "dưới",
+      "trênz"
+    ],
+    "correct": 2,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongx",
+      "trongy",
+      "trongz",
+      "ngoài"
+    ],
+    "correct": 3,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhy",
+      "chậm",
+      "nhanhx",
+      "nhanhz"
+    ],
+    "correct": 1,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toz",
+      "toy",
+      "tox",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiz",
+      "ngắn",
+      "dàiy",
+      "dàix"
+    ],
+    "correct": 1,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "thấp",
+      "caoz",
+      "caox",
+      "caoy"
+    ],
+    "correct": 0,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "lạnh",
+      "nóngy",
+      "nóngx",
+      "nóngz"
+    ],
+    "correct": 0,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángx",
+      "tối",
+      "sángz",
+      "sángy"
+    ],
+    "correct": 1,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiz",
+      "buồn",
+      "vuix",
+      "vuiy"
+    ],
+    "correct": 1,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiz",
+      "mớiy",
+      "cũ",
+      "mớix"
+    ],
+    "correct": 2,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềux",
+      "nhiềuz",
+      "ít",
+      "nhiềuy"
+    ],
+    "correct": 2,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngx",
+      "hẹp",
+      "rộngy",
+      "rộngz"
+    ],
+    "correct": 1,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "bẩn",
+      "sạchy",
+      "sạchz",
+      "sạchx"
+    ],
+    "correct": 0,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngy",
+      "thẳngx",
+      "cong",
+      "thẳngz"
+    ],
+    "correct": 2,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcz",
+      "sau",
+      "trướcx",
+      "trướcy"
+    ],
+    "correct": 1,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênz",
+      "trêny",
+      "dưới",
+      "trênx"
+    ],
+    "correct": 2,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "ngoài",
+      "trongy",
+      "trongz",
+      "trongx"
+    ],
+    "correct": 0,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "chậm",
+      "nhanhy",
+      "nhanhx",
+      "nhanhz"
+    ],
+    "correct": 0,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "tox",
+      "toy",
+      "nhỏ",
+      "toz"
+    ],
+    "correct": 2,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiy",
+      "dàiz",
+      "dàix",
+      "ngắn"
+    ],
+    "correct": 3,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoy",
+      "thấp",
+      "caoz",
+      "caox"
+    ],
+    "correct": 1,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngz",
+      "nóngy",
+      "nóngx",
+      "lạnh"
+    ],
+    "correct": 3,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángz",
+      "sángy",
+      "sángx",
+      "tối"
+    ],
+    "correct": 3,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "buồn",
+      "vuiy",
+      "vuiz",
+      "vuix"
+    ],
+    "correct": 0,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớix",
+      "mớiy",
+      "mớiz",
+      "cũ"
+    ],
+    "correct": 3,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuy",
+      "nhiềuz",
+      "ít",
+      "nhiềux"
+    ],
+    "correct": 2,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "hẹp",
+      "rộngx",
+      "rộngy",
+      "rộngz"
+    ],
+    "correct": 0,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchz",
+      "sạchx",
+      "bẩn",
+      "sạchy"
+    ],
+    "correct": 2,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngy",
+      "thẳngz",
+      "cong",
+      "thẳngx"
+    ],
+    "correct": 2,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcx",
+      "trướcy",
+      "trướcz",
+      "sau"
+    ],
+    "correct": 3,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênx",
+      "trêny",
+      "trênz",
+      "dưới"
+    ],
+    "correct": 3,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongz",
+      "trongx",
+      "ngoài",
+      "trongy"
+    ],
+    "correct": 2,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhz",
+      "nhanhx",
+      "nhanhy",
+      "chậm"
+    ],
+    "correct": 3,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "tox",
+      "toy",
+      "toz",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiy",
+      "dàix",
+      "ngắn",
+      "dàiz"
+    ],
+    "correct": 2,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoz",
+      "caox",
+      "caoy",
+      "thấp"
+    ],
+    "correct": 3,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngy",
+      "lạnh",
+      "nóngx",
+      "nóngz"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángz",
+      "tối",
+      "sángy",
+      "sángx"
+    ],
+    "correct": 1,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiz",
+      "vuiy",
+      "vuix",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiy",
+      "mớiz",
+      "mớix",
+      "cũ"
+    ],
+    "correct": 3,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuz",
+      "nhiềux",
+      "nhiềuy",
+      "ít"
+    ],
+    "correct": 3,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngx",
+      "rộngy",
+      "rộngz",
+      "hẹp"
+    ],
+    "correct": 3,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchz",
+      "bẩn",
+      "sạchx",
+      "sạchy"
+    ],
+    "correct": 1,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "cong",
+      "thẳngz",
+      "thẳngx",
+      "thẳngy"
+    ],
+    "correct": 0,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcz",
+      "sau",
+      "trướcx",
+      "trướcy"
+    ],
+    "correct": 1,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "dưới",
+      "trêny",
+      "trênx",
+      "trênz"
+    ],
+    "correct": 0,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "ngoài",
+      "trongy",
+      "trongx",
+      "trongz"
+    ],
+    "correct": 0,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhz",
+      "nhanhy",
+      "nhanhx",
+      "chậm"
+    ],
+    "correct": 3,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "tox",
+      "toy",
+      "toz",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "ngắn",
+      "dàix",
+      "dàiz",
+      "dàiy"
+    ],
+    "correct": 0,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "thấp",
+      "caoz",
+      "caox",
+      "caoy"
+    ],
+    "correct": 0,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngy",
+      "lạnh",
+      "nóngx",
+      "nóngz"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángx",
+      "sángy",
+      "tối",
+      "sángz"
+    ],
+    "correct": 2,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "buồn",
+      "vuiy",
+      "vuix",
+      "vuiz"
+    ],
+    "correct": 0,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiy",
+      "cũ",
+      "mớiz",
+      "mớix"
+    ],
+    "correct": 1,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềux",
+      "nhiềuy",
+      "nhiềuz",
+      "ít"
+    ],
+    "correct": 3,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngy",
+      "rộngx",
+      "rộngz",
+      "hẹp"
+    ],
+    "correct": 3,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchy",
+      "bẩn",
+      "sạchx",
+      "sạchz"
+    ],
+    "correct": 1,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngz",
+      "thẳngx",
+      "thẳngy",
+      "cong"
+    ],
+    "correct": 3,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcx",
+      "trướcz",
+      "sau",
+      "trướcy"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "dưới",
+      "trêny",
+      "trênz",
+      "trênx"
+    ],
+    "correct": 0,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongz",
+      "ngoài",
+      "trongx",
+      "trongy"
+    ],
+    "correct": 1,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhy",
+      "chậm",
+      "nhanhx",
+      "nhanhz"
+    ],
+    "correct": 1,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toy",
+      "toz",
+      "tox",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiz",
+      "dàiy",
+      "ngắn",
+      "dàix"
+    ],
+    "correct": 2,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoy",
+      "caoz",
+      "caox",
+      "thấp"
+    ],
+    "correct": 3,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngx",
+      "lạnh",
+      "nóngy",
+      "nóngz"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "tối",
+      "sángx",
+      "sángz",
+      "sángy"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiy",
+      "vuix",
+      "vuiz",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiz",
+      "mớiy",
+      "mớix",
+      "cũ"
+    ],
+    "correct": 3,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuz",
+      "nhiềuy",
+      "ít",
+      "nhiềux"
+    ],
+    "correct": 2,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngy",
+      "rộngx",
+      "rộngz",
+      "hẹp"
+    ],
+    "correct": 3,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchy",
+      "bẩn",
+      "sạchz",
+      "sạchx"
+    ],
+    "correct": 1,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "cong",
+      "thẳngx",
+      "thẳngz",
+      "thẳngy"
+    ],
+    "correct": 0,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcx",
+      "sau",
+      "trướcz",
+      "trướcy"
+    ],
+    "correct": 1,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "dưới",
+      "trênz",
+      "trêny",
+      "trênx"
+    ],
+    "correct": 0,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongy",
+      "ngoài",
+      "trongx",
+      "trongz"
+    ],
+    "correct": 1,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhx",
+      "chậm",
+      "nhanhy",
+      "nhanhz"
+    ],
+    "correct": 1,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toy",
+      "tox",
+      "nhỏ",
+      "toz"
+    ],
+    "correct": 2,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiz",
+      "dàix",
+      "dàiy",
+      "ngắn"
+    ],
+    "correct": 3,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caox",
+      "caoy",
+      "caoz",
+      "thấp"
+    ],
+    "correct": 3,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "lạnh",
+      "nóngy",
+      "nóngx",
+      "nóngz"
+    ],
+    "correct": 0,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "tối",
+      "sángz",
+      "sángx",
+      "sángy"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiz",
+      "buồn",
+      "vuiy",
+      "vuix"
+    ],
+    "correct": 1,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiy",
+      "cũ",
+      "mớiz",
+      "mớix"
+    ],
+    "correct": 1,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "ít",
+      "nhiềuy",
+      "nhiềuz",
+      "nhiềux"
+    ],
+    "correct": 0,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngz",
+      "hẹp",
+      "rộngy",
+      "rộngx"
+    ],
+    "correct": 1,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchx",
+      "sạchy",
+      "sạchz",
+      "bẩn"
+    ],
+    "correct": 3,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngz",
+      "cong",
+      "thẳngy",
+      "thẳngx"
+    ],
+    "correct": 1,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcz",
+      "trướcy",
+      "sau",
+      "trướcx"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "dưới",
+      "trêny",
+      "trênx",
+      "trênz"
+    ],
+    "correct": 0,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongz",
+      "ngoài",
+      "trongx",
+      "trongy"
+    ],
+    "correct": 1,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhz",
+      "nhanhy",
+      "chậm",
+      "nhanhx"
+    ],
+    "correct": 2,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toy",
+      "nhỏ",
+      "tox",
+      "toz"
+    ],
+    "correct": 1,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàix",
+      "dàiy",
+      "dàiz",
+      "ngắn"
+    ],
+    "correct": 3,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoz",
+      "thấp",
+      "caox",
+      "caoy"
+    ],
+    "correct": 1,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngy",
+      "lạnh",
+      "nóngx",
+      "nóngz"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángx",
+      "sángz",
+      "sángy",
+      "tối"
+    ],
+    "correct": 3,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "buồn",
+      "vuix",
+      "vuiz",
+      "vuiy"
+    ],
+    "correct": 0,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiy",
+      "mớix",
+      "mớiz",
+      "cũ"
+    ],
+    "correct": 3,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềux",
+      "ít",
+      "nhiềuy",
+      "nhiềuz"
+    ],
+    "correct": 1,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "hẹp",
+      "rộngx",
+      "rộngz",
+      "rộngy"
+    ],
+    "correct": 0,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "bẩn",
+      "sạchx",
+      "sạchz",
+      "sạchy"
+    ],
+    "correct": 0,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngz",
+      "cong",
+      "thẳngy",
+      "thẳngx"
+    ],
+    "correct": 1,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcz",
+      "trướcy",
+      "trướcx",
+      "sau"
+    ],
+    "correct": 3,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trêny",
+      "trênz",
+      "dưới",
+      "trênx"
+    ],
+    "correct": 2,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongx",
+      "ngoài",
+      "trongy",
+      "trongz"
+    ],
+    "correct": 1,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhx",
+      "nhanhz",
+      "nhanhy",
+      "chậm"
+    ],
+    "correct": 3,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toz",
+      "nhỏ",
+      "tox",
+      "toy"
+    ],
+    "correct": 1,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiy",
+      "dàix",
+      "ngắn",
+      "dàiz"
+    ],
+    "correct": 2,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "thấp",
+      "caox",
+      "caoz",
+      "caoy"
+    ],
+    "correct": 0,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngy",
+      "nóngx",
+      "nóngz",
+      "lạnh"
+    ],
+    "correct": 3,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "tối",
+      "sángy",
+      "sángx",
+      "sángz"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "buồn",
+      "vuiz",
+      "vuiy",
+      "vuix"
+    ],
+    "correct": 0,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớix",
+      "mớiy",
+      "mớiz",
+      "cũ"
+    ],
+    "correct": 3,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuz",
+      "nhiềuy",
+      "ít",
+      "nhiềux"
+    ],
+    "correct": 2,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngz",
+      "hẹp",
+      "rộngy",
+      "rộngx"
+    ],
+    "correct": 1,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "bẩn",
+      "sạchy",
+      "sạchz",
+      "sạchx"
+    ],
+    "correct": 0,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngz",
+      "thẳngy",
+      "thẳngx",
+      "cong"
+    ],
+    "correct": 3,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcy",
+      "sau",
+      "trướcz",
+      "trướcx"
+    ],
+    "correct": 1,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "dưới",
+      "trêny",
+      "trênx",
+      "trênz"
+    ],
+    "correct": 0,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongx",
+      "ngoài",
+      "trongz",
+      "trongy"
+    ],
+    "correct": 1,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhx",
+      "chậm",
+      "nhanhz",
+      "nhanhy"
+    ],
+    "correct": 1,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "nhỏ",
+      "toy",
+      "tox",
+      "toz"
+    ],
+    "correct": 0,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "ngắn",
+      "dàiy",
+      "dàiz",
+      "dàix"
+    ],
+    "correct": 0,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoy",
+      "caoz",
+      "caox",
+      "thấp"
+    ],
+    "correct": 3,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "lạnh",
+      "nóngx",
+      "nóngy",
+      "nóngz"
+    ],
+    "correct": 0,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángz",
+      "sángx",
+      "tối",
+      "sángy"
+    ],
+    "correct": 2,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuix",
+      "buồn",
+      "vuiz",
+      "vuiy"
+    ],
+    "correct": 1,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "cũ",
+      "mớiz",
+      "mớix",
+      "mớiy"
+    ],
+    "correct": 0,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuz",
+      "ít",
+      "nhiềux",
+      "nhiềuy"
+    ],
+    "correct": 1,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngz",
+      "rộngy",
+      "hẹp",
+      "rộngx"
+    ],
+    "correct": 2,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchx",
+      "sạchz",
+      "bẩn",
+      "sạchy"
+    ],
+    "correct": 2,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngy",
+      "thẳngx",
+      "cong",
+      "thẳngz"
+    ],
+    "correct": 2,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcy",
+      "trướcz",
+      "sau",
+      "trướcx"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "dưới",
+      "trêny",
+      "trênz",
+      "trênx"
+    ],
+    "correct": 0,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "ngoài",
+      "trongz",
+      "trongx",
+      "trongy"
+    ],
+    "correct": 0,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhx",
+      "nhanhy",
+      "nhanhz",
+      "chậm"
+    ],
+    "correct": 3,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "tox",
+      "toz",
+      "toy",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiz",
+      "dàiy",
+      "dàix",
+      "ngắn"
+    ],
+    "correct": 3,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoy",
+      "thấp",
+      "caoz",
+      "caox"
+    ],
+    "correct": 1,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngz",
+      "lạnh",
+      "nóngx",
+      "nóngy"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángy",
+      "tối",
+      "sángz",
+      "sángx"
+    ],
+    "correct": 1,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiy",
+      "vuiz",
+      "buồn",
+      "vuix"
+    ],
+    "correct": 2,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớix",
+      "cũ",
+      "mớiz",
+      "mớiy"
+    ],
+    "correct": 1,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuz",
+      "ít",
+      "nhiềuy",
+      "nhiềux"
+    ],
+    "correct": 1,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngz",
+      "rộngx",
+      "rộngy",
+      "hẹp"
+    ],
+    "correct": 3,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchx",
+      "sạchy",
+      "sạchz",
+      "bẩn"
+    ],
+    "correct": 3,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "cong",
+      "thẳngx",
+      "thẳngy",
+      "thẳngz"
+    ],
+    "correct": 0,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcx",
+      "trướcy",
+      "sau",
+      "trướcz"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênz",
+      "trênx",
+      "dưới",
+      "trêny"
+    ],
+    "correct": 2,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongz",
+      "ngoài",
+      "trongy",
+      "trongx"
+    ],
+    "correct": 1,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "chậm",
+      "nhanhz",
+      "nhanhy",
+      "nhanhx"
+    ],
+    "correct": 0,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "tox",
+      "toz",
+      "toy",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "ngắn",
+      "dàix",
+      "dàiy",
+      "dàiz"
+    ],
+    "correct": 0,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "thấp",
+      "caoy",
+      "caoz",
+      "caox"
+    ],
+    "correct": 0,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngy",
+      "lạnh",
+      "nóngz",
+      "nóngx"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángx",
+      "sángz",
+      "tối",
+      "sángy"
+    ],
+    "correct": 2,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiy",
+      "vuix",
+      "vuiz",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiy",
+      "cũ",
+      "mớiz",
+      "mớix"
+    ],
+    "correct": 1,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "ít",
+      "nhiềuz",
+      "nhiềuy",
+      "nhiềux"
+    ],
+    "correct": 0,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "hẹp",
+      "rộngx",
+      "rộngz",
+      "rộngy"
+    ],
+    "correct": 0,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchx",
+      "bẩn",
+      "sạchz",
+      "sạchy"
+    ],
+    "correct": 1,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngy",
+      "cong",
+      "thẳngx",
+      "thẳngz"
+    ],
+    "correct": 1,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcx",
+      "trướcy",
+      "sau",
+      "trướcz"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "dưới",
+      "trênz",
+      "trênx",
+      "trêny"
+    ],
+    "correct": 0,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongx",
+      "trongy",
+      "ngoài",
+      "trongz"
+    ],
+    "correct": 2,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhy",
+      "nhanhx",
+      "chậm",
+      "nhanhz"
+    ],
+    "correct": 2,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "tox",
+      "toy",
+      "nhỏ",
+      "toz"
+    ],
+    "correct": 2,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàix",
+      "dàiy",
+      "dàiz",
+      "ngắn"
+    ],
+    "correct": 3,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoy",
+      "caoz",
+      "caox",
+      "thấp"
+    ],
+    "correct": 3,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "lạnh",
+      "nóngx",
+      "nóngy",
+      "nóngz"
+    ],
+    "correct": 0,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángz",
+      "tối",
+      "sángy",
+      "sángx"
+    ],
+    "correct": 1,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiy",
+      "vuiz",
+      "vuix",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiy",
+      "cũ",
+      "mớiz",
+      "mớix"
+    ],
+    "correct": 1,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuz",
+      "nhiềuy",
+      "nhiềux",
+      "ít"
+    ],
+    "correct": 3,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngz",
+      "rộngy",
+      "hẹp",
+      "rộngx"
+    ],
+    "correct": 2,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchx",
+      "sạchz",
+      "bẩn",
+      "sạchy"
+    ],
+    "correct": 2,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "cong",
+      "thẳngz",
+      "thẳngy",
+      "thẳngx"
+    ],
+    "correct": 0,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcy",
+      "trướcz",
+      "sau",
+      "trướcx"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênz",
+      "dưới",
+      "trêny",
+      "trênx"
+    ],
+    "correct": 1,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongz",
+      "trongx",
+      "ngoài",
+      "trongy"
+    ],
+    "correct": 2,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "chậm",
+      "nhanhz",
+      "nhanhy",
+      "nhanhx"
+    ],
+    "correct": 0,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toy",
+      "tox",
+      "toz",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàix",
+      "dàiz",
+      "ngắn",
+      "dàiy"
+    ],
+    "correct": 2,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "thấp",
+      "caoy",
+      "caox",
+      "caoz"
+    ],
+    "correct": 0,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "lạnh",
+      "nóngy",
+      "nóngz",
+      "nóngx"
+    ],
+    "correct": 0,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "tối",
+      "sángy",
+      "sángz",
+      "sángx"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiy",
+      "vuiz",
+      "buồn",
+      "vuix"
+    ],
+    "correct": 2,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiy",
+      "cũ",
+      "mớix",
+      "mớiz"
+    ],
+    "correct": 1,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuz",
+      "nhiềux",
+      "ít",
+      "nhiềuy"
+    ],
+    "correct": 2,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngy",
+      "rộngz",
+      "rộngx",
+      "hẹp"
+    ],
+    "correct": 3,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "bẩn",
+      "sạchx",
+      "sạchy",
+      "sạchz"
+    ],
+    "correct": 0,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngz",
+      "cong",
+      "thẳngy",
+      "thẳngx"
+    ],
+    "correct": 1,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "sau",
+      "trướcz",
+      "trướcx",
+      "trướcy"
+    ],
+    "correct": 0,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "dưới",
+      "trênz",
+      "trênx",
+      "trêny"
+    ],
+    "correct": 0,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "ngoài",
+      "trongy",
+      "trongz",
+      "trongx"
+    ],
+    "correct": 0,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhx",
+      "chậm",
+      "nhanhy",
+      "nhanhz"
+    ],
+    "correct": 1,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "tox",
+      "toz",
+      "nhỏ",
+      "toy"
+    ],
+    "correct": 2,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàix",
+      "dàiy",
+      "ngắn",
+      "dàiz"
+    ],
+    "correct": 2,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoz",
+      "caoy",
+      "caox",
+      "thấp"
+    ],
+    "correct": 3,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngy",
+      "nóngx",
+      "lạnh",
+      "nóngz"
+    ],
+    "correct": 2,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángx",
+      "tối",
+      "sángz",
+      "sángy"
+    ],
+    "correct": 1,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuix",
+      "vuiz",
+      "vuiy",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiy",
+      "mớix",
+      "cũ",
+      "mớiz"
+    ],
+    "correct": 2,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuy",
+      "nhiềuz",
+      "ít",
+      "nhiềux"
+    ],
+    "correct": 2,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "hẹp",
+      "rộngy",
+      "rộngx",
+      "rộngz"
+    ],
+    "correct": 0,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchx",
+      "sạchy",
+      "bẩn",
+      "sạchz"
+    ],
+    "correct": 2,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "cong",
+      "thẳngz",
+      "thẳngy",
+      "thẳngx"
+    ],
+    "correct": 0,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcz",
+      "trướcx",
+      "sau",
+      "trướcy"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trêny",
+      "trênz",
+      "dưới",
+      "trênx"
+    ],
+    "correct": 2,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongz",
+      "trongx",
+      "ngoài",
+      "trongy"
+    ],
+    "correct": 2,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhx",
+      "chậm",
+      "nhanhz",
+      "nhanhy"
+    ],
+    "correct": 1,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "nhỏ",
+      "toy",
+      "toz",
+      "tox"
+    ],
+    "correct": 0,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàix",
+      "dàiy",
+      "dàiz",
+      "ngắn"
+    ],
+    "correct": 3,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoz",
+      "caoy",
+      "thấp",
+      "caox"
+    ],
+    "correct": 2,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngz",
+      "lạnh",
+      "nóngy",
+      "nóngx"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángz",
+      "tối",
+      "sángx",
+      "sángy"
+    ],
+    "correct": 1,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiy",
+      "vuix",
+      "vuiz",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiy",
+      "cũ",
+      "mớix",
+      "mớiz"
+    ],
+    "correct": 1,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuy",
+      "ít",
+      "nhiềux",
+      "nhiềuz"
+    ],
+    "correct": 1,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "hẹp",
+      "rộngy",
+      "rộngx",
+      "rộngz"
+    ],
+    "correct": 0,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "bẩn",
+      "sạchx",
+      "sạchy",
+      "sạchz"
+    ],
+    "correct": 0,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngz",
+      "thẳngx",
+      "cong",
+      "thẳngy"
+    ],
+    "correct": 2,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcx",
+      "trướcz",
+      "sau",
+      "trướcy"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênz",
+      "trênx",
+      "trêny",
+      "dưới"
+    ],
+    "correct": 3,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongz",
+      "trongx",
+      "ngoài",
+      "trongy"
+    ],
+    "correct": 2,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "chậm",
+      "nhanhy",
+      "nhanhx",
+      "nhanhz"
+    ],
+    "correct": 0,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toy",
+      "nhỏ",
+      "tox",
+      "toz"
+    ],
+    "correct": 1,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiy",
+      "dàiz",
+      "dàix",
+      "ngắn"
+    ],
+    "correct": 3,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caox",
+      "caoz",
+      "thấp",
+      "caoy"
+    ],
+    "correct": 2,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngy",
+      "nóngz",
+      "nóngx",
+      "lạnh"
+    ],
+    "correct": 3,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángx",
+      "tối",
+      "sángz",
+      "sángy"
+    ],
+    "correct": 1,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiz",
+      "vuiy",
+      "vuix",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớix",
+      "cũ",
+      "mớiz",
+      "mớiy"
+    ],
+    "correct": 1,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "ít",
+      "nhiềuz",
+      "nhiềux",
+      "nhiềuy"
+    ],
+    "correct": 0,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "hẹp",
+      "rộngy",
+      "rộngx",
+      "rộngz"
+    ],
+    "correct": 0,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "bẩn",
+      "sạchy",
+      "sạchx",
+      "sạchz"
+    ],
+    "correct": 0,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "cong",
+      "thẳngz",
+      "thẳngy",
+      "thẳngx"
+    ],
+    "correct": 0,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcz",
+      "trướcy",
+      "sau",
+      "trướcx"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trêny",
+      "trênz",
+      "trênx",
+      "dưới"
+    ],
+    "correct": 3,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "ngoài",
+      "trongz",
+      "trongy",
+      "trongx"
+    ],
+    "correct": 0,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhy",
+      "nhanhx",
+      "chậm",
+      "nhanhz"
+    ],
+    "correct": 2,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toz",
+      "toy",
+      "nhỏ",
+      "tox"
+    ],
+    "correct": 2,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiy",
+      "ngắn",
+      "dàiz",
+      "dàix"
+    ],
+    "correct": 1,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "thấp",
+      "caoy",
+      "caox",
+      "caoz"
+    ],
+    "correct": 0,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "lạnh",
+      "nóngz",
+      "nóngy",
+      "nóngx"
+    ],
+    "correct": 0,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángy",
+      "tối",
+      "sángz",
+      "sángx"
+    ],
+    "correct": 1,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiy",
+      "vuix",
+      "vuiz",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớix",
+      "mớiz",
+      "cũ",
+      "mớiy"
+    ],
+    "correct": 2,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềux",
+      "nhiềuz",
+      "nhiềuy",
+      "ít"
+    ],
+    "correct": 3,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngz",
+      "rộngx",
+      "hẹp",
+      "rộngy"
+    ],
+    "correct": 2,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchz",
+      "sạchy",
+      "bẩn",
+      "sạchx"
+    ],
+    "correct": 2,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngz",
+      "thẳngx",
+      "cong",
+      "thẳngy"
+    ],
+    "correct": 2,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "sau",
+      "trướcx",
+      "trướcy",
+      "trướcz"
+    ],
+    "correct": 0,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trêny",
+      "trênx",
+      "trênz",
+      "dưới"
+    ],
+    "correct": 3,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongz",
+      "trongy",
+      "trongx",
+      "ngoài"
+    ],
+    "correct": 3,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhz",
+      "nhanhx",
+      "nhanhy",
+      "chậm"
+    ],
+    "correct": 3,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "tox",
+      "nhỏ",
+      "toy",
+      "toz"
+    ],
+    "correct": 1,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiz",
+      "dàix",
+      "dàiy",
+      "ngắn"
+    ],
+    "correct": 3,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoz",
+      "caox",
+      "thấp",
+      "caoy"
+    ],
+    "correct": 2,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngx",
+      "nóngz",
+      "lạnh",
+      "nóngy"
+    ],
+    "correct": 2,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "tối",
+      "sángy",
+      "sángz",
+      "sángx"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiz",
+      "vuix",
+      "buồn",
+      "vuiy"
+    ],
+    "correct": 2,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "cũ",
+      "mớiz",
+      "mớix",
+      "mớiy"
+    ],
+    "correct": 0,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "ít",
+      "nhiềuy",
+      "nhiềuz",
+      "nhiềux"
+    ],
+    "correct": 0,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngy",
+      "rộngx",
+      "hẹp",
+      "rộngz"
+    ],
+    "correct": 2,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchy",
+      "sạchx",
+      "bẩn",
+      "sạchz"
+    ],
+    "correct": 2,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngy",
+      "thẳngx",
+      "thẳngz",
+      "cong"
+    ],
+    "correct": 3,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcy",
+      "trướcz",
+      "trướcx",
+      "sau"
+    ],
+    "correct": 3,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênx",
+      "trênz",
+      "trêny",
+      "dưới"
+    ],
+    "correct": 3,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "ngoài",
+      "trongz",
+      "trongx",
+      "trongy"
+    ],
+    "correct": 0,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhx",
+      "nhanhy",
+      "chậm",
+      "nhanhz"
+    ],
+    "correct": 2,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "nhỏ",
+      "tox",
+      "toy",
+      "toz"
+    ],
+    "correct": 0,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiy",
+      "ngắn",
+      "dàiz",
+      "dàix"
+    ],
+    "correct": 1,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "thấp",
+      "caoz",
+      "caoy",
+      "caox"
+    ],
+    "correct": 0,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngx",
+      "lạnh",
+      "nóngy",
+      "nóngz"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "sángy",
+      "tối",
+      "sángz",
+      "sángx"
+    ],
+    "correct": 1,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "buồn",
+      "vuix",
+      "vuiy",
+      "vuiz"
+    ],
+    "correct": 0,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "cũ",
+      "mớix",
+      "mớiz",
+      "mớiy"
+    ],
+    "correct": 0,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềux",
+      "nhiềuz",
+      "ít",
+      "nhiềuy"
+    ],
+    "correct": 2,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "rộngy",
+      "hẹp",
+      "rộngx",
+      "rộngz"
+    ],
+    "correct": 1,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "bẩn",
+      "sạchz",
+      "sạchx",
+      "sạchy"
+    ],
+    "correct": 0,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngx",
+      "thẳngy",
+      "cong",
+      "thẳngz"
+    ],
+    "correct": 2,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcz",
+      "trướcy",
+      "sau",
+      "trướcx"
+    ],
+    "correct": 2,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênx",
+      "trêny",
+      "trênz",
+      "dưới"
+    ],
+    "correct": 3,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "trongx",
+      "ngoài",
+      "trongy",
+      "trongz"
+    ],
+    "correct": 1,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhy",
+      "chậm",
+      "nhanhz",
+      "nhanhx"
+    ],
+    "correct": 1,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "toy",
+      "toz",
+      "tox",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàix",
+      "dàiz",
+      "ngắn",
+      "dàiy"
+    ],
+    "correct": 2,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "caoz",
+      "caoy",
+      "thấp",
+      "caox"
+    ],
+    "correct": 2,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "lạnh",
+      "nóngz",
+      "nóngy",
+      "nóngx"
+    ],
+    "correct": 0,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là gì?",
+    "options": [
+      "tối",
+      "sángx",
+      "sángy",
+      "sángz"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là gì?",
+    "options": [
+      "vuiz",
+      "vuix",
+      "vuiy",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là gì?",
+    "options": [
+      "mớiz",
+      "mớix",
+      "cũ",
+      "mớiy"
+    ],
+    "correct": 2,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là gì?",
+    "options": [
+      "nhiềuy",
+      "ít",
+      "nhiềuz",
+      "nhiềux"
+    ],
+    "correct": 1,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là gì?",
+    "options": [
+      "hẹp",
+      "rộngy",
+      "rộngx",
+      "rộngz"
+    ],
+    "correct": 0,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sạch' là gì?",
+    "options": [
+      "sạchy",
+      "bẩn",
+      "sạchz",
+      "sạchx"
+    ],
+    "correct": 1,
+    "explain": "'sạch' và 'bẩn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'thẳng' là gì?",
+    "options": [
+      "thẳngx",
+      "thẳngz",
+      "cong",
+      "thẳngy"
+    ],
+    "correct": 2,
+    "explain": "'thẳng' và 'cong' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trước' là gì?",
+    "options": [
+      "trướcy",
+      "trướcx",
+      "trướcz",
+      "sau"
+    ],
+    "correct": 3,
+    "explain": "'trước' và 'sau' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trên' là gì?",
+    "options": [
+      "trênx",
+      "trêny",
+      "dưới",
+      "trênz"
+    ],
+    "correct": 2,
+    "explain": "'trên' và 'dưới' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'trong' là gì?",
+    "options": [
+      "ngoài",
+      "trongy",
+      "trongz",
+      "trongx"
+    ],
+    "correct": 0,
+    "explain": "'trong' và 'ngoài' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là gì?",
+    "options": [
+      "nhanhx",
+      "chậm",
+      "nhanhy",
+      "nhanhz"
+    ],
+    "correct": 1,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là gì?",
+    "options": [
+      "nhỏ",
+      "toz",
+      "toy",
+      "tox"
+    ],
+    "correct": 0,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là gì?",
+    "options": [
+      "dàiz",
+      "ngắn",
+      "dàix",
+      "dàiy"
+    ],
+    "correct": 1,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là gì?",
+    "options": [
+      "thấp",
+      "caox",
+      "caoz",
+      "caoy"
+    ],
+    "correct": 0,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là gì?",
+    "options": [
+      "nóngx",
+      "nóngz",
+      "nóngy",
+      "lạnh"
+    ],
+    "correct": 3,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  }
+]

@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Nghĩa của từ 'FAMILY' là gì?",
+    "options": [
+      "gia đình",
+      "gia đình khác 3",
+      "gia đình khác 1",
+      "gia đình khác 2"
+    ],
+    "correct": 0,
+    "explain": "'family' trong tiếng Anh có nghĩa là gia đình."
+  },
+  {
+    "question": "Nghĩa của từ 'FATHER' là gì?",
+    "options": [
+      "bố khác 3",
+      "bố",
+      "bố khác 2",
+      "bố khác 1"
+    ],
+    "correct": 1,
+    "explain": "'father' trong tiếng Anh có nghĩa là bố."
+  },
+  {
+    "question": "Nghĩa của từ 'MOTHER' là gì?",
+    "options": [
+      "mẹ khác 3",
+      "mẹ khác 1",
+      "mẹ",
+      "mẹ khác 2"
+    ],
+    "correct": 2,
+    "explain": "'mother' trong tiếng Anh có nghĩa là mẹ."
+  },
+  {
+    "question": "Nghĩa của từ 'BROTHER' là gì?",
+    "options": [
+      "anh/em trai khác 1",
+      "anh/em trai",
+      "anh/em trai khác 3",
+      "anh/em trai khác 2"
+    ],
+    "correct": 1,
+    "explain": "'brother' trong tiếng Anh có nghĩa là anh/em trai."
+  },
+  {
+    "question": "Nghĩa của từ 'SISTER' là gì?",
+    "options": [
+      "chị/em gái khác 2",
+      "chị/em gái khác 1",
+      "chị/em gái khác 3",
+      "chị/em gái"
+    ],
+    "correct": 3,
+    "explain": "'sister' trong tiếng Anh có nghĩa là chị/em gái."
+  },
+  {
+    "question": "Nghĩa của từ 'CLASSROOM' là gì?",
+    "options": [
+      "lớp học khác 1",
+      "lớp học khác 2",
+      "lớp học khác 3",
+      "lớp học"
+    ],
+    "correct": 3,
+    "explain": "'classroom' trong tiếng Anh có nghĩa là lớp học."
+  },
+  {
+    "question": "Nghĩa của từ 'TEACHER' là gì?",
+    "options": [
+      "giáo viên khác 2",
+      "giáo viên",
+      "giáo viên khác 3",
+      "giáo viên khác 1"
+    ],
+    "correct": 1,
+    "explain": "'teacher' trong tiếng Anh có nghĩa là giáo viên."
+  },
+  {
+    "question": "Nghĩa của từ 'PENCIL' là gì?",
+    "options": [
+      "bút chì khác 3",
+      "bút chì khác 1",
+      "bút chì",
+      "bút chì khác 2"
+    ],
+    "correct": 2,
+    "explain": "'pencil' trong tiếng Anh có nghĩa là bút chì."
+  },
+  {
+    "question": "Nghĩa của từ 'ERASER' là gì?",
+    "options": [
+      "cục tẩy khác 1",
+      "cục tẩy khác 3",
+      "cục tẩy",
+      "cục tẩy khác 2"
+    ],
+    "correct": 2,
+    "explain": "'eraser' trong tiếng Anh có nghĩa là cục tẩy."
+  },
+  {
+    "question": "Nghĩa của từ 'RULER' là gì?",
+    "options": [
+      "thước kẻ",
+      "thước kẻ khác 1",
+      "thước kẻ khác 3",
+      "thước kẻ khác 2"
+    ],
+    "correct": 0,
+    "explain": "'ruler' trong tiếng Anh có nghĩa là thước kẻ."
+  },
+  {
+    "question": "Nghĩa của từ 'WEATHER' là gì?",
+    "options": [
+      "thời tiết khác 2",
+      "thời tiết khác 1",
+      "thời tiết",
+      "thời tiết khác 3"
+    ],
+    "correct": 2,
+    "explain": "'weather' trong tiếng Anh có nghĩa là thời tiết."
+  },
+  {
+    "question": "Nghĩa của từ 'SUNNY' là gì?",
+    "options": [
+      "nắng",
+      "nắng khác 2",
+      "nắng khác 3",
+      "nắng khác 1"
+    ],
+    "correct": 0,
+    "explain": "'sunny' trong tiếng Anh có nghĩa là nắng."
+  },
+  {
+    "question": "Nghĩa của từ 'RAINY' là gì?",
+    "options": [
+      "mưa khác 1",
+      "mưa khác 3",
+      "mưa",
+      "mưa khác 2"
+    ],
+    "correct": 2,
+    "explain": "'rainy' trong tiếng Anh có nghĩa là mưa."
+  },
+  {
+    "question": "Nghĩa của từ 'CLOUDY' là gì?",
+    "options": [
+      "nhiều mây",
+      "nhiều mây khác 2",
+      "nhiều mây khác 1",
+      "nhiều mây khác 3"
+    ],
+    "correct": 0,
+    "explain": "'cloudy' trong tiếng Anh có nghĩa là nhiều mây."
+  },
+  {
+    "question": "Nghĩa của từ 'WINDY' là gì?",
+    "options": [
+      "có gió",
+      "có gió khác 2",
+      "có gió khác 1",
+      "có gió khác 3"
+    ],
+    "correct": 0,
+    "explain": "'windy' trong tiếng Anh có nghĩa là có gió."
+  },
+  {
+    "question": "Nghĩa của từ 'PLAYGROUND' là gì?",
+    "options": [
+      "sân chơi khác 2",
+      "sân chơi",
+      "sân chơi khác 1",
+      "sân chơi khác 3"
+    ],
+    "correct": 1,
+    "explain": "'playground' trong tiếng Anh có nghĩa là sân chơi."
+  },
+  {
+    "question": "Nghĩa của từ 'LIBRARY' là gì?",
+    "options": [
+      "thư viện khác 1",
+      "thư viện",
+      "thư viện khác 2",
+      "thư viện khác 3"
+    ],
+    "correct": 1,
+    "explain": "'library' trong tiếng Anh có nghĩa là thư viện."
+  },
+  {
+    "question": "Nghĩa của từ 'COMPUTER' là gì?",
+    "options": [
+      "máy tính khác 3",
+      "máy tính khác 2",
+      "máy tính khác 1",
+      "máy tính"
+    ],
+    "correct": 3,
+    "explain": "'computer' trong tiếng Anh có nghĩa là máy tính."
+  },
+  {
+    "question": "Nghĩa của từ 'DESK' là gì?",
+    "options": [
+      "bàn học khác 2",
+      "bàn học",
+      "bàn học khác 1",
+      "bàn học khác 3"
+    ],
+    "correct": 1,
+    "explain": "'desk' trong tiếng Anh có nghĩa là bàn học."
+  },
+  {
+    "question": "What ___ your name?",
+    "options": [
+      "be",
+      "are",
+      "am",
+      "is"
+    ],
+    "correct": 3,
+    "explain": "Cấu trúc 'What is your name?' hỏi tên."
+  },
+  {
+    "question": "How old ___ you?",
+    "options": [
+      "am",
+      "is",
+      "be",
+      "are"
+    ],
+    "correct": 3,
+    "explain": "Cấu trúc 'How old are you?' hỏi tuổi."
+  },
+  {
+    "question": "This ___ my friend.",
+    "options": [
+      "am",
+      "are",
+      "be",
+      "is"
+    ],
+    "correct": 3,
+    "explain": "'This' đi với động từ to-be số ít 'is'."
+  },
+  {
+    "question": "These ___ my books.",
+    "options": [
+      "are",
+      "is",
+      "be",
+      "am"
+    ],
+    "correct": 0,
+    "explain": "'These' đi với động từ to-be số nhiều 'are'."
+  },
+  {
+    "question": "I ___ from Vietnam.",
+    "options": [
+      "are",
+      "is",
+      "be",
+      "am"
+    ],
+    "correct": 3,
+    "explain": "Chủ ngữ 'I' đi với 'am'."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "cat",
+      "dog",
+      "classroom",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "teacher",
+      "cat",
+      "dog",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "cat",
+      "sun",
+      "pencil",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "cat",
+      "apple",
+      "eraser",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "apple",
+      "sun",
+      "ruler",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "apple",
+      "dog",
+      "weather",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "sun",
+      "sunny",
+      "apple",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "sun",
+      "apple",
+      "rainy",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "sun",
+      "dog",
+      "cat",
+      "cloudy"
+    ],
+    "correct": 3,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "cat",
+      "sun",
+      "dog",
+      "windy"
+    ],
+    "correct": 3,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "apple",
+      "cat",
+      "sun",
+      "playground"
+    ],
+    "correct": 3,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "dog",
+      "apple",
+      "sun",
+      "library"
+    ],
+    "correct": 3,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "dog",
+      "sun",
+      "computer",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "sun",
+      "cat",
+      "desk",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "sun",
+      "dog",
+      "apple",
+      "family"
+    ],
+    "correct": 3,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "dog",
+      "father",
+      "cat",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "mother",
+      "apple",
+      "dog",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "brother",
+      "cat",
+      "apple",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sister",
+      "sun",
+      "cat",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "cat",
+      "apple",
+      "classroom",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "sun",
+      "teacher",
+      "dog",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "cat",
+      "dog",
+      "apple",
+      "pencil"
+    ],
+    "correct": 3,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "sun",
+      "eraser",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "apple",
+      "ruler",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "cat",
+      "dog",
+      "weather",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "dog",
+      "sun",
+      "cat",
+      "sunny"
+    ],
+    "correct": 3,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "sun",
+      "cat",
+      "dog",
+      "rainy"
+    ],
+    "correct": 3,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "cloudy",
+      "dog",
+      "cat",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "cat",
+      "windy",
+      "sun",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "sun",
+      "dog",
+      "playground",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "sun",
+      "dog",
+      "apple",
+      "library"
+    ],
+    "correct": 3,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "computer",
+      "cat",
+      "sun",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "cat",
+      "desk",
+      "apple",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "sun",
+      "cat",
+      "family",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "apple",
+      "cat",
+      "dog",
+      "father"
+    ],
+    "correct": 3,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "apple",
+      "dog",
+      "sun",
+      "mother"
+    ],
+    "correct": 3,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "sun",
+      "dog",
+      "apple",
+      "brother"
+    ],
+    "correct": 3,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "apple",
+      "dog",
+      "sister",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "apple",
+      "sun",
+      "classroom",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "apple",
+      "cat",
+      "teacher",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "cat",
+      "apple",
+      "dog",
+      "pencil"
+    ],
+    "correct": 3,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "eraser",
+      "dog",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "dog",
+      "ruler",
+      "cat",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "weather",
+      "sun",
+      "apple",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "dog",
+      "sun",
+      "sunny",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "cat",
+      "rainy",
+      "apple",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "sun",
+      "dog",
+      "cat",
+      "cloudy"
+    ],
+    "correct": 3,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "dog",
+      "apple",
+      "windy",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "apple",
+      "playground",
+      "dog",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "dog",
+      "cat",
+      "sun",
+      "library"
+    ],
+    "correct": 3,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "sun",
+      "apple",
+      "cat",
+      "computer"
+    ],
+    "correct": 3,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "desk",
+      "cat",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "family",
+      "dog",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "sun",
+      "dog",
+      "cat",
+      "father"
+    ],
+    "correct": 3,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "dog",
+      "mother",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "apple",
+      "sun",
+      "dog",
+      "brother"
+    ],
+    "correct": 3,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sister",
+      "dog",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "classroom",
+      "sun",
+      "dog",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "apple",
+      "cat",
+      "sun",
+      "teacher"
+    ],
+    "correct": 3,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "apple",
+      "pencil",
+      "dog",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "apple",
+      "eraser",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "ruler",
+      "cat",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "weather",
+      "dog",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "cat",
+      "dog",
+      "sunny",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "apple",
+      "dog",
+      "sun",
+      "rainy"
+    ],
+    "correct": 3,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "sun",
+      "dog",
+      "cloudy",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "windy",
+      "dog",
+      "cat",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "dog",
+      "playground",
+      "cat",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "cat",
+      "dog",
+      "apple",
+      "library"
+    ],
+    "correct": 3,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "apple",
+      "dog",
+      "cat",
+      "computer"
+    ],
+    "correct": 3,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "sun",
+      "desk",
+      "dog",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "apple",
+      "family",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "dog",
+      "cat",
+      "apple",
+      "father"
+    ],
+    "correct": 3,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "mother",
+      "cat",
+      "sun",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "cat",
+      "apple",
+      "sun",
+      "brother"
+    ],
+    "correct": 3,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "dog",
+      "sister",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "apple",
+      "dog",
+      "sun",
+      "classroom"
+    ],
+    "correct": 3,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "teacher",
+      "dog",
+      "cat",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "dog",
+      "cat",
+      "apple",
+      "pencil"
+    ],
+    "correct": 3,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "cat",
+      "eraser",
+      "sun",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "cat",
+      "apple",
+      "ruler",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "apple",
+      "cat",
+      "weather",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "sunny",
+      "apple",
+      "cat",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "apple",
+      "rainy",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "cloudy",
+      "sun",
+      "cat",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "apple",
+      "windy",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "sun",
+      "apple",
+      "dog",
+      "playground"
+    ],
+    "correct": 3,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "apple",
+      "library",
+      "sun",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "cat",
+      "dog",
+      "sun",
+      "computer"
+    ],
+    "correct": 3,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "cat",
+      "desk",
+      "dog",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "apple",
+      "family",
+      "dog",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "cat",
+      "dog",
+      "apple",
+      "father"
+    ],
+    "correct": 3,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "mother",
+      "sun",
+      "dog",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "dog",
+      "sun",
+      "cat",
+      "brother"
+    ],
+    "correct": 3,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sun",
+      "apple",
+      "dog",
+      "sister"
+    ],
+    "correct": 3,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "dog",
+      "apple",
+      "cat",
+      "classroom"
+    ],
+    "correct": 3,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "teacher",
+      "sun",
+      "dog",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "pencil",
+      "cat",
+      "sun",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "apple",
+      "dog",
+      "sun",
+      "eraser"
+    ],
+    "correct": 3,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "ruler",
+      "apple",
+      "dog",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "cat",
+      "dog",
+      "sun",
+      "weather"
+    ],
+    "correct": 3,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "dog",
+      "sunny",
+      "cat",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "dog",
+      "cat",
+      "rainy",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "cat",
+      "sun",
+      "cloudy",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "sun",
+      "dog",
+      "windy",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "playground",
+      "cat",
+      "dog",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "dog",
+      "sun",
+      "cat",
+      "library"
+    ],
+    "correct": 3,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "cat",
+      "apple",
+      "computer",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "desk",
+      "apple",
+      "cat",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "family",
+      "cat",
+      "apple",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "sun",
+      "father",
+      "dog",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "apple",
+      "dog",
+      "cat",
+      "mother"
+    ],
+    "correct": 3,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "brother",
+      "cat",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sun",
+      "dog",
+      "sister",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "sun",
+      "cat",
+      "classroom",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "apple",
+      "teacher",
+      "dog",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "pencil",
+      "dog",
+      "sun",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "eraser",
+      "apple",
+      "cat",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "cat",
+      "dog",
+      "ruler",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "apple",
+      "dog",
+      "sun",
+      "weather"
+    ],
+    "correct": 3,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "apple",
+      "sunny",
+      "sun",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "sun",
+      "rainy",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "cloudy",
+      "sun",
+      "apple",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "dog",
+      "sun",
+      "apple",
+      "windy"
+    ],
+    "correct": 3,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "sun",
+      "apple",
+      "cat",
+      "playground"
+    ],
+    "correct": 3,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "apple",
+      "cat",
+      "library",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "cat",
+      "computer",
+      "apple",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "apple",
+      "sun",
+      "desk",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "cat",
+      "apple",
+      "dog",
+      "family"
+    ],
+    "correct": 3,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "dog",
+      "father",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "cat",
+      "apple",
+      "dog",
+      "mother"
+    ],
+    "correct": 3,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "cat",
+      "dog",
+      "apple",
+      "brother"
+    ],
+    "correct": 3,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sister",
+      "apple",
+      "cat",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "classroom",
+      "sun",
+      "dog",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "dog",
+      "teacher",
+      "apple",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "sun",
+      "pencil",
+      "apple",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "eraser",
+      "apple",
+      "cat",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "sun",
+      "ruler",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "sun",
+      "cat",
+      "apple",
+      "weather"
+    ],
+    "correct": 3,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "apple",
+      "dog",
+      "sunny",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "apple",
+      "rainy",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "apple",
+      "cloudy",
+      "dog",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "dog",
+      "apple",
+      "windy",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "playground",
+      "dog",
+      "apple",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "dog",
+      "library",
+      "sun",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "sun",
+      "dog",
+      "apple",
+      "computer"
+    ],
+    "correct": 3,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "cat",
+      "apple",
+      "dog",
+      "desk"
+    ],
+    "correct": 3,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "apple",
+      "family",
+      "sun",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "dog",
+      "apple",
+      "father",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "dog",
+      "cat",
+      "mother",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "brother",
+      "dog",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "dog",
+      "cat",
+      "sister",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "apple",
+      "classroom",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "cat",
+      "dog",
+      "apple",
+      "teacher"
+    ],
+    "correct": 3,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "apple",
+      "pencil",
+      "dog",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "eraser",
+      "apple",
+      "sun",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "dog",
+      "apple",
+      "cat",
+      "ruler"
+    ],
+    "correct": 3,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "apple",
+      "sun",
+      "weather",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "sun",
+      "cat",
+      "apple",
+      "sunny"
+    ],
+    "correct": 3,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "apple",
+      "sun",
+      "rainy",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "dog",
+      "apple",
+      "cloudy",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "apple",
+      "sun",
+      "windy",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "cat",
+      "dog",
+      "apple",
+      "playground"
+    ],
+    "correct": 3,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "library",
+      "dog",
+      "cat",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "sun",
+      "apple",
+      "cat",
+      "computer"
+    ],
+    "correct": 3,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "desk",
+      "cat",
+      "dog",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "sun",
+      "apple",
+      "family",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "sun",
+      "father",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "apple",
+      "dog",
+      "sun",
+      "mother"
+    ],
+    "correct": 3,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "apple",
+      "cat",
+      "brother",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sun",
+      "cat",
+      "sister",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "sun",
+      "apple",
+      "classroom",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "cat",
+      "teacher",
+      "dog",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "apple",
+      "cat",
+      "pencil",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "eraser",
+      "apple",
+      "sun",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "ruler",
+      "cat",
+      "sun",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "cat",
+      "weather",
+      "sun",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "sun",
+      "dog",
+      "sunny",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "sun",
+      "dog",
+      "rainy",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "cloudy",
+      "apple",
+      "sun",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "apple",
+      "dog",
+      "windy",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "sun",
+      "playground",
+      "dog",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "dog",
+      "library",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "dog",
+      "cat",
+      "computer",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "cat",
+      "sun",
+      "apple",
+      "desk"
+    ],
+    "correct": 3,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "cat",
+      "family",
+      "apple",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "cat",
+      "father",
+      "apple",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "dog",
+      "sun",
+      "apple",
+      "mother"
+    ],
+    "correct": 3,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "apple",
+      "cat",
+      "sun",
+      "brother"
+    ],
+    "correct": 3,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "apple",
+      "cat",
+      "sun",
+      "sister"
+    ],
+    "correct": 3,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "apple",
+      "dog",
+      "cat",
+      "classroom"
+    ],
+    "correct": 3,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "teacher",
+      "apple",
+      "dog",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "sun",
+      "dog",
+      "pencil",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "dog",
+      "cat",
+      "apple",
+      "eraser"
+    ],
+    "correct": 3,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "sun",
+      "dog",
+      "ruler",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "apple",
+      "dog",
+      "weather",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "sun",
+      "dog",
+      "apple",
+      "sunny"
+    ],
+    "correct": 3,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "cat",
+      "dog",
+      "rainy",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "dog",
+      "apple",
+      "cloudy",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "cat",
+      "windy",
+      "sun",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "dog",
+      "cat",
+      "sun",
+      "playground"
+    ],
+    "correct": 3,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "library",
+      "apple",
+      "sun",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "cat",
+      "computer",
+      "dog",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "desk",
+      "cat",
+      "apple",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "family",
+      "apple",
+      "dog",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "cat",
+      "sun",
+      "dog",
+      "father"
+    ],
+    "correct": 3,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "sun",
+      "cat",
+      "apple",
+      "mother"
+    ],
+    "correct": 3,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "sun",
+      "cat",
+      "apple",
+      "brother"
+    ],
+    "correct": 3,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sun",
+      "dog",
+      "sister",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "dog",
+      "sun",
+      "classroom",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "sun",
+      "dog",
+      "teacher",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "cat",
+      "sun",
+      "apple",
+      "pencil"
+    ],
+    "correct": 3,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "apple",
+      "sun",
+      "eraser",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "cat",
+      "dog",
+      "ruler",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "sun",
+      "dog",
+      "cat",
+      "weather"
+    ],
+    "correct": 3,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "dog",
+      "apple",
+      "sunny",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "sun",
+      "apple",
+      "rainy",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "cloudy",
+      "cat",
+      "apple",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "cat",
+      "windy",
+      "sun",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "dog",
+      "sun",
+      "playground",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "cat",
+      "apple",
+      "library",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "computer",
+      "apple",
+      "dog",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "apple",
+      "desk",
+      "dog",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "family",
+      "cat",
+      "sun",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "apple",
+      "father",
+      "cat",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "dog",
+      "cat",
+      "apple",
+      "mother"
+    ],
+    "correct": 3,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "apple",
+      "brother",
+      "dog",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "apple",
+      "sun",
+      "dog",
+      "sister"
+    ],
+    "correct": 3,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "classroom",
+      "cat",
+      "sun",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "teacher",
+      "dog",
+      "sun",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "dog",
+      "apple",
+      "pencil",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "cat",
+      "apple",
+      "eraser",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "dog",
+      "apple",
+      "sun",
+      "ruler"
+    ],
+    "correct": 3,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "apple",
+      "cat",
+      "weather",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "dog",
+      "cat",
+      "sun",
+      "sunny"
+    ],
+    "correct": 3,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "rainy",
+      "cat",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "cat",
+      "apple",
+      "cloudy",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "windy",
+      "sun",
+      "apple",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "sun",
+      "cat",
+      "playground",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "apple",
+      "library",
+      "sun",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "apple",
+      "computer",
+      "cat",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "desk",
+      "cat",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "sun",
+      "cat",
+      "family",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "father",
+      "cat",
+      "dog",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "sun",
+      "cat",
+      "mother",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "brother",
+      "sun",
+      "apple",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "cat",
+      "sister",
+      "apple",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "cat",
+      "apple",
+      "dog",
+      "classroom"
+    ],
+    "correct": 3,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "apple",
+      "teacher",
+      "sun",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "apple",
+      "pencil",
+      "dog",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "cat",
+      "sun",
+      "eraser",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "cat",
+      "dog",
+      "sun",
+      "ruler"
+    ],
+    "correct": 3,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "dog",
+      "sun",
+      "weather",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "cat",
+      "dog",
+      "sunny",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "sun",
+      "apple",
+      "rainy",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "sun",
+      "dog",
+      "cloudy",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "dog",
+      "sun",
+      "cat",
+      "windy"
+    ],
+    "correct": 3,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "sun",
+      "dog",
+      "playground",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "cat",
+      "library",
+      "dog",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "dog",
+      "computer",
+      "cat",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "sun",
+      "apple",
+      "cat",
+      "desk"
+    ],
+    "correct": 3,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "sun",
+      "dog",
+      "family",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "sun",
+      "father",
+      "dog",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "sun",
+      "dog",
+      "cat",
+      "mother"
+    ],
+    "correct": 3,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "apple",
+      "sun",
+      "brother",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sister",
+      "cat",
+      "apple",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "apple",
+      "cat",
+      "classroom",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "dog",
+      "cat",
+      "teacher",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "sun",
+      "apple",
+      "pencil",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "sun",
+      "dog",
+      "apple",
+      "eraser"
+    ],
+    "correct": 3,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "ruler",
+      "sun",
+      "apple",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "weather",
+      "dog",
+      "cat",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "dog",
+      "cat",
+      "sunny",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "rainy",
+      "cat",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "cloudy",
+      "sun",
+      "cat",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "windy",
+      "sun",
+      "dog",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "playground",
+      "dog",
+      "apple",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "library",
+      "apple",
+      "sun",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "computer",
+      "apple",
+      "sun",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "apple",
+      "desk",
+      "sun",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "apple",
+      "cat",
+      "family",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "father",
+      "cat",
+      "apple",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "sun",
+      "cat",
+      "mother",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "brother",
+      "dog",
+      "cat",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sun",
+      "apple",
+      "sister",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "classroom",
+      "dog",
+      "apple",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "dog",
+      "cat",
+      "apple",
+      "teacher"
+    ],
+    "correct": 3,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "pencil",
+      "sun",
+      "cat",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "apple",
+      "cat",
+      "sun",
+      "eraser"
+    ],
+    "correct": 3,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "sun",
+      "dog",
+      "ruler",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "dog",
+      "sun",
+      "cat",
+      "weather"
+    ],
+    "correct": 3,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "cat",
+      "sun",
+      "sunny",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "cat",
+      "rainy",
+      "apple",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "dog",
+      "sun",
+      "cloudy",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "apple",
+      "windy",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "apple",
+      "playground",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "sun",
+      "dog",
+      "apple",
+      "library"
+    ],
+    "correct": 3,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "cat",
+      "apple",
+      "computer",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "sun",
+      "dog",
+      "desk",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "apple",
+      "family",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "apple",
+      "father",
+      "dog",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "mother",
+      "dog",
+      "cat",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "sun",
+      "cat",
+      "brother",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sister",
+      "cat",
+      "apple",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "sun",
+      "classroom",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "teacher",
+      "apple",
+      "sun",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "sun",
+      "pencil",
+      "apple",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "apple",
+      "sun",
+      "cat",
+      "eraser"
+    ],
+    "correct": 3,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "cat",
+      "sun",
+      "dog",
+      "ruler"
+    ],
+    "correct": 3,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "cat",
+      "apple",
+      "sun",
+      "weather"
+    ],
+    "correct": 3,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "sunny",
+      "sun",
+      "apple",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "apple",
+      "rainy",
+      "dog",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "cloudy",
+      "apple",
+      "dog",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "sun",
+      "windy",
+      "dog",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "cat",
+      "dog",
+      "playground",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "sun",
+      "dog",
+      "library",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "apple",
+      "computer",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "desk",
+      "sun",
+      "dog",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "dog",
+      "cat",
+      "apple",
+      "family"
+    ],
+    "correct": 3,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "cat",
+      "father",
+      "dog",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "mother",
+      "dog",
+      "cat",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "apple",
+      "cat",
+      "sun",
+      "brother"
+    ],
+    "correct": 3,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "apple",
+      "sister",
+      "dog",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "sun",
+      "classroom",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "apple",
+      "sun",
+      "teacher",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "pencil",
+      "apple",
+      "dog",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "cat",
+      "apple",
+      "dog",
+      "eraser"
+    ],
+    "correct": 3,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "sun",
+      "ruler",
+      "dog",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "sun",
+      "cat",
+      "dog",
+      "weather"
+    ],
+    "correct": 3,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "cat",
+      "dog",
+      "apple",
+      "sunny"
+    ],
+    "correct": 3,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "dog",
+      "rainy",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "cat",
+      "cloudy",
+      "dog",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "apple",
+      "dog",
+      "cat",
+      "windy"
+    ],
+    "correct": 3,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "sun",
+      "cat",
+      "playground",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "sun",
+      "cat",
+      "library",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "apple",
+      "cat",
+      "computer",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "desk",
+      "dog",
+      "apple",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "family",
+      "cat",
+      "sun",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "sun",
+      "father",
+      "dog",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "apple",
+      "dog",
+      "cat",
+      "mother"
+    ],
+    "correct": 3,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "brother",
+      "apple",
+      "cat",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sun",
+      "sister",
+      "dog",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "apple",
+      "cat",
+      "sun",
+      "classroom"
+    ],
+    "correct": 3,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "sun",
+      "dog",
+      "teacher",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "dog",
+      "pencil",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "cat",
+      "dog",
+      "sun",
+      "eraser"
+    ],
+    "correct": 3,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "sun",
+      "cat",
+      "ruler",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "weather",
+      "dog",
+      "sun",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "apple",
+      "sunny",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "dog",
+      "apple",
+      "sun",
+      "rainy"
+    ],
+    "correct": 3,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "cloudy",
+      "dog",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "cat",
+      "windy",
+      "sun",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "sun",
+      "playground",
+      "dog",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "apple",
+      "sun",
+      "cat",
+      "library"
+    ],
+    "correct": 3,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "sun",
+      "dog",
+      "computer",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "desk",
+      "cat",
+      "dog",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "family",
+      "dog",
+      "apple",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "cat",
+      "sun",
+      "dog",
+      "father"
+    ],
+    "correct": 3,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "mother",
+      "sun",
+      "dog",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "sun",
+      "cat",
+      "brother",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "apple",
+      "cat",
+      "dog",
+      "sister"
+    ],
+    "correct": 3,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "cat",
+      "apple",
+      "sun",
+      "classroom"
+    ],
+    "correct": 3,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "dog",
+      "teacher",
+      "cat",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "cat",
+      "apple",
+      "dog",
+      "pencil"
+    ],
+    "correct": 3,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "cat",
+      "dog",
+      "eraser",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "cat",
+      "ruler",
+      "sun",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "weather",
+      "apple",
+      "dog",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "cat",
+      "sunny",
+      "sun",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "dog",
+      "cat",
+      "sun",
+      "rainy"
+    ],
+    "correct": 3,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "apple",
+      "cloudy",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "cat",
+      "sun",
+      "windy",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "apple",
+      "sun",
+      "cat",
+      "playground"
+    ],
+    "correct": 3,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "sun",
+      "apple",
+      "library",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "computer",
+      "dog",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "dog",
+      "desk",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "cat",
+      "apple",
+      "family",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "father",
+      "sun",
+      "apple",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "mother",
+      "sun",
+      "dog",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "dog",
+      "apple",
+      "cat",
+      "brother"
+    ],
+    "correct": 3,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sister",
+      "cat",
+      "dog",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "sun",
+      "apple",
+      "classroom",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "sun",
+      "cat",
+      "dog",
+      "teacher"
+    ],
+    "correct": 3,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "dog",
+      "cat",
+      "sun",
+      "pencil"
+    ],
+    "correct": 3,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "cat",
+      "apple",
+      "eraser",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "dog",
+      "cat",
+      "apple",
+      "ruler"
+    ],
+    "correct": 3,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "apple",
+      "weather",
+      "cat",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "sunny",
+      "sun",
+      "cat",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "sun",
+      "dog",
+      "rainy",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "cat",
+      "apple",
+      "sun",
+      "cloudy"
+    ],
+    "correct": 3,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "apple",
+      "cat",
+      "windy",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "cat",
+      "dog",
+      "playground",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "library",
+      "cat",
+      "apple",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "sun",
+      "apple",
+      "dog",
+      "computer"
+    ],
+    "correct": 3,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "dog",
+      "sun",
+      "desk",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "cat",
+      "dog",
+      "family",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "apple",
+      "dog",
+      "father",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "mother",
+      "apple",
+      "sun",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "sun",
+      "brother",
+      "apple",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "cat",
+      "sister",
+      "apple",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "apple",
+      "sun",
+      "classroom",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "teacher",
+      "apple",
+      "cat",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "cat",
+      "dog",
+      "apple",
+      "pencil"
+    ],
+    "correct": 3,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "dog",
+      "sun",
+      "eraser",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "ruler",
+      "cat",
+      "apple",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "weather",
+      "sun",
+      "dog",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "sunny",
+      "cat",
+      "apple",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "sun",
+      "rainy",
+      "cat",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "apple",
+      "cat",
+      "cloudy",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "windy",
+      "dog",
+      "apple",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "playground",
+      "sun",
+      "dog",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "sun",
+      "apple",
+      "library",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "computer",
+      "dog",
+      "cat",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "desk",
+      "apple",
+      "cat",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "cat",
+      "family",
+      "dog",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "dog",
+      "cat",
+      "father",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "cat",
+      "mother",
+      "dog",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "brother",
+      "apple",
+      "sun",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sun",
+      "sister",
+      "dog",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "sun",
+      "cat",
+      "apple",
+      "classroom"
+    ],
+    "correct": 3,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "cat",
+      "dog",
+      "sun",
+      "teacher"
+    ],
+    "correct": 3,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "dog",
+      "pencil",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "dog",
+      "eraser",
+      "sun",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "cat",
+      "apple",
+      "ruler",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "dog",
+      "weather",
+      "sun",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "dog",
+      "cat",
+      "sunny",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "rainy",
+      "apple",
+      "dog",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "apple",
+      "sun",
+      "cloudy",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "windy",
+      "sun",
+      "cat",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "apple",
+      "dog",
+      "playground",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "dog",
+      "library",
+      "cat",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "sun",
+      "computer",
+      "cat",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "desk",
+      "dog",
+      "sun",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "cat",
+      "sun",
+      "family",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "cat",
+      "sun",
+      "father",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "sun",
+      "mother",
+      "apple",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "brother",
+      "sun",
+      "apple",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sun",
+      "dog",
+      "sister",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "sun",
+      "classroom",
+      "apple",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "dog",
+      "cat",
+      "sun",
+      "teacher"
+    ],
+    "correct": 3,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "sun",
+      "cat",
+      "dog",
+      "pencil"
+    ],
+    "correct": 3,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "dog",
+      "eraser",
+      "sun",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "sun",
+      "cat",
+      "dog",
+      "ruler"
+    ],
+    "correct": 3,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "cat",
+      "weather",
+      "dog",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "sun",
+      "sunny",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "rainy",
+      "apple",
+      "sun",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "dog",
+      "cloudy",
+      "apple",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "apple",
+      "sun",
+      "cat",
+      "windy"
+    ],
+    "correct": 3,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "apple",
+      "cat",
+      "playground",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "cat",
+      "dog",
+      "library",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "cat",
+      "sun",
+      "apple",
+      "computer"
+    ],
+    "correct": 3,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "dog",
+      "cat",
+      "desk",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "cat",
+      "family",
+      "dog",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "dog",
+      "father",
+      "apple",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "mother",
+      "dog",
+      "apple",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "apple",
+      "sun",
+      "brother",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "dog",
+      "sister",
+      "apple",
+      "cat"
+    ],
+    "correct": 1,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "sun",
+      "cat",
+      "dog",
+      "classroom"
+    ],
+    "correct": 3,
+    "explain": "'classroom' = lớp học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'giáo viên'?",
+    "options": [
+      "dog",
+      "apple",
+      "cat",
+      "teacher"
+    ],
+    "correct": 3,
+    "explain": "'teacher' = giáo viên."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bút chì'?",
+    "options": [
+      "dog",
+      "pencil",
+      "sun",
+      "apple"
+    ],
+    "correct": 1,
+    "explain": "'pencil' = bút chì."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'cục tẩy'?",
+    "options": [
+      "apple",
+      "dog",
+      "eraser",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'eraser' = cục tẩy."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thước kẻ'?",
+    "options": [
+      "ruler",
+      "sun",
+      "cat",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'ruler' = thước kẻ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thời tiết'?",
+    "options": [
+      "cat",
+      "dog",
+      "weather",
+      "sun"
+    ],
+    "correct": 2,
+    "explain": "'weather' = thời tiết."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nắng'?",
+    "options": [
+      "sun",
+      "cat",
+      "sunny",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'sunny' = nắng."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mưa'?",
+    "options": [
+      "apple",
+      "cat",
+      "dog",
+      "rainy"
+    ],
+    "correct": 3,
+    "explain": "'rainy' = mưa."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'nhiều mây'?",
+    "options": [
+      "dog",
+      "sun",
+      "cloudy",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'cloudy' = nhiều mây."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'có gió'?",
+    "options": [
+      "dog",
+      "windy",
+      "apple",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'windy' = có gió."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'sân chơi'?",
+    "options": [
+      "playground",
+      "dog",
+      "apple",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'playground' = sân chơi."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'thư viện'?",
+    "options": [
+      "sun",
+      "cat",
+      "dog",
+      "library"
+    ],
+    "correct": 3,
+    "explain": "'library' = thư viện."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'máy tính'?",
+    "options": [
+      "cat",
+      "dog",
+      "sun",
+      "computer"
+    ],
+    "correct": 3,
+    "explain": "'computer' = máy tính."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bàn học'?",
+    "options": [
+      "dog",
+      "desk",
+      "apple",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'desk' = bàn học."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'gia đình'?",
+    "options": [
+      "dog",
+      "cat",
+      "sun",
+      "family"
+    ],
+    "correct": 3,
+    "explain": "'family' = gia đình."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'bố'?",
+    "options": [
+      "apple",
+      "father",
+      "dog",
+      "sun"
+    ],
+    "correct": 1,
+    "explain": "'father' = bố."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'mẹ'?",
+    "options": [
+      "dog",
+      "cat",
+      "apple",
+      "mother"
+    ],
+    "correct": 3,
+    "explain": "'mother' = mẹ."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'anh/em trai'?",
+    "options": [
+      "brother",
+      "dog",
+      "sun",
+      "cat"
+    ],
+    "correct": 0,
+    "explain": "'brother' = anh/em trai."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'chị/em gái'?",
+    "options": [
+      "sister",
+      "dog",
+      "cat",
+      "apple"
+    ],
+    "correct": 0,
+    "explain": "'sister' = chị/em gái."
+  },
+  {
+    "question": "Từ tiếng Anh nào nghĩa là 'lớp học'?",
+    "options": [
+      "cat",
+      "apple",
+      "classroom",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'classroom' = lớp học."
+  }
+]

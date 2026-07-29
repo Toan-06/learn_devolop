@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu?",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu?",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu?",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu?",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu?",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu?",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu?",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1:",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1:",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1:",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là:",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là:",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là:",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là:",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 2)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 2)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 2)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 2)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 2)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 2)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 2)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 2)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 2)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 2)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 2)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 2)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 2)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 2)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 2)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 3)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 3)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 3)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 3)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 3)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 3)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 3)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 3)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 3)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 3)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 3)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 3)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 3)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 3)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 3)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 4)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 4)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 4)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 4)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 4)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 4)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 4)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 4)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 4)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 4)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 4)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 4)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 4)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 4)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 4)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 5)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 5)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 5)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 5)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 5)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 5)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 5)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 5)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 5)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 5)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 5)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 5)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 5)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 5)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 5)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 6)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 6)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 6)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 6)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 6)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 6)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 6)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 6)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 6)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 6)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 6)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 6)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 6)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 6)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 6)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 7)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 7)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 7)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 7)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 7)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 7)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 7)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 7)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 7)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 7)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 7)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 7)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 7)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 7)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 7)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 8)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 8)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 8)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 8)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 8)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 8)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 8)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 8)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 8)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 8)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 8)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 8)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 8)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 8)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 8)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 9)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 9)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 9)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 9)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 9)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 9)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 9)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 9)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 9)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 9)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 9)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 9)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 9)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 9)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 9)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 10)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 10)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 10)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 10)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 10)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 10)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 10)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 10)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 10)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 10)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 10)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 10)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 10)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 10)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 10)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 11)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 11)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 11)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 11)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 11)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 11)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 11)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 11)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 11)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 11)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 11)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 11)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 11)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 11)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 11)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 12)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 12)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 12)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 12)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 12)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 12)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 12)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 12)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 12)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 12)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 12)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 12)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 12)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 12)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 12)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 13)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 13)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 13)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 13)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 13)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 13)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 13)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 13)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 13)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 13)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 13)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 13)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 13)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 13)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 13)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 14)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 14)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 14)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 14)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 14)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 14)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 14)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 14)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 14)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 14)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 14)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 14)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 14)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 14)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 14)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 15)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 15)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 15)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 15)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 15)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 15)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 15)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 15)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 15)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 15)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 15)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 15)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 15)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 15)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 15)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 16)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 16)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 16)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 16)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 16)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 16)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 16)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 16)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 16)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 16)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 16)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 16)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 16)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 16)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 16)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 17)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 17)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 17)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 17)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 17)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 17)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 17)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 17)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 17)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 17)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 17)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 17)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 17)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 17)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 17)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 18)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 18)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 18)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 18)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 18)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 18)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 18)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 18)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 18)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 18)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 18)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 18)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 18)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 18)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 18)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 19)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 19)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 19)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 19)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 19)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 19)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 19)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 19)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 19)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 19)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 19)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 19)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 19)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 19)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 19)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 20)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 20)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 20)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 20)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 20)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 20)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 20)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 20)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 20)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 20)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 20)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 20)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 20)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 20)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 20)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 21)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 21)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 21)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 21)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 21)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 21)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 21)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 21)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 21)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 21)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 21)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 21)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 21)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 21)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 21)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 22)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 22)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 22)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 22)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 22)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 22)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 22)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 22)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 22)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 22)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 22)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 22)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 22)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 22)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 22)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 23)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 23)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 23)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 23)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 23)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 23)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 23)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 23)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 23)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 23)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 23)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 23)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 23)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 23)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 23)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 24)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 24)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 24)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 24)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 24)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 24)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 24)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 24)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 24)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 24)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 24)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 24)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 24)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 24)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 24)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 25)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 25)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 25)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 25)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 25)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 25)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 25)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 25)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 25)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 25)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 25)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 25)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 25)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 25)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 25)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 26)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 26)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 26)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 26)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 26)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 26)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 26)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 26)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 26)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 26)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 26)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 26)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 26)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 26)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 26)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 27)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 27)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 27)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 27)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 27)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 27)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 27)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 27)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 27)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 27)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 27)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 27)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 27)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 27)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 27)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 28)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 28)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 28)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 28)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 28)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 28)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 28)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 28)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 28)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 28)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 28)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 28)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 28)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 28)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 28)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 29)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 29)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 29)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 29)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 29)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 29)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 29)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 29)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 29)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 29)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 29)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 29)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 29)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 29)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 29)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 30)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 30)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 30)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 30)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 30)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 30)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 30)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 30)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 30)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 30)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 30)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 30)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 30)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 30)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 30)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 31)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 31)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 31)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 31)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 31)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 31)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 31)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 31)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 31)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 31)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 31)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 31)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 31)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 31)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 31)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 32)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 32)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 32)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 32)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 32)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 32)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 32)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 32)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 32)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 32)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 32)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 32)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 32)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 32)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 32)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 33)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 33)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 33)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 33)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 33)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  },
+  {
+    "question": "Căn bậc hai số học của 49 là bao nhiêu? (Dạng 33)",
+    "options": [
+      "7",
+      "8",
+      "49",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Vì 7 > 0 và 7² = 49 nên √49 = 7."
+  },
+  {
+    "question": "Căn bậc hai số học của 64 là bao nhiêu? (Dạng 33)",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "7"
+    ],
+    "correct": 0,
+    "explain": "Vì 8 > 0 và 8² = 64 nên √64 = 8."
+  },
+  {
+    "question": "Căn bậc hai số học của 81 là bao nhiêu? (Dạng 33)",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "81"
+    ],
+    "correct": 1,
+    "explain": "Vì 9 > 0 và 9² = 81 nên √81 = 9."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/3 = 4/1: (Dạng 33)",
+    "options": [
+      "5",
+      "4",
+      "8/3",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 3 × 4 = 12."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/5 = 4/1: (Dạng 33)",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8/5"
+    ],
+    "correct": 3,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 5 × 4 = 20."
+  },
+  {
+    "question": "Tìm x trong tỉ lệ thức x/7 = 4/1: (Dạng 33)",
+    "options": [
+      "3",
+      "4",
+      "8/7",
+      "9"
+    ],
+    "correct": 2,
+    "explain": "Áp dụng tính chất tỉ lệ thức: x = 7 × 4 = 28."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC là: (Dạng 33)",
+    "options": [
+      "6 cm",
+      "4 cm",
+      "5 cm",
+      "7 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 3² + 4² = 9 + 16 = 25 ⇒ BC = 5 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 33)",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 5² + 12² = 25 + 144 = 169 ⇒ BC = 13 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Độ dài cạnh huyền BC là: (Dạng 33)",
+    "options": [
+      "14 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 6² + 8² = 36 + 64 = 100 ⇒ BC = 10 cm."
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB = 9 cm, AC = 12 cm. Độ dài cạnh huyền BC là: (Dạng 33)",
+    "options": [
+      "16 cm",
+      "15 cm",
+      "21 cm",
+      "14 cm"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Pitago: BC² = AB² + AC² = 9² + 12² = 81 + 144 = 225 ⇒ BC = 15 cm."
+  },
+  {
+    "question": "Căn bậc hai số học của 4 là bao nhiêu? (Dạng 34)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 2 > 0 và 2² = 4 nên √4 = 2."
+  },
+  {
+    "question": "Căn bậc hai số học của 9 là bao nhiêu? (Dạng 34)",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 1,
+    "explain": "Vì 3 > 0 và 3² = 9 nên √9 = 3."
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là bao nhiêu? (Dạng 34)",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 4 > 0 và 4² = 16 nên √16 = 4."
+  },
+  {
+    "question": "Căn bậc hai số học của 25 là bao nhiêu? (Dạng 34)",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "4"
+    ],
+    "correct": 0,
+    "explain": "Vì 5 > 0 và 5² = 25 nên √25 = 5."
+  },
+  {
+    "question": "Căn bậc hai số học của 36 là bao nhiêu? (Dạng 34)",
+    "options": [
+      "12",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explain": "Vì 6 > 0 và 6² = 36 nên √36 = 6."
+  }
+]

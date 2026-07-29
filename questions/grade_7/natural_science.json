@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Công thức hóa học của nước là gì?",
+    "options": [
+      "H₂O",
+      "NaCl",
+      "CO₂",
+      "O₂"
+    ],
+    "correct": 0,
+    "explain": "Nước được cấu tạo từ 2 nguyên tử H và 1 nguyên tử O (H₂O)."
+  },
+  {
+    "question": "Tế bào là gì?",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Đơn vị đo lực trong hệ SI là gì?",
+    "options": [
+      "Watt (W)",
+      "Joule (J)",
+      "Pascal (Pa)",
+      "Newton (N)"
+    ],
+    "correct": 3,
+    "explain": "Lực được đo bằng đơn vị Newton (N)."
+  },
+  {
+    "question": "Quá trình quang hợp ở cây xanh nhả ra khí gì?",
+    "options": [
+      "Khí Nito (N₂)",
+      "Khí Oxi (O₂)",
+      "Khí Hydro (H₂)",
+      "Khí Cacbonic (CO₂)"
+    ],
+    "correct": 1,
+    "explain": "Quang hợp hấp thụ CO₂ và giải phóng O₂ vào không khí."
+  },
+  {
+    "question": "Định luật bảo toàn khối lượng phát biểu như thế nào?",
+    "options": [
+      "Tổng khối lượng các chất tham gia bằng tổng khối lượng sản phẩm",
+      "Khối lượng tăng lên",
+      "Không xác định",
+      "Khối lượng giảm đi"
+    ],
+    "correct": 0,
+    "explain": "Trong phản ứng hóa học, tổng khối lượng các chất sản phẩm bằng tổng khối lượng các chất phản ứng."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 6)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 7)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 8)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 9)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 10)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 11)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 12)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 13)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 14)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 15)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 16)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 17)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 18)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 19)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 20)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 21)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 22)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 23)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 24)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 25)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 26)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 27)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 28)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 29)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 30)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 31)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 32)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 33)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 34)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 35)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 36)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 37)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 38)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 39)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 40)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 41)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 42)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 43)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 44)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 45)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 46)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 47)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 48)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 49)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 50)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 51)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 52)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 53)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 54)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 55)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 56)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 57)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 58)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 59)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 60)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 61)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 62)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 63)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 64)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 65)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 66)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 67)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 68)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 69)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 70)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 71)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 72)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 73)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 74)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 75)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 76)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 77)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 78)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 79)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 80)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 81)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 82)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 83)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 84)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 85)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 86)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 87)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 88)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 89)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 90)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 91)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 92)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 93)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 94)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 95)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 96)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 97)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 98)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 99)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 100)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 101)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 102)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 103)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 104)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 105)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 106)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 107)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 108)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 109)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 110)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 111)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 112)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 113)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 114)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 115)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 116)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 117)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 118)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 119)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 120)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 121)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 122)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 123)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 124)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 125)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 126)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 127)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 128)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 129)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 130)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 131)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 132)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 133)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 134)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 135)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 136)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 137)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 138)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 139)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 140)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 141)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 142)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 143)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 144)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 145)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 146)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 147)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 148)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 149)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 150)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 151)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 152)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 153)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 154)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 155)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 156)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 157)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 158)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 159)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 160)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 161)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 162)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 163)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 164)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 165)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 166)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 167)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 168)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 169)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 170)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 171)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 172)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 173)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 174)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 175)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 176)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 177)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 178)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 179)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 180)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 181)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 182)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 183)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 184)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 185)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 186)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 187)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 188)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 189)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 190)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 191)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 192)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 193)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 194)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 195)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 196)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 197)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 198)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 199)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 200)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 201)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 202)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 203)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 204)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 205)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 206)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 207)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 208)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 209)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 210)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 211)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 212)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 213)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 214)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 215)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 216)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 217)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 218)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 219)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 220)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 221)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 222)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 223)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 224)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 225)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 226)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 227)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 228)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 229)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 230)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 231)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 232)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 233)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 234)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 235)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 236)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 237)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 238)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 239)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 240)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 241)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 242)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 243)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 244)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 245)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 246)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 247)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 248)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 249)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 250)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 251)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 252)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 253)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 254)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 255)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 256)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 257)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 258)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 259)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 260)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 261)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 262)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 263)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 264)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 265)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 266)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 267)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 268)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 269)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 270)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 271)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 272)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 273)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 274)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 275)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 276)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 277)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 278)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 279)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 280)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 281)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 282)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 283)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 284)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 285)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 286)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 287)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 288)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 289)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 290)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 291)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 292)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 293)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 294)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 295)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 296)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 297)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 298)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 299)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 300)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 301)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 302)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 303)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 304)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 305)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 306)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 307)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 308)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 309)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 310)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 311)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 312)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 313)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 314)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 315)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 316)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 317)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 318)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 319)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 320)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 321)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 322)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 323)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 324)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 325)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 326)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 327)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 328)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 329)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 330)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 331)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 332)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 333)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 334)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 335)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 336)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 337)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 338)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 339)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 340)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 341)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 342)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 343)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 344)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 345)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 346)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 347)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 348)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 349)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 350)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 351)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 352)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 353)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 354)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 355)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 356)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 357)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 358)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 359)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 360)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 361)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 362)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 363)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 364)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 365)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 366)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 367)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 368)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 369)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 370)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 371)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 372)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 373)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 374)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 375)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 376)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 377)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 378)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 379)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 380)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 381)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 382)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 383)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 384)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 385)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 386)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 387)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 388)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 389)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 390)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 391)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 392)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 393)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 394)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 395)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 396)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 397)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 398)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 399)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 400)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 401)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 402)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 403)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 404)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 405)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 406)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 407)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 408)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 409)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 410)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 411)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 412)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 413)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 414)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 415)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 416)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 417)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 418)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 419)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 420)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 421)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 422)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 423)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 424)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 425)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 426)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 427)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 428)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 429)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 430)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 431)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 432)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 433)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 434)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 435)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 436)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 437)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 438)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 439)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 440)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 441)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 442)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 443)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 444)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 445)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 446)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 447)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 448)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 449)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 450)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 451)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 452)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 453)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 454)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 455)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 456)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 457)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 458)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 459)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 460)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 461)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 462)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 463)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 464)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 465)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 466)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 467)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 468)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 469)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 470)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 471)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 472)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 473)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 474)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 475)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 476)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 477)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 478)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 479)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 480)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 481)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 482)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 483)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 484)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 485)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 486)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 487)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 488)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 489)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 490)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 491)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 492)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 493)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 494)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 495)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 496)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 497)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 498)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 499)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  },
+  {
+    "question": "Tế bào là gì? (Dạng ôn tập 500)",
+    "options": [
+      "Nhiễm sắc thể",
+      "Cơ quan tuần hoàn",
+      "Đơn vị cấu tạo cơ bản của mọi sinh vật",
+      "Bột đường"
+    ],
+    "correct": 2,
+    "explain": "Tế bào là đơn vị cấu trúc và chức năng cơ bản của sinh giới."
+  }
+]

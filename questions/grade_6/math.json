@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 2 × 1 + 3 = 2 + 3 = 5."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "9",
+      "7",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 2 × 2 + 3 = 4 + 3 = 7."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "11",
+      "7",
+      "9",
+      "8"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 3 vào công thức x = 2 × 3 + 3 = 6 + 3 = 9."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "11",
+      "13",
+      "9",
+      "12"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 2 × 4 + 3 = 8 + 3 = 11."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "13",
+      "11",
+      "14",
+      "15"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 2 × 5 + 3 = 10 + 3 = 13."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "15",
+      "16",
+      "13",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 6 vào công thức x = 2 × 6 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "17",
+      "15",
+      "16",
+      "18"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 7 vào công thức x = 2 × 7 + 3 = 14 + 3 = 17."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "19",
+      "20",
+      "18",
+      "17"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 8 vào công thức x = 2 × 8 + 3 = 16 + 3 = 19."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "21",
+      "23",
+      "19",
+      "22"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 9 vào công thức x = 2 × 9 + 3 = 18 + 3 = 21."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "5",
+      "3",
+      "9",
+      "6"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 3 × 1 + 3 = 3 + 3 = 6."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "12",
+      "9",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 3 × 2 + 3 = 6 + 3 = 9."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "13",
+      "11",
+      "9",
+      "12"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 3 vào công thức x = 3 × 3 + 3 = 9 + 3 = 12."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "14",
+      "18",
+      "15",
+      "12"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 4 vào công thức x = 3 × 4 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "15",
+      "18",
+      "19",
+      "21"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 5 vào công thức x = 3 × 5 + 3 = 15 + 3 = 18."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "20",
+      "22",
+      "21",
+      "18"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 3 × 6 + 3 = 18 + 3 = 21."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "21",
+      "25",
+      "24",
+      "27"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 7 vào công thức x = 3 × 7 + 3 = 21 + 3 = 24."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "24",
+      "27",
+      "30",
+      "28"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 8 vào công thức x = 3 × 8 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "31",
+      "29",
+      "33",
+      "30"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 9 vào công thức x = 3 × 9 + 3 = 27 + 3 = 30."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "8",
+      "7",
+      "11",
+      "3"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 1 vào công thức x = 4 × 1 + 3 = 4 + 3 = 7."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "15",
+      "11",
+      "10",
+      "7"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 4 × 2 + 3 = 8 + 3 = 11."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "15",
+      "11",
+      "14",
+      "16"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 4 × 3 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "20",
+      "19",
+      "15",
+      "18"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 4 vào công thức x = 4 × 4 + 3 = 16 + 3 = 19."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "27",
+      "22",
+      "23",
+      "24"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 5 vào công thức x = 4 × 5 + 3 = 20 + 3 = 23."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "31",
+      "28",
+      "23",
+      "27"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 6 vào công thức x = 4 × 6 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "27",
+      "35",
+      "31",
+      "30"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 7 vào công thức x = 4 × 7 + 3 = 28 + 3 = 31."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "35",
+      "39",
+      "36",
+      "31"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 8 vào công thức x = 4 × 8 + 3 = 32 + 3 = 35."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "39",
+      "35",
+      "38",
+      "40"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 9 vào công thức x = 4 × 9 + 3 = 36 + 3 = 39."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "8",
+      "7",
+      "3",
+      "9"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 1 vào công thức x = 5 × 1 + 3 = 5 + 3 = 8."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "14",
+      "13",
+      "18",
+      "12"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 5 × 2 + 3 = 10 + 3 = 13."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "18",
+      "19",
+      "13",
+      "23"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 5 × 3 + 3 = 15 + 3 = 18."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "24",
+      "23",
+      "28",
+      "18"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 4 vào công thức x = 5 × 4 + 3 = 20 + 3 = 23."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "23",
+      "27",
+      "28",
+      "29"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 5 vào công thức x = 5 × 5 + 3 = 25 + 3 = 28."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "28",
+      "38",
+      "34",
+      "33"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 6 vào công thức x = 5 × 6 + 3 = 30 + 3 = 33."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "33",
+      "39",
+      "37",
+      "38"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 7 vào công thức x = 5 × 7 + 3 = 35 + 3 = 38."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "42",
+      "43",
+      "44",
+      "48"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 8 vào công thức x = 5 × 8 + 3 = 40 + 3 = 43."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "43",
+      "47",
+      "48",
+      "49"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 5 × 9 + 3 = 45 + 3 = 48."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "8",
+      "15",
+      "9",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 1 vào công thức x = 6 × 1 + 3 = 6 + 3 = 9."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "9",
+      "21",
+      "14",
+      "15"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 2 vào công thức x = 6 × 2 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "21",
+      "20",
+      "22",
+      "27"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 6 × 3 + 3 = 18 + 3 = 21."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "27",
+      "21",
+      "26",
+      "33"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 6 × 4 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "33",
+      "34",
+      "39",
+      "27"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 6 × 5 + 3 = 30 + 3 = 33."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "33",
+      "40",
+      "39",
+      "45"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 6 × 6 + 3 = 36 + 3 = 39."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "45",
+      "44",
+      "39",
+      "51"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 7 vào công thức x = 6 × 7 + 3 = 42 + 3 = 45."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "52",
+      "51",
+      "57",
+      "45"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 8 vào công thức x = 6 × 8 + 3 = 48 + 3 = 51."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "56",
+      "63",
+      "57",
+      "51"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 6 × 9 + 3 = 54 + 3 = 57."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "10",
+      "17",
+      "11",
+      "9"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 1 vào công thức x = 7 × 1 + 3 = 7 + 3 = 10."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "17",
+      "10",
+      "24",
+      "16"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 2 vào công thức x = 7 × 2 + 3 = 14 + 3 = 17."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "17",
+      "24",
+      "25",
+      "31"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 3 vào công thức x = 7 × 3 + 3 = 21 + 3 = 24."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "38",
+      "24",
+      "30",
+      "31"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 4 vào công thức x = 7 × 4 + 3 = 28 + 3 = 31."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "38",
+      "45",
+      "37",
+      "31"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 7 × 5 + 3 = 35 + 3 = 38."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "44",
+      "38",
+      "52",
+      "45"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 6 vào công thức x = 7 × 6 + 3 = 42 + 3 = 45."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "53",
+      "45",
+      "51",
+      "52"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 7 vào công thức x = 7 × 7 + 3 = 49 + 3 = 52."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "59",
+      "52",
+      "58",
+      "60"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 8 vào công thức x = 7 × 8 + 3 = 56 + 3 = 59."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "65",
+      "66",
+      "59",
+      "73"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 9 vào công thức x = 7 × 9 + 3 = 63 + 3 = 66."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "3",
+      "19",
+      "12",
+      "11"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 8 × 1 + 3 = 8 + 3 = 11."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "11"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 8 × 2 + 3 = 16 + 3 = 19."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "35",
+      "27",
+      "19",
+      "28"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 3 vào công thức x = 8 × 3 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "27",
+      "43",
+      "35",
+      "34"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 4 vào công thức x = 8 × 4 + 3 = 32 + 3 = 35."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "35",
+      "43",
+      "44",
+      "42"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 5 vào công thức x = 8 × 5 + 3 = 40 + 3 = 43."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "50",
+      "59",
+      "51",
+      "43"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 8 × 6 + 3 = 48 + 3 = 51."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "67",
+      "60",
+      "58",
+      "59"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 7 vào công thức x = 8 × 7 + 3 = 56 + 3 = 59."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "66",
+      "68",
+      "67",
+      "75"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 8 vào công thức x = 8 × 8 + 3 = 64 + 3 = 67."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "75",
+      "83",
+      "74",
+      "76"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 9 vào công thức x = 8 × 9 + 3 = 72 + 3 = 75."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "3"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 1 vào công thức x = 9 × 1 + 3 = 9 + 3 = 12."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "21",
+      "20",
+      "12",
+      "30"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 2 vào công thức x = 9 × 2 + 3 = 18 + 3 = 21."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "39",
+      "31",
+      "21",
+      "30"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 3 vào công thức x = 9 × 3 + 3 = 27 + 3 = 30."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "39",
+      "48",
+      "40",
+      "30"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 9 × 4 + 3 = 36 + 3 = 39."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "57",
+      "48",
+      "49",
+      "47"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 5 vào công thức x = 9 × 5 + 3 = 45 + 3 = 48."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "57",
+      "66",
+      "56",
+      "58"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 6 vào công thức x = 9 × 6 + 3 = 54 + 3 = 57."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "66",
+      "65",
+      "57",
+      "67"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 7 vào công thức x = 9 × 7 + 3 = 63 + 3 = 66."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "76",
+      "84",
+      "74",
+      "75"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 8 vào công thức x = 9 × 8 + 3 = 72 + 3 = 75."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "84",
+      "85",
+      "83",
+      "75"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 9 vào công thức x = 9 × 9 + 3 = 81 + 3 = 84."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "23",
+      "14",
+      "13",
+      "12"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 1 vào công thức x = 10 × 1 + 3 = 10 + 3 = 13."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "23",
+      "13",
+      "22",
+      "33"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 2 vào công thức x = 10 × 2 + 3 = 20 + 3 = 23."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "33",
+      "43",
+      "23",
+      "32"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 10 × 3 + 3 = 30 + 3 = 33."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "44",
+      "33",
+      "43",
+      "42"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 4 vào công thức x = 10 × 4 + 3 = 40 + 3 = 43."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "53",
+      "43",
+      "52",
+      "54"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 10 × 5 + 3 = 50 + 3 = 53."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "63",
+      "73",
+      "62",
+      "64"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 6 vào công thức x = 10 × 6 + 3 = 60 + 3 = 63."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "63",
+      "72",
+      "73",
+      "83"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 7 vào công thức x = 10 × 7 + 3 = 70 + 3 = 73."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "93",
+      "83",
+      "84",
+      "73"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 8 vào công thức x = 10 × 8 + 3 = 80 + 3 = 83."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "92",
+      "103",
+      "93",
+      "83"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 10 × 9 + 3 = 90 + 3 = 93."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "3",
+      "13",
+      "25",
+      "14"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 11 × 1 + 3 = 11 + 3 = 14."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "14",
+      "24",
+      "36",
+      "25"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 2 vào công thức x = 11 × 2 + 3 = 22 + 3 = 25."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "36",
+      "47",
+      "37",
+      "25"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 11 × 3 + 3 = 33 + 3 = 36."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "58",
+      "48",
+      "36",
+      "47"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 4 vào công thức x = 11 × 4 + 3 = 44 + 3 = 47."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "47",
+      "69",
+      "58",
+      "57"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 5 vào công thức x = 11 × 5 + 3 = 55 + 3 = 58."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "70",
+      "68",
+      "69",
+      "80"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 11 × 6 + 3 = 66 + 3 = 69."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "91",
+      "79",
+      "80",
+      "69"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 7 vào công thức x = 11 × 7 + 3 = 77 + 3 = 80."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "91",
+      "102",
+      "92",
+      "90"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 8 vào công thức x = 11 × 8 + 3 = 88 + 3 = 91."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "113",
+      "101",
+      "103",
+      "102"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 9 vào công thức x = 11 × 9 + 3 = 99 + 3 = 102."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "3",
+      "16",
+      "15",
+      "14"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 1 vào công thức x = 12 × 1 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "39",
+      "27",
+      "28",
+      "26"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 12 × 2 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "38",
+      "39",
+      "51",
+      "27"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 3 vào công thức x = 12 × 3 + 3 = 36 + 3 = 39."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "51",
+      "52",
+      "50",
+      "63"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 12 × 4 + 3 = 48 + 3 = 51."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "64",
+      "62",
+      "63",
+      "75"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 5 vào công thức x = 12 × 5 + 3 = 60 + 3 = 63."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "76",
+      "75",
+      "87",
+      "63"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 6 vào công thức x = 12 × 6 + 3 = 72 + 3 = 75."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "75",
+      "87",
+      "88",
+      "99"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 7 vào công thức x = 12 × 7 + 3 = 84 + 3 = 87."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "100",
+      "98",
+      "111",
+      "99"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 8 vào công thức x = 12 × 8 + 3 = 96 + 3 = 99."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "123",
+      "99",
+      "111",
+      "112"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 12 × 9 + 3 = 108 + 3 = 111."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "29",
+      "16",
+      "3",
+      "15"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 1 vào công thức x = 13 × 1 + 3 = 13 + 3 = 16."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "42",
+      "16",
+      "29",
+      "28"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 2 vào công thức x = 13 × 2 + 3 = 26 + 3 = 29."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "43",
+      "42",
+      "55",
+      "29"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 3 vào công thức x = 13 × 3 + 3 = 39 + 3 = 42."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "56",
+      "68",
+      "55",
+      "54"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 4 vào công thức x = 13 × 4 + 3 = 52 + 3 = 55."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "68",
+      "81",
+      "67",
+      "69"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 13 × 5 + 3 = 65 + 3 = 68."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "80",
+      "94",
+      "81",
+      "68"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 13 × 6 + 3 = 78 + 3 = 81."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "95",
+      "94",
+      "107",
+      "93"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 7 vào công thức x = 13 × 7 + 3 = 91 + 3 = 94."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "94",
+      "106",
+      "107",
+      "120"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 8 vào công thức x = 13 × 8 + 3 = 104 + 3 = 107."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "121",
+      "107",
+      "120",
+      "119"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 13 × 9 + 3 = 117 + 3 = 120."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "18",
+      "17",
+      "3",
+      "16"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 1 vào công thức x = 14 × 1 + 3 = 14 + 3 = 17."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "17",
+      "32",
+      "31",
+      "45"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 2 vào công thức x = 14 × 2 + 3 = 28 + 3 = 31."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "45",
+      "31",
+      "44",
+      "59"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 14 × 3 + 3 = 42 + 3 = 45."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "59",
+      "73",
+      "58",
+      "60"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 14 × 4 + 3 = 56 + 3 = 59."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "73",
+      "72",
+      "74",
+      "87"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 14 × 5 + 3 = 70 + 3 = 73."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "73",
+      "88",
+      "87",
+      "86"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 14 × 6 + 3 = 84 + 3 = 87."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "115",
+      "102",
+      "100",
+      "101"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 7 vào công thức x = 14 × 7 + 3 = 98 + 3 = 101."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "129",
+      "116",
+      "114",
+      "115"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 8 vào công thức x = 14 × 8 + 3 = 112 + 3 = 115."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu?",
+    "options": [
+      "115",
+      "128",
+      "129",
+      "143"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 14 × 9 + 3 = 126 + 3 = 129."
+  },
+  {
+    "question": "Viết phân số 1/2 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.6",
+      "1.0",
+      "0.4",
+      "0.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 1 : 2 = 0.5."
+  },
+  {
+    "question": "Viết phân số 1/4 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.15",
+      "0.35",
+      "0.25",
+      "0.5"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 1 : 4 = 0.25."
+  },
+  {
+    "question": "Viết phân số 1/5 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.3",
+      "0.4",
+      "0.2",
+      "0.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 1 : 5 = 0.2."
+  },
+  {
+    "question": "Viết phân số 1/8 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.125",
+      "0.025",
+      "0.25",
+      "0.225"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 1 : 8 = 0.125."
+  },
+  {
+    "question": "Viết phân số 1/10 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.3",
+      "0.2",
+      "0.1",
+      "0.2"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 1 : 10 = 0.1."
+  },
+  {
+    "question": "Viết phân số 2/2 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.9",
+      "2.0",
+      "1.0",
+      "1.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 2 : 2 = 1.0."
+  },
+  {
+    "question": "Viết phân số 2/4 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.6",
+      "0.5",
+      "0.4",
+      "1.0"
+    ],
+    "correct": 1,
+    "explain": "Thực hiện phép chia 2 : 4 = 0.5."
+  },
+  {
+    "question": "Viết phân số 2/5 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.5",
+      "0.8",
+      "0.3",
+      "0.4"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 2 : 5 = 0.4."
+  },
+  {
+    "question": "Viết phân số 2/8 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.25",
+      "0.35",
+      "0.15",
+      "0.5"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 2 : 8 = 0.25."
+  },
+  {
+    "question": "Viết phân số 2/10 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.2",
+      "0.4",
+      "0.1",
+      "0.3"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 2 : 10 = 0.2."
+  },
+  {
+    "question": "Viết phân số 3/2 dưới dạng số thập phân ta được:",
+    "options": [
+      "3.0",
+      "1.6",
+      "1.5",
+      "1.4"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 3 : 2 = 1.5."
+  },
+  {
+    "question": "Viết phân số 3/4 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.5",
+      "0.75",
+      "0.85",
+      "0.65"
+    ],
+    "correct": 1,
+    "explain": "Thực hiện phép chia 3 : 4 = 0.75."
+  },
+  {
+    "question": "Viết phân số 3/5 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.7",
+      "0.5",
+      "0.6",
+      "1.2"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 3 : 5 = 0.6."
+  },
+  {
+    "question": "Viết phân số 3/8 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.75",
+      "0.275",
+      "0.375",
+      "0.475"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 3 : 8 = 0.375."
+  },
+  {
+    "question": "Viết phân số 3/10 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.6",
+      "0.2",
+      "0.4",
+      "0.3"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 3 : 10 = 0.3."
+  },
+  {
+    "question": "Viết phân số 4/2 dưới dạng số thập phân ta được:",
+    "options": [
+      "4.0",
+      "2.1",
+      "2.0",
+      "1.9"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 4 : 2 = 2.0."
+  },
+  {
+    "question": "Viết phân số 4/4 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.0",
+      "0.9",
+      "2.0",
+      "1.1"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 4 : 4 = 1.0."
+  },
+  {
+    "question": "Viết phân số 4/5 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.8",
+      "1.6",
+      "0.7",
+      "0.9"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 4 : 5 = 0.8."
+  },
+  {
+    "question": "Viết phân số 4/8 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.0",
+      "0.4",
+      "0.6",
+      "0.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 4 : 8 = 0.5."
+  },
+  {
+    "question": "Viết phân số 4/10 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.8",
+      "0.3",
+      "0.5",
+      "0.4"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 4 : 10 = 0.4."
+  },
+  {
+    "question": "Viết phân số 5/2 dưới dạng số thập phân ta được:",
+    "options": [
+      "5.0",
+      "2.6",
+      "2.4",
+      "2.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 5 : 2 = 2.5."
+  },
+  {
+    "question": "Viết phân số 5/4 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.35",
+      "1.15",
+      "2.5",
+      "1.25"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 5 : 4 = 1.25."
+  },
+  {
+    "question": "Viết phân số 5/5 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.0",
+      "1.1",
+      "2.0",
+      "0.9"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 5 : 5 = 1.0."
+  },
+  {
+    "question": "Viết phân số 5/8 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.625",
+      "1.25",
+      "0.725",
+      "0.525"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 5 : 8 = 0.625."
+  },
+  {
+    "question": "Viết phân số 5/10 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.0",
+      "0.6",
+      "0.5",
+      "0.4"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 5 : 10 = 0.5."
+  },
+  {
+    "question": "Viết phân số 6/2 dưới dạng số thập phân ta được:",
+    "options": [
+      "3.1",
+      "2.9",
+      "6.0",
+      "3.0"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 6 : 2 = 3.0."
+  },
+  {
+    "question": "Viết phân số 6/4 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.6",
+      "1.4",
+      "1.5",
+      "3.0"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 6 : 4 = 1.5."
+  },
+  {
+    "question": "Viết phân số 6/5 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.3",
+      "1.1",
+      "2.4",
+      "1.2"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 6 : 5 = 1.2."
+  },
+  {
+    "question": "Viết phân số 6/8 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.65",
+      "0.75",
+      "1.5",
+      "0.85"
+    ],
+    "correct": 1,
+    "explain": "Thực hiện phép chia 6 : 8 = 0.75."
+  },
+  {
+    "question": "Viết phân số 6/10 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.6",
+      "1.2",
+      "0.7",
+      "0.5"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 6 : 10 = 0.6."
+  },
+  {
+    "question": "Viết phân số 7/2 dưới dạng số thập phân ta được:",
+    "options": [
+      "7.0",
+      "3.4",
+      "3.6",
+      "3.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 7 : 2 = 3.5."
+  },
+  {
+    "question": "Viết phân số 7/4 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.75",
+      "1.85",
+      "3.5",
+      "1.65"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 7 : 4 = 1.75."
+  },
+  {
+    "question": "Viết phân số 7/5 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.4",
+      "2.8",
+      "1.5",
+      "1.3"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 7 : 5 = 1.4."
+  },
+  {
+    "question": "Viết phân số 7/8 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.875",
+      "1.75",
+      "0.775",
+      "0.975"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 7 : 8 = 0.875."
+  },
+  {
+    "question": "Viết phân số 7/10 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.7",
+      "0.8",
+      "0.6",
+      "1.4"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 7 : 10 = 0.7."
+  },
+  {
+    "question": "Viết phân số 8/2 dưới dạng số thập phân ta được:",
+    "options": [
+      "8.0",
+      "3.9",
+      "4.0",
+      "4.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 2 = 4.0."
+  },
+  {
+    "question": "Viết phân số 8/4 dưới dạng số thập phân ta được:",
+    "options": [
+      "4.0",
+      "1.9",
+      "2.0",
+      "2.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 4 = 2.0."
+  },
+  {
+    "question": "Viết phân số 8/5 dưới dạng số thập phân ta được:",
+    "options": [
+      "3.2",
+      "1.7",
+      "1.6",
+      "1.5"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 5 = 1.6."
+  },
+  {
+    "question": "Viết phân số 8/8 dưới dạng số thập phân ta được:",
+    "options": [
+      "2.0",
+      "0.9",
+      "1.0",
+      "1.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 8 = 1.0."
+  },
+  {
+    "question": "Viết phân số 8/10 dưới dạng số thập phân ta được:",
+    "options": [
+      "0.7",
+      "0.9",
+      "0.8",
+      "1.6"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 10 = 0.8."
+  },
+  {
+    "question": "Viết phân số 9/2 dưới dạng số thập phân ta được:",
+    "options": [
+      "4.4",
+      "4.6",
+      "9.0",
+      "4.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 9 : 2 = 4.5."
+  },
+  {
+    "question": "Viết phân số 9/4 dưới dạng số thập phân ta được:",
+    "options": [
+      "2.25",
+      "2.35",
+      "4.5",
+      "2.15"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 9 : 4 = 2.25."
+  },
+  {
+    "question": "Viết phân số 9/5 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.8",
+      "1.7",
+      "3.6",
+      "1.9"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 9 : 5 = 1.8."
+  },
+  {
+    "question": "Viết phân số 9/8 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.025",
+      "1.225",
+      "1.125",
+      "2.25"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 9 : 8 = 1.125."
+  },
+  {
+    "question": "Viết phân số 9/10 dưới dạng số thập phân ta được:",
+    "options": [
+      "1.0",
+      "0.8",
+      "0.9",
+      "1.8"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 9 : 10 = 0.9."
+  },
+  {
+    "question": "Hình lục giác đều có mấy cạnh bằng nhau?",
+    "options": [
+      "5 cạnh",
+      "6 cạnh",
+      "8 cạnh",
+      "4 cạnh"
+    ],
+    "correct": 1,
+    "explain": "Hình lục giác đều gồm 6 cạnh bằng nhau và 6 góc bằng nhau."
+  },
+  {
+    "question": "Tổng số đo 3 góc trong một tam giác bằng bao nhiêu?",
+    "options": [
+      "360°",
+      "180°",
+      "270°",
+      "90°"
+    ],
+    "correct": 1,
+    "explain": "Định lý tổng 3 góc trong một tam giác luôn luôn bằng 180°."
+  },
+  {
+    "question": "Góc có số đo lớn hơn 0° và nhỏ hơn 90° gọi là gì?",
+    "options": [
+      "Góc tù",
+      "Góc bẹt",
+      "Góc nhọn",
+      "Góc vuông"
+    ],
+    "correct": 2,
+    "explain": "Góc nhọn có số đo α thoả mãn 0° < α < 90°."
+  },
+  {
+    "question": "Góc bẹt có số đo bằng bao nhiêu độ?",
+    "options": [
+      "120°",
+      "360°",
+      "180°",
+      "90°"
+    ],
+    "correct": 2,
+    "explain": "Góc bẹt có hai cạnh là hai tia đối nhau, số đo bằng 180°."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 2 × 1 + 3 = 2 + 3 = 5."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "9",
+      "7",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 2 × 2 + 3 = 4 + 3 = 7."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "11",
+      "7",
+      "9",
+      "8"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 3 vào công thức x = 2 × 3 + 3 = 6 + 3 = 9."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "11",
+      "13",
+      "9",
+      "12"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 2 × 4 + 3 = 8 + 3 = 11."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "13",
+      "11",
+      "14",
+      "15"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 2 × 5 + 3 = 10 + 3 = 13."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "15",
+      "16",
+      "13",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 6 vào công thức x = 2 × 6 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "17",
+      "15",
+      "16",
+      "18"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 7 vào công thức x = 2 × 7 + 3 = 14 + 3 = 17."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "19",
+      "20",
+      "18",
+      "17"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 8 vào công thức x = 2 × 8 + 3 = 16 + 3 = 19."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "21",
+      "23",
+      "19",
+      "22"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 9 vào công thức x = 2 × 9 + 3 = 18 + 3 = 21."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "5",
+      "3",
+      "9",
+      "6"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 3 × 1 + 3 = 3 + 3 = 6."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "12",
+      "9",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 3 × 2 + 3 = 6 + 3 = 9."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "13",
+      "11",
+      "9",
+      "12"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 3 vào công thức x = 3 × 3 + 3 = 9 + 3 = 12."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "14",
+      "18",
+      "15",
+      "12"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 4 vào công thức x = 3 × 4 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "15",
+      "18",
+      "19",
+      "21"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 5 vào công thức x = 3 × 5 + 3 = 15 + 3 = 18."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "20",
+      "22",
+      "21",
+      "18"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 3 × 6 + 3 = 18 + 3 = 21."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "21",
+      "25",
+      "24",
+      "27"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 7 vào công thức x = 3 × 7 + 3 = 21 + 3 = 24."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "24",
+      "27",
+      "30",
+      "28"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 8 vào công thức x = 3 × 8 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "31",
+      "29",
+      "33",
+      "30"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 9 vào công thức x = 3 × 9 + 3 = 27 + 3 = 30."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "8",
+      "7",
+      "11",
+      "3"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 1 vào công thức x = 4 × 1 + 3 = 4 + 3 = 7."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "15",
+      "11",
+      "10",
+      "7"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 4 × 2 + 3 = 8 + 3 = 11."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "15",
+      "11",
+      "14",
+      "16"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 4 × 3 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "20",
+      "19",
+      "15",
+      "18"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 4 vào công thức x = 4 × 4 + 3 = 16 + 3 = 19."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "27",
+      "22",
+      "23",
+      "24"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 5 vào công thức x = 4 × 5 + 3 = 20 + 3 = 23."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "31",
+      "28",
+      "23",
+      "27"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 6 vào công thức x = 4 × 6 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "27",
+      "35",
+      "31",
+      "30"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 7 vào công thức x = 4 × 7 + 3 = 28 + 3 = 31."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "35",
+      "39",
+      "36",
+      "31"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 8 vào công thức x = 4 × 8 + 3 = 32 + 3 = 35."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "39",
+      "35",
+      "38",
+      "40"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 9 vào công thức x = 4 × 9 + 3 = 36 + 3 = 39."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "8",
+      "7",
+      "3",
+      "9"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 1 vào công thức x = 5 × 1 + 3 = 5 + 3 = 8."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "14",
+      "13",
+      "18",
+      "12"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 5 × 2 + 3 = 10 + 3 = 13."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "18",
+      "19",
+      "13",
+      "23"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 5 × 3 + 3 = 15 + 3 = 18."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "24",
+      "23",
+      "28",
+      "18"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 4 vào công thức x = 5 × 4 + 3 = 20 + 3 = 23."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "23",
+      "27",
+      "28",
+      "29"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 5 vào công thức x = 5 × 5 + 3 = 25 + 3 = 28."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "28",
+      "38",
+      "34",
+      "33"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 6 vào công thức x = 5 × 6 + 3 = 30 + 3 = 33."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "33",
+      "39",
+      "37",
+      "38"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 7 vào công thức x = 5 × 7 + 3 = 35 + 3 = 38."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "42",
+      "43",
+      "44",
+      "48"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 8 vào công thức x = 5 × 8 + 3 = 40 + 3 = 43."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "43",
+      "47",
+      "48",
+      "49"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 5 × 9 + 3 = 45 + 3 = 48."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "8",
+      "15",
+      "9",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 1 vào công thức x = 6 × 1 + 3 = 6 + 3 = 9."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "9",
+      "21",
+      "14",
+      "15"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 2 vào công thức x = 6 × 2 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "21",
+      "20",
+      "22",
+      "27"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 6 × 3 + 3 = 18 + 3 = 21."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "27",
+      "21",
+      "26",
+      "33"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 6 × 4 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "33",
+      "34",
+      "39",
+      "27"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 6 × 5 + 3 = 30 + 3 = 33."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "33",
+      "40",
+      "39",
+      "45"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 6 × 6 + 3 = 36 + 3 = 39."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "45",
+      "44",
+      "39",
+      "51"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 7 vào công thức x = 6 × 7 + 3 = 42 + 3 = 45."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "52",
+      "51",
+      "57",
+      "45"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 8 vào công thức x = 6 × 8 + 3 = 48 + 3 = 51."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "56",
+      "63",
+      "57",
+      "51"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 6 × 9 + 3 = 54 + 3 = 57."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "10",
+      "17",
+      "11",
+      "9"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 1 vào công thức x = 7 × 1 + 3 = 7 + 3 = 10."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "17",
+      "10",
+      "24",
+      "16"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 2 vào công thức x = 7 × 2 + 3 = 14 + 3 = 17."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "17",
+      "24",
+      "25",
+      "31"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 3 vào công thức x = 7 × 3 + 3 = 21 + 3 = 24."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "38",
+      "24",
+      "30",
+      "31"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 4 vào công thức x = 7 × 4 + 3 = 28 + 3 = 31."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "38",
+      "45",
+      "37",
+      "31"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 7 × 5 + 3 = 35 + 3 = 38."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "44",
+      "38",
+      "52",
+      "45"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 6 vào công thức x = 7 × 6 + 3 = 42 + 3 = 45."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "53",
+      "45",
+      "51",
+      "52"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 7 vào công thức x = 7 × 7 + 3 = 49 + 3 = 52."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "59",
+      "52",
+      "58",
+      "60"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 8 vào công thức x = 7 × 8 + 3 = 56 + 3 = 59."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "65",
+      "66",
+      "59",
+      "73"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 9 vào công thức x = 7 × 9 + 3 = 63 + 3 = 66."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "3",
+      "19",
+      "12",
+      "11"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 8 × 1 + 3 = 8 + 3 = 11."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "11"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 8 × 2 + 3 = 16 + 3 = 19."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "35",
+      "27",
+      "19",
+      "28"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 3 vào công thức x = 8 × 3 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "27",
+      "43",
+      "35",
+      "34"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 4 vào công thức x = 8 × 4 + 3 = 32 + 3 = 35."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "35",
+      "43",
+      "44",
+      "42"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 5 vào công thức x = 8 × 5 + 3 = 40 + 3 = 43."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "50",
+      "59",
+      "51",
+      "43"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 8 × 6 + 3 = 48 + 3 = 51."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "67",
+      "60",
+      "58",
+      "59"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 7 vào công thức x = 8 × 7 + 3 = 56 + 3 = 59."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "66",
+      "68",
+      "67",
+      "75"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 8 vào công thức x = 8 × 8 + 3 = 64 + 3 = 67."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "75",
+      "83",
+      "74",
+      "76"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 9 vào công thức x = 8 × 9 + 3 = 72 + 3 = 75."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "3"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 1 vào công thức x = 9 × 1 + 3 = 9 + 3 = 12."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "21",
+      "20",
+      "12",
+      "30"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 2 vào công thức x = 9 × 2 + 3 = 18 + 3 = 21."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "39",
+      "31",
+      "21",
+      "30"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 3 vào công thức x = 9 × 3 + 3 = 27 + 3 = 30."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "39",
+      "48",
+      "40",
+      "30"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 9 × 4 + 3 = 36 + 3 = 39."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "57",
+      "48",
+      "49",
+      "47"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 5 vào công thức x = 9 × 5 + 3 = 45 + 3 = 48."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "57",
+      "66",
+      "56",
+      "58"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 6 vào công thức x = 9 × 6 + 3 = 54 + 3 = 57."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "66",
+      "65",
+      "57",
+      "67"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 7 vào công thức x = 9 × 7 + 3 = 63 + 3 = 66."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "76",
+      "84",
+      "74",
+      "75"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 8 vào công thức x = 9 × 8 + 3 = 72 + 3 = 75."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "84",
+      "85",
+      "83",
+      "75"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 9 vào công thức x = 9 × 9 + 3 = 81 + 3 = 84."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "23",
+      "14",
+      "13",
+      "12"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 1 vào công thức x = 10 × 1 + 3 = 10 + 3 = 13."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "23",
+      "13",
+      "22",
+      "33"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 2 vào công thức x = 10 × 2 + 3 = 20 + 3 = 23."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "33",
+      "43",
+      "23",
+      "32"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 10 × 3 + 3 = 30 + 3 = 33."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "44",
+      "33",
+      "43",
+      "42"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 4 vào công thức x = 10 × 4 + 3 = 40 + 3 = 43."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "53",
+      "43",
+      "52",
+      "54"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 10 × 5 + 3 = 50 + 3 = 53."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "63",
+      "73",
+      "62",
+      "64"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 6 vào công thức x = 10 × 6 + 3 = 60 + 3 = 63."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "63",
+      "72",
+      "73",
+      "83"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 7 vào công thức x = 10 × 7 + 3 = 70 + 3 = 73."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "93",
+      "83",
+      "84",
+      "73"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 8 vào công thức x = 10 × 8 + 3 = 80 + 3 = 83."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "92",
+      "103",
+      "93",
+      "83"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 10 × 9 + 3 = 90 + 3 = 93."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "3",
+      "13",
+      "25",
+      "14"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 11 × 1 + 3 = 11 + 3 = 14."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "14",
+      "24",
+      "36",
+      "25"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 2 vào công thức x = 11 × 2 + 3 = 22 + 3 = 25."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "36",
+      "47",
+      "37",
+      "25"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 11 × 3 + 3 = 33 + 3 = 36."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "58",
+      "48",
+      "36",
+      "47"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 4 vào công thức x = 11 × 4 + 3 = 44 + 3 = 47."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "47",
+      "69",
+      "58",
+      "57"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 5 vào công thức x = 11 × 5 + 3 = 55 + 3 = 58."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "70",
+      "68",
+      "69",
+      "80"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 11 × 6 + 3 = 66 + 3 = 69."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "91",
+      "79",
+      "80",
+      "69"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 7 vào công thức x = 11 × 7 + 3 = 77 + 3 = 80."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "91",
+      "102",
+      "92",
+      "90"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 8 vào công thức x = 11 × 8 + 3 = 88 + 3 = 91."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "113",
+      "101",
+      "103",
+      "102"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 9 vào công thức x = 11 × 9 + 3 = 99 + 3 = 102."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "3",
+      "16",
+      "15",
+      "14"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 1 vào công thức x = 12 × 1 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "39",
+      "27",
+      "28",
+      "26"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 12 × 2 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "38",
+      "39",
+      "51",
+      "27"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 3 vào công thức x = 12 × 3 + 3 = 36 + 3 = 39."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "51",
+      "52",
+      "50",
+      "63"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 12 × 4 + 3 = 48 + 3 = 51."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "64",
+      "62",
+      "63",
+      "75"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 5 vào công thức x = 12 × 5 + 3 = 60 + 3 = 63."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "76",
+      "75",
+      "87",
+      "63"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 6 vào công thức x = 12 × 6 + 3 = 72 + 3 = 75."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "75",
+      "87",
+      "88",
+      "99"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 7 vào công thức x = 12 × 7 + 3 = 84 + 3 = 87."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "100",
+      "98",
+      "111",
+      "99"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 8 vào công thức x = 12 × 8 + 3 = 96 + 3 = 99."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "123",
+      "99",
+      "111",
+      "112"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 12 × 9 + 3 = 108 + 3 = 111."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "29",
+      "16",
+      "3",
+      "15"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 1 vào công thức x = 13 × 1 + 3 = 13 + 3 = 16."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "42",
+      "16",
+      "29",
+      "28"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 2 vào công thức x = 13 × 2 + 3 = 26 + 3 = 29."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "43",
+      "42",
+      "55",
+      "29"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 3 vào công thức x = 13 × 3 + 3 = 39 + 3 = 42."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "56",
+      "68",
+      "55",
+      "54"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 4 vào công thức x = 13 × 4 + 3 = 52 + 3 = 55."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "68",
+      "81",
+      "67",
+      "69"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 13 × 5 + 3 = 65 + 3 = 68."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "80",
+      "94",
+      "81",
+      "68"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 13 × 6 + 3 = 78 + 3 = 81."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "95",
+      "94",
+      "107",
+      "93"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 7 vào công thức x = 13 × 7 + 3 = 91 + 3 = 94."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "94",
+      "106",
+      "107",
+      "120"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 8 vào công thức x = 13 × 8 + 3 = 104 + 3 = 107."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "121",
+      "107",
+      "120",
+      "119"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 13 × 9 + 3 = 117 + 3 = 120."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "18",
+      "17",
+      "3",
+      "16"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 1 vào công thức x = 14 × 1 + 3 = 14 + 3 = 17."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "17",
+      "32",
+      "31",
+      "45"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 2 vào công thức x = 14 × 2 + 3 = 28 + 3 = 31."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "45",
+      "31",
+      "44",
+      "59"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 14 × 3 + 3 = 42 + 3 = 45."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "59",
+      "73",
+      "58",
+      "60"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 14 × 4 + 3 = 56 + 3 = 59."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "73",
+      "72",
+      "74",
+      "87"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 14 × 5 + 3 = 70 + 3 = 73."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "73",
+      "88",
+      "87",
+      "86"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 14 × 6 + 3 = 84 + 3 = 87."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "115",
+      "102",
+      "100",
+      "101"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 7 vào công thức x = 14 × 7 + 3 = 98 + 3 = 101."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "129",
+      "116",
+      "114",
+      "115"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 8 vào công thức x = 14 × 8 + 3 = 112 + 3 = 115."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 2)",
+    "options": [
+      "115",
+      "128",
+      "129",
+      "143"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 14 × 9 + 3 = 126 + 3 = 129."
+  },
+  {
+    "question": "Viết phân số 1/2 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.6",
+      "1.0",
+      "0.4",
+      "0.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 1 : 2 = 0.5."
+  },
+  {
+    "question": "Viết phân số 1/4 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.15",
+      "0.35",
+      "0.25",
+      "0.5"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 1 : 4 = 0.25."
+  },
+  {
+    "question": "Viết phân số 1/5 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.3",
+      "0.4",
+      "0.2",
+      "0.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 1 : 5 = 0.2."
+  },
+  {
+    "question": "Viết phân số 1/8 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.125",
+      "0.025",
+      "0.25",
+      "0.225"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 1 : 8 = 0.125."
+  },
+  {
+    "question": "Viết phân số 1/10 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.3",
+      "0.2",
+      "0.1",
+      "0.2"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 1 : 10 = 0.1."
+  },
+  {
+    "question": "Viết phân số 2/2 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.9",
+      "2.0",
+      "1.0",
+      "1.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 2 : 2 = 1.0."
+  },
+  {
+    "question": "Viết phân số 2/4 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.6",
+      "0.5",
+      "0.4",
+      "1.0"
+    ],
+    "correct": 1,
+    "explain": "Thực hiện phép chia 2 : 4 = 0.5."
+  },
+  {
+    "question": "Viết phân số 2/5 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.5",
+      "0.8",
+      "0.3",
+      "0.4"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 2 : 5 = 0.4."
+  },
+  {
+    "question": "Viết phân số 2/8 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.25",
+      "0.35",
+      "0.15",
+      "0.5"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 2 : 8 = 0.25."
+  },
+  {
+    "question": "Viết phân số 2/10 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.2",
+      "0.4",
+      "0.1",
+      "0.3"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 2 : 10 = 0.2."
+  },
+  {
+    "question": "Viết phân số 3/2 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "3.0",
+      "1.6",
+      "1.5",
+      "1.4"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 3 : 2 = 1.5."
+  },
+  {
+    "question": "Viết phân số 3/4 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.5",
+      "0.75",
+      "0.85",
+      "0.65"
+    ],
+    "correct": 1,
+    "explain": "Thực hiện phép chia 3 : 4 = 0.75."
+  },
+  {
+    "question": "Viết phân số 3/5 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.7",
+      "0.5",
+      "0.6",
+      "1.2"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 3 : 5 = 0.6."
+  },
+  {
+    "question": "Viết phân số 3/8 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.75",
+      "0.275",
+      "0.375",
+      "0.475"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 3 : 8 = 0.375."
+  },
+  {
+    "question": "Viết phân số 3/10 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.6",
+      "0.2",
+      "0.4",
+      "0.3"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 3 : 10 = 0.3."
+  },
+  {
+    "question": "Viết phân số 4/2 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "4.0",
+      "2.1",
+      "2.0",
+      "1.9"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 4 : 2 = 2.0."
+  },
+  {
+    "question": "Viết phân số 4/4 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.0",
+      "0.9",
+      "2.0",
+      "1.1"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 4 : 4 = 1.0."
+  },
+  {
+    "question": "Viết phân số 4/5 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.8",
+      "1.6",
+      "0.7",
+      "0.9"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 4 : 5 = 0.8."
+  },
+  {
+    "question": "Viết phân số 4/8 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.0",
+      "0.4",
+      "0.6",
+      "0.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 4 : 8 = 0.5."
+  },
+  {
+    "question": "Viết phân số 4/10 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.8",
+      "0.3",
+      "0.5",
+      "0.4"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 4 : 10 = 0.4."
+  },
+  {
+    "question": "Viết phân số 5/2 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "5.0",
+      "2.6",
+      "2.4",
+      "2.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 5 : 2 = 2.5."
+  },
+  {
+    "question": "Viết phân số 5/4 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.35",
+      "1.15",
+      "2.5",
+      "1.25"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 5 : 4 = 1.25."
+  },
+  {
+    "question": "Viết phân số 5/5 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.0",
+      "1.1",
+      "2.0",
+      "0.9"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 5 : 5 = 1.0."
+  },
+  {
+    "question": "Viết phân số 5/8 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.625",
+      "1.25",
+      "0.725",
+      "0.525"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 5 : 8 = 0.625."
+  },
+  {
+    "question": "Viết phân số 5/10 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.0",
+      "0.6",
+      "0.5",
+      "0.4"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 5 : 10 = 0.5."
+  },
+  {
+    "question": "Viết phân số 6/2 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "3.1",
+      "2.9",
+      "6.0",
+      "3.0"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 6 : 2 = 3.0."
+  },
+  {
+    "question": "Viết phân số 6/4 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.6",
+      "1.4",
+      "1.5",
+      "3.0"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 6 : 4 = 1.5."
+  },
+  {
+    "question": "Viết phân số 6/5 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.3",
+      "1.1",
+      "2.4",
+      "1.2"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 6 : 5 = 1.2."
+  },
+  {
+    "question": "Viết phân số 6/8 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.65",
+      "0.75",
+      "1.5",
+      "0.85"
+    ],
+    "correct": 1,
+    "explain": "Thực hiện phép chia 6 : 8 = 0.75."
+  },
+  {
+    "question": "Viết phân số 6/10 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.6",
+      "1.2",
+      "0.7",
+      "0.5"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 6 : 10 = 0.6."
+  },
+  {
+    "question": "Viết phân số 7/2 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "7.0",
+      "3.4",
+      "3.6",
+      "3.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 7 : 2 = 3.5."
+  },
+  {
+    "question": "Viết phân số 7/4 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.75",
+      "1.85",
+      "3.5",
+      "1.65"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 7 : 4 = 1.75."
+  },
+  {
+    "question": "Viết phân số 7/5 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.4",
+      "2.8",
+      "1.5",
+      "1.3"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 7 : 5 = 1.4."
+  },
+  {
+    "question": "Viết phân số 7/8 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.875",
+      "1.75",
+      "0.775",
+      "0.975"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 7 : 8 = 0.875."
+  },
+  {
+    "question": "Viết phân số 7/10 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.7",
+      "0.8",
+      "0.6",
+      "1.4"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 7 : 10 = 0.7."
+  },
+  {
+    "question": "Viết phân số 8/2 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "8.0",
+      "3.9",
+      "4.0",
+      "4.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 2 = 4.0."
+  },
+  {
+    "question": "Viết phân số 8/4 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "4.0",
+      "1.9",
+      "2.0",
+      "2.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 4 = 2.0."
+  },
+  {
+    "question": "Viết phân số 8/5 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "3.2",
+      "1.7",
+      "1.6",
+      "1.5"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 5 = 1.6."
+  },
+  {
+    "question": "Viết phân số 8/8 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "2.0",
+      "0.9",
+      "1.0",
+      "1.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 8 = 1.0."
+  },
+  {
+    "question": "Viết phân số 8/10 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "0.7",
+      "0.9",
+      "0.8",
+      "1.6"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 10 = 0.8."
+  },
+  {
+    "question": "Viết phân số 9/2 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "4.4",
+      "4.6",
+      "9.0",
+      "4.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 9 : 2 = 4.5."
+  },
+  {
+    "question": "Viết phân số 9/4 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "2.25",
+      "2.35",
+      "4.5",
+      "2.15"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 9 : 4 = 2.25."
+  },
+  {
+    "question": "Viết phân số 9/5 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.8",
+      "1.7",
+      "3.6",
+      "1.9"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 9 : 5 = 1.8."
+  },
+  {
+    "question": "Viết phân số 9/8 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.025",
+      "1.225",
+      "1.125",
+      "2.25"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 9 : 8 = 1.125."
+  },
+  {
+    "question": "Viết phân số 9/10 dưới dạng số thập phân ta được: (Dạng 2)",
+    "options": [
+      "1.0",
+      "0.8",
+      "0.9",
+      "1.8"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 9 : 10 = 0.9."
+  },
+  {
+    "question": "Hình lục giác đều có mấy cạnh bằng nhau? (Dạng 2)",
+    "options": [
+      "5 cạnh",
+      "6 cạnh",
+      "8 cạnh",
+      "4 cạnh"
+    ],
+    "correct": 1,
+    "explain": "Hình lục giác đều gồm 6 cạnh bằng nhau và 6 góc bằng nhau."
+  },
+  {
+    "question": "Tổng số đo 3 góc trong một tam giác bằng bao nhiêu? (Dạng 2)",
+    "options": [
+      "360°",
+      "180°",
+      "270°",
+      "90°"
+    ],
+    "correct": 1,
+    "explain": "Định lý tổng 3 góc trong một tam giác luôn luôn bằng 180°."
+  },
+  {
+    "question": "Góc có số đo lớn hơn 0° và nhỏ hơn 90° gọi là gì? (Dạng 2)",
+    "options": [
+      "Góc tù",
+      "Góc bẹt",
+      "Góc nhọn",
+      "Góc vuông"
+    ],
+    "correct": 2,
+    "explain": "Góc nhọn có số đo α thoả mãn 0° < α < 90°."
+  },
+  {
+    "question": "Góc bẹt có số đo bằng bao nhiêu độ? (Dạng 2)",
+    "options": [
+      "120°",
+      "360°",
+      "180°",
+      "90°"
+    ],
+    "correct": 2,
+    "explain": "Góc bẹt có hai cạnh là hai tia đối nhau, số đo bằng 180°."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 2 × 1 + 3 = 2 + 3 = 5."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "9",
+      "7",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 2 × 2 + 3 = 4 + 3 = 7."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "11",
+      "7",
+      "9",
+      "8"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 3 vào công thức x = 2 × 3 + 3 = 6 + 3 = 9."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "11",
+      "13",
+      "9",
+      "12"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 2 × 4 + 3 = 8 + 3 = 11."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "13",
+      "11",
+      "14",
+      "15"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 2 × 5 + 3 = 10 + 3 = 13."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "15",
+      "16",
+      "13",
+      "14"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 6 vào công thức x = 2 × 6 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "17",
+      "15",
+      "16",
+      "18"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 7 vào công thức x = 2 × 7 + 3 = 14 + 3 = 17."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "19",
+      "20",
+      "18",
+      "17"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 8 vào công thức x = 2 × 8 + 3 = 16 + 3 = 19."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "21",
+      "23",
+      "19",
+      "22"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 9 vào công thức x = 2 × 9 + 3 = 18 + 3 = 21."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "5",
+      "3",
+      "9",
+      "6"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 3 × 1 + 3 = 3 + 3 = 6."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "12",
+      "9",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 3 × 2 + 3 = 6 + 3 = 9."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "13",
+      "11",
+      "9",
+      "12"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 3 vào công thức x = 3 × 3 + 3 = 9 + 3 = 12."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "14",
+      "18",
+      "15",
+      "12"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 4 vào công thức x = 3 × 4 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "15",
+      "18",
+      "19",
+      "21"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 5 vào công thức x = 3 × 5 + 3 = 15 + 3 = 18."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "20",
+      "22",
+      "21",
+      "18"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 3 × 6 + 3 = 18 + 3 = 21."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "21",
+      "25",
+      "24",
+      "27"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 7 vào công thức x = 3 × 7 + 3 = 21 + 3 = 24."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "24",
+      "27",
+      "30",
+      "28"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 8 vào công thức x = 3 × 8 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 3k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "31",
+      "29",
+      "33",
+      "30"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 9 vào công thức x = 3 × 9 + 3 = 27 + 3 = 30."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "8",
+      "7",
+      "11",
+      "3"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 1 vào công thức x = 4 × 1 + 3 = 4 + 3 = 7."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "15",
+      "11",
+      "10",
+      "7"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 4 × 2 + 3 = 8 + 3 = 11."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "15",
+      "11",
+      "14",
+      "16"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 4 × 3 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "20",
+      "19",
+      "15",
+      "18"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 4 vào công thức x = 4 × 4 + 3 = 16 + 3 = 19."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "27",
+      "22",
+      "23",
+      "24"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 5 vào công thức x = 4 × 5 + 3 = 20 + 3 = 23."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "31",
+      "28",
+      "23",
+      "27"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 6 vào công thức x = 4 × 6 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "27",
+      "35",
+      "31",
+      "30"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 7 vào công thức x = 4 × 7 + 3 = 28 + 3 = 31."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "35",
+      "39",
+      "36",
+      "31"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 8 vào công thức x = 4 × 8 + 3 = 32 + 3 = 35."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 4k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "39",
+      "35",
+      "38",
+      "40"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 9 vào công thức x = 4 × 9 + 3 = 36 + 3 = 39."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "8",
+      "7",
+      "3",
+      "9"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 1 vào công thức x = 5 × 1 + 3 = 5 + 3 = 8."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "14",
+      "13",
+      "18",
+      "12"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 5 × 2 + 3 = 10 + 3 = 13."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "18",
+      "19",
+      "13",
+      "23"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 5 × 3 + 3 = 15 + 3 = 18."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "24",
+      "23",
+      "28",
+      "18"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 4 vào công thức x = 5 × 4 + 3 = 20 + 3 = 23."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "23",
+      "27",
+      "28",
+      "29"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 5 vào công thức x = 5 × 5 + 3 = 25 + 3 = 28."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "28",
+      "38",
+      "34",
+      "33"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 6 vào công thức x = 5 × 6 + 3 = 30 + 3 = 33."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "33",
+      "39",
+      "37",
+      "38"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 7 vào công thức x = 5 × 7 + 3 = 35 + 3 = 38."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "42",
+      "43",
+      "44",
+      "48"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 8 vào công thức x = 5 × 8 + 3 = 40 + 3 = 43."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 5k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "43",
+      "47",
+      "48",
+      "49"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 5 × 9 + 3 = 45 + 3 = 48."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "8",
+      "15",
+      "9",
+      "3"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 1 vào công thức x = 6 × 1 + 3 = 6 + 3 = 9."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "9",
+      "21",
+      "14",
+      "15"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 2 vào công thức x = 6 × 2 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "21",
+      "20",
+      "22",
+      "27"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 6 × 3 + 3 = 18 + 3 = 21."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "27",
+      "21",
+      "26",
+      "33"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 6 × 4 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "33",
+      "34",
+      "39",
+      "27"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 6 × 5 + 3 = 30 + 3 = 33."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "33",
+      "40",
+      "39",
+      "45"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 6 × 6 + 3 = 36 + 3 = 39."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "45",
+      "44",
+      "39",
+      "51"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 7 vào công thức x = 6 × 7 + 3 = 42 + 3 = 45."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "52",
+      "51",
+      "57",
+      "45"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 8 vào công thức x = 6 × 8 + 3 = 48 + 3 = 51."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 6k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "56",
+      "63",
+      "57",
+      "51"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 6 × 9 + 3 = 54 + 3 = 57."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "10",
+      "17",
+      "11",
+      "9"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 1 vào công thức x = 7 × 1 + 3 = 7 + 3 = 10."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "17",
+      "10",
+      "24",
+      "16"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 2 vào công thức x = 7 × 2 + 3 = 14 + 3 = 17."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "17",
+      "24",
+      "25",
+      "31"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 3 vào công thức x = 7 × 3 + 3 = 21 + 3 = 24."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "38",
+      "24",
+      "30",
+      "31"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 4 vào công thức x = 7 × 4 + 3 = 28 + 3 = 31."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "38",
+      "45",
+      "37",
+      "31"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 7 × 5 + 3 = 35 + 3 = 38."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "44",
+      "38",
+      "52",
+      "45"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 6 vào công thức x = 7 × 6 + 3 = 42 + 3 = 45."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "53",
+      "45",
+      "51",
+      "52"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 7 vào công thức x = 7 × 7 + 3 = 49 + 3 = 52."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "59",
+      "52",
+      "58",
+      "60"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 8 vào công thức x = 7 × 8 + 3 = 56 + 3 = 59."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 7k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "65",
+      "66",
+      "59",
+      "73"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 9 vào công thức x = 7 × 9 + 3 = 63 + 3 = 66."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "3",
+      "19",
+      "12",
+      "11"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 8 × 1 + 3 = 8 + 3 = 11."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "11"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 8 × 2 + 3 = 16 + 3 = 19."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "35",
+      "27",
+      "19",
+      "28"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 3 vào công thức x = 8 × 3 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "27",
+      "43",
+      "35",
+      "34"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 4 vào công thức x = 8 × 4 + 3 = 32 + 3 = 35."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "35",
+      "43",
+      "44",
+      "42"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 5 vào công thức x = 8 × 5 + 3 = 40 + 3 = 43."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "50",
+      "59",
+      "51",
+      "43"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 8 × 6 + 3 = 48 + 3 = 51."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "67",
+      "60",
+      "58",
+      "59"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 7 vào công thức x = 8 × 7 + 3 = 56 + 3 = 59."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "66",
+      "68",
+      "67",
+      "75"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 8 vào công thức x = 8 × 8 + 3 = 64 + 3 = 67."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 8k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "75",
+      "83",
+      "74",
+      "76"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 9 vào công thức x = 8 × 9 + 3 = 72 + 3 = 75."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "3"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 1 vào công thức x = 9 × 1 + 3 = 9 + 3 = 12."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "21",
+      "20",
+      "12",
+      "30"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 2 vào công thức x = 9 × 2 + 3 = 18 + 3 = 21."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "39",
+      "31",
+      "21",
+      "30"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 3 vào công thức x = 9 × 3 + 3 = 27 + 3 = 30."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "39",
+      "48",
+      "40",
+      "30"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 9 × 4 + 3 = 36 + 3 = 39."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "57",
+      "48",
+      "49",
+      "47"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 5 vào công thức x = 9 × 5 + 3 = 45 + 3 = 48."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "57",
+      "66",
+      "56",
+      "58"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 6 vào công thức x = 9 × 6 + 3 = 54 + 3 = 57."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "66",
+      "65",
+      "57",
+      "67"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 7 vào công thức x = 9 × 7 + 3 = 63 + 3 = 66."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "76",
+      "84",
+      "74",
+      "75"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 8 vào công thức x = 9 × 8 + 3 = 72 + 3 = 75."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 9k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "84",
+      "85",
+      "83",
+      "75"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 9 vào công thức x = 9 × 9 + 3 = 81 + 3 = 84."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "23",
+      "14",
+      "13",
+      "12"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 1 vào công thức x = 10 × 1 + 3 = 10 + 3 = 13."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "23",
+      "13",
+      "22",
+      "33"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 2 vào công thức x = 10 × 2 + 3 = 20 + 3 = 23."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "33",
+      "43",
+      "23",
+      "32"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 10 × 3 + 3 = 30 + 3 = 33."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "44",
+      "33",
+      "43",
+      "42"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 4 vào công thức x = 10 × 4 + 3 = 40 + 3 = 43."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "53",
+      "43",
+      "52",
+      "54"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 10 × 5 + 3 = 50 + 3 = 53."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "63",
+      "73",
+      "62",
+      "64"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 6 vào công thức x = 10 × 6 + 3 = 60 + 3 = 63."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "63",
+      "72",
+      "73",
+      "83"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 7 vào công thức x = 10 × 7 + 3 = 70 + 3 = 73."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "93",
+      "83",
+      "84",
+      "73"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 8 vào công thức x = 10 × 8 + 3 = 80 + 3 = 83."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 10k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "92",
+      "103",
+      "93",
+      "83"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 10 × 9 + 3 = 90 + 3 = 93."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "3",
+      "13",
+      "25",
+      "14"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 11 × 1 + 3 = 11 + 3 = 14."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "14",
+      "24",
+      "36",
+      "25"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 2 vào công thức x = 11 × 2 + 3 = 22 + 3 = 25."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "36",
+      "47",
+      "37",
+      "25"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 11 × 3 + 3 = 33 + 3 = 36."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "58",
+      "48",
+      "36",
+      "47"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 4 vào công thức x = 11 × 4 + 3 = 44 + 3 = 47."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "47",
+      "69",
+      "58",
+      "57"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 5 vào công thức x = 11 × 5 + 3 = 55 + 3 = 58."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "70",
+      "68",
+      "69",
+      "80"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 11 × 6 + 3 = 66 + 3 = 69."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "91",
+      "79",
+      "80",
+      "69"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 7 vào công thức x = 11 × 7 + 3 = 77 + 3 = 80."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "91",
+      "102",
+      "92",
+      "90"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 8 vào công thức x = 11 × 8 + 3 = 88 + 3 = 91."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 11k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "113",
+      "101",
+      "103",
+      "102"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 9 vào công thức x = 11 × 9 + 3 = 99 + 3 = 102."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "3",
+      "16",
+      "15",
+      "14"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 1 vào công thức x = 12 × 1 + 3 = 12 + 3 = 15."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "39",
+      "27",
+      "28",
+      "26"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 12 × 2 + 3 = 24 + 3 = 27."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "38",
+      "39",
+      "51",
+      "27"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 3 vào công thức x = 12 × 3 + 3 = 36 + 3 = 39."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "51",
+      "52",
+      "50",
+      "63"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 12 × 4 + 3 = 48 + 3 = 51."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "64",
+      "62",
+      "63",
+      "75"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 5 vào công thức x = 12 × 5 + 3 = 60 + 3 = 63."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "76",
+      "75",
+      "87",
+      "63"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 6 vào công thức x = 12 × 6 + 3 = 72 + 3 = 75."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "75",
+      "87",
+      "88",
+      "99"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 7 vào công thức x = 12 × 7 + 3 = 84 + 3 = 87."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "100",
+      "98",
+      "111",
+      "99"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 8 vào công thức x = 12 × 8 + 3 = 96 + 3 = 99."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 12k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "123",
+      "99",
+      "111",
+      "112"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 12 × 9 + 3 = 108 + 3 = 111."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "29",
+      "16",
+      "3",
+      "15"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 1 vào công thức x = 13 × 1 + 3 = 13 + 3 = 16."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "42",
+      "16",
+      "29",
+      "28"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 2 vào công thức x = 13 × 2 + 3 = 26 + 3 = 29."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "43",
+      "42",
+      "55",
+      "29"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 3 vào công thức x = 13 × 3 + 3 = 39 + 3 = 42."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "56",
+      "68",
+      "55",
+      "54"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 4 vào công thức x = 13 × 4 + 3 = 52 + 3 = 55."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "68",
+      "81",
+      "67",
+      "69"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 13 × 5 + 3 = 65 + 3 = 68."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "80",
+      "94",
+      "81",
+      "68"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 13 × 6 + 3 = 78 + 3 = 81."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "95",
+      "94",
+      "107",
+      "93"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 7 vào công thức x = 13 × 7 + 3 = 91 + 3 = 94."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "94",
+      "106",
+      "107",
+      "120"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 8 vào công thức x = 13 × 8 + 3 = 104 + 3 = 107."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 13k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "121",
+      "107",
+      "120",
+      "119"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 13 × 9 + 3 = 117 + 3 = 120."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "18",
+      "17",
+      "3",
+      "16"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 1 vào công thức x = 14 × 1 + 3 = 14 + 3 = 17."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "17",
+      "32",
+      "31",
+      "45"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 2 vào công thức x = 14 × 2 + 3 = 28 + 3 = 31."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 3}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "45",
+      "31",
+      "44",
+      "59"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 3 vào công thức x = 14 × 3 + 3 = 42 + 3 = 45."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 4}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "59",
+      "73",
+      "58",
+      "60"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 4 vào công thức x = 14 × 4 + 3 = 56 + 3 = 59."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 5}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "73",
+      "72",
+      "74",
+      "87"
+    ],
+    "correct": 0,
+    "explain": "Thay k = 5 vào công thức x = 14 × 5 + 3 = 70 + 3 = 73."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 6}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "73",
+      "88",
+      "87",
+      "86"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 6 vào công thức x = 14 × 6 + 3 = 84 + 3 = 87."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 7}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "115",
+      "102",
+      "100",
+      "101"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 7 vào công thức x = 14 × 7 + 3 = 98 + 3 = 101."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 8}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "129",
+      "116",
+      "114",
+      "115"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 8 vào công thức x = 14 × 8 + 3 = 112 + 3 = 115."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 14k + 3, k = 9}. Phần tử của tập hợp A là bao nhiêu? (Dạng 3)",
+    "options": [
+      "115",
+      "128",
+      "129",
+      "143"
+    ],
+    "correct": 2,
+    "explain": "Thay k = 9 vào công thức x = 14 × 9 + 3 = 126 + 3 = 129."
+  },
+  {
+    "question": "Viết phân số 1/2 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.6",
+      "1.0",
+      "0.4",
+      "0.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 1 : 2 = 0.5."
+  },
+  {
+    "question": "Viết phân số 1/4 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.15",
+      "0.35",
+      "0.25",
+      "0.5"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 1 : 4 = 0.25."
+  },
+  {
+    "question": "Viết phân số 1/5 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.3",
+      "0.4",
+      "0.2",
+      "0.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 1 : 5 = 0.2."
+  },
+  {
+    "question": "Viết phân số 1/8 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.125",
+      "0.025",
+      "0.25",
+      "0.225"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 1 : 8 = 0.125."
+  },
+  {
+    "question": "Viết phân số 1/10 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.3",
+      "0.2",
+      "0.1",
+      "0.2"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 1 : 10 = 0.1."
+  },
+  {
+    "question": "Viết phân số 2/2 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.9",
+      "2.0",
+      "1.0",
+      "1.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 2 : 2 = 1.0."
+  },
+  {
+    "question": "Viết phân số 2/4 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.6",
+      "0.5",
+      "0.4",
+      "1.0"
+    ],
+    "correct": 1,
+    "explain": "Thực hiện phép chia 2 : 4 = 0.5."
+  },
+  {
+    "question": "Viết phân số 2/5 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.5",
+      "0.8",
+      "0.3",
+      "0.4"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 2 : 5 = 0.4."
+  },
+  {
+    "question": "Viết phân số 2/8 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.25",
+      "0.35",
+      "0.15",
+      "0.5"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 2 : 8 = 0.25."
+  },
+  {
+    "question": "Viết phân số 2/10 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.2",
+      "0.4",
+      "0.1",
+      "0.3"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 2 : 10 = 0.2."
+  },
+  {
+    "question": "Viết phân số 3/2 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "3.0",
+      "1.6",
+      "1.5",
+      "1.4"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 3 : 2 = 1.5."
+  },
+  {
+    "question": "Viết phân số 3/4 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.5",
+      "0.75",
+      "0.85",
+      "0.65"
+    ],
+    "correct": 1,
+    "explain": "Thực hiện phép chia 3 : 4 = 0.75."
+  },
+  {
+    "question": "Viết phân số 3/5 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.7",
+      "0.5",
+      "0.6",
+      "1.2"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 3 : 5 = 0.6."
+  },
+  {
+    "question": "Viết phân số 3/8 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.75",
+      "0.275",
+      "0.375",
+      "0.475"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 3 : 8 = 0.375."
+  },
+  {
+    "question": "Viết phân số 3/10 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.6",
+      "0.2",
+      "0.4",
+      "0.3"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 3 : 10 = 0.3."
+  },
+  {
+    "question": "Viết phân số 4/2 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "4.0",
+      "2.1",
+      "2.0",
+      "1.9"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 4 : 2 = 2.0."
+  },
+  {
+    "question": "Viết phân số 4/4 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.0",
+      "0.9",
+      "2.0",
+      "1.1"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 4 : 4 = 1.0."
+  },
+  {
+    "question": "Viết phân số 4/5 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.8",
+      "1.6",
+      "0.7",
+      "0.9"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 4 : 5 = 0.8."
+  },
+  {
+    "question": "Viết phân số 4/8 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.0",
+      "0.4",
+      "0.6",
+      "0.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 4 : 8 = 0.5."
+  },
+  {
+    "question": "Viết phân số 4/10 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.8",
+      "0.3",
+      "0.5",
+      "0.4"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 4 : 10 = 0.4."
+  },
+  {
+    "question": "Viết phân số 5/2 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "5.0",
+      "2.6",
+      "2.4",
+      "2.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 5 : 2 = 2.5."
+  },
+  {
+    "question": "Viết phân số 5/4 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.35",
+      "1.15",
+      "2.5",
+      "1.25"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 5 : 4 = 1.25."
+  },
+  {
+    "question": "Viết phân số 5/5 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.0",
+      "1.1",
+      "2.0",
+      "0.9"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 5 : 5 = 1.0."
+  },
+  {
+    "question": "Viết phân số 5/8 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.625",
+      "1.25",
+      "0.725",
+      "0.525"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 5 : 8 = 0.625."
+  },
+  {
+    "question": "Viết phân số 5/10 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.0",
+      "0.6",
+      "0.5",
+      "0.4"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 5 : 10 = 0.5."
+  },
+  {
+    "question": "Viết phân số 6/2 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "3.1",
+      "2.9",
+      "6.0",
+      "3.0"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 6 : 2 = 3.0."
+  },
+  {
+    "question": "Viết phân số 6/4 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.6",
+      "1.4",
+      "1.5",
+      "3.0"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 6 : 4 = 1.5."
+  },
+  {
+    "question": "Viết phân số 6/5 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.3",
+      "1.1",
+      "2.4",
+      "1.2"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 6 : 5 = 1.2."
+  },
+  {
+    "question": "Viết phân số 6/8 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.65",
+      "0.75",
+      "1.5",
+      "0.85"
+    ],
+    "correct": 1,
+    "explain": "Thực hiện phép chia 6 : 8 = 0.75."
+  },
+  {
+    "question": "Viết phân số 6/10 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.6",
+      "1.2",
+      "0.7",
+      "0.5"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 6 : 10 = 0.6."
+  },
+  {
+    "question": "Viết phân số 7/2 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "7.0",
+      "3.4",
+      "3.6",
+      "3.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 7 : 2 = 3.5."
+  },
+  {
+    "question": "Viết phân số 7/4 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.75",
+      "1.85",
+      "3.5",
+      "1.65"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 7 : 4 = 1.75."
+  },
+  {
+    "question": "Viết phân số 7/5 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.4",
+      "2.8",
+      "1.5",
+      "1.3"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 7 : 5 = 1.4."
+  },
+  {
+    "question": "Viết phân số 7/8 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.875",
+      "1.75",
+      "0.775",
+      "0.975"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 7 : 8 = 0.875."
+  },
+  {
+    "question": "Viết phân số 7/10 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.7",
+      "0.8",
+      "0.6",
+      "1.4"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 7 : 10 = 0.7."
+  },
+  {
+    "question": "Viết phân số 8/2 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "8.0",
+      "3.9",
+      "4.0",
+      "4.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 2 = 4.0."
+  },
+  {
+    "question": "Viết phân số 8/4 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "4.0",
+      "1.9",
+      "2.0",
+      "2.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 4 = 2.0."
+  },
+  {
+    "question": "Viết phân số 8/5 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "3.2",
+      "1.7",
+      "1.6",
+      "1.5"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 5 = 1.6."
+  },
+  {
+    "question": "Viết phân số 8/8 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "2.0",
+      "0.9",
+      "1.0",
+      "1.1"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 8 = 1.0."
+  },
+  {
+    "question": "Viết phân số 8/10 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "0.7",
+      "0.9",
+      "0.8",
+      "1.6"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 8 : 10 = 0.8."
+  },
+  {
+    "question": "Viết phân số 9/2 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "4.4",
+      "4.6",
+      "9.0",
+      "4.5"
+    ],
+    "correct": 3,
+    "explain": "Thực hiện phép chia 9 : 2 = 4.5."
+  },
+  {
+    "question": "Viết phân số 9/4 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "2.25",
+      "2.35",
+      "4.5",
+      "2.15"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 9 : 4 = 2.25."
+  },
+  {
+    "question": "Viết phân số 9/5 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.8",
+      "1.7",
+      "3.6",
+      "1.9"
+    ],
+    "correct": 0,
+    "explain": "Thực hiện phép chia 9 : 5 = 1.8."
+  },
+  {
+    "question": "Viết phân số 9/8 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.025",
+      "1.225",
+      "1.125",
+      "2.25"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 9 : 8 = 1.125."
+  },
+  {
+    "question": "Viết phân số 9/10 dưới dạng số thập phân ta được: (Dạng 3)",
+    "options": [
+      "1.0",
+      "0.8",
+      "0.9",
+      "1.8"
+    ],
+    "correct": 2,
+    "explain": "Thực hiện phép chia 9 : 10 = 0.9."
+  },
+  {
+    "question": "Hình lục giác đều có mấy cạnh bằng nhau? (Dạng 3)",
+    "options": [
+      "5 cạnh",
+      "6 cạnh",
+      "8 cạnh",
+      "4 cạnh"
+    ],
+    "correct": 1,
+    "explain": "Hình lục giác đều gồm 6 cạnh bằng nhau và 6 góc bằng nhau."
+  },
+  {
+    "question": "Tổng số đo 3 góc trong một tam giác bằng bao nhiêu? (Dạng 3)",
+    "options": [
+      "360°",
+      "180°",
+      "270°",
+      "90°"
+    ],
+    "correct": 1,
+    "explain": "Định lý tổng 3 góc trong một tam giác luôn luôn bằng 180°."
+  },
+  {
+    "question": "Góc có số đo lớn hơn 0° và nhỏ hơn 90° gọi là gì? (Dạng 3)",
+    "options": [
+      "Góc tù",
+      "Góc bẹt",
+      "Góc nhọn",
+      "Góc vuông"
+    ],
+    "correct": 2,
+    "explain": "Góc nhọn có số đo α thoả mãn 0° < α < 90°."
+  },
+  {
+    "question": "Góc bẹt có số đo bằng bao nhiêu độ? (Dạng 3)",
+    "options": [
+      "120°",
+      "360°",
+      "180°",
+      "90°"
+    ],
+    "correct": 2,
+    "explain": "Góc bẹt có hai cạnh là hai tia đối nhau, số đo bằng 180°."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 1}. Phần tử của tập hợp A là bao nhiêu? (Dạng 4)",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 3,
+    "explain": "Thay k = 1 vào công thức x = 2 × 1 + 3 = 2 + 3 = 5."
+  },
+  {
+    "question": "Cho tập hợp A = {x ∈ ℕ | x = 2k + 3, k = 2}. Phần tử của tập hợp A là bao nhiêu? (Dạng 4)",
+    "options": [
+      "9",
+      "7",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "explain": "Thay k = 2 vào công thức x = 2 × 2 + 3 = 4 + 3 = 7."
+  }
+]

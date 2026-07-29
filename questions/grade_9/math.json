@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm:",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu?",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là:",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 2)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 2)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 2)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 3)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 3)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 3)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 4)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 4)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 4)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 5)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 5)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 5)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 6)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 6)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 6)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 7)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 7)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 7)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 8)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 8)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 8)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 9)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 9)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 9)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 10)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 10)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 10)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 11)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 11)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 11)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 12)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 12)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 12)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 13)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 13)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 13)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 14)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 14)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 14)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 15)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 15)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 15)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 16)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 16)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 16)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 17)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 17)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 17)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 18)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 18)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 18)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 19)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 19)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 19)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 20)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 20)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 20)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 21)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 21)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 21)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 24 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 9, P = 23",
+      "S = 10, P = 24",
+      "S = 11, P = 24",
+      "S = 10, P = 26"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 24."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 28 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 12, P = 28",
+      "S = 11, P = 28",
+      "S = 11, P = 30",
+      "S = 10, P = 27"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 28."
+  },
+  {
+    "question": "Cho phương trình x² - 11x + 30 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 12, P = 30",
+      "S = 11, P = 32",
+      "S = 10, P = 29",
+      "S = 11, P = 30"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 11, P = x₁x₂ = c/a = 30."
+  },
+  {
+    "question": "Cho phương trình x² - 12x + 35 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 22)",
+    "options": [
+      "S = 12, P = 35",
+      "S = 11, P = 34",
+      "S = 13, P = 35",
+      "S = 12, P = 37"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 12, P = x₁x₂ = c/a = 35."
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là góc có số đo bằng bao nhiêu? (Dạng 22)",
+    "options": [
+      "180°",
+      "90° (Góc vuông)",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "explain": "Định lý: Góc nội tiếp chắn nửa đường tròn là góc vuông (90°)."
+  },
+  {
+    "question": "Công thức tính diện tích hình tròn bán kính R là: (Dạng 22)",
+    "options": [
+      "S = 4πR²",
+      "S = πR²",
+      "S = πR",
+      "S = 2πR"
+    ],
+    "correct": 1,
+    "explain": "Diện tích hình tròn bán kính R được tính bằng S = πR²."
+  },
+  {
+    "question": "Cho phương trình x² - 3x + 2 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 3, P = 2",
+      "S = 4, P = 2",
+      "S = 2, P = 1",
+      "S = 3, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 3, P = x₁x₂ = c/a = 2."
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 4, P = 5",
+      "S = 5, P = 3",
+      "S = 3, P = 2",
+      "S = 4, P = 3"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 4, P = x₁x₂ = c/a = 3."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 4, P = 3",
+      "S = 5, P = 4",
+      "S = 5, P = 6",
+      "S = 6, P = 4"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 4."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 5",
+      "S = 6, P = 7",
+      "S = 5, P = 4"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 5."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 6, P = 5",
+      "S = 7, P = 8",
+      "S = 7, P = 6",
+      "S = 8, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 7 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 9, P = 7",
+      "S = 8, P = 9",
+      "S = 8, P = 7",
+      "S = 7, P = 6"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 7."
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 6 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 6, P = 6",
+      "S = 5, P = 6",
+      "S = 5, P = 8",
+      "S = 4, P = 5"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 5, P = x₁x₂ = c/a = 6."
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 8 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 6, P = 8",
+      "S = 7, P = 8",
+      "S = 5, P = 7",
+      "S = 6, P = 10"
+    ],
+    "correct": 0,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 6, P = x₁x₂ = c/a = 8."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 8, P = 10",
+      "S = 7, P = 12",
+      "S = 6, P = 9",
+      "S = 7, P = 10"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 10."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 7, P = 11",
+      "S = 9, P = 12",
+      "S = 8, P = 14",
+      "S = 8, P = 12"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 14 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 9, P = 16",
+      "S = 10, P = 14",
+      "S = 8, P = 13",
+      "S = 9, P = 14"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 14."
+  },
+  {
+    "question": "Cho phương trình x² - 7x + 12 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 6, P = 11",
+      "S = 8, P = 12",
+      "S = 7, P = 12",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 7, P = x₁x₂ = c/a = 12."
+  },
+  {
+    "question": "Cho phương trình x² - 8x + 15 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 9, P = 15",
+      "S = 8, P = 15",
+      "S = 7, P = 14"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 8, P = x₁x₂ = c/a = 15."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 18 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 8, P = 17",
+      "S = 10, P = 18",
+      "S = 9, P = 18",
+      "S = 9, P = 20"
+    ],
+    "correct": 2,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 18."
+  },
+  {
+    "question": "Cho phương trình x² - 10x + 21 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 11, P = 21",
+      "S = 10, P = 23",
+      "S = 9, P = 20",
+      "S = 10, P = 21"
+    ],
+    "correct": 3,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 10, P = x₁x₂ = c/a = 21."
+  },
+  {
+    "question": "Cho phương trình x² - 9x + 20 = 0 có hai nghiệm x₁, x₂. Tính tổng S và tích P của hai nghiệm: (Dạng 23)",
+    "options": [
+      "S = 8, P = 19",
+      "S = 9, P = 20",
+      "S = 9, P = 22",
+      "S = 10, P = 20"
+    ],
+    "correct": 1,
+    "explain": "Theo định lý Vi-ét: S = x₁ + x₂ = -b/a = 9, P = x₁x₂ = c/a = 20."
+  }
+]
