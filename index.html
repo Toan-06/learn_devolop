@@ -10548,13 +10548,34 @@
 
                 const cu = window.currentUser || { id: null, fullName: 'Khách Học Sinh', username: 'guest', email: 'guest@cyberlearn.vn' };
                 const sub = isPrimaryQuizMode ? (selectedPrimarySubject || 'Môn học 1-12') : (currentClass || 'Luyện thi bằng lái');
+                const earnedEXP = (score || 0) * 10; // Mỗi câu đúng thưởng +10 EXP
+
+                // Cộng điểm EXP vào tiến độ học sinh
+                if (earnedEXP > 0 && typeof addLearningXP === 'function') {
+                    addLearningXP(earnedEXP);
+                }
+
+                // Cập nhật EXP trong ld_user & ld_registered_users
+                if (window.currentUser && earnedEXP > 0) {
+                    const curEmail = window.currentUser.email || (window.currentUser.username + '@yukii.vn');
+                    window.currentUser.exp = (window.currentUser.exp || 250) + earnedEXP;
+                    localStorage.setItem('ld_user', JSON.stringify(window.currentUser));
+
+                    const localUsers = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
+                    const uIdx = localUsers.findIndex(u => u.email === curEmail || u.username === window.currentUser.username);
+                    if (uIdx !== -1) {
+                        localUsers[uIdx].exp = (localUsers[uIdx].exp || 250) + earnedEXP;
+                        localStorage.setItem('ld_registered_users', JSON.stringify(localUsers));
+                    }
+                    if (typeof initAuthHeader === 'function') initAuthHeader();
+                }
 
                 const payload = {
                     userId: cu.id || null,
                     userName: cu.fullName || cu.username,
                     userEmail: cu.email || (cu.username + '@yukii.vn'),
                     subject: sub,
-                    score: score,
+                    score: earnedEXP,
                     totalQuestions: totalQuestions,
                     correctCount: score,
                     wrongCount: totalQuestions - score,

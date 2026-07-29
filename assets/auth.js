@@ -19,13 +19,18 @@ function initAuthHeader() {
 
 function renderAuthHeaderWidget(container) {
     if (window.currentUser) {
-        // Đã đăng nhập: hiện profile widget
+        const isAdmin = (window.currentUser.role && window.currentUser.role.toLowerCase() === 'admin') || (window.currentUser.username && window.currentUser.username.toLowerCase() === 'admin');
+        const userXP = window.currentUser.exp || parseInt(localStorage.getItem('userLearningXP') || '250');
+        const expBadge = isAdmin
+            ? `<span style="background: rgba(245, 158, 11, 0.2); border: 1px solid rgba(245, 158, 11, 0.5); color: #fbbf24; border-radius: 12px; padding: 2px 8px; font-weight: 800; font-size: 0.72rem;">👑 Admin</span>`
+            : `<span style="background: rgba(234, 179, 8, 0.2); border: 1px solid rgba(234, 179, 8, 0.5); color: #facc15; border-radius: 12px; padding: 2px 8px; font-weight: 800; font-size: 0.72rem;">⚡ ${userXP} XP</span>`;
+
         container.innerHTML = `
             <div style="display: inline-flex; align-items: center; gap: 10px; background: rgba(13, 22, 48, 0.92); border: 1.5px solid rgba(0, 242, 254, 0.45); padding: 6px 16px; border-radius: 50px; backdrop-filter: blur(16px); box-shadow: 0 0 20px rgba(0,242,254,0.25);">
-                <div onclick="openUserProfileModal()" style="display: flex; align-items: center; gap: 8px; cursor: pointer;" title="Xem Hồ Sơ Người Dùng">
+                <div style="display: flex; align-items: center; gap: 8px;">
                     <span style="font-size: 1.3rem; filter: drop-shadow(0 0 8px #00f2fe);">&#x1F464;</span>
                     <span style="color: #f8fafc; font-weight: 800; font-size: 0.92rem;">${escapeHtml(window.currentUser.fullName || window.currentUser.username)}</span>
-                    <span style="background: rgba(0, 242, 254, 0.2); border: 1px solid rgba(0, 242, 254, 0.5); color: #00f2fe; border-radius: 12px; padding: 2px 8px; font-weight: 800; font-size: 0.72rem;">&#x1F4C1; Hồ sơ</span>
+                    ${expBadge}
                 </div>
                 <button onclick="handleLogout()" style="background: rgba(239, 68, 68, 0.25); border: 1px solid rgba(239, 68, 68, 0.5); color: #fca5a5; border-radius: 20px; padding: 4px 12px; font-weight: 700; font-size: 0.78rem; cursor: pointer; transition: all 0.2s;" onmouseover="this.style.background='rgba(239,68,68,0.5)'" onmouseout="this.style.background='rgba(239,68,68,0.25)'">
                     <i class="fas fa-sign-out-alt"></i> Đăng xuất
@@ -33,7 +38,6 @@ function renderAuthHeaderWidget(container) {
             </div>
         `;
     } else {
-        // Chưa đăng nhập: ẨN nút khỏi header (màn hình khóa đã có nút rồi)
         container.innerHTML = '';
     }
 }
