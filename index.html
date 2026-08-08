@@ -261,11 +261,33 @@
                 -webkit-backdrop-filter: none !important;
                 background: rgba(8, 15, 35, 0.92) !important;
             }
+            .header.compact {
+                flex-direction: column !important;
+                align-items: center !important;
+                justify-content: center !important;
+                text-align: center !important;
+                padding: 10px 5px !important;
+                gap: 8px !important;
+            }
+            .header.compact .app-logo {
+                width: 65px !important;
+                height: 65px !important;
+                margin-bottom: 4px !important;
+            }
+            .header.compact h1 {
+                font-size: 1.3rem !important;
+                margin: 0 0 4px 0 !important;
+                text-align: center !important;
+            }
+            .header.compact p {
+                display: none !important;
+            }
             /* Header widget area - stack dọc gọn hơn */
             .header-widget-row {
                 flex-direction: column !important;
                 gap: 8px !important;
                 align-items: center !important;
+                width: 100% !important;
             }
             .hud-time-container {
                 padding: 5px 14px !important;
@@ -299,8 +321,16 @@
             .live-badge {
                 display: none !important;
             }
+            .header.compact {
+                padding: 8px 4px !important;
+            }
+            .header.compact .app-logo {
+                width: 55px !important;
+                height: 55px !important;
+            }
             .header-nav-actions {
                 gap: 5px !important;
+                justify-content: center !important;
             }
             .header-nav-actions button {
                 padding: 4px 8px !important;
@@ -9244,20 +9274,20 @@
                             </div>
                         </div>
                         <div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
-                            <span id="admin-sql-status" style="display:flex; align-items:center; gap:6px; background:rgba(100,116,139,0.15); border:1px solid #475569; color:#94a3b8; padding:5px 12px; border-radius:20px; font-size:0.75rem; font-weight:700;" title="Trạng thái kết nối SQL Server">
-                                <span id="sql-dot" style="width:7px;height:7px;border-radius:50%;background:#94a3b8;display:inline-block;"></span>
-                                <span id="sql-status-text">⏳ SQL...</span>
+                            <span id="admin-sql-status" style="display:flex; align-items:center; gap:6px; background:rgba(16,185,129,0.15); border:1px solid #10b981; color:#34d399; padding:5px 12px; border-radius:20px; font-size:0.75rem; font-weight:700;" title="Trạng thái kết nối MongoDB Atlas Cloud">
+                                <span id="sql-dot" style="width:7px;height:7px;border-radius:50%;background:#10b981;display:inline-block;"></span>
+                                <span id="sql-status-text">✅ Mongo Cloud</span>
                             </span>
                             <span id="admin-live-dot" style="display:flex; align-items:center; gap:6px; background:rgba(16,185,129,0.15); border:1px solid #10b981; color:#34d399; padding:6px 14px; border-radius:20px; font-size:0.8rem; font-weight:800;">
                                 <span style="width:8px;height:8px;border-radius:50%;background:#10b981;display:inline-block;animation:blink 1.2s infinite;"></span> LIVE
                             </span>
-                            <button onclick="promptConfigApiUrl()" style="background:rgba(168,85,247,0.15); border:1px solid rgba(168,85,247,0.4); color:#c084fc; padding:6px 12px; border-radius:20px; font-size:0.78rem; font-weight:800; cursor:pointer;" title="Đổi URL Backend SQL Server (khi dùng Ngrok hoặc IP WiFi)">
+                            <button onclick="promptConfigApiUrl()" style="background:rgba(168,85,247,0.15); border:1px solid rgba(168,85,247,0.4); color:#c084fc; padding:6px 12px; border-radius:20px; font-size:0.78rem; font-weight:800; cursor:pointer;" title="Đổi URL Backend MongoDB Cloud (khi dùng Vercel/Render hoặc IP WiFi)">
                                 ⚙️ Cấu Hình API
                             </button>
-                            <button onclick="autoSyncPendingUsers().then(() => loadAdminData())" style="background:rgba(16,185,129,0.15); border:1px solid rgba(16,185,129,0.4); color:#34d399; padding:6px 12px; border-radius:20px; font-size:0.78rem; font-weight:800; cursor:pointer;" title="Đẩy toàn bộ nick ở bộ nhớ tạm vào SQL Server">
-                                📥 Đồng Bộ SQL
+                            <button onclick="autoSyncPendingUsers().then(() => loadAdminData())" style="background:rgba(16,185,129,0.15); border:1px solid rgba(16,185,129,0.4); color:#34d399; padding:6px 12px; border-radius:20px; font-size:0.78rem; font-weight:800; cursor:pointer;" title="Đẩy toàn bộ nick ở bộ nhớ tạm trên điện thoại vào MongoDB Cloud">
+                                📥 Đồng Bộ Cloud
                             </button>
-                            <button onclick="loadAdminData()" style="background:rgba(56,189,248,0.15); border:1px solid rgba(56,189,248,0.4); color:#38bdf8; padding:6px 14px; border-radius:20px; font-size:0.8rem; font-weight:800; cursor:pointer;" title="Làm mới dữ liệu từ SQL Server">
+                            <button onclick="loadAdminData()" style="background:rgba(56,189,248,0.15); border:1px solid rgba(56,189,248,0.4); color:#38bdf8; padding:6px 14px; border-radius:20px; font-size:0.8rem; font-weight:800; cursor:pointer;" title="Làm mới dữ liệu từ MongoDB Cloud">
                                 🔄 Refresh
                             </button>
                             <span id="admin-last-update" style="color:#64748b; font-size:0.75rem;">--</span>

@@ -11,12 +11,55 @@ function getApiBaseUrl() {
     if (saved && saved.trim() !== '') {
         return saved.trim().replace(/\/$/, '');
     }
+    // Nếu đang chạy trên web online (Vercel / domain), tự động kết nối API gốc
+    if (window.location.hostname && !window.location.hostname.includes('localhost') && !window.location.hostname.includes('127.0.0.1')) {
+        return window.location.origin + '/api/auth';
+    }
     return 'http://localhost:5000/api/auth';
+}
+
+async function autoSyncPendingUsers() {
+    try {
+        const pendingQueue = JSON.parse(localStorage.getItem('ld_pending_sql_sync') || '[]');
+        const localRegistered = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
+
+        const allPending = [...pendingQueue];
+        localRegistered.forEach(u => {
+            if (u.email && !allPending.some(p => p.email === u.email)) {
+                allPending.push({
+                    fullName: u.fullName || u.email.split('@')[0],
+                    email: u.email,
+                    username: u.username || u.email.split('@')[0],
+                    password: u.password || '123456'
+                });
+            }
+        });
+
+        if (allPending.length === 0) return { success: true, syncedCount: 0 };
+
+        const apiUrl = getApiBaseUrl();
+        const response = await fetch(`${apiUrl}/sync-users`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ users: allPending }),
+            signal: AbortSignal.timeout(6000)
+        });
+
+        const data = await response.json();
+        if (response.ok && data.success) {
+            localStorage.removeItem('ld_pending_sql_sync');
+            console.log(`✅ [MongoDB Auto-Sync] Đã tự động đồng bộ ${data.syncedCount} tài khoản về MongoDB Atlas Cloud!`);
+            return data;
+        }
+    } catch(err) {
+        console.warn('Auto sync warning:', err);
+    }
+    return { success: false };
 }
 
 function promptConfigApiUrl() {
     const current = getApiBaseUrl();
-    const newUrl = prompt('Nhập địa chỉ API Backend SQL Server (Ví dụ: http://localhost:5000/api/auth hoặc https://xyz.ngrok-free.app/api/auth):', current);
+    const newUrl = prompt('Nhập địa chỉ Backend API MongoDB Cloud (Ví dụ: http://localhost:5000/api/auth hoặc https://xyz.ngrok-free.app/api/auth):', current);
     if (newUrl !== null && newUrl.trim() !== '') {
         localStorage.setItem('ld_custom_api_url', newUrl.trim());
         showToast('✅ Đã lưu Server API URL mới: ' + newUrl.trim(), 'success');

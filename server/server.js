@@ -89,6 +89,30 @@ async function initDbConnection() {
             console.log('👑 [MongoDB Atlas] Tài khoản Admin (Email: admin@yukii.vn / User: admin | Pass: admin123) đã sẵn sàng!');
         }
 
+        // Seed các tài khoản demo học sinh (giang, toan, ho, test) nếu chuyển từ SQL sang Mongo
+        const defaultUsers = [
+            { fullName: 'giang', email: 'giang@yukii.vn', username: 'giang', exp: 120 },
+            { fullName: 'Bùi Đức Toàn', email: 'toan@yukii.vn', username: 'toan', exp: 450 },
+            { fullName: 'Ho', email: 'ho@yukii.vn', username: 'ho', exp: 80 },
+            { fullName: 'Test User', email: 'test@yukii.vn', username: 'test', exp: 200 }
+        ];
+
+        for (const u of defaultUsers) {
+            const exists = await User.findOne({ $or: [{ email: u.email }, { username: u.username }] });
+            if (!exists) {
+                const salt = await bcrypt.genSalt(10);
+                const passHash = await bcrypt.hash('123456', salt);
+                await User.create({
+                    fullName: u.fullName,
+                    email: u.email,
+                    username: u.username,
+                    passwordHash: passHash,
+                    role: 'Student',
+                    totalEXP: u.exp
+                });
+            }
+        }
+
         // Seed Announcement ban đầu nếu danh sách thông báo trống
         const notifCount = await Notification.countDocuments();
         if (notifCount === 0) {
