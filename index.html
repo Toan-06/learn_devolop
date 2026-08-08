@@ -9365,7 +9365,7 @@
 
                 // ---- Real-time data loader từ API (nếu server online) ----
                 async function loadAdminData() {
-                    const apiBase = (typeof API_BASE_URL !== 'undefined') ? API_BASE_URL : 'http://localhost:5000/api/auth';
+                    const apiBase = (typeof getApiBaseUrl === 'function') ? getApiBaseUrl() : ((typeof API_BASE_URL !== 'undefined') ? API_BASE_URL : 'http://localhost:5000/api/auth');
 
                     // Stats
                     try {

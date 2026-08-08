@@ -3,7 +3,28 @@
  * Features: Login, Register, Forgot Password (OTP Verification), SQL Server API Integration
  */
 
-const API_BASE_URL = 'http://localhost:5000/api/auth';
+function getApiBaseUrl() {
+    if (window.CUSTOM_API_URL && window.CUSTOM_API_URL.trim() !== '') {
+        return window.CUSTOM_API_URL.trim().replace(/\/$/, '');
+    }
+    const saved = localStorage.getItem('ld_custom_api_url');
+    if (saved && saved.trim() !== '') {
+        return saved.trim().replace(/\/$/, '');
+    }
+    return 'http://localhost:5000/api/auth';
+}
+
+function promptConfigApiUrl() {
+    const current = getApiBaseUrl();
+    const newUrl = prompt('Nhập địa chỉ API Backend SQL Server (Ví dụ: http://localhost:5000/api/auth hoặc https://xyz.ngrok-free.app/api/auth):', current);
+    if (newUrl !== null && newUrl.trim() !== '') {
+        localStorage.setItem('ld_custom_api_url', newUrl.trim());
+        showToast('✅ Đã lưu Server API URL mới: ' + newUrl.trim(), 'success');
+        if (typeof loadAdminData === 'function') loadAdminData();
+    }
+}
+
+const API_BASE_URL = getApiBaseUrl();
 
 // User State Management
 window.currentUser = JSON.parse(localStorage.getItem('ld_user') || 'null');
@@ -247,77 +268,35 @@ async function handleLoginSubmit(e) {
         return;
     }
 
+    const btnLogin = document.getElementById('btn-submit-login');
+    if (btnLogin) { btnLogin.disabled = true; btnLogin.innerHTML = '⏳ Đang kiểm tra Database SQL Server...'; }
+
+    const apiUrl = getApiBaseUrl();
     try {
-        const response = await fetch(`${API_BASE_URL}/login`, {
+        const response = await fetch(`${apiUrl}/login`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ identifier, password })
+            body: JSON.stringify({ identifier, password }),
+            signal: AbortSignal.timeout(8000)
         });
         const data = await response.json();
 
         if (response.ok && data.success) {
             saveUserSession(data.user, data.token);
-            showToast(`Chào mừng quay trở lại, ${data.user.fullName || data.user.username}!`, 'success');
+            showToast(`✅ Đăng nhập thành công từ Database SQL Server! Chào mừng ${data.user.fullName || data.user.username}.`, 'success');
             closeAuthModal();
             if (typeof hideInlineAuthForm === 'function') hideInlineAuthForm();
             initAuthHeader();
             if (typeof renderMainHome === 'function') renderMainHome();
         } else {
-            // Local Fallback simulation if SQL Server offline
-            fallbackLogin(identifier, password);
+            // Hiển thị lỗi từ SQL Server (Tài khoản không tồn tại / Sai mật khẩu)
+            showToast(`❌ ${data.message || 'Tài khoản không tồn tại trong Database SQL Server hoặc Sai mật khẩu!'}`, 'error', 5000);
         }
     } catch (err) {
-        console.warn('Backend SQL Server not reachable, running in local fallback mode:', err);
-        fallbackLogin(identifier, password);
-    }
-}
-
-function fallbackLogin(identifier, password) {
-    const isIdAdmin = (identifier.toLowerCase() === 'admin' || identifier.toLowerCase() === 'admin@yukii.vn');
-    if (isIdAdmin && (password === 'admin123' || password === '123456' || password === 'admin')) {
-        const adminUser = {
-            id: 1,
-            fullName: 'Ban Quản Trị Hệ Thống (Admin)',
-            username: 'admin',
-            email: 'admin@yukii.vn',
-            role: 'Admin',
-            gradeLevel: 'Admin'
-        };
-        saveUserSession(adminUser, 'admin-mock-token-2026');
-        showToast('👑 Đăng nhập Quyền Quản Trị Viên (Admin) thành công!', 'success');
-        closeAuthModal();
-        if (typeof hideInlineAuthForm === 'function') hideInlineAuthForm();
-        initAuthHeader();
-        if (typeof renderMainHome === 'function') renderMainHome();
-        return;
-    }
-
-    const localUsers = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
-    const localPasswords = JSON.parse(localStorage.getItem('ld_local_passwords') || '{}');
-    // Kiểm tra cả password trong ld_local_passwords (mới) lẫn field password cũ (backward compat)
-    const found = localUsers.find(u => {
-        if (u.email !== identifier && u.username !== identifier) return false;
-        // Ưu tiên ld_local_passwords
-        if (localPasswords[u.email]) return localPasswords[u.email] === password;
-        // Fallback field password cũ
-        return u.password === password;
-    });
-
-    if (found || password === '123456') {
-        const userObj = found || {
-            fullName: isIdAdmin ? 'Ban Quản Trị (Admin)' : identifier.split('@')[0],
-            username: identifier,
-            email: identifier,
-            role: isIdAdmin ? 'Admin' : 'Student'
-        };
-        saveUserSession(userObj, 'mock-jwt-token-sql-demo');
-        showToast(`Đăng nhập thành công! ${userObj.role === 'Admin' ? '👑 Quyền Admin' : ''}`, 'success');
-        closeAuthModal();
-        if (typeof hideInlineAuthForm === 'function') hideInlineAuthForm();
-        initAuthHeader();
-        if (typeof renderMainHome === 'function') renderMainHome();
-    } else {
-        showToast('Tên đăng nhập hoặc mật khẩu không chính xác!', 'error');
+        console.error('Login SQL Error:', err);
+        showToast(`❌ Không thể kết nối tới Database SQL Server (API: ${apiUrl})! Vui lòng khởi động "node server.js".`, 'error', 7000);
+    } finally {
+        if (btnLogin) { btnLogin.disabled = false; btnLogin.innerHTML = '⚡ ĐĂNG NHẬP NGAY'; }
     }
 }
 
@@ -328,36 +307,42 @@ async function handleRegisterSubmit(e) {
     const password = document.getElementById('reg-password').value;
     const confirm = document.getElementById('reg-confirm').value;
 
+    if (!fullName || !email || !password) {
+        showToast('Vui lòng nhập đầy đủ Họ tên, Email và Mật khẩu!', 'error');
+        return;
+    }
+
     if (password !== confirm) {
         showToast('Mật khẩu xác nhận không trùng khớp!', 'error');
         return;
     }
 
-    // Disable nút submit tránh bấm nhiều lần
     const btnReg = document.getElementById('btn-submit-register');
-    if (btnReg) { btnReg.disabled = true; btnReg.innerHTML = '⏳ Đang đăng ký...'; }
+    if (btnReg) { btnReg.disabled = true; btnReg.innerHTML = '⏳ Đang lưu vào Database SQL Server...'; }
 
-    let sqlSuccess = false;
+    const apiUrl = getApiBaseUrl();
     try {
-        const response = await fetch(`${API_BASE_URL}/register`, {
+        const response = await fetch(`${apiUrl}/register`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ fullName, email, password }),
-            signal: AbortSignal.timeout(6000)
+            signal: AbortSignal.timeout(8000)
         });
         const data = await response.json();
 
         if (response.ok && data.success) {
-            sqlSuccess = true;
-            // ✅ SQL thành công → cũng lưu vào localStorage để admin thấy khi offline
             _saveUserToLocalRegistry({ fullName, email, username: email.split('@')[0] });
-            showToast('🎉 Đăng ký tài khoản thành công! Hãy đăng nhập.', 'success');
+            showToast('🎉 Đã tạo tài khoản thành công vào Database SQL Server! Bạn có thể đăng nhập ngay.', 'success', 5000);
             switchAuthTab('login');
+            // Tự điền email vào form login
+            const loginIdInput = document.getElementById('login-identifier');
+            if (loginIdInput) loginIdInput.value = email;
         } else {
-            fallbackRegister(fullName, email, password);
+            showToast(`❌ ${data.message || 'Đăng ký tài khoản thất bại!'}`, 'error', 5000);
         }
     } catch (err) {
-        if (!sqlSuccess) fallbackRegister(fullName, email, password);
+        console.error('Register SQL Error:', err);
+        showToast(`❌ Không thể kết nối tới Database SQL Server (API: ${apiUrl})! Hãy kiểm tra backend server (node server.js).`, 'error', 7000);
     } finally {
         if (btnReg) { btnReg.disabled = false; btnReg.innerHTML = '🚀 ĐĂNG KÝ TÀI KHOẢN'; }
     }
