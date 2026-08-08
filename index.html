@@ -8998,6 +8998,8 @@
             
             // Nếu chưa đăng nhập -> Hiển thị màn hình khóa với nền circuit board (ảnh 2) chứa cả thông báo lẫn form đăng nhập/đăng ký
             if (!window.currentUser) {
+                const mainContainer = document.querySelector('.container');
+                if (mainContainer) mainContainer.style.maxWidth = '1000px';
                 // Override app background với circuit board style
                 app.style.background = 'none';
                 app.style.boxShadow = 'none';
@@ -9209,11 +9211,14 @@
 
             if (isAdmin) {
                 // ===== ADMIN: FULL REAL-TIME DASHBOARD (NO LEARNING PORTALS) =====
-                app.style.background = '';
-                app.style.boxShadow = '';
-                app.style.padding = '';
+                const mainContainer = document.querySelector('.container');
+                if (mainContainer) mainContainer.style.maxWidth = '1240px';
+                app.style.background = 'transparent';
+                app.style.boxShadow = 'none';
+                app.style.border = 'none';
+                app.style.padding = '0';
                 app.innerHTML = `
-                <div style="animation: fadeInUp 0.4s ease; padding: 10px 5px; max-width: 1100px; margin: 0 auto;">
+                <div style="animation: fadeInUp 0.4s ease; padding: 24px; background: rgba(8, 15, 35, 0.95); border: 1.5px solid rgba(0, 242, 254, 0.35); box-shadow: 0 0 40px rgba(0, 242, 254, 0.15); border-radius: 28px; width: 100%; margin: 0 auto; box-sizing: border-border-box;">
                     <!-- HEADER -->
                     <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px; margin-bottom:24px;">
                         <div style="display:flex; align-items:center; gap:12px;">
