@@ -165,6 +165,55 @@ app.post('/api/auth/register', async (req, res) => {
     }
 });
 
+// ===== API 1.5: ĐỒNG BỘ HÀNG LOẠT TÀI KHOẢN TẠO OFFLINE VỀ SQL SERVER =====
+app.post('/api/auth/sync-users', async (req, res) => {
+    try {
+        const { users } = req.body; // Array of { fullName, email, username, password }
+        if (!Array.isArray(users) || users.length === 0) {
+            return res.json({ success: true, syncedCount: 0, message: 'Không có tài khoản nào cần đồng bộ.' });
+        }
+
+        if (!pool) {
+            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
+        }
+
+        let syncedCount = 0;
+        for (const u of users) {
+            if (!u.email) continue;
+            const email = u.email;
+            const fullName = u.fullName || u.email.split('@')[0];
+            const username = u.username || u.email.split('@')[0];
+            const rawPassword = u.password || '123456';
+
+            // Check if already exists in SQL Server
+            const checkUser = await pool.request()
+                .input('email', sql.VarChar, email)
+                .query('SELECT Id FROM Users WHERE Email = @email');
+
+            if (checkUser.recordset.length === 0) {
+                const salt = await bcrypt.genSalt(10);
+                const hash = await bcrypt.hash(rawPassword, salt);
+                await pool.request()
+                    .input('fullName', sql.NVarChar, fullName)
+                    .input('email', sql.VarChar, email)
+                    .input('username', sql.VarChar, username)
+                    .input('passwordHash', sql.VarChar, hash)
+                    .query(`
+                        INSERT INTO Users (FullName, Email, Username, PasswordHash)
+                        VALUES (@fullName, @email, @username, @passwordHash)
+                    `);
+                syncedCount++;
+            }
+        }
+
+        console.log(`🔄 [SQL Sync] Đã tự động đồng bộ ${syncedCount} tài khoản mới vào SQL Server!`);
+        return res.json({ success: true, syncedCount, message: `Đã đồng bộ ${syncedCount} tài khoản vào SQL Server!` });
+    } catch (err) {
+        console.error('Sync Error:', err);
+        return res.status(500).json({ success: false, message: 'Lỗi đồng bộ: ' + err.message });
+    }
+});
+
 // ===== API 2: ĐĂNG NHẬP (LOGIN) =====
 app.post('/api/auth/login', async (req, res) => {
     try {
