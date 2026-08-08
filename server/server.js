@@ -34,6 +34,7 @@ async function initDbConnection() {
         console.log('====================================================');
 
         // Tự tạo bảng Users và PasswordResetOTPs trong database User nếu chưa có
+        // Bước 1: Tạo tất cả các bảng nếu chưa có
         await pool.request().query(`
             IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='Users' AND xtype='U')
             BEGIN
@@ -49,14 +50,6 @@ async function initDbConnection() {
                     CreatedAt   DATETIME DEFAULT GETDATE()
                 );
             END
-
-            // Đảm bảo cột TotalEXP có sẵn trong bảng Users
-            await pool.request().query(`
-                IF NOT EXISTS (SELECT * FROM sys.columns WHERE object_id = OBJECT_ID('Users') AND name = 'TotalEXP')
-                BEGIN
-                    ALTER TABLE Users ADD TotalEXP INT DEFAULT 0;
-                END
-            `);
 
             IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='PasswordResetOTPs' AND xtype='U')
             BEGIN
@@ -97,6 +90,14 @@ async function initDbConnection() {
                     WrongDetails   NVARCHAR(MAX),
                     CreatedAt      DATETIME DEFAULT GETDATE()
                 );
+            END
+        `);
+
+        // Bước 2: Migration - tự động thêm cột TotalEXP nếu bảng Users cũ chưa có
+        await pool.request().query(`
+            IF NOT EXISTS (SELECT * FROM sys.columns WHERE object_id = OBJECT_ID('Users') AND name = 'TotalEXP')
+            BEGIN
+                ALTER TABLE Users ADD TotalEXP INT DEFAULT 0;
             END
         `);
         console.log('✅ [SQL Server] Bảng Users, PasswordResetOTPs, Notifications và QuizResults đã sẵn sàng!');
@@ -467,6 +468,14 @@ app.get('/api/auth/stats', async (req, res) => {
 // ===== API 9: LƯU KẾT QUẢ BÀI THI & LỖI SAI (SAVE QUIZ RESULT) =====
 app.post('/api/auth/quiz-results', async (req, res) => {
     try {
+        const { userId, userName, userEmail, subject, score, totalQuestions, correctCount, wrongCount, wrongDetails } = req.body;
+
+        if (!pool) {
+            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
+        }
+
+        const detailsJson = typeof wrongDetails === 'string' ? wrongDetails : JSON.stringify(wrongDetails || []);
+
         // Tính điểm EXP thưởng tích lũy: 10 XP/câu đúng + 50 XP thưởng điểm tối đa + 20 XP tham gia bài thi
         const cCount = parseInt(correctCount) || 0;
         const tCount = parseInt(totalQuestions) || 0;
