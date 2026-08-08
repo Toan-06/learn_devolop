@@ -226,6 +226,81 @@
             }
         }
 
+        /* ===== MOBILE PERFORMANCE OPTIMIZATION ===== */
+        @media (max-width: 768px) {
+            /* Tắt animation nặng trên mobile để tránh lag/đơ */
+            .bg-animation span {
+                animation: none !important;
+                display: none !important;
+            }
+            body::before {
+                animation: none !important;
+            }
+            .bg-animation::before {
+                animation: none !important;
+            }
+            .app-logo {
+                animation: none !important;
+                will-change: auto !important;
+            }
+            .header h1 {
+                animation: none !important;
+                background: linear-gradient(135deg, #00f2fe, #4facfe) !important;
+                background-clip: text !important;
+                -webkit-background-clip: text !important;
+            }
+            .header p {
+                animation: none !important;
+            }
+            .live-badge::before {
+                animation: none !important;
+            }
+            /* Giảm backdrop-filter cost trên mobile */
+            .hud-time-container {
+                backdrop-filter: none !important;
+                -webkit-backdrop-filter: none !important;
+                background: rgba(8, 15, 35, 0.92) !important;
+            }
+            /* Header widget area - stack dọc gọn hơn */
+            .header-widget-row {
+                flex-direction: column !important;
+                gap: 8px !important;
+                align-items: center !important;
+            }
+            .hud-time-container {
+                padding: 5px 14px !important;
+                font-size: 0.9rem !important;
+            }
+            #hud-clock-time {
+                font-size: 1rem !important;
+            }
+            #hud-clock-date {
+                font-size: 0.72rem !important;
+            }
+            #auth-header-container > div {
+                padding: 5px 12px !important;
+                gap: 7px !important;
+            }
+            /* Disable ambient glow animation */
+            .ambient-glow {
+                animation: none !important;
+                opacity: 0.1 !important;
+            }
+        }
+        @media (max-width: 480px) {
+            /* Ẩn live-badge trên màn nhỏ để tiết kiệm space */
+            .live-badge {
+                display: none !important;
+            }
+            .hud-time-container {
+                padding: 4px 12px !important;
+            }
+            #hud-clock-time {
+                font-size: 0.95rem !important;
+                letter-spacing: 0.5px !important;
+            }
+        }
+
         .bg-animation span:nth-child(14) {
             left: 80%; width: 55px; height: 55px;
             background: radial-gradient(circle, rgba(0, 200, 255, 0.3), transparent 70%);
@@ -3204,31 +3279,30 @@
             <img src="assets/logo.png" alt="Learn & Develop Logo" class="app-logo" onclick="navigateTo('MAIN_HOME')">
             <h1 onclick="navigateTo('MAIN_HOME')">Learn & Develop</h1>
             <p>Hệ Thống Học Tập Tương Tác 1-12 & Luyện Thi Bằng Lái Xe</p>
-            <div style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap; margin-top: 12px;">
-                <div class="live-badge">Hệ Thống Học Tập & Luyện Thi Tương Tác</div>
+            <div class="live-badge">Hệ Thống Học Tập & Luyện Thi Tương Tác</div>
+            <div class="header-widget-row" style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap; margin-top: 10px;">
                 <!-- REALTIME CYBER HUD CLOCK WIDGET -->
                 <div class="hud-time-container" style="
                     display: inline-flex;
                     align-items: center;
-                    gap: 14px;
+                    gap: 12px;
                     background: rgba(8, 15, 35, 0.85);
                     border: 1.5px solid rgba(0, 242, 254, 0.45);
-                    box-shadow: 0 0 25px rgba(0, 242, 254, 0.25), inset 0 0 15px rgba(0, 242, 254, 0.1);
+                    box-shadow: 0 0 20px rgba(0, 242, 254, 0.2);
                     backdrop-filter: blur(16px);
                     -webkit-backdrop-filter: blur(16px);
                     border-radius: 50px;
-                    padding: 7px 22px;
+                    padding: 7px 18px;
                     cursor: default;
-                    transition: all 0.3s;
                 ">
-                    <span style="font-size: 1.2rem; filter: drop-shadow(0 0 8px #00f2fe);">⏰</span>
-                    <div style="font-size: 1.25rem; font-weight: 900; color: #00f2fe; text-shadow: 0 0 14px rgba(0, 242, 254, 0.9); font-family: 'Courier New', monospace, sans-serif; letter-spacing: 1px;" id="hud-clock-time">
+                    <span style="font-size: 1.15rem; filter: drop-shadow(0 0 6px #00f2fe);">⏰</span>
+                    <div style="font-size: 1.2rem; font-weight: 900; color: #00f2fe; text-shadow: 0 0 12px rgba(0, 242, 254, 0.8); font-family: 'Courier New', monospace, sans-serif; letter-spacing: 1px;" id="hud-clock-time">
                         --:--:--
                     </div>
-                    <div style="height: 20px; width: 1.5px; background: rgba(0, 242, 254, 0.35);"></div>
+                    <div style="height: 18px; width: 1.5px; background: rgba(0, 242, 254, 0.35);"></div>
                     <div style="text-align: left; line-height: 1.2;">
-                        <div id="hud-clock-date" style="font-size: 0.82rem; font-weight: 800; color: #f8fafc; letter-spacing: 0.5px;">--</div>
-                        <div style="font-size: 0.65rem; color: #38bdf8; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px;">REAL-TIME HUD</div>
+                        <div id="hud-clock-date" style="font-size: 0.78rem; font-weight: 800; color: #f8fafc; letter-spacing: 0.5px;">--</div>
+                        <div style="font-size: 0.62rem; color: #38bdf8; font-weight: 800; text-transform: uppercase; letter-spacing: 1.2px;">REAL-TIME HUD</div>
                     </div>
                 </div>
                 <!-- AUTH BUTTON WIDGET -->
@@ -9222,13 +9296,73 @@
                 </div>
                 `;
 
-                // ---- Real-time data loader ----
+                // ---- Hiển thị dữ liệu localStorage NGAY LẬP TỨC (không đợi API) ----
+                function renderLocalStats() {
+                    const localUsers = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
+                    const notifs = JSON.parse(localStorage.getItem('ld_broadcast_notifications') || '[]');
+                    const el = (id) => document.getElementById(id);
+                    // Thêm Admin mock nếu chưa có trong danh sách hiển thị
+                    const nonAdminUsers = localUsers.filter(u => !(u.username||'').toLowerCase().includes('admin'));
+                    if (el('stat-total'))  el('stat-total').textContent  = nonAdminUsers.length;
+                    if (el('stat-today'))  el('stat-today').textContent  = 0;
+                    if (el('stat-week'))   el('stat-week').textContent   = nonAdminUsers.length;
+                    if (el('stat-notifs')) el('stat-notifs').textContent = notifs.length;
+
+                    // Render local leaderboard ngay
+                    const tbody = document.getElementById('leaderboard-body');
+                    const cntEl = document.getElementById('leaderboard-count');
+                    const adminMock = { fullName: 'Ban Quản Trị (Admin)', username: 'admin', email: 'admin@yukii.vn', role: 'Admin', exp: 99999 };
+                    const allUsers = [adminMock, ...nonAdminUsers.sort((a,b) => (b.exp||0)-(a.exp||0))];
+                    const medals = ['🥇','🥈','🥉'];
+                    if (cntEl) cntEl.textContent = allUsers.length + ' thành viên';
+                    if (tbody) {
+                        tbody.innerHTML = '<table style="width:100%;border-collapse:collapse;font-size:0.81rem;">'
+                            + '<thead><tr style="border-bottom:1px solid rgba(168,85,247,0.3);color:#a855f7;">'
+                            + '<th style="padding:6px 4px;">Hạng</th><th style="padding:6px 4px;">Họ và Tên</th><th style="padding:6px 4px;">Điểm (EXP)</th><th style="padding:6px 4px;">Role</th><th style="padding:6px 4px;text-align:right;">Chi Tiết Lỗi</th>'
+                            + '</tr></thead><tbody>'
+                            + allUsers.map((u, i) => {
+                                const rank = i < 3 ? medals[i] : ('🏅 ' + (i+1));
+                                const isAdminRow = (u.role||u.Role||'').toLowerCase() === 'admin';
+                                const rowColor = isAdminRow ? 'color:#fbbf24;font-weight:700;' : '';
+                                const expDisplay = isAdminRow ? '<span style="color:#fbbf24;font-weight:900;">👑 Max XP</span>' : ('<span style="color:#38bdf8;font-weight:800;">⚡ ' + (u.exp||u.TotalEXP||0) + ' XP</span>');
+                                const roleTag = isAdminRow
+                                    ? '<span style="background:rgba(245,158,11,0.2);padding:2px 6px;border-radius:6px;color:#fbbf24;font-weight:800;">Admin</span>'
+                                    : '<span style="background:rgba(56,189,248,0.15);padding:2px 6px;border-radius:6px;color:#38bdf8;">Học sinh</span>';
+                                const uEmail = escapeHtml(u.email||u.Email||(u.username?u.username+'@yukii.vn':'guest@yukii.vn'));
+                                const uNameDisp = escapeHtml(u.fullName||u.FullName||u.username||u.Username||'Học sinh');
+                                const actionBtn = isAdminRow ? '<span style="color:#64748b;font-size:0.75rem;">—</span>' : `<button onclick="openUserWrongDetailsModal('${uEmail}', '${uNameDisp}')" style="background:rgba(239,68,68,0.2);border:1px solid #ef4444;color:#fca5a5;padding:3px 8px;border-radius:10px;font-size:0.72rem;font-weight:700;cursor:pointer;" onmouseover="this.style.background='#ef4444';this.style.color='#fff'" onmouseout="this.style.background='rgba(239,68,68,0.2)';this.style.color='#fca5a5'">🔍 Xem Lỗi</button>`;
+                                return '<tr style="border-bottom:1px solid rgba(255,255,255,0.05);' + rowColor + '">'
+                                    + '<td style="padding:6px 4px;">' + rank + '</td>'
+                                    + '<td style="padding:6px 4px;max-width:110px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="' + uNameDisp + '">' + uNameDisp + '</td>'
+                                    + '<td style="padding:6px 4px;">' + expDisplay + '</td>'
+                                    + '<td style="padding:6px 4px;">' + roleTag + '</td>'
+                                    + '<td style="padding:6px 4px;text-align:right;">' + actionBtn + '</td>'
+                                    + '</tr>';
+                            }).join('')
+                            + '</tbody></table>';
+                    }
+
+                    // Recent notifs từ local
+                    const recentEl = document.getElementById('recent-notifs');
+                    if (recentEl) {
+                        recentEl.innerHTML = notifs.length === 0
+                            ? '<div style="color:#475569;font-size:0.8rem;text-align:center;padding:8px;">Chưa có thông báo</div>'
+                            : notifs.slice(0,5).map(n => '<div style="border-bottom:1px solid rgba(255,255,255,0.06);padding:7px 0;">'
+                                + '<div style="color:#e2e8f0;font-size:0.8rem;font-weight:700;margin-bottom:2px;">' + (n.title||n.Title||'').substring(0,60) + '</div>'
+                                + '<div style="color:#64748b;font-size:0.73rem;">' + (n.createdAt||n.CreatedAt||'') + '</div>'
+                                + '</div>').join('');
+                    }
+                }
+                // Render local ngay lập tức
+                renderLocalStats();
+
+                // ---- Real-time data loader từ API (nếu server online) ----
                 async function loadAdminData() {
                     const apiBase = (typeof API_BASE_URL !== 'undefined') ? API_BASE_URL : 'http://localhost:5000/api/auth';
 
                     // Stats
                     try {
-                        const sr = await fetch(apiBase + '/stats');
+                        const sr = await fetch(apiBase + '/stats', { signal: AbortSignal.timeout(5000) });
                         const sd = await sr.json();
                         if (sd.success) {
                             const s = sd.stats;
@@ -9237,16 +9371,15 @@
                             if (el('stat-today'))  el('stat-today').textContent  = s.todayUsers;
                             if (el('stat-week'))   el('stat-week').textContent   = s.weekUsers;
                             if (el('stat-notifs')) el('stat-notifs').textContent = s.totalNotifications;
+                            // Hiển thị trạng thái kết nối
+                            const liveEl = document.getElementById('admin-live-dot');
+                            if (liveEl) liveEl.title = '✅ Đã kết nối SQL Server';
                         }
                     } catch(e) {
-                        // fallback — count from localStorage
-                        const localUsers = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
-                        const el = (id) => document.getElementById(id);
-                        if (el('stat-total'))  el('stat-total').textContent  = localUsers.length;
-                        if (el('stat-today'))  el('stat-today').textContent  = 0;
-                        if (el('stat-week'))   el('stat-week').textContent   = localUsers.length;
-                        const notifs = JSON.parse(localStorage.getItem('ld_broadcast_notifications') || '[]');
-                        if (el('stat-notifs')) el('stat-notifs').textContent = notifs.length;
+                        // Đã hiển thị local data rồi, chỉ log thôi
+                        console.warn('Admin: SQL Server offline, dùng localStorage data.');
+                        const liveEl = document.getElementById('admin-live-dot');
+                        if (liveEl) { liveEl.title = '⚠️ SQL Server offline - hiển thị dữ liệu local'; liveEl.style.borderColor = 'rgba(245,158,11,0.5)'; }
                     }
 
                     // Leaderboard
@@ -9287,43 +9420,8 @@
                                 + '</tbody></table>';
                         }
                     } catch(e) {
-                        // Fallback: lấy từ localStorage khi server offline
-                        const tbody = document.getElementById('leaderboard-body');
-                        const cntEl = document.getElementById('leaderboard-count');
-                        const localUsers = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
-                        // Thêm admin mock nếu chưa có
-                        const adminMock = { fullName: 'Ban Quản Trị (Admin)', username: 'admin', email: 'admin@yukii.vn', role: 'Admin', exp: 99999, createdAt: '' };
-                        const allUsers = [adminMock, ...localUsers];
-                        const medals = ['🥇','🥈','🥉'];
-                        if (cntEl) cntEl.textContent = allUsers.length + ' thành viên';
-                        if (tbody) {
-                            tbody.innerHTML = allUsers.length === 0
-                                ? '<div style="text-align:center;color:#64748b;padding:20px;font-size:0.86rem;">Chưa có thành viên nào</div>'
-                                : '<table style="width:100%;border-collapse:collapse;font-size:0.81rem;">'
-                                + '<thead><tr style="border-bottom:1px solid rgba(168,85,247,0.3);color:#a855f7;">'
-                                + '<th style="padding:6px 4px;">Hạng</th><th style="padding:6px 4px;">Họ và Tên</th><th style="padding:6px 4px;">Điểm (EXP)</th><th style="padding:6px 4px;">Role</th><th style="padding:6px 4px;text-align:right;">Chi Tiết Lỗi</th>'
-                                + '</tr></thead><tbody>'
-                                + allUsers.map((u, i) => {
-                                    const rank = i < 3 ? medals[i] : ('🏅 ' + (i+1));
-                                    const isAdminRow = (u.role && u.role.toLowerCase() === 'admin') || (u.Role && u.Role.toLowerCase() === 'admin');
-                                    const rowColor = isAdminRow ? 'color:#fbbf24;font-weight:700;' : '';
-                                    const expDisplay = isAdminRow ? '<span style="color:#fbbf24;font-weight:900;">👑 Max XP</span>' : ('<span style="color:#38bdf8;font-weight:800;">⚡ ' + (u.exp || u.TotalEXP || 0) + ' XP</span>');
-                                    const roleTag = isAdminRow
-                                        ? '<span style="background:rgba(245,158,11,0.2);padding:2px 6px;border-radius:6px;color:#fbbf24;font-weight:800;">Admin</span>'
-                                        : '<span style="background:rgba(56,189,248,0.15);padding:2px 6px;border-radius:6px;color:#38bdf8;">Học sinh</span>';
-                                    const uEmail = escapeHtml(u.email || u.Email || (u.username ? u.username + '@yukii.vn' : 'guest@yukii.vn'));
-                                    const uName = escapeHtml(u.fullName || u.FullName || u.username || u.Username || 'Học sinh');
-                                    const actionBtn = isAdminRow ? '<span style="color:#64748b;font-size:0.75rem;">—</span>' : `<button onclick="openUserWrongDetailsModal('${uEmail}', '${uName}')" style="background:rgba(239,68,68,0.2);border:1px solid #ef4444;color:#fca5a5;padding:3px 8px;border-radius:10px;font-size:0.72rem;font-weight:700;cursor:pointer;" onmouseover="this.style.background='#ef4444';this.style.color='#fff'" onmouseout="this.style.background='rgba(239,68,68,0.2)';this.style.color='#fca5a5'">🔍 Xem Lỗi</button>`;
-                                    return '<tr style="border-bottom:1px solid rgba(255,255,255,0.05);' + rowColor + '">'
-                                        + '<td style="padding:6px 4px;">' + rank + '</td>'
-                                        + '<td style="padding:6px 4px;max-width:110px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="' + uName + '">' + uName + '</td>'
-                                        + '<td style="padding:6px 4px;">' + expDisplay + '</td>'
-                                        + '<td style="padding:6px 4px;">' + roleTag + '</td>'
-                                        + '<td style="padding:6px 4px;text-align:right;">' + actionBtn + '</td>'
-                                        + '</tr>';
-                                }).join('')
-                                + '</tbody></table>';
-                        }
+                        // Leaderboard fallback đã được xử lý bởi renderLocalStats() ở trên
+                        console.warn('Leaderboard API offline, dùng dữ liệu local.');
                     }
 
                     // Recent Notifications
