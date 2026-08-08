@@ -45,9 +45,18 @@ async function initDbConnection() {
                     PasswordHash VARCHAR(255) NOT NULL,
                     Role        NVARCHAR(20) DEFAULT 'Student',
                     GradeLevel  VARCHAR(10) DEFAULT '12',
+                    TotalEXP    INT DEFAULT 0,
                     CreatedAt   DATETIME DEFAULT GETDATE()
                 );
             END
+
+            // Đảm bảo cột TotalEXP có sẵn trong bảng Users
+            await pool.request().query(`
+                IF NOT EXISTS (SELECT * FROM sys.columns WHERE object_id = OBJECT_ID('Users') AND name = 'TotalEXP')
+                BEGIN
+                    ALTER TABLE Users ADD TotalEXP INT DEFAULT 0;
+                END
+            `);
 
             IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='PasswordResetOTPs' AND xtype='U')
             BEGIN
@@ -458,20 +467,17 @@ app.get('/api/auth/stats', async (req, res) => {
 // ===== API 9: LƯU KẾT QUẢ BÀI THI & LỖI SAI (SAVE QUIZ RESULT) =====
 app.post('/api/auth/quiz-results', async (req, res) => {
     try {
-        const { userId, userName, userEmail, subject, score, totalQuestions, correctCount, wrongCount, wrongDetails } = req.body;
-
-        if (!pool) {
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
-        }
-
-        const detailsJson = typeof wrongDetails === 'string' ? wrongDetails : JSON.stringify(wrongDetails || []);
+        // Tính điểm EXP thưởng tích lũy: 10 XP/câu đúng + 50 XP thưởng điểm tối đa + 20 XP tham gia bài thi
+        const cCount = parseInt(correctCount) || 0;
+        const tCount = parseInt(totalQuestions) || 0;
+        const earnedExp = (cCount * 10) + (tCount > 0 && cCount === tCount ? 50 : 0) + 20;
 
         await pool.request()
             .input('userId', sql.Int, userId || null)
             .input('userName', sql.NVarChar, userName || 'Khách')
             .input('userEmail', sql.VarChar, userEmail || 'guest@cyberlearn.vn')
             .input('subject', sql.NVarChar, subject || 'Bài luyện tập')
-            .input('score', sql.Int, score || 0)
+            .input('score', sql.Int, score || earnedExp)
             .input('totalQuestions', sql.Int, totalQuestions || 0)
             .input('correctCount', sql.Int, correctCount || 0)
             .input('wrongCount', sql.Int, wrongCount || 0)
@@ -481,10 +487,48 @@ app.post('/api/auth/quiz-results', async (req, res) => {
                 VALUES (@userId, @userName, @userEmail, @subject, @score, @totalQuestions, @correctCount, @wrongCount, @wrongDetails)
             `);
 
-        return res.json({ success: true, message: 'Lưu kết quả bài thi thành công!' });
+        // Tự động cộng tích lũy EXP vào tài khoản người dùng trong bảng Users SQL Server
+        if (userEmail || userName) {
+            await pool.request()
+                .input('userEmail', sql.VarChar, userEmail || '')
+                .input('userName', sql.NVarChar, userName || '')
+                .input('earnedExp', sql.Int, earnedExp)
+                .query(`
+                    UPDATE Users
+                    SET TotalEXP = ISNULL(TotalEXP, 0) + @earnedExp
+                    WHERE Email = @userEmail OR Username = @userName OR Email = @userName;
+                `);
+        }
+
+        return res.json({ success: true, message: `Lưu kết quả thành công! Bạn nhận được +${earnedExp} EXP.`, earnedExp });
     } catch (err) {
         console.error('Save Quiz Result Error:', err);
         return res.status(500).json({ success: false, message: 'Lỗi lưu kết quả: ' + err.message });
+    }
+});
+
+// ===== API 9.5: CỘNG ĐIỂM EXP TRỰC TIẾP CHO TÀI KHOẢN (UPDATE USER EXP) =====
+app.post('/api/auth/update-exp', async (req, res) => {
+    try {
+        const { userEmail, username, expToAdd } = req.body;
+        if (!pool) return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
+        const points = parseInt(expToAdd) || 0;
+        if (points <= 0) return res.json({ success: true, message: 'Số EXP không hợp lệ' });
+
+        await pool.request()
+            .input('userEmail', sql.VarChar, userEmail || '')
+            .input('username', sql.VarChar, username || '')
+            .input('points', sql.Int, points)
+            .query(`
+                UPDATE Users
+                SET TotalEXP = ISNULL(TotalEXP, 0) + @points
+                WHERE Email = @userEmail OR Username = @username OR Email = @username;
+            `);
+
+        return res.json({ success: true, message: `Đã cộng +${points} EXP vào SQL Server thành công!` });
+    } catch (err) {
+        console.error('Update EXP Error:', err);
+        return res.status(500).json({ success: false, message: 'Lỗi cộng EXP: ' + err.message });
     }
 });
 

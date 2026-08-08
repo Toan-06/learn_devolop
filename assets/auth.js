@@ -41,7 +41,7 @@ function initAuthHeader() {
 function renderAuthHeaderWidget(container) {
     if (window.currentUser) {
         const isAdmin = (window.currentUser.role && window.currentUser.role.toLowerCase() === 'admin') || (window.currentUser.username && window.currentUser.username.toLowerCase() === 'admin');
-        const userXP = window.currentUser.exp || parseInt(localStorage.getItem('userLearningXP') || '250');
+        const userXP = (window.currentUser.exp !== undefined && window.currentUser.exp !== null) ? window.currentUser.exp : parseInt(localStorage.getItem('userLearningXP') || '0');
         // Rút gọn tên nếu quá dài (max 12 ký tự)
         const rawName = window.currentUser.fullName || window.currentUser.username || 'User';
         const displayName = rawName.length > 12 ? rawName.substring(0, 12) + '…' : rawName;
@@ -716,7 +716,35 @@ function escapeHtml(str) {
     return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-// Auto init on load (1 lần duy nhất khi trang vừa load - updateHeader sẽ gọi lại sau)
+// ===== HÀM CỘNG ĐIỂM EXP TỰ ĐỘNG CHO NGƯỜI DÙNG & ĐỒNG BỘ SQL SERVER =====
+async function addExpToCurrentUser(earnedExp, subjectName) {
+    if (!earnedExp || earnedExp <= 0) return;
+    try {
+        if (window.currentUser) {
+            window.currentUser.exp = (window.currentUser.exp || 0) + earnedExp;
+            localStorage.setItem('ld_user', JSON.stringify(window.currentUser));
+            const currentTotal = parseInt(localStorage.getItem('userLearningXP') || '0') + earnedExp;
+            localStorage.setItem('userLearningXP', currentTotal.toString());
+
+            showToast(`🎉 Bạn vừa nhận được +${earnedExp} EXP cho ${subjectName || 'Bài thi'}!`, 'success', 5000);
+            initAuthHeader();
+
+            // Gửi cập nhật trực tiếp về SQL Server Backend
+            const apiUrl = getApiBaseUrl();
+            await fetch(`${apiUrl}/update-exp`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    userEmail: window.currentUser.email,
+                    username: window.currentUser.username,
+                    expToAdd: earnedExp
+                })
+            });
+        }
+    } catch(e) { console.warn('EXP update warning:', e); }
+}
+
+// Auto init on load
 if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initAuthHeader);
 } else {
