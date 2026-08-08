@@ -286,17 +286,32 @@
                 animation: none !important;
                 opacity: 0.1 !important;
             }
+            .header-nav-actions button {
+                padding: 4px 10px !important;
+                font-size: 0.76rem !important;
+            }
+            .header-nav-widgets {
+                gap: 6px !important;
+            }
         }
         @media (max-width: 480px) {
             /* Ẩn live-badge trên màn nhỏ để tiết kiệm space */
             .live-badge {
                 display: none !important;
             }
+            .header-nav-actions {
+                gap: 5px !important;
+            }
+            .header-nav-actions button {
+                padding: 4px 8px !important;
+                font-size: 0.72rem !important;
+                border-radius: 14px !important;
+            }
             .hud-time-container {
-                padding: 4px 12px !important;
+                padding: 4px 10px !important;
             }
             #hud-clock-time {
-                font-size: 0.95rem !important;
+                font-size: 0.9rem !important;
                 letter-spacing: 0.5px !important;
             }
         }
@@ -9316,11 +9331,17 @@
 
                 // ---- Hiển thị dữ liệu localStorage NGAY LẬP TỨC (không đợi API) ----
                 function renderLocalStats() {
-                    const localUsers = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
+                    let localUsers = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
+                    if (window.currentUser && window.currentUser.username) {
+                        const curEmail = window.currentUser.email || window.currentUser.username;
+                        if (!localUsers.some(u => (u.email || u.Email || u.username || u.Username) === curEmail)) {
+                            localUsers.push(window.currentUser);
+                        }
+                    }
                     const notifs = JSON.parse(localStorage.getItem('ld_broadcast_notifications') || '[]');
                     const el = (id) => document.getElementById(id);
                     // Thêm Admin mock nếu chưa có trong danh sách hiển thị
-                    const nonAdminUsers = localUsers.filter(u => !(u.username||'').toLowerCase().includes('admin'));
+                    const nonAdminUsers = localUsers.filter(u => !(u.username||u.Username||'').toLowerCase().includes('admin'));
                     if (el('stat-total'))  el('stat-total').textContent  = nonAdminUsers.length;
                     if (el('stat-today'))  el('stat-today').textContent  = 0;
                     if (el('stat-week'))   el('stat-week').textContent   = nonAdminUsers.length;
@@ -10516,16 +10537,24 @@
                     <img src="assets/logo.png" alt="Learn & Develop Logo" class="app-logo" onclick="navigateTo('MAIN_HOME')">
                     <h1 onclick="navigateTo('PRIMARY_GRADE_SELECT')" style="background: linear-gradient(135deg, #38bdf8 0%, #818cf8 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 900;">Learn & Develop</h1>
                     <p style="color: #cbd5e1; font-weight: 500;">Cổng Thông Tin Học Tập & Bài Giảng Lớp 1 - 12</p>
-                    <div style="display: flex; gap: 12px; margin-top: 12px; justify-content: center; align-items: center; width: 100%; flex-wrap: wrap;">
-                        <span class="live-badge" style="background: rgba(0, 242, 254, 0.15); border-color: rgba(0, 242, 254, 0.4); color: #7dd3fc; font-weight: 800;">🎓 Đang ở: Lớp ${selectedPrimaryLevel}</span>
-                        <button onclick="openGradeSelectorModal()" style="background: rgba(15, 23, 42, 0.8); border: 1.5px solid rgba(0, 242, 254, 0.35); color: #38bdf8; padding: 5px 16px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; cursor: pointer; transition: all 0.2s;" onmouseover="this.style.borderColor='#00f2fe'; this.style.boxShadow='0 0 12px rgba(0,242,254,0.3)'" onmouseout="this.style.borderColor='rgba(0, 242, 254, 0.35)'; this.style.boxShadow='none'">
-                            ⚙️ Đổi Lớp Học
-                        </button>
-                        <button onclick="navigateTo('DRIVING_HOME')" style="background: rgba(15, 23, 42, 0.8); border: 1.5px solid rgba(16, 185, 129, 0.35); color: #34d399; padding: 5px 14px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; cursor: pointer; transition: all 0.2s;" onmouseover="this.style.borderColor='#10b981'; this.style.boxShadow='0 0 12px rgba(16,185,129,0.3)'" onmouseout="this.style.borderColor='rgba(16, 185, 129, 0.35)'; this.style.boxShadow='none'">
-                            🔀 Sang Luyện Thi Bằng Lái
-                        </button>
-                        ${clockHUDHTML}
-                        <div id="auth-header-container"></div>
+                    
+                    <div class="header-widget-row" style="display: flex; flex-direction: column; gap: 10px; margin-top: 14px; align-items: center; width: 100%;">
+                        <!-- Hàng 1: Nút Chuyển Đổi Lớp & Bằng Lái -->
+                        <div class="header-nav-actions" style="display: flex; gap: 8px; justify-content: center; align-items: center; flex-wrap: wrap; max-width: 100%;">
+                            <span class="live-badge" style="background: rgba(0, 242, 254, 0.15); border-color: rgba(0, 242, 254, 0.4); color: #7dd3fc; font-weight: 800; padding: 4px 12px; font-size: 0.78rem;">🎓 Đang ở: Lớp ${selectedPrimaryLevel}</span>
+                            <button onclick="openGradeSelectorModal()" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(0, 242, 254, 0.4); color: #38bdf8; padding: 5px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; cursor: pointer; transition: all 0.2s;" onmouseover="this.style.borderColor='#00f2fe'; this.style.boxShadow='0 0 12px rgba(0,242,254,0.3)'" onmouseout="this.style.borderColor='rgba(0, 242, 254, 0.4)'; this.style.boxShadow='none'">
+                                ⚙️ Đổi Lớp Học
+                            </button>
+                            <button onclick="navigateTo('DRIVING_HOME')" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(16, 185, 129, 0.4); color: #34d399; padding: 5px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; cursor: pointer; transition: all 0.2s;" onmouseover="this.style.borderColor='#10b981'; this.style.boxShadow='0 0 12px rgba(16,185,129,0.3)'" onmouseout="this.style.borderColor='rgba(16, 185, 129, 0.4)'; this.style.boxShadow='none'">
+                                🔀 Sang Luyện Thi Bằng Lái
+                            </button>
+                        </div>
+
+                        <!-- Hàng 2: Đồng Hồ HUD + Widget User -->
+                        <div class="header-nav-widgets" style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap; max-width: 100%;">
+                            ${clockHUDHTML}
+                            <div id="auth-header-container"></div>
+                        </div>
                     </div>
                 `;
             } else if (isDriving) {
@@ -10533,13 +10562,19 @@
                     <img src="assets/logo.png" alt="Learn & Develop Logo" class="app-logo" onclick="navigateTo('MAIN_HOME')">
                     <h1 onclick="navigateTo('DRIVING_HOME')" style="background: linear-gradient(135deg, #34d399 0%, #10b981 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 900;">Learn & Develop</h1>
                     <p style="color: #cbd5e1; font-weight: 500;">Hệ Thống Luyện Thi Bằng Lái Xe</p>
-                    <div style="display: flex; gap: 12px; margin-top: 12px; justify-content: center; align-items: center; width: 100%; flex-wrap: wrap;">
-                        <span class="live-badge" style="background: rgba(16, 185, 129, 0.2); border-color: #10b981; color: #34d399;">Chuẩn Quốc Gia</span>
-                        <button onclick="navigateTo('PRIMARY_GRADE_SELECT')" style="background: rgba(15, 23, 42, 0.8); border: 1.5px solid rgba(0, 242, 254, 0.35); color: #38bdf8; padding: 5px 14px; border-radius: 20px; font-size: 0.82rem; font-weight: 700; cursor: pointer; transition: all 0.2s;" onmouseover="this.style.borderColor='#00f2fe'" onmouseout="this.style.borderColor='rgba(0, 242, 254, 0.35)'">
-                            🔀 Sang Học Tập Lớp 1-12
-                        </button>
-                        ${clockHUDHTML}
-                        <div id="auth-header-container"></div>
+
+                    <div class="header-widget-row" style="display: flex; flex-direction: column; gap: 10px; margin-top: 14px; align-items: center; width: 100%;">
+                        <div class="header-nav-actions" style="display: flex; gap: 8px; justify-content: center; align-items: center; flex-wrap: wrap; max-width: 100%;">
+                            <span class="live-badge" style="background: rgba(16, 185, 129, 0.2); border-color: #10b981; color: #34d399; padding: 4px 12px; font-size: 0.78rem;">Chuẩn Quốc Gia</span>
+                            <button onclick="navigateTo('PRIMARY_GRADE_SELECT')" style="background: rgba(15, 23, 42, 0.85); border: 1.5px solid rgba(0, 242, 254, 0.4); color: #38bdf8; padding: 5px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 700; cursor: pointer; transition: all 0.2s;" onmouseover="this.style.borderColor='#00f2fe'" onmouseout="this.style.borderColor='rgba(0, 242, 254, 0.4)'">
+                                🔀 Sang Học Tập Lớp 1-12
+                            </button>
+                        </div>
+
+                        <div class="header-nav-widgets" style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap; max-width: 100%;">
+                            ${clockHUDHTML}
+                            <div id="auth-header-container"></div>
+                        </div>
                     </div>
                 `;
             } else {
@@ -10547,10 +10582,15 @@
                     <img src="assets/logo.png" alt="Learn & Develop Logo" class="app-logo" onclick="navigateTo('MAIN_HOME')">
                     <h1 onclick="navigateTo('MAIN_HOME')">Learn & Develop</h1>
                     <p>Hệ Thống Học Tập Tương Tác 1-12 & Luyện Thi Bằng Lái Xe</p>
-                    <div style="display: flex; gap: 16px; margin-top: 12px; justify-content: center; align-items: center; width: 100%; flex-wrap: wrap;">
-                        <div class="live-badge">Hệ Thống Học Tập & Luyện Thi Tương Tác</div>
-                        ${clockHUDHTML}
-                        <div id="auth-header-container"></div>
+                    
+                    <div class="header-widget-row" style="display: flex; flex-direction: column; gap: 10px; margin-top: 14px; align-items: center; width: 100%;">
+                        <div class="header-nav-actions" style="display: flex; gap: 8px; justify-content: center; align-items: center; flex-wrap: wrap;">
+                            <div class="live-badge" style="padding: 4px 12px; font-size: 0.78rem;">Hệ Thống Học Tập & Luyện Thi Tương Tác</div>
+                        </div>
+                        <div class="header-nav-widgets" style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap; max-width: 100%;">
+                            ${clockHUDHTML}
+                            <div id="auth-header-container"></div>
+                        </div>
                     </div>
                 `;
             }
