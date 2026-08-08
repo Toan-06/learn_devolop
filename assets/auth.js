@@ -257,32 +257,47 @@ function switchAuthTab(tab) {
     }
 }
 
-// Handlers
-// ===== TỰ ĐỘNG ĐỒNG BỘ NICK TẠO OFFLINE TỪ VERCEL VỀ SQL SERVER =====
+// ===== TỰ ĐỘNG ĐỒNG BỘ TẤT CẢ NICK NGUỜI DÙNG VỀ SQL SERVER DATABASE =====
 async function autoSyncPendingUsers() {
     try {
         const pendingQueue = JSON.parse(localStorage.getItem('ld_pending_sql_sync') || '[]');
-        if (!Array.isArray(pendingQueue) || pendingQueue.length === 0) return;
+        const localRegistered = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
+        const localPasswords = JSON.parse(localStorage.getItem('ld_local_passwords') || '{}');
+
+        // Gộp cả pendingQueue lẫn ld_registered_users để tự động đồng bộ tất cả nick (bao gồm nick giang)
+        const combined = [...pendingQueue];
+        for (const u of localRegistered) {
+            const email = u.email || u.Email;
+            if (email && !combined.some(c => c.email === email)) {
+                combined.push({
+                    fullName: u.fullName || u.FullName || u.username,
+                    email: email,
+                    username: u.username || u.Username || email.split('@')[0],
+                    password: localPasswords[email] || '123456'
+                });
+            }
+        }
+
+        if (combined.length === 0) return;
 
         const apiUrl = getApiBaseUrl();
         const response = await fetch(`${apiUrl}/sync-users`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ users: pendingQueue }),
+            body: JSON.stringify({ users: combined }),
             signal: AbortSignal.timeout(5000)
         });
         const data = await response.json();
         if (response.ok && data.success) {
-            console.log(`✅ [SQL Auto Sync] Đã đồng bộ ${data.syncedCount || 0} tài khoản mới từ Vercel vào SQL Server Database!`);
-            // Xóa danh sách chờ sau khi đồng bộ thành công
+            console.log(`✅ [SQL Auto Sync] Đã tự động đồng bộ ${data.syncedCount || 0} tài khoản mới vào SQL Server Database!`);
             localStorage.removeItem('ld_pending_sql_sync');
         }
     } catch (e) {
-        // SQL Server vẫn đang offline, giữ nguyên danh sách chờ
+        // SQL Server chưa phản hồi
     }
 }
-// Chạy tự động kiểm tra đồng bộ khi tải trang
-setTimeout(autoSyncPendingUsers, 2000);
+// Chạy tự động kiểm tra đồng bộ ngay khi mở trang
+setTimeout(autoSyncPendingUsers, 1500);
 
 async function handleLoginSubmit(e) {
     e.preventDefault();
