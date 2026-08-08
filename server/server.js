@@ -1,13 +1,12 @@
 /**
  * Learn & Develop - Express.js REST API Server
- * SQL Server: Windows Authentication (localhost) | Database: User
- * Driver: ODBC Driver 18 for SQL Server
+ * Database: MongoDB Atlas (Cloud 24/7)
  */
 
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
-const sql = require('mssql/msnodesqlv8');
+const mongoose = require('mongoose');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
@@ -17,121 +16,89 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 5000;
 const JWT_SECRET = process.env.JWT_SECRET || 'CyberLearnDevelopSecretKey2026';
+const MONGODB_URI = process.env.MONGODB_URI || "mongodb://toan_dev:21062006@ac-hqf0k07-shard-00-00.bwizvt3.mongodb.net:27017,ac-hqf0k07-shard-00-02.bwizvt3.mongodb.net:27017,ac-hqf0k07-shard-00-01.bwizvt3.mongodb.net:27017/wanderviet_planner?ssl=true&authSource=admin&replicaSet=atlas-4kw7rc-shard-0&retryWrites=true&w=majority&appName=Cluster0";
 
-// ===== Connection String SQL Server (Windows Authentication) =====
-const connectionString = process.env.DB_CONNECTION_STRING || "Driver={ODBC Driver 18 for SQL Server};Server=localhost;Database=User;Trusted_Connection=yes;TrustServerCertificate=yes;";
+// ===== MONGOOSE SCHEMAS & MODELS =====
+const UserSchema = new mongoose.Schema({
+    fullName: { type: String, required: true },
+    email: { type: String, required: true, unique: true },
+    username: { type: String, required: true, unique: true },
+    passwordHash: { type: String, required: true },
+    role: { type: String, default: 'Student' },
+    gradeLevel: { type: String, default: '12' },
+    totalEXP: { type: Number, default: 0 },
+    createdAt: { type: Date, default: Date.now }
+});
 
-let pool = null;
+const PasswordResetOTPSchema = new mongoose.Schema({
+    email: { type: String, required: true },
+    otpCode: { type: String, required: true },
+    isUsed: { type: Boolean, default: false },
+    expiresAt: { type: Date, required: true },
+    createdAt: { type: Date, default: Date.now }
+});
 
-// Kết nối SQL Server và khởi tạo bảng dữ liệu tự động
+const NotificationSchema = new mongoose.Schema({
+    senderName: { type: String, default: 'Ban Quản Trị (Admin)' },
+    title: { type: String, required: true },
+    content: { type: String, required: true },
+    type: { type: String, default: 'broadcast' },
+    createdAt: { type: Date, default: Date.now }
+});
+
+const QuizResultSchema = new mongoose.Schema({
+    userId: { type: String, default: null },
+    userName: { type: String, default: 'Khách' },
+    userEmail: { type: String, default: 'guest@cyberlearn.vn' },
+    subject: { type: String, default: 'Bài luyện tập' },
+    score: { type: Number, default: 0 },
+    totalQuestions: { type: Number, default: 0 },
+    correctCount: { type: Number, default: 0 },
+    wrongCount: { type: Number, default: 0 },
+    wrongDetails: { type: String, default: '[]' },
+    createdAt: { type: Date, default: Date.now }
+});
+
+const User = mongoose.model('User', UserSchema);
+const PasswordResetOTP = mongoose.model('PasswordResetOTP', PasswordResetOTPSchema);
+const Notification = mongoose.model('Notification', NotificationSchema);
+const QuizResult = mongoose.model('QuizResult', QuizResultSchema);
+
+// Kết nối MongoDB Atlas và khởi tạo dữ liệu mẫu nếu cần
 async function initDbConnection() {
     try {
-        pool = await new sql.ConnectionPool({ connectionString }).connect();
+        await mongoose.connect(MONGODB_URI);
         console.log('====================================================');
-        console.log('✅ [SQL Server] KẾT NỐI THÀNH CÔNG RỒI NHÉ!');
-        console.log('   Server: localhost (Windows Authentication)');
-        console.log('   Database: User (DESKTOP-JQSIC3A\\HP)');
+        console.log('✅ [MongoDB Atlas] KẾT NỐI ĐÁM MÂY THÀNH CÔNG RỒI NHÉ!');
+        console.log('   Database: wanderviet_planner (MongoDB Atlas 24/7)');
         console.log('====================================================');
 
-        // Tự tạo bảng Users và PasswordResetOTPs trong database User nếu chưa có
-        // Bước 1: Tạo tất cả các bảng nếu chưa có
-        await pool.request().query(`
-            IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='Users' AND xtype='U')
-            BEGIN
-                CREATE TABLE Users (
-                    Id          INT IDENTITY(1,1) PRIMARY KEY,
-                    FullName    NVARCHAR(100) NOT NULL,
-                    Email       VARCHAR(150) NOT NULL UNIQUE,
-                    Username    VARCHAR(50) NOT NULL UNIQUE,
-                    PasswordHash VARCHAR(255) NOT NULL,
-                    Role        NVARCHAR(20) DEFAULT 'Student',
-                    GradeLevel  VARCHAR(10) DEFAULT '12',
-                    TotalEXP    INT DEFAULT 0,
-                    CreatedAt   DATETIME DEFAULT GETDATE()
-                );
-            END
-
-            IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='PasswordResetOTPs' AND xtype='U')
-            BEGIN
-                CREATE TABLE PasswordResetOTPs (
-                    Id        INT IDENTITY(1,1) PRIMARY KEY,
-                    Email     VARCHAR(150) NOT NULL,
-                    OTPCode   VARCHAR(6) NOT NULL,
-                    IsUsed    BIT DEFAULT 0,
-                    ExpiresAt DATETIME NOT NULL,
-                    CreatedAt DATETIME DEFAULT GETDATE()
-                );
-            END
-
-            IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='Notifications' AND xtype='U')
-            BEGIN
-                CREATE TABLE Notifications (
-                    Id          INT IDENTITY(1,1) PRIMARY KEY,
-                    SenderName  NVARCHAR(100) DEFAULT N'Ban Quản Trị (Admin)',
-                    Title       NVARCHAR(255) NOT NULL,
-                    Content     NVARCHAR(MAX) NOT NULL,
-                    Type        VARCHAR(20) DEFAULT 'broadcast',
-                    CreatedAt   DATETIME DEFAULT GETDATE()
-                );
-            END
-
-            IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='QuizResults' AND xtype='U')
-            BEGIN
-                CREATE TABLE QuizResults (
-                    Id             INT IDENTITY(1,1) PRIMARY KEY,
-                    UserId         INT NULL,
-                    UserName       NVARCHAR(100),
-                    UserEmail      VARCHAR(150),
-                    Subject        NVARCHAR(100),
-                    Score          INT,
-                    TotalQuestions INT,
-                    CorrectCount   INT,
-                    WrongCount     INT,
-                    WrongDetails   NVARCHAR(MAX),
-                    CreatedAt      DATETIME DEFAULT GETDATE()
-                );
-            END
-        `);
-
-        // Bước 2: Migration - tự động thêm cột TotalEXP nếu bảng Users cũ chưa có
-        await pool.request().query(`
-            IF NOT EXISTS (SELECT * FROM sys.columns WHERE object_id = OBJECT_ID('Users') AND name = 'TotalEXP')
-            BEGIN
-                ALTER TABLE Users ADD TotalEXP INT DEFAULT 0;
-            END
-        `);
-        console.log('✅ [SQL Server] Bảng Users, PasswordResetOTPs, Notifications và QuizResults đã sẵn sàng!');
-
-        // Seed Admin Account if not existing
-        const checkAdmin = await pool.request()
-            .query("SELECT Id FROM Users WHERE Username = 'admin' OR Email = 'admin@yukii.vn'");
-
-        if (checkAdmin.recordset.length === 0) {
+        // Seed Admin Account nếu chưa tồn tại
+        const adminUser = await User.findOne({ $or: [{ username: 'admin' }, { email: 'admin@yukii.vn' }] });
+        if (!adminUser) {
             const salt = await bcrypt.genSalt(10);
             const adminHash = await bcrypt.hash('admin123', salt);
-            await pool.request()
-                .input('fullName', sql.NVarChar, 'Ban Quản Trị (Admin)')
-                .input('email', sql.VarChar, 'admin@yukii.vn')
-                .input('username', sql.VarChar, 'admin')
-                .input('passwordHash', sql.VarChar, adminHash)
-                .input('role', sql.NVarChar, 'Admin')
-                .query(`
-                    INSERT INTO Users (FullName, Email, Username, PasswordHash, Role)
-                    VALUES (@fullName, @email, @username, @passwordHash, @role)
-                `);
-            console.log('👑 [SQL Server] Tài khoản Admin (Email: admin@yukii.vn / User: admin | Pass: admin123) đã được khởi tạo!');
+            await User.create({
+                fullName: 'Ban Quản Trị (Admin)',
+                email: 'admin@yukii.vn',
+                username: 'admin',
+                passwordHash: adminHash,
+                role: 'Admin',
+                totalEXP: 999999
+            });
+            console.log('👑 [MongoDB Atlas] Tài khoản Admin (Email: admin@yukii.vn / User: admin | Pass: admin123) đã sẵn sàng!');
         }
 
-        // Seed initial announcement if Notifications empty
-        const checkNotif = await pool.request().query("SELECT COUNT(*) AS cnt FROM Notifications");
-        if (checkNotif.recordset[0].cnt === 0) {
-            await pool.request()
-                .input('title', sql.NVarChar, '🎉 Chào mừng bạn đến với Hệ thống Cyber Learn & Develop!')
-                .input('content', sql.NVarChar, 'Hệ thống đã cập nhật toàn bộ ngân hàng câu hỏi Lớp 1-12 và Luyện thi bằng lái xe A1, A2, B1, B2. Chúc các bạn học tập tốt!')
-                .query("INSERT INTO Notifications (Title, Content) VALUES (@title, @content)");
+        // Seed Announcement ban đầu nếu danh sách thông báo trống
+        const notifCount = await Notification.countDocuments();
+        if (notifCount === 0) {
+            await Notification.create({
+                title: '🎉 Chào mừng bạn đến với Hệ thống Cyber Learn & Develop!',
+                content: 'Hệ thống kết nối MongoDB Đám Mây 24/7. Đã cập nhật toàn bộ ngân hàng câu hỏi Lớp 1-12 và Luyện thi bằng lái xe!'
+            });
         }
     } catch (err) {
-        console.error('⚠️ [SQL Server Error]:', err.message || err);
+        console.error('⚠️ [MongoDB Atlas Error]:', err.message || err);
     }
 }
 
@@ -142,49 +109,39 @@ app.post('/api/auth/register', async (req, res) => {
         if (!fullName || !email || !password)
             return res.status(400).json({ success: false, message: 'Vui lòng cung cấp đầy đủ họ tên, email và mật khẩu!' });
 
-        if (!pool)
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
-
         const username = email.split('@')[0];
-
-        const checkUser = await pool.request()
-            .input('email', sql.VarChar, email)
-            .query('SELECT Id FROM Users WHERE Email = @email');
-
-        if (checkUser.recordset.length > 0)
-            return res.status(400).json({ success: false, message: 'Email này đã tồn tại trong hệ thống SQL Server!' });
+        const existingUser = await User.findOne({ email });
+        if (existingUser)
+            return res.status(400).json({ success: false, message: 'Email này đã tồn tại trong hệ thống MongoDB Atlas!' });
 
         const salt = await bcrypt.genSalt(10);
         const hash = await bcrypt.hash(password, salt);
 
-        const result = await pool.request()
-            .input('fullName', sql.NVarChar, fullName)
-            .input('email', sql.VarChar, email)
-            .input('username', sql.VarChar, username)
-            .input('passwordHash', sql.VarChar, hash)
-            .query(`
-                INSERT INTO Users (FullName, Email, Username, PasswordHash)
-                OUTPUT INSERTED.Id, INSERTED.FullName, INSERTED.Email, INSERTED.Username, INSERTED.CreatedAt
-                VALUES (@fullName, @email, @username, @passwordHash)
-            `);
+        const newUser = await User.create({
+            fullName,
+            email,
+            username,
+            passwordHash: hash,
+            role: 'Student'
+        });
 
-        return res.json({ success: true, message: 'Đăng ký tài khoản SQL Server thành công!', user: result.recordset[0] });
+        return res.json({
+            success: true,
+            message: 'Đăng ký tài khoản MongoDB Atlas thành công!',
+            user: { id: newUser._id, fullName: newUser.fullName, email: newUser.email, username: newUser.username, createdAt: newUser.createdAt }
+        });
     } catch (err) {
         console.error('Register Error:', err);
         return res.status(500).json({ success: false, message: 'Lỗi server: ' + err.message });
     }
 });
 
-// ===== API 1.5: ĐỒNG BỘ HÀNG LOẠT TÀI KHOẢN TẠO OFFLINE VỀ SQL SERVER =====
+// ===== API 1.5: ĐỒNG BỘ HÀNG LOẠT TÀI KHOẢN TẠO OFFLINE VỀ MONGODB ATLAS =====
 app.post('/api/auth/sync-users', async (req, res) => {
     try {
-        const { users } = req.body; // Array of { fullName, email, username, password }
+        const { users } = req.body;
         if (!Array.isArray(users) || users.length === 0) {
             return res.json({ success: true, syncedCount: 0, message: 'Không có tài khoản nào cần đồng bộ.' });
-        }
-
-        if (!pool) {
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
         }
 
         let syncedCount = 0;
@@ -195,29 +152,23 @@ app.post('/api/auth/sync-users', async (req, res) => {
             const username = u.username || u.email.split('@')[0];
             const rawPassword = u.password || '123456';
 
-            // Check if already exists in SQL Server
-            const checkUser = await pool.request()
-                .input('email', sql.VarChar, email)
-                .query('SELECT Id FROM Users WHERE Email = @email');
-
-            if (checkUser.recordset.length === 0) {
+            const existingUser = await User.findOne({ email });
+            if (!existingUser) {
                 const salt = await bcrypt.genSalt(10);
                 const hash = await bcrypt.hash(rawPassword, salt);
-                await pool.request()
-                    .input('fullName', sql.NVarChar, fullName)
-                    .input('email', sql.VarChar, email)
-                    .input('username', sql.VarChar, username)
-                    .input('passwordHash', sql.VarChar, hash)
-                    .query(`
-                        INSERT INTO Users (FullName, Email, Username, PasswordHash)
-                        VALUES (@fullName, @email, @username, @passwordHash)
-                    `);
+                await User.create({
+                    fullName,
+                    email,
+                    username,
+                    passwordHash: hash,
+                    role: 'Student'
+                });
                 syncedCount++;
             }
         }
 
-        console.log(`🔄 [SQL Sync] Đã tự động đồng bộ ${syncedCount} tài khoản mới vào SQL Server!`);
-        return res.json({ success: true, syncedCount, message: `Đã đồng bộ ${syncedCount} tài khoản vào SQL Server!` });
+        console.log(`🔄 [MongoDB Sync] Đã đồng bộ ${syncedCount} tài khoản mới vào Đám Mây MongoDB Atlas!`);
+        return res.json({ success: true, syncedCount, message: `Đã đồng bộ ${syncedCount} tài khoản vào MongoDB Atlas!` });
     } catch (err) {
         console.error('Sync Error:', err);
         return res.status(500).json({ success: false, message: 'Lỗi đồng bộ: ' + err.message });
@@ -231,32 +182,25 @@ app.post('/api/auth/login', async (req, res) => {
         if (!identifier || !password)
             return res.status(400).json({ success: false, message: 'Vui lòng nhập tên đăng nhập/email và mật khẩu!' });
 
-        if (!pool)
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
+        const user = await User.findOne({ $or: [{ email: identifier }, { username: identifier }] });
+        if (!user)
+            return res.status(400).json({ success: false, message: 'Tên đăng nhập hoặc Email không tồn tại trong hệ thống!' });
 
-        const result = await pool.request()
-            .input('identifier', sql.VarChar, identifier)
-            .query('SELECT * FROM Users WHERE Email = @identifier OR Username = @identifier');
-
-        if (result.recordset.length === 0)
-            return res.status(400).json({ success: false, message: 'Tên đăng nhập hoặc Email không tồn tại trong SQL Server!' });
-
-        const user = result.recordset[0];
-        const isMatch = await bcrypt.compare(password, user.PasswordHash);
+        const isMatch = await bcrypt.compare(password, user.passwordHash);
         if (!isMatch)
             return res.status(400).json({ success: false, message: 'Mật khẩu không chính xác!' });
 
         const token = jwt.sign(
-            { id: user.Id, email: user.Email, username: user.Username, role: user.Role },
+            { id: user._id, email: user.email, username: user.username, role: user.role },
             JWT_SECRET,
             { expiresIn: '7d' }
         );
 
         return res.json({
             success: true,
-            message: 'Đăng nhập SQL Server thành công!',
+            message: 'Đăng nhập MongoDB Atlas thành công!',
             token,
-            user: { id: user.Id, fullName: user.FullName, email: user.Email, username: user.Username, role: user.Role, gradeLevel: user.GradeLevel }
+            user: { id: user._id, fullName: user.fullName, email: user.email, username: user.username, role: user.role, gradeLevel: user.gradeLevel, exp: user.totalEXP }
         });
     } catch (err) {
         console.error('Login Error:', err);
@@ -264,34 +208,24 @@ app.post('/api/auth/login', async (req, res) => {
     }
 });
 
-// ===== API 3: QUÊN MẬT KHẨU - GỬI MÃ OTP (FORGOT PASSWORD) =====
+// ===== API 3: QUÊN MẬT KHẨU - GỬI MÃ OTP =====
 app.post('/api/auth/forgot-password', async (req, res) => {
     try {
         const { email } = req.body;
         if (!email)
             return res.status(400).json({ success: false, message: 'Vui lòng cung cấp Email!' });
 
-        if (!pool)
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
-
-        const checkUser = await pool.request()
-            .input('email', sql.VarChar, email)
-            .query('SELECT Id FROM Users WHERE Email = @email');
-
-        if (checkUser.recordset.length === 0)
-            return res.status(400).json({ success: false, message: 'Email này chưa được đăng ký trong SQL Server!' });
+        const user = await User.findOne({ email });
+        if (!user)
+            return res.status(400).json({ success: false, message: 'Email này chưa được đăng ký trong hệ thống!' });
 
         const otpCode = Math.floor(100000 + Math.random() * 900000).toString();
-        const expiresAt = new Date(Date.now() + 15 * 60 * 1000); // 15 phút
+        const expiresAt = new Date(Date.now() + 15 * 60 * 1000);
 
-        await pool.request()
-            .input('email', sql.VarChar, email)
-            .input('otpCode', sql.VarChar, otpCode)
-            .input('expiresAt', sql.DateTime, expiresAt)
-            .query('INSERT INTO PasswordResetOTPs (Email, OTPCode, ExpiresAt) VALUES (@email, @otpCode, @expiresAt)');
+        await PasswordResetOTP.create({ email, otpCode, expiresAt });
 
-        console.log(`🔑 [SQL Server OTP Generated] Email: ${email} | Code: ${otpCode}`);
-        return res.json({ success: true, message: 'Mã OTP đã được khởi tạo và lưu vào SQL Server!', otpCode });
+        console.log(`🔑 [MongoDB OTP Generated] Email: ${email} | Code: ${otpCode}`);
+        return res.json({ success: true, message: 'Mã OTP đã được khởi tạo và lưu vào MongoDB Atlas!', otpCode });
     } catch (err) {
         console.error('Forgot Password Error:', err);
         return res.status(500).json({ success: false, message: 'Lỗi tạo OTP: ' + err.message });
@@ -305,77 +239,55 @@ app.post('/api/auth/reset-password', async (req, res) => {
         if (!email || !otpCode || !newPassword)
             return res.status(400).json({ success: false, message: 'Vui lòng cung cấp email, mã OTP và mật khẩu mới!' });
 
-        if (!pool)
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
+        const otpRecord = await PasswordResetOTP.findOne({
+            email,
+            otpCode,
+            isUsed: false,
+            expiresAt: { $gt: new Date() }
+        }).sort({ createdAt: -1 });
 
-        const checkOTP = await pool.request()
-            .input('email', sql.VarChar, email)
-            .input('otpCode', sql.VarChar, otpCode)
-            .query(`SELECT TOP 1 * FROM PasswordResetOTPs
-                    WHERE Email=@email AND OTPCode=@otpCode AND IsUsed=0 AND ExpiresAt>GETDATE()
-                    ORDER BY CreatedAt DESC`);
+        if (!otpRecord)
+            return res.status(400).json({ success: false, message: 'Mã OTP không hợp lệ hoặc đã hết hạn!' });
 
-        if (checkOTP.recordset.length === 0)
-            return res.status(400).json({ success: false, message: 'Mã OTP không hợp lệ hoặc đã hết hạn trong SQL Server!' });
-
-        const otpRecord = checkOTP.recordset[0];
         const salt = await bcrypt.genSalt(10);
         const newHash = await bcrypt.hash(newPassword, salt);
 
-        await pool.request()
-            .input('email', sql.VarChar, email)
-            .input('newHash', sql.VarChar, newHash)
-            .query('UPDATE Users SET PasswordHash=@newHash WHERE Email=@email');
+        await User.updateOne({ email }, { passwordHash: newHash });
+        await PasswordResetOTP.updateOne({ _id: otpRecord._id }, { isUsed: true });
 
-        await pool.request()
-            .input('id', sql.Int, otpRecord.Id)
-            .query('UPDATE PasswordResetOTPs SET IsUsed=1 WHERE Id=@id');
-
-        return res.json({ success: true, message: 'Đổi mật khẩu thành công trên SQL Server!' });
+        return res.json({ success: true, message: 'Đổi mật khẩu thành công trên MongoDB Atlas!' });
     } catch (err) {
         console.error('Reset Password Error:', err);
         return res.status(500).json({ success: false, message: 'Lỗi cập nhật mật khẩu: ' + err.message });
     }
 });
 
-// ===== API 5: LẤY DANH SÁCH THÔNG BÁO (GET NOTIFICATIONS) =====
+// ===== API 5: LẤY DANH SÁCH THÔNG BÁO =====
 app.get('/api/auth/notifications', async (req, res) => {
     try {
-        if (!pool)
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
-
-        const result = await pool.request()
-            .query('SELECT TOP 20 * FROM Notifications ORDER BY CreatedAt DESC');
-
-        return res.json({ success: true, notifications: result.recordset });
+        const notifications = await Notification.find().sort({ createdAt: -1 }).limit(20);
+        return res.json({ success: true, notifications });
     } catch (err) {
         console.error('Get Notifications Error:', err);
         return res.status(500).json({ success: false, message: 'Lỗi lấy thông báo: ' + err.message });
     }
 });
 
-// ===== API 6: ADMIN GỬI THÔNG BÁO (POST NOTIFICATION) =====
+// ===== API 6: ADMIN GỬI THÔNG BÁO =====
 app.post('/api/auth/notifications', async (req, res) => {
     try {
         const { title, content, senderName } = req.body;
         if (!title || !content)
             return res.status(400).json({ success: false, message: 'Vui lòng điền tiêu đề và nội dung thông báo!' });
 
-        if (!pool)
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
-
-        const result = await pool.request()
-            .input('title', sql.NVarChar, title)
-            .input('content', sql.NVarChar, content)
-            .input('senderName', sql.NVarChar, senderName || 'Ban Quản Trị (Admin)')
-            .query(`
-                INSERT INTO Notifications (Title, Content, SenderName)
-                OUTPUT INSERTED.Id, INSERTED.Title, INSERTED.Content, INSERTED.SenderName, INSERTED.CreatedAt
-                VALUES (@title, @content, @senderName)
-            `);
+        const newNotif = await Notification.create({
+            title,
+            content,
+            senderName: senderName || 'Ban Quản Trị (Admin)'
+        });
 
         console.log(`📢 [Admin Broadcast] Đã phát thông báo mới: "${title}"`);
-        return res.json({ success: true, message: 'Đã gửi thông báo đến toàn bộ người dùng!', notification: result.recordset[0] });
+        return res.json({ success: true, message: 'Đã gửi thông báo đến toàn bộ người dùng!', notification: newNotif });
     } catch (err) {
         console.error('Broadcast Notification Error:', err);
         return res.status(500).json({ success: false, message: 'Lỗi gửi thông báo: ' + err.message });
@@ -385,32 +297,28 @@ app.post('/api/auth/notifications', async (req, res) => {
 // ===== API 7: LẤY BẢNG XẾP HẠNG (GET LEADERBOARD) =====
 app.get('/api/auth/leaderboard', async (req, res) => {
     try {
-        if (!pool)
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
+        const users = await User.find().sort({ totalEXP: -1, createdAt: -1 });
 
-        // Lấy danh sách người dùng: Admin luôn xếp Hạng 1, các học sinh xếp theo Điểm tích lũy (TotalEXP) giảm dần
-        const result = await pool.request()
-            .query(`
-                SELECT 
-                    u.Id, 
-                    u.FullName, 
-                    u.Username, 
-                    u.Email, 
-                    u.Role, 
-                    u.GradeLevel, 
-                    u.CreatedAt,
-                    ISNULL(SUM(q.Score), 0) AS TotalEXP,
-                    COUNT(q.Id) AS TestsTaken
-                FROM Users u
-                LEFT JOIN QuizResults q ON u.Email = q.UserEmail OR u.Username = q.UserName
-                GROUP BY u.Id, u.FullName, u.Username, u.Email, u.Role, u.GradeLevel, u.CreatedAt
-                ORDER BY 
-                    CASE WHEN LOWER(u.Role) = 'admin' THEN 1 ELSE 2 END ASC,
-                    ISNULL(SUM(q.Score), 0) DESC,
-                    u.CreatedAt DESC
-            `);
+        // Định dạng danh sách: Admin luôn giữ top 1 (Max XP)
+        const sortedLeaderboard = users.map(u => {
+            const isAdminRow = u.role && u.role.toLowerCase() === 'admin';
+            return {
+                Id: u._id,
+                FullName: u.fullName,
+                Username: u.username,
+                Email: u.email,
+                Role: u.role,
+                GradeLevel: u.gradeLevel,
+                TotalEXP: isAdminRow ? 999999 : (u.totalEXP || 0),
+                CreatedAt: u.createdAt
+            };
+        }).sort((a, b) => {
+            if (a.Role && a.Role.toLowerCase() === 'admin') return -1;
+            if (b.Role && b.Role.toLowerCase() === 'admin') return 1;
+            return b.TotalEXP - a.TotalEXP;
+        });
 
-        return res.json({ success: true, leaderboard: result.recordset, total: result.recordset.length });
+        return res.json({ success: true, leaderboard: sortedLeaderboard, total: sortedLeaderboard.length });
     } catch (err) {
         console.error('Leaderboard Error:', err);
         return res.status(500).json({ success: false, message: 'Lỗi lấy bảng xếp hạng: ' + err.message });
@@ -420,43 +328,28 @@ app.get('/api/auth/leaderboard', async (req, res) => {
 // ===== API 8: THỐNG KÊ HỆ THỐNG (GET SYSTEM STATS) =====
 app.get('/api/auth/stats', async (req, res) => {
     try {
-        if (!pool)
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
+        const nonAdminQuery = { role: { $ne: 'Admin' } };
+        const totalUsers = await User.countDocuments(nonAdminQuery);
 
-        const totalUsers = await pool.request()
-            .query("SELECT COUNT(*) AS cnt FROM Users WHERE Role != 'Admin'");
+        const startOfDay = new Date(); startOfDay.setHours(0,0,0,0);
+        const todayUsers = await User.countDocuments({ ...nonAdminQuery, createdAt: { $gte: startOfDay } });
 
-        const todayUsers = await pool.request()
-            .query("SELECT COUNT(*) AS cnt FROM Users WHERE Role != 'Admin' AND CAST(CreatedAt AS DATE) = CAST(GETDATE() AS DATE)");
+        const sevenDaysAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
+        const weekUsers = await User.countDocuments({ ...nonAdminQuery, createdAt: { $gte: sevenDaysAgo } });
 
-        const weekUsers = await pool.request()
-            .query("SELECT COUNT(*) AS cnt FROM Users WHERE Role != 'Admin' AND CreatedAt >= DATEADD(day, -7, GETDATE())");
+        const thirtyDaysAgo = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000);
+        const monthUsers = await User.countDocuments({ ...nonAdminQuery, createdAt: { $gte: thirtyDaysAgo } });
 
-        const monthUsers = await pool.request()
-            .query("SELECT COUNT(*) AS cnt FROM Users WHERE Role != 'Admin' AND CreatedAt >= DATEADD(day, -30, GETDATE())");
-
-        const totalNotifs = await pool.request()
-            .query("SELECT COUNT(*) AS cnt FROM Notifications");
-
-        // Số lượng user đăng ký theo từng ngày trong 7 ngày gần đây
-        const dailyGrowth = await pool.request()
-            .query(`
-                SELECT CAST(CreatedAt AS DATE) AS RegDate, COUNT(*) AS RegCount
-                FROM Users
-                WHERE Role != 'Admin' AND CreatedAt >= DATEADD(day, -6, GETDATE())
-                GROUP BY CAST(CreatedAt AS DATE)
-                ORDER BY RegDate ASC
-            `);
+        const totalNotifications = await Notification.countDocuments();
 
         return res.json({
             success: true,
             stats: {
-                totalUsers: totalUsers.recordset[0].cnt,
-                todayUsers: todayUsers.recordset[0].cnt,
-                weekUsers: weekUsers.recordset[0].cnt,
-                monthUsers: monthUsers.recordset[0].cnt,
-                totalNotifications: totalNotifs.recordset[0].cnt,
-                dailyGrowth: dailyGrowth.recordset
+                totalUsers,
+                todayUsers,
+                weekUsers,
+                monthUsers,
+                totalNotifications
             }
         });
     } catch (err) {
@@ -469,47 +362,33 @@ app.get('/api/auth/stats', async (req, res) => {
 app.post('/api/auth/quiz-results', async (req, res) => {
     try {
         const { userId, userName, userEmail, subject, score, totalQuestions, correctCount, wrongCount, wrongDetails } = req.body;
-
-        if (!pool) {
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
-        }
-
         const detailsJson = typeof wrongDetails === 'string' ? wrongDetails : JSON.stringify(wrongDetails || []);
 
-        // Tính điểm EXP thưởng tích lũy: 10 XP/câu đúng + 50 XP thưởng điểm tối đa + 20 XP tham gia bài thi
         const cCount = parseInt(correctCount) || 0;
         const tCount = parseInt(totalQuestions) || 0;
         const earnedExp = (cCount * 10) + (tCount > 0 && cCount === tCount ? 50 : 0) + 20;
 
-        await pool.request()
-            .input('userId', sql.Int, userId || null)
-            .input('userName', sql.NVarChar, userName || 'Khách')
-            .input('userEmail', sql.VarChar, userEmail || 'guest@cyberlearn.vn')
-            .input('subject', sql.NVarChar, subject || 'Bài luyện tập')
-            .input('score', sql.Int, score || earnedExp)
-            .input('totalQuestions', sql.Int, totalQuestions || 0)
-            .input('correctCount', sql.Int, correctCount || 0)
-            .input('wrongCount', sql.Int, wrongCount || 0)
-            .input('wrongDetails', sql.NVarChar, detailsJson)
-            .query(`
-                INSERT INTO QuizResults (UserId, UserName, UserEmail, Subject, Score, TotalQuestions, CorrectCount, WrongCount, WrongDetails)
-                VALUES (@userId, @userName, @userEmail, @subject, @score, @totalQuestions, @correctCount, @wrongCount, @wrongDetails)
-            `);
+        const newResult = await QuizResult.create({
+            userId,
+            userName: userName || 'Khách',
+            userEmail: userEmail || 'guest@cyberlearn.vn',
+            subject: subject || 'Bài luyện tập',
+            score: score || earnedExp,
+            totalQuestions: totalQuestions || 0,
+            correctCount: correctCount || 0,
+            wrongCount: wrongCount || 0,
+            wrongDetails: detailsJson
+        });
 
-        // Tự động cộng tích lũy EXP vào tài khoản người dùng trong bảng Users SQL Server
+        // Cập nhật tích lũy EXP vào tài khoản MongoDB Atlas
         if (userEmail || userName) {
-            await pool.request()
-                .input('userEmail', sql.VarChar, userEmail || '')
-                .input('userName', sql.NVarChar, userName || '')
-                .input('earnedExp', sql.Int, earnedExp)
-                .query(`
-                    UPDATE Users
-                    SET TotalEXP = ISNULL(TotalEXP, 0) + @earnedExp
-                    WHERE Email = @userEmail OR Username = @userName OR Email = @userName;
-                `);
+            await User.updateOne(
+                { $or: [{ email: userEmail }, { username: userName }, { email: userName }] },
+                { $inc: { totalEXP: earnedExp } }
+            );
         }
 
-        return res.json({ success: true, message: `Lưu kết quả thành công! Bạn nhận được +${earnedExp} EXP.`, earnedExp });
+        return res.json({ success: true, message: `Lưu kết quả thành công! Bạn nhận được +${earnedExp} EXP.`, earnedExp, result: newResult });
     } catch (err) {
         console.error('Save Quiz Result Error:', err);
         return res.status(500).json({ success: false, message: 'Lỗi lưu kết quả: ' + err.message });
@@ -520,57 +399,41 @@ app.post('/api/auth/quiz-results', async (req, res) => {
 app.post('/api/auth/update-exp', async (req, res) => {
     try {
         const { userEmail, username, expToAdd } = req.body;
-        if (!pool) return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
         const points = parseInt(expToAdd) || 0;
         if (points <= 0) return res.json({ success: true, message: 'Số EXP không hợp lệ' });
 
-        await pool.request()
-            .input('userEmail', sql.VarChar, userEmail || '')
-            .input('username', sql.VarChar, username || '')
-            .input('points', sql.Int, points)
-            .query(`
-                UPDATE Users
-                SET TotalEXP = ISNULL(TotalEXP, 0) + @points
-                WHERE Email = @userEmail OR Username = @username OR Email = @username;
-            `);
+        await User.updateOne(
+            { $or: [{ email: userEmail }, { username: username }, { email: username }] },
+            { $inc: { totalEXP: points } }
+        );
 
-        return res.json({ success: true, message: `Đã cộng +${points} EXP vào SQL Server thành công!` });
+        return res.json({ success: true, message: `Đã cộng +${points} EXP vào MongoDB Atlas thành công!` });
     } catch (err) {
         console.error('Update EXP Error:', err);
         return res.status(500).json({ success: false, message: 'Lỗi cộng EXP: ' + err.message });
     }
 });
 
-// ===== API 10: LẤY TOÀN BỘ KẾT QUẢ VÀ LỖI SAI CỦA TẤT CẢ NGƯỜI DÙNG (ADMIN) =====
+// ===== API 10: LẤY TOÀN BỘ KẾT QUẢ VÀ LỖI SAI (ADMIN) =====
 app.get('/api/auth/quiz-results', async (req, res) => {
     try {
-        if (!pool) {
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
-        }
-
-        const result = await pool.request()
-            .query('SELECT TOP 100 * FROM QuizResults ORDER BY CreatedAt DESC');
-
-        return res.json({ success: true, quizResults: result.recordset });
+        const quizResults = await QuizResult.find().sort({ createdAt: -1 }).limit(100);
+        return res.json({ success: true, quizResults });
     } catch (err) {
         console.error('Get Quiz Results Error:', err);
         return res.status(500).json({ success: false, message: 'Lỗi lấy kết quả bài thi: ' + err.message });
     }
 });
 
-// ===== API 11: LẤY LỖI SAI CHI TIẾT THEO USER EMAIL/USERNAME (ADMIN DETAILED REPORT) =====
+// ===== API 11: LẤY LỖI SAI CHI TIẾT THEO USER EMAIL/USERNAME =====
 app.get('/api/auth/quiz-results/user/:userEmail', async (req, res) => {
     try {
         const { userEmail } = req.params;
-        if (!pool) {
-            return res.status(500).json({ success: false, message: 'Chưa kết nối tới SQL Server!' });
-        }
+        const userResults = await QuizResult.find({
+            $or: [{ userEmail: userEmail }, { userName: userEmail }]
+        }).sort({ createdAt: -1 });
 
-        const result = await pool.request()
-            .input('email', sql.VarChar, userEmail)
-            .query('SELECT * FROM QuizResults WHERE UserEmail = @email OR UserName = @email ORDER BY CreatedAt DESC');
-
-        return res.json({ success: true, userResults: result.recordset });
+        return res.json({ success: true, userResults });
     } catch (err) {
         console.error('Get User Quiz Details Error:', err);
         return res.status(500).json({ success: false, message: 'Lỗi lấy chi tiết người dùng: ' + err.message });
@@ -579,9 +442,8 @@ app.get('/api/auth/quiz-results/user/:userEmail', async (req, res) => {
 
 // Khởi động Express Server
 app.listen(PORT, () => {
-
     console.log(`====================================================`);
-    console.log(`🚀 Learn & Develop SQL Server API listening on port ${PORT}`);
+    console.log(`🚀 Learn & Develop MongoDB Cloud API listening on port ${PORT}`);
     console.log(`🌐 Base API URL: http://localhost:${PORT}/api/auth`);
     console.log(`====================================================`);
     initDbConnection();
