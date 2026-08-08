@@ -21,19 +21,20 @@ function renderAuthHeaderWidget(container) {
     if (window.currentUser) {
         const isAdmin = (window.currentUser.role && window.currentUser.role.toLowerCase() === 'admin') || (window.currentUser.username && window.currentUser.username.toLowerCase() === 'admin');
         const userXP = window.currentUser.exp || parseInt(localStorage.getItem('userLearningXP') || '250');
+        // Rút gọn tên nếu quá dài (max 12 ký tự)
+        const rawName = window.currentUser.fullName || window.currentUser.username || 'User';
+        const displayName = rawName.length > 12 ? rawName.substring(0, 12) + '…' : rawName;
         const expBadge = isAdmin
-            ? `<span style="background: rgba(245, 158, 11, 0.2); border: 1px solid rgba(245, 158, 11, 0.5); color: #fbbf24; border-radius: 12px; padding: 2px 8px; font-weight: 800; font-size: 0.72rem;">👑 Admin</span>`
-            : `<span style="background: rgba(234, 179, 8, 0.2); border: 1px solid rgba(234, 179, 8, 0.5); color: #facc15; border-radius: 12px; padding: 2px 8px; font-weight: 800; font-size: 0.72rem;">⚡ ${userXP} XP</span>`;
+            ? `<span style="background: rgba(245, 158, 11, 0.2); border: 1px solid rgba(245, 158, 11, 0.5); color: #fbbf24; border-radius: 12px; padding: 2px 8px; font-weight: 800; font-size: 0.7rem; white-space: nowrap; flex-shrink: 0;">👑 Admin</span>`
+            : `<span style="background: rgba(234, 179, 8, 0.2); border: 1px solid rgba(234, 179, 8, 0.5); color: #facc15; border-radius: 12px; padding: 2px 7px; font-weight: 800; font-size: 0.7rem; white-space: nowrap; flex-shrink: 0;">⚡ ${userXP} XP</span>`;
 
         container.innerHTML = `
-            <div style="display: inline-flex; align-items: center; gap: 10px; background: rgba(13, 22, 48, 0.92); border: 1.5px solid rgba(0, 242, 254, 0.45); padding: 6px 16px; border-radius: 50px; backdrop-filter: blur(16px); box-shadow: 0 0 20px rgba(0,242,254,0.25);">
-                <div style="display: flex; align-items: center; gap: 8px;">
-                    <span style="font-size: 1.3rem; filter: drop-shadow(0 0 8px #00f2fe);">&#x1F464;</span>
-                    <span style="color: #f8fafc; font-weight: 800; font-size: 0.92rem;">${escapeHtml(window.currentUser.fullName || window.currentUser.username)}</span>
-                    ${expBadge}
-                </div>
-                <button onclick="handleLogout()" style="background: rgba(239, 68, 68, 0.25); border: 1px solid rgba(239, 68, 68, 0.5); color: #fca5a5; border-radius: 20px; padding: 4px 12px; font-weight: 700; font-size: 0.78rem; cursor: pointer; transition: all 0.2s;" onmouseover="this.style.background='rgba(239,68,68,0.5)'" onmouseout="this.style.background='rgba(239,68,68,0.25)'">
-                    <i class="fas fa-sign-out-alt"></i> Đăng xuất
+            <div style="display: inline-flex; align-items: center; gap: 8px; background: rgba(13, 22, 48, 0.92); border: 1.5px solid rgba(0, 242, 254, 0.45); padding: 5px 12px; border-radius: 50px; box-shadow: 0 0 16px rgba(0,242,254,0.2); max-width: 260px;">
+                <span style="font-size: 1.15rem; filter: drop-shadow(0 0 6px #00f2fe); flex-shrink: 0;">&#x1F464;</span>
+                <span style="color: #f8fafc; font-weight: 800; font-size: 0.88rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 90px;" title="${escapeHtml(rawName)}">${escapeHtml(displayName)}</span>
+                ${expBadge}
+                <button onclick="handleLogout()" style="background: rgba(239, 68, 68, 0.25); border: 1px solid rgba(239, 68, 68, 0.5); color: #fca5a5; border-radius: 16px; padding: 3px 10px; font-weight: 700; font-size: 0.75rem; cursor: pointer; white-space: nowrap; flex-shrink: 0; transition: all 0.2s;" onmouseover="this.style.background='rgba(239,68,68,0.5)'" onmouseout="this.style.background='rgba(239,68,68,0.25)'">
+                    <i class="fas fa-sign-out-alt"></i> Xuất
                 </button>
             </div>
         `;
@@ -292,7 +293,15 @@ function fallbackLogin(identifier, password) {
     }
 
     const localUsers = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
-    const found = localUsers.find(u => (u.email === identifier || u.username === identifier) && u.password === password);
+    const localPasswords = JSON.parse(localStorage.getItem('ld_local_passwords') || '{}');
+    // Kiểm tra cả password trong ld_local_passwords (mới) lẫn field password cũ (backward compat)
+    const found = localUsers.find(u => {
+        if (u.email !== identifier && u.username !== identifier) return false;
+        // Ưu tiên ld_local_passwords
+        if (localPasswords[u.email]) return localPasswords[u.email] === password;
+        // Fallback field password cũ
+        return u.password === password;
+    });
 
     if (found || password === '123456') {
         const userObj = found || {
@@ -324,23 +333,53 @@ async function handleRegisterSubmit(e) {
         return;
     }
 
+    // Disable nút submit tránh bấm nhiều lần
+    const btnReg = document.getElementById('btn-submit-register');
+    if (btnReg) { btnReg.disabled = true; btnReg.innerHTML = '⏳ Đang đăng ký...'; }
+
+    let sqlSuccess = false;
     try {
         const response = await fetch(`${API_BASE_URL}/register`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ fullName, email, password })
+            body: JSON.stringify({ fullName, email, password }),
+            signal: AbortSignal.timeout(6000)
         });
         const data = await response.json();
 
         if (response.ok && data.success) {
-            showToast('Đăng ký tài khoản SQL Server thành công! Hãy đăng nhập.', 'success');
+            sqlSuccess = true;
+            // ✅ SQL thành công → cũng lưu vào localStorage để admin thấy khi offline
+            _saveUserToLocalRegistry({ fullName, email, username: email.split('@')[0] });
+            showToast('🎉 Đăng ký tài khoản thành công! Hãy đăng nhập.', 'success');
             switchAuthTab('login');
         } else {
             fallbackRegister(fullName, email, password);
         }
     } catch (err) {
-        fallbackRegister(fullName, email, password);
+        if (!sqlSuccess) fallbackRegister(fullName, email, password);
+    } finally {
+        if (btnReg) { btnReg.disabled = false; btnReg.innerHTML = '🚀 ĐĂNG KÝ TÀI KHOẢN'; }
     }
+}
+
+// Lưu user vào registry localStorage (dùng cho cả SQL mode và offline mode)
+function _saveUserToLocalRegistry(userInfo) {
+    try {
+        const localUsers = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
+        // Không thêm trùng
+        if (!localUsers.some(u => u.email === userInfo.email)) {
+            const newUser = {
+                fullName: userInfo.fullName,
+                email: userInfo.email,
+                username: userInfo.username || userInfo.email.split('@')[0],
+                exp: 0,
+                createdAt: new Date().toISOString()
+            };
+            localUsers.push(newUser);
+            localStorage.setItem('ld_registered_users', JSON.stringify(localUsers));
+        }
+    } catch(e) { /* ignore */ }
 }
 
 function fallbackRegister(fullName, email, password) {
@@ -349,11 +388,14 @@ function fallbackRegister(fullName, email, password) {
         showToast('Email này đã được sử dụng!', 'error');
         return;
     }
-    const newUser = { fullName, email, username: email.split('@')[0], password, createdAt: new Date() };
-    localUsers.push(newUser);
-    localStorage.setItem('ld_registered_users', JSON.stringify(localUsers));
+    // Lưu vào local registry (không lưu password)
+    _saveUserToLocalRegistry({ fullName, email, username: email.split('@')[0] });
+    // Lưu password riêng để login local hoạt động
+    const localWithPass = JSON.parse(localStorage.getItem('ld_local_passwords') || '{}');
+    localWithPass[email] = password;
+    localStorage.setItem('ld_local_passwords', JSON.stringify(localWithPass));
 
-    showToast('Tạo tài khoản thành công! Bạn có thể đăng nhập ngay.', 'success');
+    showToast('✅ Tạo tài khoản thành công! Bạn có thể đăng nhập ngay.', 'success');
     switchAuthTab('login');
 }
 

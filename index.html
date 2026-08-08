@@ -9224,9 +9224,16 @@
                             </div>
                         </div>
                         <div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
+                            <span id="admin-sql-status" style="display:flex; align-items:center; gap:6px; background:rgba(100,116,139,0.15); border:1px solid #475569; color:#94a3b8; padding:5px 12px; border-radius:20px; font-size:0.75rem; font-weight:700;" title="Trạng thái kết nối SQL Server">
+                                <span id="sql-dot" style="width:7px;height:7px;border-radius:50%;background:#94a3b8;display:inline-block;"></span>
+                                <span id="sql-status-text">⏳ SQL...</span>
+                            </span>
                             <span id="admin-live-dot" style="display:flex; align-items:center; gap:6px; background:rgba(16,185,129,0.15); border:1px solid #10b981; color:#34d399; padding:6px 14px; border-radius:20px; font-size:0.8rem; font-weight:800;">
                                 <span style="width:8px;height:8px;border-radius:50%;background:#10b981;display:inline-block;animation:blink 1.2s infinite;"></span> LIVE
                             </span>
+                            <button onclick="loadAdminData()" style="background:rgba(56,189,248,0.15); border:1px solid rgba(56,189,248,0.4); color:#38bdf8; padding:6px 14px; border-radius:20px; font-size:0.8rem; font-weight:800; cursor:pointer;" title="Làm mới dữ liệu từ SQL Server">
+                                🔄 Refresh
+                            </button>
                             <span id="admin-last-update" style="color:#64748b; font-size:0.75rem;">--</span>
                         </div>
                     </div>
@@ -9371,15 +9378,34 @@
                             if (el('stat-today'))  el('stat-today').textContent  = s.todayUsers;
                             if (el('stat-week'))   el('stat-week').textContent   = s.weekUsers;
                             if (el('stat-notifs')) el('stat-notifs').textContent = s.totalNotifications;
-                            // Hiển thị trạng thái kết nối
-                            const liveEl = document.getElementById('admin-live-dot');
-                            if (liveEl) liveEl.title = '✅ Đã kết nối SQL Server';
+                            // Cập nhật SQL status badge
+                            const sqlDot = document.getElementById('sql-dot');
+                            const sqlText = document.getElementById('sql-status-text');
+                            const sqlBadge = document.getElementById('admin-sql-status');
+                            if (sqlDot) sqlDot.style.background = '#10b981';
+                            if (sqlText) sqlText.textContent = '✅ SQL Online';
+                            if (sqlBadge) { sqlBadge.style.borderColor = '#10b981'; sqlBadge.style.color = '#34d399'; sqlBadge.style.background = 'rgba(16,185,129,0.15)'; }
                         }
                     } catch(e) {
-                        // Đã hiển thị local data rồi, chỉ log thôi
                         console.warn('Admin: SQL Server offline, dùng localStorage data.');
-                        const liveEl = document.getElementById('admin-live-dot');
-                        if (liveEl) { liveEl.title = '⚠️ SQL Server offline - hiển thị dữ liệu local'; liveEl.style.borderColor = 'rgba(245,158,11,0.5)'; }
+                        // Cập nhật SQL status badge - offline
+                        const sqlDot = document.getElementById('sql-dot');
+                        const sqlText = document.getElementById('sql-status-text');
+                        const sqlBadge = document.getElementById('admin-sql-status');
+                        if (sqlDot) sqlDot.style.background = '#f59e0b';
+                        if (sqlText) sqlText.textContent = '⚠️ SQL Offline';
+                        if (sqlBadge) { sqlBadge.style.borderColor = 'rgba(245,158,11,0.5)'; sqlBadge.style.color = '#fbbf24'; sqlBadge.style.background = 'rgba(245,158,11,0.1)'; }
+                        // Hiển thị banner giải thích
+                        const lb = document.getElementById('leaderboard-body');
+                        const infoBanner = document.getElementById('sql-offline-banner');
+                        if (!infoBanner && lb) {
+                            const banner = document.createElement('div');
+                            banner.id = 'sql-offline-banner';
+                            banner.style.cssText = 'background:rgba(245,158,11,0.1);border:1px solid rgba(245,158,11,0.3);border-radius:12px;padding:10px 14px;margin-bottom:12px;color:#fbbf24;font-size:0.8rem;font-weight:700;';
+                            banner.innerHTML = '⚠️ <b>SQL Server đang offline</b> (server chưa khởi động tại localhost:5000). Đang hiển thị dữ liệu từ bộ nhớ cục bộ. Chạy <code style="background:rgba(0,0,0,0.3);padding:1px 5px;border-radius:4px;">node server.js</code> để kết nối.';
+                            const lbContainer = document.getElementById('leaderboard-body').parentNode;
+                            if (lbContainer) lbContainer.insertBefore(banner, lbContainer.firstChild);
+                        }
                     }
 
                     // Leaderboard
@@ -9420,8 +9446,9 @@
                                 + '</tbody></table>';
                         }
                     } catch(e) {
-                        // Leaderboard fallback đã được xử lý bởi renderLocalStats() ở trên
+                        // Leaderboard fallback - merge SQL users (nếu có) với localStorage users
                         console.warn('Leaderboard API offline, dùng dữ liệu local.');
+                        // renderLocalStats() đã render sẵn rồi, không cần làm gì thêm
                     }
 
                     // Recent Notifications
