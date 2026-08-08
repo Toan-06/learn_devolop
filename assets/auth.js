@@ -367,12 +367,11 @@ async function handleLoginSubmit(e) {
 
         if (response.ok && data.success) {
             saveUserSession(data.user, data.token);
-            showToast(`✅ Đăng nhập SQL Server thành công! Chào mừng ${data.user.fullName || data.user.username}.`, 'success');
+            showToast(`✅ Đăng nhập MongoDB Cloud thành công! Chào mừng ${data.user.fullName || data.user.username}.`, 'success');
             closeAuthModal();
             if (typeof hideInlineAuthForm === 'function') hideInlineAuthForm();
             initAuthHeader();
             if (typeof renderMainHome === 'function') renderMainHome();
-            // Đẩy nick chưa đồng bộ (nếu có) lên SQL Server
             autoSyncPendingUsers();
         } else {
             // Nếu SQL từ chối (sai pass / chưa đúng) -> thử fallback local
@@ -421,8 +420,8 @@ function fallbackLogin(identifier, password) {
             email: identifier,
             role: isIdAdmin ? 'Admin' : 'Student'
         };
-        saveUserSession(userObj, 'mock-jwt-token-sql-demo');
-        showToast(`⚡ Đăng nhập thành công! (Dữ liệu sẽ tự đồng bộ khi SQL Server bật)`, 'success');
+        saveUserSession(userObj, 'mock-jwt-token-mongo-demo');
+        showToast(`⚡ Đăng nhập thành công! (Dữ liệu sẽ tự đồng bộ về MongoDB Cloud)`, 'success');
         closeAuthModal();
         if (typeof hideInlineAuthForm === 'function') hideInlineAuthForm();
         initAuthHeader();
@@ -465,7 +464,7 @@ async function handleRegisterSubmit(e) {
 
         if (response.ok && data.success) {
             _saveUserToLocalRegistry({ fullName, email, username: email.split('@')[0] });
-            showToast('🎉 Đã tạo tài khoản thành công vào Database SQL Server!', 'success', 5000);
+            showToast('🎉 Đã tạo tài khoản thành công vào MongoDB Atlas Cloud!', 'success', 5000);
             switchAuthTab('login');
             const loginIdInput = document.getElementById('login-identifier');
             if (loginIdInput) loginIdInput.value = email;
@@ -618,7 +617,7 @@ function saveUserSession(user, token) {
     localStorage.setItem('ld_token', token);
     initAuthHeader();
     if (typeof initAIAssistantWidget === 'function') initAIAssistantWidget();
-    if (typeof renderMainHome === 'function') renderMainHome();
+    // NOTE: renderMainHome() is NOT called here — callers must call it after closing modal/form
 }
 
 function handleLogout() {

@@ -9445,17 +9445,20 @@
                             const sqlText = document.getElementById('sql-status-text');
                             const sqlBadge = document.getElementById('admin-sql-status');
                             if (sqlDot) sqlDot.style.background = '#10b981';
-                            if (sqlText) sqlText.textContent = '✅ SQL Online';
+                            if (sqlText) sqlText.textContent = '✅ Mongo Cloud';
                             if (sqlBadge) { sqlBadge.style.borderColor = '#10b981'; sqlBadge.style.color = '#34d399'; sqlBadge.style.background = 'rgba(16,185,129,0.15)'; }
+                            // Ẩn banner offline nếu đang hiển thị
+                            const existingBanner = document.getElementById('sql-offline-banner');
+                            if (existingBanner) existingBanner.remove();
                         }
                     } catch(e) {
-                        console.warn('Admin: SQL Server offline, dùng localStorage data.');
-                        // Cập nhật SQL status badge - offline
+                        console.warn('Admin: MongoDB Cloud offline, dùng localStorage data.');
+                        // Cập nhật MongoDB status badge - offline
                         const sqlDot = document.getElementById('sql-dot');
                         const sqlText = document.getElementById('sql-status-text');
                         const sqlBadge = document.getElementById('admin-sql-status');
                         if (sqlDot) sqlDot.style.background = '#f59e0b';
-                        if (sqlText) sqlText.textContent = '⚠️ SQL Offline';
+                        if (sqlText) sqlText.textContent = '⚠️ Mongo Offline';
                         if (sqlBadge) { sqlBadge.style.borderColor = 'rgba(245,158,11,0.5)'; sqlBadge.style.color = '#fbbf24'; sqlBadge.style.background = 'rgba(245,158,11,0.1)'; }
                         // Hiển thị banner giải thích
                         const lb = document.getElementById('leaderboard-body');
@@ -9464,7 +9467,7 @@
                             const banner = document.createElement('div');
                             banner.id = 'sql-offline-banner';
                             banner.style.cssText = 'background:rgba(245,158,11,0.1);border:1px solid rgba(245,158,11,0.3);border-radius:12px;padding:10px 14px;margin-bottom:12px;color:#fbbf24;font-size:0.8rem;font-weight:700;';
-                            banner.innerHTML = '⚠️ <b>SQL Server đang offline</b> (server chưa khởi động tại localhost:5000). Đang hiển thị dữ liệu từ bộ nhớ cục bộ. Chạy <code style="background:rgba(0,0,0,0.3);padding:1px 5px;border-radius:4px;">node server.js</code> để kết nối.';
+                            banner.innerHTML = '⚠️ <b>MongoDB Cloud offline</b>. Đang hiển thị dữ liệu từ bộ nhớ cục bộ. Chạy <code style="background:rgba(0,0,0,0.3);padding:1px 5px;border-radius:4px;">node server.js</code> để kết nối.';
                             const lbContainer = document.getElementById('leaderboard-body').parentNode;
                             if (lbContainer) lbContainer.insertBefore(banner, lbContainer.firstChild);
                         }
@@ -9714,7 +9717,7 @@
                                     <div class="license-card-body" style="padding: 0;">
                                         <div class="license-name" style="font-size: 1.55rem; font-weight: 900; color: #f8fafc; margin-bottom: 6px;">Lớp ${grade}</div>
                                         <div class="license-desc" style="font-size: 0.88rem; color: #94a3b8; margin-bottom: 22px; line-height: 1.5; font-weight: 500;">${subText}</div>
-                                        <button class="btn btn-primary" style="background: ${btnBg}; border: none; border-radius: 18px; color: #ffffff; font-weight: 800; font-size: 0.92rem; width: 100%; padding: 11px 0; box-shadow: 0 4px 15px ${btnShadow}; transition: all 0.25s;">Vào Học</button>
+                                        <button class="btn btn-primary" style="background: ${btnBg}; border: none; border-radius: 18px; color: #ffffff; font-weight: 800; font-size: 0.92rem; width: 100%; padding: 11px 0; box-shadow: 0 4px 15px ${btnShadow}; transition: all 0.25s; pointer-events: none;">Vào Học</button>
                                     </div>
                                 </div>
                             `;
