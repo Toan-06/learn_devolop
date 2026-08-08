@@ -9236,6 +9236,12 @@
                             <span id="admin-live-dot" style="display:flex; align-items:center; gap:6px; background:rgba(16,185,129,0.15); border:1px solid #10b981; color:#34d399; padding:6px 14px; border-radius:20px; font-size:0.8rem; font-weight:800;">
                                 <span style="width:8px;height:8px;border-radius:50%;background:#10b981;display:inline-block;animation:blink 1.2s infinite;"></span> LIVE
                             </span>
+                            <button onclick="promptConfigApiUrl()" style="background:rgba(168,85,247,0.15); border:1px solid rgba(168,85,247,0.4); color:#c084fc; padding:6px 12px; border-radius:20px; font-size:0.78rem; font-weight:800; cursor:pointer;" title="Đổi URL Backend SQL Server (khi dùng Ngrok hoặc IP WiFi)">
+                                ⚙️ Cấu Hình API
+                            </button>
+                            <button onclick="autoSyncPendingUsers().then(() => loadAdminData())" style="background:rgba(16,185,129,0.15); border:1px solid rgba(16,185,129,0.4); color:#34d399; padding:6px 12px; border-radius:20px; font-size:0.78rem; font-weight:800; cursor:pointer;" title="Đẩy toàn bộ nick ở bộ nhớ tạm vào SQL Server">
+                                📥 Đồng Bộ SQL
+                            </button>
                             <button onclick="loadAdminData()" style="background:rgba(56,189,248,0.15); border:1px solid rgba(56,189,248,0.4); color:#38bdf8; padding:6px 14px; border-radius:20px; font-size:0.8rem; font-weight:800; cursor:pointer;" title="Làm mới dữ liệu từ SQL Server">
                                 🔄 Refresh
                             </button>
