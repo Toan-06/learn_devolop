@@ -11,44 +11,51 @@ function getApiBaseUrl() {
     if (saved && saved.trim() !== '') {
         return saved.trim().replace(/\/$/, '');
     }
-    // Nếu đang chạy trên web online (Vercel / domain), tự động kết nối API gốc
-    if (window.location.hostname && !window.location.hostname.includes('localhost') && !window.location.hostname.includes('127.0.0.1')) {
-        return window.location.origin + '/api/auth';
+    const hostname = window.location.hostname;
+    if (!hostname || hostname === 'localhost' || hostname === '127.0.0.1') {
+        return 'http://localhost:5000/api/auth';
     }
-    return 'http://localhost:5000/api/auth';
+    if (/^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$/.test(hostname)) {
+        return `${window.location.protocol}//${hostname}:5000/api/auth`;
+    }
+    return window.location.origin + '/api/auth';
 }
 
 async function autoSyncPendingUsers() {
     try {
         const pendingQueue = JSON.parse(localStorage.getItem('ld_pending_sql_sync') || '[]');
         const localRegistered = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
+        const localPasswords = JSON.parse(localStorage.getItem('ld_local_passwords') || '{}');
 
-        const allPending = [...pendingQueue];
-        localRegistered.forEach(u => {
-            if (u.email && !allPending.some(p => p.email === u.email)) {
-                allPending.push({
-                    fullName: u.fullName || u.email.split('@')[0],
-                    email: u.email,
-                    username: u.username || u.email.split('@')[0],
-                    password: u.password || '123456'
+        const combined = [...pendingQueue];
+        for (const u of localRegistered) {
+            const email = u.email || u.Email;
+            if (email && !combined.some(c => c.email === email)) {
+                combined.push({
+                    fullName: u.fullName || u.FullName || u.username,
+                    email: email,
+                    username: u.username || u.Username || email.split('@')[0],
+                    password: localPasswords[email] || '123456'
                 });
             }
-        });
+        }
 
-        if (allPending.length === 0) return { success: true, syncedCount: 0 };
+        if (combined.length === 0) return { success: true, syncedCount: 0 };
 
         const apiUrl = getApiBaseUrl();
+        const signal = (typeof AbortSignal !== 'undefined' && AbortSignal.timeout) ? AbortSignal.timeout(5000) : undefined;
         const response = await fetch(`${apiUrl}/sync-users`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ users: allPending }),
-            signal: AbortSignal.timeout(6000)
+            body: JSON.stringify({ users: combined }),
+            signal
         });
 
         const data = await response.json();
         if (response.ok && data.success) {
             localStorage.removeItem('ld_pending_sql_sync');
-            console.log(`✅ [MongoDB Auto-Sync] Đã tự động đồng bộ ${data.syncedCount} tài khoản về MongoDB Atlas Cloud!`);
+            console.log(`✅ [MongoDB Auto-Sync] Đã tự động đồng bộ ${data.syncedCount || 0} tài khoản mới về MongoDB Atlas Cloud!`);
+            if (typeof loadAdminData === 'function') loadAdminData();
             return data;
         }
     } catch(err) {
@@ -300,45 +307,6 @@ function switchAuthTab(tab) {
     }
 }
 
-// ===== TỰ ĐỘNG ĐỒNG BỘ TẤT CẢ NICK NGUỜI DÙNG VỀ SQL SERVER DATABASE =====
-async function autoSyncPendingUsers() {
-    try {
-        const pendingQueue = JSON.parse(localStorage.getItem('ld_pending_sql_sync') || '[]');
-        const localRegistered = JSON.parse(localStorage.getItem('ld_registered_users') || '[]');
-        const localPasswords = JSON.parse(localStorage.getItem('ld_local_passwords') || '{}');
-
-        // Gộp cả pendingQueue lẫn ld_registered_users để tự động đồng bộ tất cả nick (bao gồm nick giang)
-        const combined = [...pendingQueue];
-        for (const u of localRegistered) {
-            const email = u.email || u.Email;
-            if (email && !combined.some(c => c.email === email)) {
-                combined.push({
-                    fullName: u.fullName || u.FullName || u.username,
-                    email: email,
-                    username: u.username || u.Username || email.split('@')[0],
-                    password: localPasswords[email] || '123456'
-                });
-            }
-        }
-
-        if (combined.length === 0) return;
-
-        const apiUrl = getApiBaseUrl();
-        const response = await fetch(`${apiUrl}/sync-users`, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ users: combined }),
-            signal: AbortSignal.timeout(5000)
-        });
-        const data = await response.json();
-        if (response.ok && data.success) {
-            console.log(`✅ [SQL Auto Sync] Đã tự động đồng bộ ${data.syncedCount || 0} tài khoản mới vào SQL Server Database!`);
-            localStorage.removeItem('ld_pending_sql_sync');
-        }
-    } catch (e) {
-        // SQL Server chưa phản hồi
-    }
-}
 // Chạy tự động kiểm tra đồng bộ ngay khi mở trang
 setTimeout(autoSyncPendingUsers, 1500);
 

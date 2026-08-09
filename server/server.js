@@ -65,9 +65,12 @@ const Notification = mongoose.model('Notification', NotificationSchema);
 const QuizResult = mongoose.model('QuizResult', QuizResultSchema);
 
 // Kết nối MongoDB Atlas và khởi tạo dữ liệu mẫu nếu cần
+let isDbConnected = false;
 async function initDbConnection() {
+    if (mongoose.connection.readyState === 1) return;
     try {
         await mongoose.connect(MONGODB_URI);
+        isDbConnected = true;
         console.log('====================================================');
         console.log('✅ [MongoDB Atlas] KẾT NỐI ĐÁM MÂY THÀNH CÔNG RỒI NHÉ!');
         console.log('   Database: wanderviet_planner (MongoDB Atlas 24/7)');
@@ -125,6 +128,14 @@ async function initDbConnection() {
         console.error('⚠️ [MongoDB Atlas Error]:', err.message || err);
     }
 }
+
+// Middleware tự động kết nối MongoDB Atlas cho Vercel Serverless Functions
+app.use(async (req, res, next) => {
+    if (mongoose.connection.readyState !== 1) {
+        await initDbConnection();
+    }
+    next();
+});
 
 // ===== API 1: ĐĂNG KÝ (REGISTER) =====
 app.post('/api/auth/register', async (req, res) => {
@@ -465,10 +476,14 @@ app.get('/api/auth/quiz-results/user/:userEmail', async (req, res) => {
 });
 
 // Khởi động Express Server
-app.listen(PORT, () => {
-    console.log(`====================================================`);
-    console.log(`🚀 Learn & Develop MongoDB Cloud API listening on port ${PORT}`);
-    console.log(`🌐 Base API URL: http://localhost:${PORT}/api/auth`);
-    console.log(`====================================================`);
-    initDbConnection();
-});
+if (require.main === module) {
+    app.listen(PORT, () => {
+        console.log(`====================================================`);
+        console.log(`🚀 Learn & Develop MongoDB Cloud API listening on port ${PORT}`);
+        console.log(`🌐 Base API URL: http://localhost:${PORT}/api/auth`);
+        console.log(`====================================================`);
+        initDbConnection();
+    });
+}
+
+module.exports = app;

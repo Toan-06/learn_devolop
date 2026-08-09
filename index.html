@@ -9372,8 +9372,16 @@
                     const el = (id) => document.getElementById(id);
                     // Thêm Admin mock nếu chưa có trong danh sách hiển thị
                     const nonAdminUsers = localUsers.filter(u => !(u.username||u.Username||'').toLowerCase().includes('admin'));
+
+                    const startOfToday = new Date(); startOfToday.setHours(0,0,0,0);
+                    const todayUsersCount = nonAdminUsers.filter(u => {
+                        const dateStr = u.createdAt || u.CreatedAt;
+                        if (!dateStr) return true;
+                        return new Date(dateStr) >= startOfToday;
+                    }).length;
+
                     if (el('stat-total'))  el('stat-total').textContent  = nonAdminUsers.length;
-                    if (el('stat-today'))  el('stat-today').textContent  = 0;
+                    if (el('stat-today'))  el('stat-today').textContent  = todayUsersCount;
                     if (el('stat-week'))   el('stat-week').textContent   = nonAdminUsers.length;
                     if (el('stat-notifs')) el('stat-notifs').textContent = notifs.length;
 
@@ -9428,10 +9436,11 @@
                 // ---- Real-time data loader từ API (nếu server online) ----
                 async function loadAdminData() {
                     const apiBase = (typeof getApiBaseUrl === 'function') ? getApiBaseUrl() : ((typeof API_BASE_URL !== 'undefined') ? API_BASE_URL : 'http://localhost:5000/api/auth');
+                    const signal = (typeof AbortSignal !== 'undefined' && AbortSignal.timeout) ? AbortSignal.timeout(5000) : undefined;
 
                     // Stats
                     try {
-                        const sr = await fetch(apiBase + '/stats', { signal: AbortSignal.timeout(5000) });
+                        const sr = await fetch(apiBase + '/stats', { signal });
                         const sd = await sr.json();
                         if (sd.success) {
                             const s = sd.stats;
@@ -9475,7 +9484,7 @@
 
                     // Leaderboard
                     try {
-                        const lr = await fetch(apiBase + '/leaderboard');
+                        const lr = await fetch(apiBase + '/leaderboard', { signal });
                         const ld = await lr.json();
                         const tbody = document.getElementById('leaderboard-body');
                         const cntEl = document.getElementById('leaderboard-count');
