@@ -1516,6 +1516,277 @@
                 padding: 6px 12px;
             }
 
+        /* ===================================================
+           MOBILE RESPONSIVE — VN HUB GRID & SUBJECT CARDS
+           =================================================== */
+        @media (max-width: 768px) {
+            .vn-hub-grid {
+                grid-template-columns: 1fr !important;
+                gap: 16px !important;
+                margin: 20px auto !important;
+            }
+            .vn-module-card {
+                min-height: auto !important;
+                padding: 24px 18px 20px !important;
+                border-radius: 22px !important;
+            }
+            .vn-mod-icon {
+                font-size: 2.8rem !important;
+                margin: 6px 0 6px 0 !important;
+            }
+            .vn-mod-title {
+                font-size: 1rem !important;
+                margin-bottom: 6px !important;
+            }
+            .vn-mod-desc {
+                font-size: 0.8rem !important;
+                margin-bottom: 14px !important;
+            }
+            .vn-mod-badge {
+                padding: 6px 14px !important;
+                font-size: 0.72rem !important;
+            }
+        }
+
+        @media (max-width: 480px) {
+            /* Grade select grid: 2 columns on mobile */
+            .license-grid[style*="grid-template-columns: repeat(auto-fill"] {
+                grid-template-columns: repeat(2, 1fr) !important;
+                gap: 12px !important;
+            }
+
+            /* Subject hub: full-width cards on small phones */
+            .vn-hub-grid {
+                grid-template-columns: 1fr !important;
+                gap: 14px !important;
+            }
+
+            /* Subject select cards: compact horizontal layout on tiny screens */
+            /* (injected via JS style, override via class) */
+            .vn-module-card {
+                flex-direction: row !important;
+                text-align: left !important;
+                padding: 18px 16px !important;
+                min-height: auto !important;
+                gap: 14px !important;
+                align-items: center !important;
+            }
+            .vn-mod-icon {
+                font-size: 2.6rem !important;
+                margin: 0 !important;
+                flex-shrink: 0 !important;
+            }
+            /* Text wrapper inside horizontal card */
+            .vn-module-card > :not(.vn-mod-icon):not(.vn-mod-badge) {
+                text-align: left !important;
+            }
+        }
+
+        /* ===================================================
+           QUIZ INTERFACE MOBILE — Improved touch targets
+           =================================================== */
+        @media (max-width: 768px) {
+            .quiz-container {
+                padding: 0 !important;
+            }
+            .question-section {
+                padding: 20px 16px !important;
+            }
+            .question-text {
+                font-size: 1.05rem !important;
+                line-height: 1.6 !important;
+            }
+            .option {
+                padding: 14px 16px !important;
+                border-radius: 14px !important;
+                gap: 10px !important;
+            }
+            .option-letter {
+                width: 34px !important;
+                height: 34px !important;
+                font-size: 0.9rem !important;
+                flex-shrink: 0 !important;
+            }
+            .option-text {
+                font-size: 0.93rem !important;
+                line-height: 1.45 !important;
+            }
+            .quiz-footer {
+                padding: 14px 16px !important;
+                gap: 10px !important;
+            }
+            .nav-btn {
+                padding: 11px 18px !important;
+                font-size: 0.88rem !important;
+                border-radius: 14px !important;
+                flex: 1 !important;
+                justify-content: center !important;
+            }
+            /* Explanation panel */
+            .explanation.show {
+                margin-top: 16px !important;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .quiz-header {
+                padding: 12px 14px !important;
+            }
+            .question-text {
+                font-size: 0.98rem !important;
+            }
+            .option {
+                padding: 12px 14px !important;
+            }
+            .option-letter {
+                width: 30px !important;
+                height: 30px !important;
+                font-size: 0.82rem !important;
+                margin-right: 10px !important;
+            }
+            .option-text {
+                font-size: 0.88rem !important;
+            }
+            .nav-btn {
+                padding: 10px 14px !important;
+                font-size: 0.82rem !important;
+            }
+        }
+
+        /* ===================================================
+           RESULT SCREEN MOBILE
+           =================================================== */
+        @media (max-width: 480px) {
+            .result-screen {
+                padding: 25px 16px !important;
+                border-radius: 20px !important;
+            }
+            .result-score {
+                font-size: 2.5rem !important;
+            }
+            .result-stats {
+                grid-template-columns: 1fr 1fr !important;
+                gap: 10px !important;
+            }
+            .result-actions {
+                flex-direction: column !important;
+                gap: 10px !important;
+            }
+            .result-actions .btn {
+                width: 100% !important;
+                justify-content: center !important;
+            }
+        }
+
+        /* ===================================================
+           STAT WIDGET CARDS (inside PRIMARY_CLASS view)
+           =================================================== */
+        @media (max-width: 768px) {
+            /* Stats row: 2 cols on tablet */
+            [style*="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr))"] {
+                grid-template-columns: repeat(2, 1fr) !important;
+                gap: 14px !important;
+            }
+        }
+        @media (max-width: 480px) {
+            [style*="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr))"] {
+                grid-template-columns: repeat(2, 1fr) !important;
+                gap: 10px !important;
+            }
+            /* Stat widget compact */
+            [style*="border-radius: 24px; padding: 22px;"] {
+                padding: 14px 12px !important;
+                border-radius: 18px !important;
+                gap: 10px !important;
+            }
+        }
+
+        /* ===================================================
+           SUBJECT HUB HERO BANNER MOBILE
+           =================================================== */
+        @media (max-width: 768px) {
+            /* Subject hub hero */
+            .primary-hub-hero {
+                padding: 20px 16px !important;
+                margin-bottom: 20px !important;
+                border-radius: 18px !important;
+            }
+        }
+        @media (max-width: 480px) {
+            /* Stack hero icon + text vertically */
+            .primary-hub-hero {
+                flex-direction: column !important;
+                text-align: center !important;
+                align-items: center !important;
+                padding: 18px 14px !important;
+            }
+        }
+
+        /* ===================================================
+           BOTTOM SAFE AREA + STICKY QUIZ FOOTER
+           =================================================== */
+        @media (max-width: 768px) {
+            .quiz-footer {
+                position: sticky !important;
+                bottom: 0 !important;
+                left: 0 !important;
+                right: 0 !important;
+                z-index: 50 !important;
+                background: rgba(10,18,38,0.97) !important;
+                backdrop-filter: blur(20px) !important;
+                -webkit-backdrop-filter: blur(20px) !important;
+                border-top: 1px solid rgba(56,189,248,0.15) !important;
+                padding: 12px 16px env(safe-area-inset-bottom, 8px) !important;
+                box-shadow: 0 -4px 20px rgba(0,0,0,0.4) !important;
+            }
+        }
+
+        /* ===================================================
+           GRADE SELECT GRID: 2-col on tablet, 2-col on phone
+           =================================================== */
+        @media (max-width: 768px) {
+            /* Grade grid inside renderPrimaryGradeSelect */
+            .license-grid {
+                grid-template-columns: repeat(2, 1fr) !important;
+                gap: 14px !important;
+            }
+        }
+        @media (max-width: 360px) {
+            .license-grid {
+                grid-template-columns: 1fr !important;
+            }
+        }
+
+        /* ===================================================
+           TOUCH ACTIVE STATE for cards
+           =================================================== */
+        @media (hover: none) {
+            .vn-module-card:active {
+                transform: scale(0.97) !important;
+                opacity: 0.92 !important;
+                transition: transform 0.1s ease !important;
+            }
+            .option:active {
+                transform: scale(0.98) !important;
+                transition: transform 0.1s ease !important;
+            }
+        }
+
+        /* ===================================================
+           TOASTS / NOTIFICATIONS on mobile
+           =================================================== */
+        @media (max-width: 480px) {
+            #primary-toast {
+                bottom: 80px !important;
+                left: 12px !important;
+                right: 12px !important;
+                max-width: none !important;
+                font-size: 0.85rem !important;
+                padding: 12px 16px !important;
+                border-radius: 14px !important;
+            }
+        }
+
             .progress-stat-item {
                 font-size: 0.8rem;
             }
@@ -3332,7 +3603,57 @@
 
     </style>
 
-    </style>
+    
+        /* MOBILE BOTTOM DOCK NAVBAR STYLING */
+        #mobile-bottom-nav {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 9998;
+            background: rgba(10, 18, 38, 0.94);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-top: 1.5px solid rgba(56, 189, 248, 0.25);
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 8px 10px calc(8px + env(safe-area-inset-bottom, 0px));
+            box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.6);
+        }
+        @media (min-width: 769px) {
+            #mobile-bottom-nav {
+                display: none !important;
+            }
+        }
+        .mob-nav-item {
+            background: transparent;
+            border: none;
+            color: #94a3b8;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4px;
+            font-size: 0.72rem;
+            font-weight: 700;
+            cursor: pointer;
+            padding: 6px 12px;
+            border-radius: 14px;
+            transition: all 0.25s ease;
+        }
+        .mob-nav-item i {
+            font-size: 1.25rem;
+            transition: transform 0.2s ease;
+        }
+        .mob-nav-item:active, .mob-nav-item.active {
+            color: #38bdf8;
+            background: rgba(56, 189, 248, 0.12);
+        }
+        .mob-nav-item:active i {
+            transform: scale(1.2);
+        }
+
+</style>
 </head>
 
 <body>
@@ -3414,7 +3735,128 @@
                     title="Email"><i class="fas fa-envelope"></i></a>
             </div>
         </footer>
-    <script src="assets/samples_grade6.js"></script>
+    <script src="assets/samples_grade6.js">
+        // DIGITAL SCRATCHPAD LOGIC
+        let spCanvas, spCtx, isSpDrawing = false, spColor = '#00f2fe', spLineWidth = 4, isEraser = false;
+
+        function openScratchpadModal() {
+            const modal = document.getElementById('scratchpad-modal');
+            if (!modal) return;
+            modal.style.display = 'flex';
+            setTimeout(() => {
+                initScratchpadCanvas();
+            }, 100);
+        }
+
+        function closeScratchpadModal() {
+            const modal = document.getElementById('scratchpad-modal');
+            if (modal) modal.style.display = 'none';
+        }
+
+        function switchScratchpadTab(tab) {
+            const drawBtn = document.getElementById('sp-tab-draw');
+            const formBtn = document.getElementById('sp-tab-formulas');
+            const drawContent = document.getElementById('sp-content-draw');
+            const formContent = document.getElementById('sp-content-formulas');
+
+            if (tab === 'draw') {
+                drawBtn.style.background = '#38bdf8'; drawBtn.style.color = '#0f172a';
+                formBtn.style.background = 'transparent'; formBtn.style.color = '#cbd5e1';
+                drawContent.style.display = 'flex';
+                formContent.style.display = 'none';
+                initScratchpadCanvas();
+            } else {
+                formBtn.style.background = '#38bdf8'; formBtn.style.color = '#0f172a';
+                drawBtn.style.background = 'transparent'; drawBtn.style.color = '#cbd5e1';
+                formContent.style.display = 'block';
+                drawContent.style.display = 'none';
+            }
+        }
+
+        function initScratchpadCanvas() {
+            spCanvas = document.getElementById('scratchpad-canvas');
+            if (!spCanvas) return;
+            const container = spCanvas.parentElement;
+            spCanvas.width = container.clientWidth;
+            spCanvas.height = container.clientHeight;
+            spCtx = spCanvas.getContext('2d');
+            spCtx.lineCap = 'round';
+            spCtx.lineJoin = 'round';
+
+            spCanvas.onmousedown = startDrawing;
+            spCanvas.onmousemove = draw;
+            spCanvas.onmouseup = stopDrawing;
+            spCanvas.onmouseleave = stopDrawing;
+
+            spCanvas.addEventListener('touchstart', (e) => {
+                e.preventDefault();
+                const touch = e.touches[0];
+                const rect = spCanvas.getBoundingClientRect();
+                startDrawing({ clientX: touch.clientX, clientY: touch.clientY, rect });
+            }, { passive: false });
+
+            spCanvas.addEventListener('touchmove', (e) => {
+                e.preventDefault();
+                const touch = e.touches[0];
+                const rect = spCanvas.getBoundingClientRect();
+                draw({ clientX: touch.clientX, clientY: touch.clientY, rect });
+            }, { passive: false });
+
+            spCanvas.addEventListener('touchend', stopDrawing);
+        }
+
+        function setScratchpadColor(color, eraser = false) {
+            spColor = color;
+            isEraser = eraser;
+        }
+
+        function clearScratchpadCanvas() {
+            if (spCtx && spCanvas) {
+                spCtx.clearRect(0, 0, spCanvas.width, spCanvas.height);
+            }
+        }
+
+        function getPos(e) {
+            const rect = e.rect || spCanvas.getBoundingClientRect();
+            return {
+                x: e.clientX - rect.left,
+                y: e.clientY - rect.top
+            };
+        }
+
+        function startDrawing(e) {
+            isSpDrawing = true;
+            const pos = getPos(e);
+            spCtx.beginPath();
+            spCtx.moveTo(pos.x, pos.y);
+        }
+
+        function draw(e) {
+            if (!isSpDrawing) return;
+            const pos = getPos(e);
+            spCtx.strokeStyle = isEraser ? '#0a0f24' : spColor;
+            spCtx.lineWidth = isEraser ? spLineWidth * 4 : spLineWidth;
+            spCtx.lineTo(pos.x, pos.y);
+            spCtx.stroke();
+        }
+
+        function stopDrawing() {
+            isSpDrawing = false;
+        }
+
+
+        function openGlobalWrongNotebook() {
+            const lvl = (typeof selectedPrimaryLevel !== 'undefined' && selectedPrimaryLevel) ? selectedPrimaryLevel : '12';
+            const wrongCount = primaryWrongHistory.filter(h => String(h.grade || '1') === String(lvl)).length;
+            showPrimaryToast(`📖 Sổ tay Lớp ${lvl} hiện có ${wrongCount} câu sai cần luyện tập.`, wrongCount === 0);
+            if (typeof selectedPrimaryLevel !== 'undefined' && selectedPrimaryLevel) {
+                navigateTo('PRIMARY_CLASS');
+            } else {
+                navigateTo('PRIMARY_GRADE_SELECT');
+            }
+        }
+    
+</script>
     <script src="assets/samples_grade7.js"></script>
     <script src="assets/samples_grade8.js"></script>
     <script src="assets/samples_grade9.js"></script>
@@ -4878,11 +5320,25 @@
                     ` : ''}
                     <div class="question-section">
                         ${imageHTML}
-                        <div class="question-text">${question.question}</div>
+                        
+                    <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:14px; flex-wrap:wrap; gap:10px;">
+                        <span style="font-size:0.75rem; font-weight:800; background:rgba(56,189,248,0.12); color:#38bdf8; border:1px solid rgba(56,189,248,0.3); padding:4px 12px; border-radius:20px; letter-spacing:0.5px;">
+                            ${isPrimaryQuizMode ? `MÔN ${String(selectedPrimarySubject).toUpperCase()} • LỚP ${selectedPrimaryLevel}` : 'CÂU HỎI TRẮC NGHIỆM'}
+                        </span>
+                        <div style="display:flex; gap:8px;">
+                            <button onclick="speakCurrentQuestion()" style="background:rgba(56,189,248,0.12); border:1px solid rgba(56,189,248,0.3); color:#38bdf8; padding:5px 12px; border-radius:14px; font-weight:700; font-size:0.78rem; cursor:pointer; display:flex; align-items:center; gap:6px; transition:all 0.2s;" onmouseover="this.style.background='rgba(56,189,248,0.25)'" onmouseout="this.style.background='rgba(56,189,248,0.12)'">
+                                <i class="fas fa-volume-high"></i> <span>Đọc đề bài</span>
+                            </button>
+                            <button onclick="openScratchpadModal()" style="background:rgba(168,85,247,0.12); border:1px solid rgba(168,85,247,0.3); color:#c084fc; padding:5px 12px; border-radius:14px; font-weight:700; font-size:0.78rem; cursor:pointer; display:flex; align-items:center; gap:6px; transition:all 0.2s;" onmouseover="this.style.background='rgba(168,85,247,0.25)'" onmouseout="this.style.background='rgba(168,85,247,0.12)'">
+                                <i class="fas fa-pen-ruler"></i> <span>Bảng nháp</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="question-text" id="active-question-text">${question.question}</div>
                         <div class="options">${optionsHTML}</div>
                         ${explanationHTML}
                     </div>
-                    <div class="quiz-footer">
+                    <div class="quiz-footer" id="quiz-footer-sticky">
                         <button class="nav-btn prev" onclick="prevQuestion()" ${currentQuestionIndex === 0 ? 'disabled' : ''}>
                             <i class="fas fa-chevron-left"></i> Câu trước
                         </button>
@@ -7923,6 +8379,25 @@
                 feedback.className = "ai-feedback-3d wrong";
                 feedback.innerHTML = `💡 Gần đúng rồi bé ơi! Bé thử lại nhé. Cách đánh vần chuẩn là: <strong>${currentItem.s}</strong>.`;
                 logWrongAnswer('danh_van', currentItem.w, currentItem.s, inputVal);
+            }
+        }
+
+        
+        // AI Text-to-Speech Reader for Quiz
+        function speakCurrentQuestion() {
+            if (!filteredQuestions || !filteredQuestions[currentQuestionIndex]) return;
+            const q = filteredQuestions[currentQuestionIndex];
+            const textToRead = q.question;
+            if ('speechSynthesis' in window) {
+                window.speechSynthesis.cancel();
+                const utterance = new SpeechSynthesisUtterance(textToRead);
+                const isEnglish = (typeof selectedPrimarySubject !== 'undefined' && selectedPrimarySubject === 'english') || /[a-zA-Z]{5,}/.test(textToRead) && !/[àáảãạâầấẩẫậăằắẳẵặèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i.test(textToRead);
+                utterance.lang = isEnglish ? 'en-US' : 'vi-VN';
+                utterance.rate = 0.95;
+                window.speechSynthesis.speak(utterance);
+                showPrimaryToast(isEnglish ? "🔊 Reading English Question..." : "🔊 Đang đọc đề bài bằng AI...", true);
+            } else {
+                showPrimaryToast("⚠️ Trình duyệt không hỗ trợ phát âm tự động.", false);
             }
         }
 
@@ -11500,6 +11975,114 @@
         navigateTo('MAIN_HOME');
 
     </script>
+
+    <!-- DIGITAL SCRATCHPAD & FORMULA CHEAT SHEET MODAL -->
+    <div id="scratchpad-modal" style="display:none; position:fixed; inset:0; z-index:999999; background:rgba(8,15,35,0.92); backdrop-filter:blur(20px); align-items:center; justify-content:center; padding:15px;">
+        <div style="background:rgba(13,21,44,0.98); border:1.5px solid rgba(56,189,248,0.3); border-radius:28px; width:100%; max-width:850px; height:88vh; max-height:750px; display:flex; flex-direction:column; box-shadow:0 25px 60px rgba(0,0,0,0.8); overflow:hidden; animation:fadeInUp 0.3s ease;">
+            <!-- Modal Header -->
+            <div style="padding:18px 24px; background:rgba(15,23,42,0.9); border-bottom:1.5px solid rgba(56,189,248,0.2); display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px;">
+                <div style="display:flex; align-items:center; gap:12px;">
+                    <span style="font-size:1.8rem;">🎨</span>
+                    <div>
+                        <h3 style="margin:0; font-size:1.2rem; font-weight:800; color:#f1f5f9;">Bảng Nháp Vẽ Tay & Kho Công Thức</h3>
+                        <p style="margin:0; font-size:0.78rem; color:#94a3b8;">Vẽ nháp tính toán trực tiếp bằng ngón tay hoặc chuột trên màn hình</p>
+                    </div>
+                </div>
+                <div style="display:flex; align-items:center; gap:10px;">
+                    <div style="display:flex; background:rgba(255,255,255,0.06); border-radius:14px; padding:3px;">
+                        <button id="sp-tab-draw" onclick="switchScratchpadTab('draw')" style="background:#38bdf8; color:#0f172a; border:none; padding:6px 14px; border-radius:11px; font-weight:800; font-size:0.8rem; cursor:pointer;">🎨 Vẽ Nháp</button>
+                        <button id="sp-tab-formulas" onclick="switchScratchpadTab('formulas')" style="background:transparent; color:#cbd5e1; border:none; padding:6px 14px; border-radius:11px; font-weight:800; font-size:0.8rem; cursor:pointer;">📐 Công Thức</button>
+                    </div>
+                    <button onclick="closeScratchpadModal()" style="background:rgba(239,68,68,0.15); border:1px solid rgba(239,68,68,0.3); color:#ef4444; width:36px; height:36px; border-radius:50%; font-size:1.1rem; cursor:pointer; display:flex; align-items:center; justify-content:center;">✕</button>
+                </div>
+            </div>
+
+            <!-- Tab 1: Draw Canvas -->
+            <div id="sp-content-draw" style="flex:1; display:flex; flex-direction:column; position:relative; background:#0a0f24; overflow:hidden;">
+                <!-- Canvas Toolbar -->
+                <div style="padding:10px 18px; background:rgba(15,23,42,0.8); border-bottom:1px solid rgba(255,255,255,0.08); display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px;">
+                    <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+                        <span style="font-size:0.75rem; color:#94a3b8; font-weight:700;">Màu nét:</span>
+                        <button onclick="setScratchpadColor('#00f2fe')" style="width:26px; height:26px; border-radius:50%; background:#00f2fe; border:2px solid white; cursor:pointer;"></button>
+                        <button onclick="setScratchpadColor('#facc15')" style="width:26px; height:26px; border-radius:50%; background:#facc15; border:2px solid transparent; cursor:pointer;"></button>
+                        <button onclick="setScratchpadColor('#4ade80')" style="width:26px; height:26px; border-radius:50%; background:#4ade80; border:2px solid transparent; cursor:pointer;"></button>
+                        <button onclick="setScratchpadColor('#ef4444')" style="width:26px; height:26px; border-radius:50%; background:#ef4444; border:2px solid transparent; cursor:pointer;"></button>
+                        <button onclick="setScratchpadColor('#ffffff')" style="width:26px; height:26px; border-radius:50%; background:#ffffff; border:2px solid transparent; cursor:pointer;"></button>
+                        <button onclick="setScratchpadColor('#0a0f24', true)" style="background:rgba(255,255,255,0.1); color:white; border:1px solid rgba(255,255,255,0.2); padding:3px 10px; border-radius:10px; font-weight:700; font-size:0.75rem; cursor:pointer;">🧹 Tẩy</button>
+                    </div>
+                    <div style="display:flex; align-items:center; gap:10px;">
+                        <span style="font-size:0.75rem; color:#94a3b8; font-weight:700;">Nét:</span>
+                        <input type="range" id="sp-line-width" min="2" max="14" value="4" oninput="spLineWidth=this.value" style="width:70px;">
+                        <button onclick="clearScratchpadCanvas()" style="background:rgba(239,68,68,0.2); border:1px solid #f87171; color:#fca5a5; padding:5px 12px; border-radius:12px; font-weight:800; font-size:0.75rem; cursor:pointer;">🗑️ Xóa Tất Cả</button>
+                    </div>
+                </div>
+                <!-- Canvas Area -->
+                <div style="flex:1; position:relative; width:100%; height:100%; cursor:crosshair;">
+                    <canvas id="scratchpad-canvas" style="width:100%; height:100%; display:block; touch-action:none;"></canvas>
+                </div>
+            </div>
+
+            <!-- Tab 2: Formulas Cheat Sheet -->
+            <div id="sp-content-formulas" style="flex:1; display:none; padding:20px; overflow-y:auto; background:rgba(10,15,36,0.95); color:#f1f5f9;">
+                <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:16px;">
+                    <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(56,189,248,0.2); border-radius:16px; padding:16px;">
+                        <h4 style="margin:0 0 10px 0; color:#38bdf8; font-weight:800; font-size:0.95rem;">🧮 Hằng Đẳng Thức Đáng Nhớ</h4>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">(a + b)² = a² + 2ab + b²</p>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">(a - b)² = a² - 2ab + b²</p>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">a² - b² = (a - b)(a + b)</p>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">(a + b)³ = a³ + 3a²b + 3ab² + b³</p>
+                    </div>
+                    <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(168,85,247,0.2); border-radius:16px; padding:16px;">
+                        <h4 style="margin:0 0 10px 0; color:#c084fc; font-weight:800; font-size:0.95rem;">📐 Đạo Hàm Cơ Bản (Lớp 11-12)</h4>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">(xⁿ)' = n · xⁿ⁻¹</p>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">(sin x)' = cos x | (cos x)' = -sin x</p>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">(eˣ)' = eˣ | (ln x)' = 1/x</p>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">(u/v)' = (u'v - uv') / v²</p>
+                    </div>
+                    <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(245,158,11,0.2); border-radius:16px; padding:16px;">
+                        <h4 style="margin:0 0 10px 0; color:#facc15; font-weight:800; font-size:0.95rem;">⚡ Vật Lý - Điện & Cơ Học</h4>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">Định luật Ôm: I = U / R</p>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">Công suất điện: P = U · I = I²R</p>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">Động năng: Wđ = ½ m v²</p>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">Thế năng: Wt = m g h</p>
+                    </div>
+                    <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(34,197,94,0.2); border-radius:16px; padding:16px;">
+                        <h4 style="margin:0 0 10px 0; color:#4ade80; font-weight:800; font-size:0.95rem;">🧪 Hóa Học - Công Thức Tính</h4>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">Số mol: n = m / M = V / 22.4</p>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">Nồng độ M: C_M = n / V (lít)</p>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">Nồng độ %: C% = (m_ct / m_dd) · 100%</p>
+                        <p style="margin:4px 0; font-size:0.82rem; font-family:monospace; color:#cbd5e1;">Định luật bảo toàn khối lượng</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- MOBILE GLASSMORPHISM BOTTOM DOCK NAVBAR -->
+    <div id="mobile-bottom-nav">
+        <button onclick="navigateTo('PRIMARY_GRADE_SELECT')" class="mob-nav-item">
+            <i class="fas fa-graduation-cap"></i>
+            <span>Chọn Lớp</span>
+        </button>
+        <button onclick="if(typeof selectedPrimaryLevel !== 'undefined' && selectedPrimaryLevel) navigateTo('PRIMARY_CLASS'); else navigateTo('PRIMARY_GRADE_SELECT');" class="mob-nav-item">
+            <i class="fas fa-book-open"></i>
+            <span>Môn Học</span>
+        </button>
+        <button onclick="openGlobalWrongNotebook()" class="mob-nav-item">
+            <i class="fas fa-book-bookmark"></i>
+            <span>Câu Sai</span>
+        </button>
+        <button onclick="openLeaderboardModal()" class="mob-nav-item">
+            <i class="fas fa-trophy"></i>
+            <span>Bảng Vàng</span>
+        </button>
+        <button onclick="openScratchpadModal()" class="mob-nav-item">
+            <i class="fas fa-pen-ruler"></i>
+            <span>Vẽ Nháp</span>
+        </button>
+    </div>
+
 </body>
 
 </html>
