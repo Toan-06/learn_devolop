@@ -1,65 +1,54 @@
-// ===== BÀI MẪU LỚP 10 (ĐẠT CHUẨN HSG 9.5+) =====
+// ===== BÀI MẪU LỚP 10 (CHUẨN GDPT 2018 & ĐẠT 9.5+) =====
 window.SAMPLES_GRADE_10 = {
   math: [
-    { id:'g10m1', tag:'MỆNH ĐỀ LOGIC', title:'Phủ định mệnh đề: "Mọi số chẵn đều chia hết cho 4"',
-      problem:'Cho mệnh đề P: "Mọi số tự nhiên chẵn đều chia hết cho 4". Hãy lập mệnh đề phủ định của P và xét tính đúng sai.',
-      solution:`<b>1. Phủ định mệnh đề:</b> Phủ định của ∀ (mọi) là ∃ (tồn tại), phủ định của chia hết là không chia hết.<br>
-→ Mệnh đề phủ định P̅: <b>"Tồn tại ít nhất một số tự nhiên chẵn không chia hết cho 4"</b>.<br>
-<b>2. Xét tính đúng sai:</b><br>
-Số 6 là số tự nhiên chẵn, nhưng 6 không chia hết cho 4 (6 ÷ 4 = 1 dư 2).<br>
-Do đó, mệnh đề phủ định P̅ là <b>MỆNH ĐỀ ĐÚNG</b> (và P là mệnh đề sai).`
+    {
+      id:'g10m1', tag:'HÀM SỐ BẬC HAII', title:'Lập bảng biến thiên và vẽ đồ thị hàm số y = x² − 4x + 3',
+      problem:'Khảo sát sự biến thiên và vẽ đồ thị hàm số y = x² − 4x + 3',
+      solution:`<b>1. Đỉnh Parabol:</b> I(-b/2a; -Δ/4a) = I(2; -1)<br>
+<b>2. Trục đối xứng:</b> x = 2<br>
+<b>3. Bảng biến thiên:</b><br>
+• Hàm số nghịch biến trên (-∞; 2)<br>
+• Hàm số đồng biến trên (2; +∞)<br>
+<b>4. Giao điểm với trục tọa độ:</b><br>
+• Cho x = 0 ⇒ y = 3 ⇒ (0; 3)<br>
+• Cho y = 0 ⇒ x² − 4x + 3 = 0 ⇔ x = 1 hoặc x = 3 ⇒ (1; 0) và (3; 0)`
     },
-    { id:'g10m2', tag:'TẬP HỢP', title:'Cho A = {1,2,3,4,5}, B = {2,4,6}. Tìm A∩B, A∪B, A\\B',
-      problem:'Cho các tập hợp A = {1, 2, 3, 4, 5} và B = {2, 4, 6, 8}. Hãy xác định các tập hợp A ∩ B, A ∪ B và A \\ B.',
-      solution:`• <b>A ∩ B (Giao hai tập hợp):</b> Lấy các phần tử chung của cả A và B → <b>A ∩ B = {2, 4}</b><br>
-• <b>A ∪ B (Hợp hai tập hợp):</b> Gộp tất cả các phần tử của A và B (không lặp lại) → <b>A ∪ B = {1, 2, 3, 4, 5, 6, 8}</b><br>
-• <b>A \\ B (Hiệu của A và B):</b> Lấy các phần tử thuộc A nhưng không thuộc B → <b>A \\ B = {1, 3, 5}</b>`
+    {
+      id:'g10m2', tag:'VECTƠ', title:'Chứng minh với 4 điểm A, B, C, D bất kỳ: \\vec{AB} + \\vec{CD} = \\vec{AD} + \\vec{CB}',
+      problem:'Chứng minh đẳng thức vectơ: \\vec{AB} + \\vec{CD} = \\vec{AD} + \\vec{CB}',
+      solution:`<b>Biến đổi vế trái (VT):</b><br>
+Chèn điểm D vào \\vec{AB}: \\vec{AB} = \\vec{AD} + \\vec{DB}<br>
+Chèn điểm B vào \\vec{CD}: \\vec{CD} = \\vec{CB} + \\vec{BD}<br>
+⇒ VT = (\\vec{AD} + \\vec{DB}) + (\\vec{CB} + \\vec{BD})<br>
+= \\vec{AD} + \\vec{CB} + (\\vec{DB} + \\vec{BD})<br>
+= \\vec{AD} + \\vec{CB} + \\vec{0} = <b>\\vec{AD} + \\vec{CB} (Vế Phải)</b> (ĐPCM)`
     }
   ],
   literature: [
-    { id:'g10l1', tag:'PHÂN TÍCH THƠ 9.5+', title:'Phân Tích Chi Tiết Bài Thơ "Cảnh Ngày Hè" - Nguyễn Trãi',
-      problem:'Phân tích chi tiết từng từ ngữ nghệ thuật, nhịp thơ và viết bài văn mẫu hoàn chỉnh bài thơ "Cảnh ngày hè" của Nguyễn Trãi.',
+    {
+      id:'g10l1', tag:'VĂN HỌC CỔ ĐIỂN', title:'Phân tích giá trị nhân đạo trong đoạn trích "Trao duyên" - Nguyễn Du',
+      problem:'Phân tích diễn biến tâm trạng Thúy Kiều khi trao duyên cho Thúy Vân trong đoạn trích "Trao duyên" (Truyện Kiều - Nguyễn Du).',
       analysis_breakdown:`
-<div style="background:rgba(0,242,254,0.05);padding:14px;border-radius:14px;margin-bottom:14px;border-left:4px solid #00f2fe;">
-  <b style="color:#00f2fe;font-size:1.05rem;">1. Bức tranh thiên nhiên mùa hè tràn đầy nhựa sống (6 câu đầu):</b>
+<div style="background:rgba(0,242,254,0.05);padding:14px;border-radius:14px;border-left:4px solid #00f2fe;">
+  <b style="color:#00f2fe;font-size:1.05rem;">Nghệ thuật miêu tả nội tâm nhân vật bậc thầy</b>
   <ul style="margin:8px 0 0 18px;padding:0;line-height:1.8;">
-    <li><b>"Rỗi hóng mát giặt ngày trường"</b>: Nhịp thơ 1/2/3 độc đáo xen câu lục ngôn. Từ "rỗi" thể hiện hoàn cảnh ở ẩn bất đắc dĩ nhưng tâm hồn nhà thơ vẫn tĩnh tại, hòa mình với thiên nhiên.</li>
-    <li><b>"Hòe đùn đùn múa rợp xòe tán"</b>: Từ láy <b>"đùn đùn"</b> diễn tả sức sống cuồn cuộn trào dâng từ bên trong thân cây hòe. Động từ <b>"múa", "xòe tán"</b> tạo hình ảnh tán hòe xanh mát che rợp không gian.</li>
-    <li><b>"Thạch lựu hiên còn phun thức đỏ / Hồng liên trì đã nát mùi hương"</b>: Động từ mạnh <b>"phun"</b> tả sắc đỏ hoa lựu rực rỡ như đốm lửa bùng cháy. Cụm từ <b>"nát mùi hương"</b> miêu tả hương sen ngạt ngào lan tỏa khắp mặt hồ.</li>
-    <li><b>"Lao xao chợ cá làng ngư phủ / Dắng dỏi cầm ve lầu tịch dương"</b>: Từ láy tượng thanh <b>"lao xao"</b> tái hiện âm thanh cuộc sống lao động tấp nập; <b>"dắng dỏi"</b> tả tiếng ve ngân vang tựa bản hợp xướng rộn rã lúc chiều tà.</li>
-  </ul>
-</div>
-
-<div style="background:rgba(168,85,247,0.05);padding:14px;border-radius:14px;border-left:4px solid #c084fc;">
-  <b style="color:#c084fc;font-size:1.05rem;">2. Ước nguyện lớn lao vì nhân dân (2 câu kết):</b>
-  <ul style="margin:8px 0 0 18px;padding:0;line-height:1.8;">
-    <li><b>"Lẽ có Ngu cầm đàn một tiếng / Dân giàu đủ khắp đòi phương"</b>: Sử dụng điển tích "đàn Ngu cầm" của vua Ngu Thuấn. Ước nguyện lớn nhất của Nguyễn Trãi không phải cho riêng mình mà là mong cho nhân dân bốn phương đều được ấm no, hạnh phúc.</li>
+    <li><b>"Cậy em em có chịu lời / Sit xuống đây cho chị lạy rồi sẽ thưa"</b>: Lời khẩn cầu tha thiết, đảo ngược vị thế (chị lạy em) thể hiện sự trân trọng và hàm ơn việc em gánh vác mối tình dở dang.</li>
+    <li><b>"Chiếc thoa với bức tờ mây / Duyên này giữ lấy vật này chung giữ"</b>: Sự giằng xé nội tâm khi trao kỉ niệm tình yêu cho em nhưng tâm hồn vẫn níu giữ.</li>
   </ul>
 </div>`,
       full_essay:`<b>MỞ BÀI:</b>
-Nguyễn Trãi không chỉ là một thiên tài quân sự, một nhà chính trị kiệt xuất mà còn là danh nhân văn hóa thế giới, đại thi hào của dân tộc Việt Nam. Trong chùm thơ "Bảo kính cảnh giới" (Răn mình) thuộc tập "Quốc âm thi tập", bài thơ số 43 "Cảnh ngày hè" nổi lên như một bức tranh thiên nhiên rực rỡ và là lời giãi bày tấm lòng "ưu quốc ái dân" canh cánh suốt đời của Ức Trai.
+Đại thi hào Nguyễn Du — Danh nhân văn hóa thế giới — đã để lại cho dân tộc kiệt tác "Truyện Kiều". Đoạn trích "Trao duyên" là một trong những đoạn thơ cảm động và tinh tế nhất, thể hiện đỉnh cao nghệ thuật miêu tả nội tâm và tấm lòng nhân đạo bao la của tác giả dành cho Thúy Kiều.
 
 <b>THÂN BÀI:</b>
-Mở đầu bài thơ là hoàn cảnh đón nhận cảnh vật của tác giả:
-"Rỗi hóng mát giặt ngày trường."
-Câu thơ lục ngôn ngắt nhịp 1/2/3 đặc sắc. Từ "rỗi" cho thấy Nguyễn Trãi đang sống trong những ngày ở ẩn tại Côn Sơn sau khi bị bầy tiều nhân gièm pha chốn quan trường. Dù ở ẩn bất đắc dĩ, tâm hồn ông vẫn mở rộng để đón nhận nhịp đập rạo rực của mùa hè:
-"Hòe đùn đùn múa rợp xòe tán
-Thạch lựu hiên còn phun thức đỏ
-Hồng liên trì đã nát mùi hương."
-Bức tranh thiên nhiên hiện lên đầy sức sống với những động từ mạnh. Từ láy "đùn đùn" gợi nguồn nhựa sống trào dâng mạnh mẽ từ bên trong cây hòe. Hoa lựu trước hiên "phun thức đỏ" rực rỡ như những đốm lửa bùng cháy, còn hoa sen hồng dưới hồ thì tỏa hương ngạt ngào "nát mùi hương".
+Thúy Kiều vì hi sinh chữ "tình" để trọn chữ "hiếu" đã quyết định bán mình chuộc cha. Đêm trước ngày ra đi, nàng trao lại mối duyên dở dang với Kim Trọng cho em gái Thúy Vân:
+"Cậy em em có chịu lời
+Nối duyên tình chị nát gan như vò."
+Từ "cậy" vừa gửi gắm, vừa hy vọng; hành động "lạy", "thưa" đảo ngược vị thế tôn vinh sự hi sinh của em.
 
-Không chỉ cảm nhận cảnh vật bằng thị giác và khứu giác, nhà thơ còn lắng nghe nhịp sống đời thường:
-"Lao xao chợ cá làng ngư phủ
-Dắng dỏi cầm ve lầu tịch dương."
-Từ láy "lao xao" gợi âm thanh tấp nập của làng chài lưới lúc chiều tà, còn tiếng ve ngân "dắng dỏi" như bản nhạc rộn rã vang lên dưới ánh hoàng hôn.
-
-Hai câu kết khép lại bài thơ bộc lộ nhân cách vĩ đại của Ức Trai:
-"Lẽ có Ngu cầm đàn một tiếng
-Dân giàu đủ khắp đòi phương."
-Nhà thơ ước có được chiếc đàn của vua Ngu Thuấn để gảy nên bài ca cầu chúc cho nhân dân khắp mọi miền đất nước được ấm no, hạnh phúc. Tấm lòng ấy chính là điểm sáng nhân văn chói lọi trong thơ Nguyễn Trãi.
+Khi trao kỉ vật "chiếc thoa", "bức tờ mây", Thúy Kiều giằng xé đớn đau: "Duyên này giữ lấy vật này chung giữ". Nàng trao duyên nhưng tình cảm dành cho Kim Trọng vẫn vẹn nguyên, cuồn cuộn.
 
 <b>KẾT BÀI:</b>
-"Cảnh ngày hè" là một kiệt tác thơ Nôm vừa giàu tính tạo hình vừa sâu sắc tinh thần nhân đạo. Bài thơ mãi mãi là minh chứng cho một tâm hồn yêu thiên nhiên và tấm lòng vì dân vì nước cao cả của Nguyễn Trãi.`
+Đoạn trích "Trao duyên" đã tạc nên bức chân dung Thúy Kiều — một người phụ nữ vị tha, giàu tình nghĩa và thủy chung đến kiệt cùng.`
     }
   ]
 };

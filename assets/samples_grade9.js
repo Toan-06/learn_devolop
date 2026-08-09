@@ -1,4 +1,4 @@
-// ===== BÀI MẪU LỚP 9 =====
+// ===== BÀI MẪU LỚP 9 (CHUẨN GDPT 2018 & ÔN THI VÀO 10 ĐẠT 9.5+) =====
 window.SAMPLES_GRADE_9 = {
   math: [
     { id:'g9m1', tag:'CĂN BẬC HAI', title:'Rút gọn biểu thức: A = √(12) + √(27) − √(48)',
@@ -27,7 +27,7 @@ Có a − b + c = 1 − (−2) + (−3) = 0 ⇒ Phương trình có 2 nghiệm: 
     }
   ],
   literature: [
-    { id:'g9l1', tag:'PHÂN TÍCH THƠ', title:'Phân tích bài thơ "Đồng Chí" - Chính Hữu',
+    { id:'g9l1', tag:'PHÂN TÍCH THƠ ÔN THI 10', title:'Phân tích bài thơ "Đồng Chí" - Chính Hữu',
       problem:'Phân tích hoàn chỉnh bài thơ "Đồng Chí" của Chính Hữu — Biểu tượng tình đồng đội cao đẹp thời kháng Pháp.',
       analysis_breakdown:`
 <div style="margin-bottom:12px;"><b style="color:#00f2fe;">1. Cơ sở hình thành tình đồng chí (7 câu đầu):</b></div>
@@ -66,6 +66,29 @@ Trong đêm tối giữa rừng sương muối, hai người lính đứng sát 
 
 <b>KẾT BÀI:</b>
 Bài thơ "Đồng Chí" của Chính Hữu đã khẳng định tình đồng đội là nguồn sức mạnh to lớn giúp người lính vượt qua gian khổ để chiến thắng. Bài thơ mãi mãi là một nốt nhạc trong trẻo, hùng tráng trong nền thi ca cách mạng Việt Nam.`
+    },
+    { id:'g9l2', tag:'PHÂN TÍCH TUYỆT TÁC ÔN THI 10', title:'Phân Tích Hình Tượng Nhân Vật Ông Hai Trong "Làng" - Kim Lân',
+      problem:'Phân tích tình yêu làng hòa quyện với lòng yêu nước sâu sắc của nhân vật ông Hai trong truyện ngắn "Làng" của Kim Lân.',
+      analysis_breakdown:`
+<div style="background:rgba(0,242,254,0.05);padding:14px;border-radius:14px;border-left:4px solid #00f2fe;">
+  <b style="color:#00f2fe;font-size:1.05rem;">Diễn biến tâm lý khi nghe tin làng Chợ Dầu theo giặc</b>
+  <ul style="margin:8px 0 0 18px;padding:0;line-height:1.8;">
+    <li><b>Bật thốt bàng hoàng</b>: "Cổ ông lão nghẹn ắng lại, da mặt tê rần rần. Ông lão lặng đi, tưởng như không thở được."</li>
+    <li><b>Đột phá tư tưởng</b>: Lựa chọn thiêng liêng: <i>"Làng thì yêu thật, nhưng làng theo Tây mất rồi thì phải thù!"</i> Lòng yêu nước đặt cao hơn tình yêu làng quê nhỏ hẹp.</li>
+  </ul>
+</div>`,
+      full_essay:`<b>MỞ BÀI:</b>
+Kim Lân là nhà văn am hiểu sâu sắc về nông thôn và người nông dân Việt Nam. Truyện ngắn "Làng" sáng tác thời kỳ đầu kháng chiến chống Pháp đã khắc họa xuất sắc tình yêu làng hòa quyện thống nhất với lòng yêu nước của nhân vật ông Hai.
+
+<b>THÂN BÀI:</b>
+Ông Hai là một người nông dân tản cư luôn tự hào về làng Chợ Dầu của mình. Đi đâu ông cũng khoe về làng với niềm kiêu hãnh.
+
+Thế nhưng, khi nghe tin đồn thất thiệt làng Chợ Dầu theo giặc, ông Hai bàng hoàng đau đớn: "Cổ ông lão nghẹn ắng lại, da mặt tê rần rần...". Mấy ngày liền ông không dám đi đâu, chỉ ruột gan héo hắt. Khi đứng trước sự lựa chọn nghiệt ngã, ông đã dứt khoát: "Làng thì yêu thật, nhưng làng theo Tây mất rồi thì phải thù!".
+
+Niềm vui vỡ òa khi tin đồn được cải chính: ông Hai lại rạng rỡ đi khoe nhà ông bị Tây đốt nhẵn — vì đó là minh chứng làng ông không theo giặc.
+
+<b>KẾT BÀI:</b>
+Tác phẩm khẳng định chuyển biến kỳ diệu trong nhận thức của người nông dân Việt Nam sau Cách mạng: tình yêu làng quê đã gắn liền với lòng yêu nước và trung thành với Cách mạng.`
     }
   ]
 };

@@ -1,49 +1,54 @@
-// ===== BÀI MẪU LỚP 11 & LỚP 12 (ĐẠT CHUẨN THPT QUỐC GIA & HSG 9.5+) =====
+const fs = require('fs');
+const path = require('path');
+
+const filePath = path.join(__dirname, '..', 'assets', 'samples_grade11_12.js');
+
+const fileContent = `// ===== BÀI MẪU LỚP 11 & LỚP 12 (ĐẠT CHUẨN THPT QUỐC GIA & HSG 9.5+) =====
 window.SAMPLES_GRADE_11 = {
   math: [
     { id:'g11m1', tag:'GIỚI HẠN', title:'Tính lim(x→2) của (x²−4)/(x−2)',
       problem:'Tính giới hạn: L = lim(x→2) (x²−4)/(x−2)',
-      solution:`<b>Bước 1:</b> Phân tích tử thức thành nhân tử: x² − 4 = (x − 2)(x + 2)<br>
+      solution:\`<b>Bước 1:</b> Phân tích tử thức thành nhân tử: x² − 4 = (x − 2)(x + 2)<br>
 <b>Bước 2:</b> Khử dạng vô định (0/0) bằng cách rút gọn (x − 2):<br>
 L = lim(x→2) [(x − 2)(x + 2) / (x − 2)] = lim(x→2) (x + 2)<br>
-<b>Bước 3:</b> Thay x = 2 vào biểu thức đã rút gọn: L = 2 + 2 = <b>4</b>`
+<b>Bước 3:</b> Thay x = 2 vào biểu thức đã rút gọn: L = 2 + 2 = <b>4</b>\`
     },
     { id:'g11m2', tag:'ĐẠO HÀM', title:'Tính đạo hàm f(x) = x³ − 3x² + 2x − 5',
       problem:"Tính f'(x) với hàm số f(x) = x³ − 3x² + 2x − 5",
-      solution:`Áp dụng công thức (xⁿ)' = n·xⁿ⁻¹ và (c·u)' = c·u':<br>
+      solution:\`Áp dụng công thức (xⁿ)' = n·xⁿ⁻¹ và (c·u)' = c·u':<br>
 (x³)' = 3x²<br>
 (−3x²)' = −6x<br>
 (2x)' = 2<br>
 (−5)' = 0<br>
-→ Kết quả: <b>f'(x) = 3x² − 6x + 2</b>`
+→ Kết quả: <b>f'(x) = 3x² − 6x + 2</b>\`
     },
     { id:'g11m3', tag:'ĐẠO HÀM', title:"Tính f'(x) = (2x+1)/(x−1)",
       problem:"Tính đạo hàm hàm số phân thức: f(x) = (2x+1)/(x−1)",
-      solution:`Áp dụng công thức thương (u/v)' = (u'v − uv') / v²:<br>
+      solution:\`Áp dụng công thức thương (u/v)' = (u'v − uv') / v²:<br>
 u = 2x+1 → u' = 2<br>
 v = x−1 → v' = 1<br>
-f'(x) = [2(x−1) − (2x+1)(1)] / (x−1)² = (2x − 2 − 2x − 1) / (x−1)² = <b>−3 / (x−1)²</b>`
+f'(x) = [2(x−1) − (2x+1)(1)] / (x−1)² = (2x − 2 − 2x − 1) / (x−1)² = <b>−3 / (x−1)²</b>\`
     },
     { id:'g11m4', tag:'CỰC TRỊ', title:"Tìm cực trị hàm số f(x) = x³ − 3x",
       problem:"Tìm các điểm cực trị và giá trị cực trị của hàm số f(x) = x³ − 3x",
-      solution:`<b>1. TXĐ:</b> D = ℝ<br>
+      solution:\`<b>1. TXĐ:</b> D = ℝ<br>
 <b>2. Đạo hàm:</b> f'(x) = 3x² − 3. Cho f'(x) = 0 ⇔ 3(x² − 1) = 0 ⇔ x = 1 hoặc x = −1<br>
 <b>3. Bảng xét dấu f'(x):</b><br>
 - Qua x = −1, f'(x) đổi dấu từ dương (+) sang âm (−) → <b>x = −1 là điểm cực đại</b>. Giá trị cực đại y_CĐ = f(−1) = <b>2</b>.<br>
-- Qua x = 1, f'(x) đổi dấu từ âm (−) sang dương (+) → <b>x = 1 là điểm cực tiểu</b>. Giá trị cực tiểu y_CT = f(1) = <b>−2</b>.`
+- Qua x = 1, f'(x) đổi dấu từ âm (−) sang dương (+) → <b>x = 1 là điểm cực tiểu</b>. Giá trị cực tiểu y_CT = f(1) = <b>−2</b>.\`
     },
     { id:'g11m5', tag:'LƯỢNG GIÁC', title:'Giải phương trình: sin(2x) + cos(x) = 0',
       problem:'Giải phương trình lượng giác: sin(2x) + cos(x) = 0',
-      solution:`Dùng công thức nhân đôi sin(2x) = 2sin(x)cos(x):<br>
+      solution:\`Dùng công thức nhân đôi sin(2x) = 2sin(x)cos(x):<br>
 2sin(x)cos(x) + cos(x) = 0 ⇔ cos(x)[2sin(x) + 1] = 0<br>
 TH1: cos(x) = 0 ⇔ <b>x = π/2 + kπ (k ∈ ℤ)</b><br>
-TH2: sin(x) = −1/2 ⇔ <b>x = −π/6 + k2π hoặc x = 7π/6 + k2π (k ∈ ℤ)</b>`
+TH2: sin(x) = −1/2 ⇔ <b>x = −π/6 + k2π hoặc x = 7π/6 + k2π (k ∈ ℤ)</b>\`
     }
   ],
   literature: [
     { id:'g11l1', tag:'PHÂN TÍCH THƠ Chi Tiết 9.5+', title:'Phân Tích Chi Tiết 3 Khổ Thơ "Đây Thôn Vĩ Dạ" - Hàn Mặc Tử',
       problem:'Phân tích chi tiết từng từ ngữ, biện pháp nghệ thuật và viết bài văn phân tích hoàn chỉnh bài thơ "Đây thôn Vĩ Dạ" của Hàn Mặc Tử.',
-      analysis_breakdown:`
+      analysis_breakdown:\`
 <div style="background:rgba(0,242,254,0.05);padding:14px;border-radius:14px;margin-bottom:14px;border-left:4px solid #00f2fe;">
   <b style="color:#00f2fe;font-size:1.05rem;">Khổ 1: Bức tranh cảnh vườn Vĩ Dạ ban mai & Lời mời gọi tha thiết</b>
   <ul style="margin:8px 0 0 18px;padding:0;line-height:1.8;">
@@ -52,25 +57,9 @@ TH2: sin(x) = −1/2 ⇔ <b>x = −π/6 + k2π hoặc x = 7π/6 + k2π (k ∈ �
     <li><b>"Vườn ai mướt quá xanh như ngọc"</b>: Từ láy <b>"mướt quá"</b> diễn tả vẻ đẹp óng ả, mượt mà, tràn đầy sức sống và hơi ướt đẫm sương đêm. Biện pháp so sánh <b>"xanh như ngọc"</b> tôn vinh vẻ đẹp sang trọng, trong trẻo của vườn sương Vĩ Dạ.</li>
     <li><b>"Lá trúc che ngang mặt chữ điền"</b>: Nghệ thuật cách điệu hóa hình ảnh con người xứ Huế. Nét mặt "chữ điền" phúc hậu, trung thực ẩn hiện sau cành trúc mềm mại tạo nét đẹp kín đáo, e ấp đặc trưng.</li>
   </ul>
-</div>
-<div style="background:rgba(168,85,247,0.05);padding:14px;border-radius:14px;margin-bottom:14px;border-left:4px solid #c084fc;">
-  <b style="color:#c084fc;font-size:1.05rem;">Khổ 2: Cảnh sông nước đêm trăng & Nỗi chia ly tan vỡ</b>
-  <ul style="margin:8px 0 0 18px;padding:0;line-height:1.8;">
-    <li><b>"Gió theo lối gió, mây đường mây"</b>: Phép đối và nghệ thuật tách đôi hai hình ảnh vốn luôn đi liền (gió - mây). Điệp từ "lối gió", "đường mây" khẳng định sự chia rẽ, ngược dòng, tan vỡ của tình yêu.</li>
-    <li><b>"Dòng nước buồn thiu, hoa hoa lay"</b>: Nhân hóa <b>"buồn thiu"</b> thổi tâm trạng u sầu của thi nhân vào dòng sông Hương. Từ láy <b>"hoa lay"</b> miêu tả nhịp chuyển động khẽ khàng càng nhấn mạnh sự vắng lặng chốn sông hồ.</li>
-    <li><b>"Thuyền ai đậu bến sông trăng đó / Có chở trăng về kịp tối nay?"</b>: Đại từ mờ ảo <b>"ai"</b> tạo không gian mộng mơ. Động từ <b>"kịp"</b> bộc lộ niềm phấp phỏng, lo âu trước ranh giới ngắn ngủi của thời gian và sinh mệnh.</li>
-  </ul>
-</div>
-<div style="background:rgba(234,179,8,0.05);padding:14px;border-radius:14px;border-left:4px solid #facc15;">
-  <b style="color:#facc15;font-size:1.05rem;">Khổ 3: Hư ảo cõi mộng & Nỗi trăn trở nhân thế</b>
-  <ul style="margin:8px 0 0 18px;padding:0;line-height:1.8;">
-    <li><b>"Mơ khách đường xa, khách đường xa"</b>: Điệp ngữ <b>"khách đường xa"</b> nhấn mạnh khoảng cách xa xôi diệu vợi giữa thực tại nghiệt ngã và cõi ước mơ mộng tưởng.</li>
-    <li><b>"Áo em trắng quá nhìn không ra"</b>: Sắc trắng sương khói hư ảo, tượng trưng cho vẻ đẹp tinh khôi vượt ngoài tầm với.</li>
-    <li><b>"Ở đây sương khói mờ nhân ảnh / Ai biết tình ai có đậm đà?"</b>: Cụm từ "mờ nhân ảnh" gợi cõi thực mộng đan xen. Câu hỏi kết bài trăn trở nỗi hoài nghi nhưng sâu xa là khát vọng mãnh liệt được gắn bó với cuộc đời.</li>
-  </ul>
 </div>`,
-      full_essay:`<b>MỞ BÀI:</b>
-"Văn học đối với tôi là một vật giải thoát, một cách để trò chuyện với chính mình trong những đêm dài cô quạnh." Thật vậy, nhà thơ Hàn Mặc Tử — ngôi sao kì dị và chói lọi nhất trên bầu trời Thơ Mới Việt Nam — đã trút toàn bộ nỗi đau đớn thể xác và tâm hồn vào những vần thơ đắm thắm, tha thiết nhất. Bài thơ "Đây thôn Vĩ Dạ" (rút trong tập "Dọc đường thi") được sáng tác khi nhà thơ đang điều trị căn bệnh phong quái ác tại trại Quy Hòa, sau khi nhận được tấm bưu thiếp vẽ cảnh sông nước xứ Huế của Hoàng Thị Kim Cúc. Bài thơ không chỉ là bức tranh thiên nhiên tuyệt mỹ mà còn là khúc ca tâm trạng trăn trở, tha thiết yêu cuộc sống đến khắc khoải của thi nhân.
+      full_essay:\`<b>MỞ BÀI:</b>
+"Văn học đối với tôi là một vật giải thoát, một cách để trò chuyện với chính mình trong những đêm dài cô quạnh." Thật vậy, nhà thơ Hàn Mặc Tử — ngôi sao kì dị và chói lọi nhất trên bầu trời Thơ Mới Việt Nam — đã trút toàn bộ nỗi đau đớn thể xác và tâm hồn vào những vần thơ đắm thắm, tha thiết nhất. Bài thơ "Đây thôn Vĩ Dạ" (rút trong tập "Dọc đường thi") được sáng tác khi nhà thơ đang điều trị căn bệnh phong quái ác tại trại Quy Hòa.
 
 <b>THÂN BÀI:</b>
 Mở đầu bài thơ là câu hỏi dịu dàng dẫn dắt người đọc trở về với bức tranh vườn Vĩ Dạ tràn ngập ánh sáng ban mai:
@@ -78,39 +67,22 @@ Mở đầu bài thơ là câu hỏi dịu dàng dẫn dắt người đọc tr�
 Nhìn nắng hàng cau nắng mới lên
 Vườn ai mướt quá xanh như ngọc
 Lá trúc che ngang mặt chữ điền."
-Câu hỏi tu từ "Sao anh không về..." vang lên mang hai tầng ngữ nghĩa: vừa là lời trách móc yêu thương nhẹ nhàng của người thiếu nữ xứ Huế, vừa là lời tự vấn xót xa của chính Hàn Mặc Tử. Hình ảnh "nắng hàng cau nắng mới lên" miêu tả ánh nắng tinh khôi của buổi bình minh hắt trên những tàu cau còn vương sương sớm. Cau là loài cây cao nhất trong vườn, đón những tia nắng đầu tiên của ngày mới. Đặc biệt, từ láy "mướt quá" phối hợp cùng phép so sánh "xanh như ngọc" đã khắc họa vẻ đẹp óng ả, tươi tốt đến kiệt cùng của thiên nhiên xứ Huế. Hình ảnh con người "mặt chữ điền" ẩn sau "lá trúc che ngang" tạo nên nét đẹp phúc hậu, kín đáo và e ấp đầy thi vị.
-
-Tuy nhiên, từ thế giới tràn ngập ánh sáng ở khổ thơ thứ nhất, cảm xúc thơ đột ngột lắng xuống gam màu trầm sầu, chia lìa ở khổ thứ hai:
-"Gió theo lối gió, mây đường mây
-Dòng nước buồn thiu, hoa hoa lay
-Thuyền ai đậu bến sông trăng đó
-Có chở trăng về kịp tối nay?"
-Hình ảnh "gió theo lối gió, mây đường mây" sử dụng nghệ thuật đối lập và điệp từ để diễn tả sự rẽ đôi, ngược hướng. Trong tự nhiên, gió thổi thì mây bay, nhưng ở đây gió mây lại chia lìa đôi ngả như chính mối tình vô vọng của tác giả. Dòng sông Hương qua cái nhìn tâm tưởng trở thành "dòng nước buồn thiu", nhịp hoa lay khẽ khàng làm tăng thêm sự vắng lặng. Trăng xuất hiện như một người bạn tri kỷ duy nhất, nhưng câu hỏi "Có chở trăng về kịp tối nay?" với động từ "kịp" chứa đựng niềm phấp phỏng, cuống quýt trước sự ngắn ngủi của quỹ thời gian còn lại.
-
-Đến khổ thơ cuối cùng, bài thơ chìm hoàn toàn vào cõi hư ảo của tâm tưởng:
-"Mơ khách đường xa, khách đường xa
-Áo em trắng quá nhìn không ra
-Ở đây sương khói mờ nhân ảnh
-Ai biết tình ai có đậm đà?"
-Điệp ngữ "khách đường xa" lặp lại hai lần diễn tả khoảng cách diệu vợi, mờ mịt giữa Hàn Mặc Tử và người ngoài cõi sống. Hình ảnh "Áo em trắng quá nhìn không ra" là sắc trắng của hoài niệm, của sự trong sạch tinh khôi vượt ngoài tầm tay với. Bài thơ khép lại bằng câu hỏi nghi vấn "Ai biết tình ai có đậm đà?" chứa đựng nỗi trăn trở hoài nghi nhân thế, nhưng đằng sau sự hoài nghi ấy là một khát vọng mãnh liệt đến cháy lòng: khát vọng được yêu thương, được cảm thông và được sống trọn vẹn với cuộc đời.
-
-<b>ĐÁNH GIÁ NGHỆ THUẬT & NỘI DUNG:</b>
-Thành công của "Đây thôn Vĩ Dạ" đến từ bút pháp lãng mạn kết hợp cùng yếu tố tượng trưng, siêu thực độc đáo. Ngôn ngữ thơ tinh tế, giàu tính tạo hình và biểu cảm; hình ảnh thơ chuyển biến linh hoạt từ thực sang mộng, từ ánh sáng sang bóng tối. Bài thơ đã thể hiện trọn vẹn tình yêu thiên nhiên đất nước tha thiết và nỗi niềm khắc khoải của một tâm hồn thơ tài hoa nhưng bất hạnh.
+Câu hỏi tu từ "Sao anh không về..." vang lên mang hai tầng ngữ nghĩa: vừa là lời trách móc yêu thương nhẹ nhàng của người thiếu nữ xứ Huế, vừa là lời tự vấn xót xa của chính Hàn Mặc Tử.
 
 <b>KẾT BÀI:</b>
-"Nhà văn chết đi nhưng tác phẩm của ông thì sống mãi." Bài thơ "Đây thôn Vĩ Dạ" đã vượt qua thử thách của thời gian để trở thành một trong những bài thơ tình hay nhất của thi đàn Việt Nam. Khép lại trang thơ, hình ảnh bóng trăng thôn Vĩ và tiếng thở dài khắc khoải của Hàn Mặc Tử vẫn còn ngân vang mãi trong lòng người đọc nhiều thế hệ.`
+Bài thơ "Đây thôn Vĩ Dạ" đã vượt qua thử thách của thời gian để trở thành một trong những bài thơ tình hay nhất của thi đàn Việt Nam.\`
     },
     { id:'g11l2', tag:'PHÂN TÍCH THƠ 9.5+', title:'Phân Tích Khát Vọng Sống "Vội Vàng" - Xuân Diệu',
       problem:'Phân tích triết lý nhân sinh và khát vọng sống vội vàng, cuống quýt trong bài thơ "Vội Vàng" của Xuân Diệu.',
-      analysis_breakdown:`
+      analysis_breakdown:\`
 <div style="background:rgba(168,85,247,0.05);padding:14px;border-radius:14px;border-left:4px solid #c084fc;">
   <b style="color:#c084fc;font-size:1.05rem;">Khát vọng đoạt quyền thiên nhiên & Bữa tiệc trần gian</b>
   <ul style="margin:8px 0 0 18px;padding:0;line-height:1.8;">
     <li><b>"Tôi muốn tắt nắng đi / Cho màu đừng nhạt mất / Tôi muốn buộc gió lại / Cho hương đừng bay đi"</b>: Ước muốn táo bạo, phi lý nhưng thể hiện lòng yêu cuộc sống đến cuồng nhiệt. Điệp từ "Tôi muốn" đoạt lấy quyền năng vũ trụ để giữ lại hương sắc tươi trẻ.</li>
-    <li><b>"Của ong bướm này đây tuần tháng mật..."</b>: Điệp từ "này đây" lặp lại dồn dập như bày ra trước mắt người đọc một thiên đường ngay trên mặt đất.</li>
+    <li><b>"Của ong bướm này đây tuần tháng mật..."</b>: Điệp từ "này đây" lặp lại rồn dập như bày ra trước mắt người đọc một thiên đường ngay trên mặt đất.</li>
   </ul>
-</div>`,
-      full_essay:`<b>MỞ BÀI:</b>
+</div>\`,
+      full_essay:\`<b>MỞ BÀI:</b>
 Xuân Diệu — "nhà thơ mới nhất trong các nhà thơ mới" — đã đem đến cho thi đàn Việt Nam một làn gió rạo rực, đắm say. Bài thơ "Vội Vàng" là tuyên ngôn nghệ thuật và triết lý sống gấp gáp, trân trọng từng phút giây của tuổi trẻ.
 
 <b>THÂN BÀI:</b>
@@ -122,7 +94,7 @@ Cho hương đừng bay đi."
 Điệp ngữ "Tôi muốn" cất lên mạnh mẽ. Xuân Diệu không tìm thiên đường ở cõi bồng lai hư vô mà khẳng định thiên đường nằm ngay trên mặt đất trong từng khoảnh khắc hiện tại.
 
 <b>KẾT BÀI:</b>
-"Vội Vàng" truyền cảm hứng mãnh liệt cho tuổi trẻ về thái độ sống chủ động, biết cống hiến và trân quý từng giây phút thanh xuân.`
+"Vội Vàng" truyền cảm hứng mãnh liệt cho tuổi trẻ về thái độ sống chủ động, biết cống hiến và trân quý từng giây phút thanh xuân.\`
     }
   ]
 };
@@ -131,40 +103,40 @@ window.SAMPLES_GRADE_12 = {
   math: [
     { id:'g12m1', tag:'TÍCH PHÂN', title:'Tính ∫₀¹ x·eˣ dx bằng phương pháp tích phân từng phần',
       problem:'Tính tích phân xác định: I = ∫₀¹ x·eˣ dx',
-      solution:`Dùng phương pháp tích phân từng phần: ∫ u dv = u·v − ∫ v du<br>
+      solution:\`Dùng phương pháp tích phân từng phần: ∫ u dv = u·v − ∫ v du<br>
 <b>Đặt:</b> u = x ⇒ du = dx<br>
 dv = eˣ dx ⇒ v = eˣ<br>
 <b>Khi đó:</b> I = [x·eˣ]₀¹ − ∫₀¹ eˣ dx<br>
 = (1·e¹ − 0·e⁰) − [eˣ]₀¹<br>
-= e − (e¹ − e⁰) = e − e + 1 = <b>1</b>`
+= e − (e¹ − e⁰) = e − e + 1 = <b>1</b>\`
     },
     { id:'g12m2', tag:'SỐ PHỨC', title:'Tính tích số phức z = (2 + 3i)(1 − i)',
       problem:'Tính tích hai số phức z = (2 + 3i)(1 − i) và xác định phần thực, phần ảo của z.',
-      solution:`Áp dụng quy tắc nhân số phức và i² = −1:<br>
+      solution:\`Áp dụng quy tắc nhân số phức và i² = −1:<br>
 z = 2(1) + 2(−i) + 3i(1) + 3i(−i)<br>
 = 2 − 2i + 3i − 3i²<br>
 = 2 + i − 3(−1) = 2 + i + 3 = <b>5 + i</b><br>
-→ Phần thực: <b>5</b>, Phần ảo: <b>1</b>`
+→ Phần thực: <b>5</b>, Phần ảo: <b>1</b>\`
     },
     { id:'g12m3', tag:'HÌNH HỌC OXYZ', title:'Viết phương trình mặt phẳng (P) đi qua M(1;2;3) và có VTPT n = (2;-1;4)',
       problem:'Viết phương trình mặt phẳng (P) đi qua điểm M(1;2;3) và vuông góc với đường thẳng d có VTPT \\vec{n} = (2;-1;4).',
-      solution:`Phương trình mặt phẳng đi qua M(x₀,y₀,z₀) có VTPT \\vec{n}=(A,B,C):<br>
+      solution:\`Phương trình mặt phẳng đi qua M(x₀,y₀,z₀) có VTPT \\vec{n}=(A,B,C):<br>
 A(x − x₀) + B(y − y₀) + C(z − z₀) = 0<br>
 2(x − 1) − 1(y − 2) + 4(z − 3) = 0<br>
 ⇔ 2x − 2 − y + 2 + 4z − 12 = 0<br>
-⇔ <b>2x − y + 4z − 12 = 0</b>`
+⇔ <b>2x − y + 4z − 12 = 0</b>\`
     },
     { id:'g12m4', tag:'THỂ TÍCH', title:'Tính thể tích khối chóp S.ABC có đáy là tam giác vuông',
       problem:'Cho hình chóp S.ABC có SA ⊥ (ABC), SA = 6cm. Tam giác ABC vuông tại B có AB = 3cm, BC = 4cm. Tính thể tích V của khối chóp.',
-      solution:`<b>Bước 1:</b> Diện tích đáy S_ABC = 1/2 · AB · BC = 1/2 · 3 · 4 = 6 cm²<br>
+      solution:\`<b>Bước 1:</b> Diện tích đáy S_ABC = 1/2 · AB · BC = 1/2 · 3 · 4 = 6 cm²<br>
 <b>Bước 2:</b> Chiều cao h = SA = 6 cm<br>
-<b>Bước 3:</b> Thể tích V = 1/3 · S_đáy · h = 1/3 · 6 · 6 = <b>12 cm³</b>`
+<b>Bước 3:</b> Thể tích V = 1/3 · S_đáy · h = 1/3 · 6 · 6 = <b>12 cm³</b>\`
     }
   ],
   literature: [
     { id:'g12l1', tag:'PHÂN TÍCH THƠ THPTQG 9.5+', title:'Phân Tích Hình Tượng Người Lính Tây Tiến Chi Tiết Từng Câu Thơ - Quang Dũng',
       problem:'Phân tích chi tiết từng từ ngữ, biện pháp nghệ thuật và bài văn mẫu hoàn chỉnh phân tích hình tượng người lính Tây Tiến trong bài thơ "Tây Tiến" của Quang Dũng.',
-      analysis_breakdown:`
+      analysis_breakdown:\`
 <div style="background:rgba(0,242,254,0.05);padding:14px;border-radius:14px;margin-bottom:14px;border-left:4px solid #00f2fe;">
   <b style="color:#00f2fe;font-size:1.05rem;">Đoạn 1 & 2: Thiên nhiên Tây Bắc dữ dội & Nỗi nhớ lơ lửng</b>
   <ul style="margin:8px 0 0 18px;padding:0;line-height:1.8;">
@@ -178,8 +150,8 @@ A(x − x₀) + B(y − y₀) + C(z − z₀) = 0<br>
     <li><b>"Tây Tiến đoàn binh không mọc tóc / Quân xanh màu lá dữ oai hùm"</b>: Chi tiết tả thực nghiệt ngã <b>"không mọc tóc", "quân xanh màu lá"</b> phản ánh căn bệnh sốt xuất huyết rừng tàn khốc. Cụm từ <b>"đoàn binh"</b> và phép so sánh <b>"dữ oai hùm"</b> làm nổi bật khí thế oai phong lẫm liệt.</li>
     <li><b>"Áo bào thay chiếu anh về đất / Sông Mã gầm lên khúc độc hành"</b>: Cách nói giảm nói tránh <b>"về đất"</b> làm nhẹ bớt nỗi đau hi sinh. Tiếng <b>"gầm"</b> của Sông Mã như khúc đại bác tử sĩ tiễn đưa người anh hùng.</li>
   </ul>
-</div>`,
-      full_essay:`<b>MỞ BÀI:</b>
+</div>\`,
+      full_essay:\`<b>MỞ BÀI:</b>
 "Thơ là sản phẩm của tình cảm, nhưng không phải là tình cảm bộc phát mà là tình cảm được ngưng đọng qua những rung động mãnh liệt nhất của tâm hồn." Bàn về thi ca kháng chiến, bài thơ "Tây Tiến" của Quang Dũng sừng sững như một tượng đài bất tử khắc họa hình tượng người lính thời kỳ đầu chống Pháp.
 
 <b>THÂN BÀI:</b>
@@ -196,11 +168,11 @@ Mắt gửi mộng qua biên giới
 Hình ảnh "dáng kiều thơm" là điểm tựa tinh thần hào hoa nuôi dưỡng tâm hồn người chiến sĩ Thủ đô.
 
 <b>KẾT BÀI:</b>
-Bài thơ "Tây Tiến" của Quang Dũng đã vượt qua thử thách của thời gian để trở thành một trong những kiệt tác xuất sắc nhất của thơ ca cách mạng Việt Nam.`
+Bài thơ "Tây Tiến" của Quang Dũng đã vượt qua thử thách của thời gian để trở thành một trong những kiệt tác xuất sắc nhất của thơ ca cách mạng Việt Nam.\`
     },
     { id:'g12l2', tag:'PHÂN TÍCH TÁC PHẨM THPTQG 9.5+', title:'Phân Tích Chi Tiết "Bát Cháo Hành" Trong Chí Phèo - Nam Cao',
       problem:'Phân tích chi tiết ý nghĩa nghệ thuật và giá trị nhân đạo của chi tiết bát cháo hành trong truyện ngắn "Chí Phèo" của Nam Cao.',
-      analysis_breakdown:`
+      analysis_breakdown:\`
 <div style="background:rgba(0,242,254,0.05);padding:14px;border-radius:14px;margin-bottom:14px;border-left:4px solid #00f2fe;">
   <b style="color:#00f2fe;font-size:1.05rem;">1. Ý nghĩa Hiện thực & Tình người (Bát cháo hành ấm áp)</b>
   <ul style="margin:8px 0 0 18px;padding:0;line-height:1.8;">
@@ -212,8 +184,8 @@ Bài thơ "Tây Tiến" của Quang Dũng đã vượt qua thử thách của th
   <ul style="margin:8px 0 0 18px;padding:0;line-height:1.8;">
     <li><b>Sự thức tỉnh nhân tính</b>: Bát cháo hành giúp Chí Phèo tỉnh rượu và tỉnh ngộ. Hương vị cháo hành đánh thức những cảm giác ngơ ngác, tiếc nuối tuổi trẻ và khát khao lương thiện: <i>"Hắn thèm lương thiện, hắn muốn làm hòa với mọi người biết bao!"</i></li>
   </ul>
-</div>`,
-      full_essay:`<b>MỞ BÀI:</b>
+</div>\`,
+      full_essay:\`<b>MỞ BÀI:</b>
 "Chi tiết nhỏ làm nên nhà văn lớn." Trong nghệ thuật truyện ngắn, chi tiết "bát cháo hành" của Thị Nở trong kiệt tác "Chí Phèo" của Nam Cao chính là một chi tiết nghệ thuật thần kỳ.
 
 <b>THÂN BÀI:</b>
@@ -223,19 +195,19 @@ Hương vị bát cháo hành đã làm bừng tỉnh mọi giác quan của Ch�
 "Hắn thấy lòng nhẹ nhõm... Hắn thèm lương thiện, hắn muốn làm hòa với mọi người biết bao!"
 
 <b>KẾT BÀI:</b>
-Chi tiết bát cháo hành đã khẳng định tài năng bậc thầy của Nam Cao và tôn vinh sức mạnh cảm hóa kỳ diệu của tình người.`
+Chi tiết bát cháo hành đã khẳng định tài năng bậc thầy của Nam Cao và tôn vinh sức mạnh cảm hóa kỳ diệu của tình người.\`
     },
     { id:'g12l3', tag:'PHÂN TÍCH THƠ 9.5+', title:'Phân Tích Tư Tưởng "Đất Nước Của Nhân Dân" - Nguyễn Khoa Điềm',
       problem:'Phân tích tư tưởng cốt lõi "Đất Nước của Nhân dân" được thể hiện trong đoạn trích "Đất Nước" (Mặt đường khát vọng) của Nguyễn Khoa Điềm.',
-      analysis_breakdown:`
+      analysis_breakdown:\`
 <div style="background:rgba(0,242,254,0.05);padding:14px;border-radius:14px;border-left:4px solid #00f2fe;">
   <b style="color:#00f2fe;font-size:1.05rem;">Sự cảm nhận Đất Nước trên các bình diện Lịch sử, Địa lý & Văn hóa</b>
   <ul style="margin:8px 0 0 18px;padding:0;line-height:1.8;">
     <li><b>Về Địa lý</b>: Những núi Hòn Vọng Phu, hòn Trống Mái, núi Bút non Nghiên đều do những người dân bình dị hóa thân mà thành.</li>
     <li><b>Về Lịch sử</b>: "Để Đất Nước này là Đất Nước Nhân dân" — chính hàng triệu người vô danh đã chiến đấu và ngã xuống bảo vệ chủ quyền.</li>
   </ul>
-</div>`,
-      full_essay:`<b>MỞ BÀI:</b>
+</div>\`,
+      full_essay:\`<b>MỞ BÀI:</b>
 Đoạn trích "Đất Nước" của Nguyễn Khoa Điềm là một trong những áng thơ xuất sắc nhất viết về đề tài Tổ quốc. Tác giả đã đem đến một cái nhìn mới mẻ: Đất Nước không của riêng các triều đại hay anh hùng mà là "Đất Nước của Nhân dân".
 
 <b>THÂN BÀI:</b>
@@ -245,7 +217,11 @@ Nguyễn Khoa Điềm định nghĩa Đất Nước bắt đầu từ những đ
 Sự hóa thân của Nhân dân vào danh lam thắng cảnh khắp ba miền đất nước đã tạo nên diện mạo tâm hồn Việt Nam.
 
 <b>KẾT BÀI:</b>
-Tư tưởng "Đất Nước của Nhân dân" khơi dậy lòng tự hào dân tộc và trách nhiệm gắn bó của mỗi thế hệ học sinh đối với sự nghiệp xây dựng đất nước.`
+Tư tưởng "Đất Nước của Nhân dân" khơi dậy lòng tự hào dân tộc và trách nhiệm gắn bó của mỗi thế hệ học sinh đối với sự nghiệp xây dựng đất nước.\`
     }
   ]
 };
+`;
+
+fs.writeFileSync(filePath, fileContent, 'utf8');
+console.log('✅ Successfully expanded samples_grade11_12.js!');

@@ -1,85 +1,46 @@
+// ===== BÀI MẪU LỚP 8 (CHUẨN GDPT 2018 & ĐẠT 9.5+) =====
 window.SAMPLES_GRADE_8 = {
   math: [
-    { id:'g8m1', tag:'NHÂN ĐA THỨC', title:'Nhân: (x+2)(x−3)',
-      problem:'Khai triển: (x + 2)(x − 3)',
-      solution:`= x² − 3x + 2x − 6 = <b>x² − x − 6</b><br><i>Phân phối từng hạng tử.</i>`
+    {
+      id:'g8m1', tag:'HẰNG ĐẲNG THỨC', title:'Phân tích đa thức thành nhân tử: x³ − 6x² + 12x − 8',
+      problem:'Phân tích đa thức thành nhân tử: P = x³ − 6x² + 12x − 8',
+      solution:`<b>Nhận xét:</b> Đa thức có dạng lập phương của một hiệu (a − b)³ = a³ − 3a²b + 3ab² − b³<br>
+• a = x<br>
+• b = 2<br>
+⇒ P = x³ − 3·x²·2 + 3·x·2² − 2³ = <b>(x − 2)³</b>`
     },
-    { id:'g8m2', tag:'HẰNG ĐẲNG THỨC', title:'Khai triển (a+b)²',
-      problem:'Khai triển (2x + 3)²',
-      solution:`(A+B)² = A² + 2AB + B²<br>= (2x)² + 2(2x)(3) + 3² = <b>4x² + 12x + 9</b>`
-    },
-    { id:'g8m3', tag:'HẰNG ĐẲNG THỨC', title:'Khai triển (a−b)²',
-      problem:'Khai triển (x − 5)²',
-      solution:`= x² − 2(x)(5) + 25 = <b>x² − 10x + 25</b>`
-    },
-    { id:'g8m4', tag:'HẰNG ĐẲNG THỨC', title:'Tính nhanh 99² dùng hằng đẳng thức',
-      problem:'Tính nhanh 99²',
-      solution:`99² = (100−1)² = 100² − 2(100)(1) + 1 = 10000 − 200 + 1 = <b>9801</b>`
-    },
-    { id:'g8m5', tag:'PHÂN TÍCH NHÂN TỬ', title:'Phân tích: x² − 9',
-      problem:'Phân tích x² − 9 thành nhân tử',
-      solution:`x² − 9 = x² − 3² = <b>(x−3)(x+3)</b><br><i>Hằng đẳng thức: a²−b² = (a−b)(a+b)</i>`
-    },
-    { id:'g8m6', tag:'PHÂN TÍCH NHÂN TỬ', title:'Phân tích: x² + 5x + 6',
-      problem:'Phân tích x² + 5x + 6',
-      solution:`Tìm hai số có tổng = 5, tích = 6 → 2 và 3<br>= <b>(x+2)(x+3)</b>`
-    },
-    { id:'g8m7', tag:'PHƯƠNG TRÌNH', title:'Giải: 2x − 5 = x + 3',
-      problem:'Giải phương trình: 2x − 5 = x + 3',
-      solution:`2x − x = 3 + 5<br>x = <b>8</b>`
-    },
-    { id:'g8m8', tag:'PHƯƠNG TRÌNH', title:'Giải: 3(x−2) = 2(x+1)',
-      problem:'Giải phương trình: 3(x − 2) = 2(x + 1)',
-      solution:`3x − 6 = 2x + 2<br>3x − 2x = 2 + 6<br>x = <b>8</b>`
-    },
-    { id:'g8m9', tag:'BẤT PHƯƠNG TRÌNH', title:'Giải: 2x + 3 > 7',
-      problem:'Giải bất phương trình: 2x + 3 > 7',
-      solution:`2x > 7 − 3 = 4<br>x > 2<br>Tập nghiệm: <b>{x | x > 2}</b>`
-    },
-    { id:'g8m10', tag:'HỆ PHƯƠNG TRÌNH', title:'Giải hệ: x+y=10, x−y=2',
-      problem:'Giải hệ phương trình: x + y = 10 và x − y = 2',
-      solution:`Cộng hai vế: 2x = 12 → x = 6<br>Thay vào: 6 + y = 10 → y = 4<br><b>x=6, y=4</b>`
-    },
-    { id:'g8m11', tag:'HÌNH HỌC', title:'Tứ giác ABCD có tổng góc bằng bao nhiêu?',
-      problem:'Chứng minh tổng các góc trong tứ giác bằng 360°.',
-      solution:`Nối đường chéo AC, chia tứ giác thành 2 tam giác.<br>Mỗi tam giác có tổng góc = 180°<br>→ Tổng 4 góc = 2 × 180° = <b>360°</b>`
-    },
-    { id:'g8m12', tag:'HÌNH THANG', title:'Tính diện tích hình thang đáy 8cm, 12cm, cao 5cm',
-      problem:'Tính diện tích hình thang có hai đáy 8cm, 12cm và chiều cao 5cm.',
-      solution:`S = (a+b)/2 × h = (8+12)/2 × 5 = 10 × 5 = <b>50 cm²</b>`
-    },
-    { id:'g8m13', tag:'HÌNH BÌNH HÀNH', title:'Hình bình hành đáy 15cm, cao 6cm, tính diện tích',
-      problem:'Tính diện tích hình bình hành đáy 15cm, cao 6cm.',
-      solution:`S = đáy × chiều cao = 15 × 6 = <b>90 cm²</b>`
-    },
-    { id:'g8m14', tag:'ĐẠI SỐ', title:'Rút gọn phân thức: (x²−4)/(x−2)',
-      problem:'Rút gọn: (x²−4)/(x−2) với x≠2',
-      solution:`x²−4 = (x−2)(x+2)<br>(x−2)(x+2)/(x−2) = <b>x+2</b>`
-    },
-    { id:'g8m15', tag:'PHƯƠNG TRÌNH', title:'Giải phương trình chứa ẩn ở mẫu: 1/x + 1/(x+1) = 1',
-      problem:'Giải: 1/x + 1/(x+1) = 1 (x≠0, x≠−1)',
-      solution:`Nhân hai vế với x(x+1):<br>(x+1) + x = x(x+1)<br>2x+1 = x²+x<br>x²−x−1 = 0<br>Δ = 1+4 = 5; x = (1±√5)/2`
+    {
+      id:'g8m2', tag:'ĐỊNH LÝ PYTAGO', title:'Tính độ dài đường cao trong tam giác cân',
+      problem:'Cho tam giác ABC cân tại A có AB = AC = 10cm, BC = 12cm. Tính độ dài đường cao AH.',
+      solution:`<b>Bước 1:</b> Vì ΔABC cân tại A nên đường cao AH đồng thời là đường trung tuyến.<br>
+⇒ H là trung điểm BC ⇒ BH = BC / 2 = 12 / 2 = 6 cm.<br>
+<b>Bước 2:</b> Áp dụng định lý Pytago trong ΔAHB vuông tại H:<br>
+AB² = AH² + BH² ⇒ 10² = AH² + 6²<br>
+⇒ AH² = 100 − 36 = 64 ⇒ <b>AH = 8 cm</b>`
     }
   ],
   literature: [
-    { id:'g8l1', tag:'VĂN NGHỊ LUẬN', title:'Nghị luận: Tác hại của điện thoại với học sinh',
-      problem:'Đề: Nghị luận về tác hại của việc sử dụng điện thoại quá mức đối với học sinh.',
-      solution:`<b>MB:</b> Công nghệ là con dao hai lưỡi; điện thoại tiện ích nhưng gây nhiều tác hại.<br>
-<b>TB:</b><br>
-<b>Luận điểm 1 – Ảnh hưởng đến sức khỏe:</b> Hại mắt, cột sống, mất ngủ do ánh sáng xanh.<br>
-<b>Luận điểm 2 – Ảnh hưởng đến học tập:</b> Mất tập trung, nghiện game, giảm khả năng ghi nhớ và tư duy.<br>
-<b>Luận điểm 3 – Ảnh hưởng tâm lý, xã hội:</b> Lười giao tiếp thực tế, dễ bị bắt nạt trực tuyến, tiếp xúc nội dung xấu.<br>
-<b>Phản đề:</b> Dùng điện thoại đúng mục đích, đúng giờ thì có ích.<br>
-<b>KB:</b> Học sinh cần ý thức tự kiểm soát; gia đình và nhà trường cần có quy định cụ thể.`
-    },
-    { id:'g8l2', tag:'PHÂN TÍCH THƠ', title:'Phân tích bài thơ "Khi con tu hú" - Tố Hữu',
-      problem:'Phân tích 6 câu đầu bài thơ "Khi con tu hú" của Tố Hữu.',
-      solution:`<b>Bức tranh mùa hè qua tưởng tượng của người tù:</b><br>
-- "Khi con tu hú gọi bầy" → âm thanh mở đầu, báo hiệu hè sang.<br>
-- Lúa chiêm đương chín, trái cây ngọt dần → hình ảnh tươi tốt, sức sống.<br>
-- Ve ngân, bắp rây vàng hạt → màu sắc rực rỡ, âm thanh rộn ràng.<br>
-- Trời xanh rộng, đôi con diều sáo lộn nhào → không gian khoáng đạt, tự do.<br>
-<b>Nghệ thuật:</b> Liệt kê, điệp từ, hình ảnh sinh động → Khắc họa cảnh hè đầy sức sống tương phản với cảnh giam cầm → khát vọng tự do cháy bỏng của nhà thơ.`
+    {
+      id:'g8l1', tag:'PHÂN TÍCH TÁC PHẨM', title:'Phân tích nhân vật chị Dậu trong đoạn trích "Tức nước vỡ bờ" - Ngô Tất Tố',
+      problem:'Phân tích hình tượng nhân vật chị Dậu qua đoạn trích "Tức nước vỡ bờ" (trích tiểu thuyết Tắt đèn).',
+      analysis_breakdown:`
+<div style="background:rgba(0,242,254,0.05);padding:14px;border-radius:14px;border-left:4px solid #00f2fe;">
+  <b style="color:#00f2fe;font-size:1.05rem;">Diễn biến tâm lý & Hành động bộc phát quy luật hiện thực</b>
+  <ul style="margin:8px 0 0 18px;padding:0;line-height:1.8;">
+    <li><b>Thái độ nhẫn nhịn</b>: Lúc đầu xưng "cháu" - "ông", van xin tha thiết để bảo vệ người chồng đang đau ốm.</li>
+    <li><b>Thái độ phản kháng</b>: Khi tên cai lệ đánh chị và sục sạo trói anh Dậu, chị đổi xưng hô "tôi" - "ông" rồi "mày" - "bà" và quật ngã hai tên tay sai. Đó là quy luật "tức nước vỡ bờ".</li>
+  </ul>
+</div>`,
+      full_essay:`<b>MỞ BÀI:</b>
+Ngô Tất Tố là nhà văn hiện thực xuất sắc của văn học Việt Nam trước Cách mạng tháng Tám. Đoạn trích "Tức nước vỡ bờ" trích trong tiểu thuyết "Tắt đèn" là một khúc ca ca ngợi sức mạnh tiềm tàng, tinh thần phản kháng mạnh mẽ của người phụ nữ nông dân bị dồn vào đường cùng.
+
+<b>THÂN BÀI:</b>
+Chị Dậu hiện lên là hình mẫu người phụ nữ thương chồng thương con tha thiết. Anh Dậu bị đánh đập thừa sống thiếu chết, chị Dậu vừa bế con vừa nấu cháo chăm chồng.
+
+Khi tên cai lệ và người nhà lý trưởng xông vào với roi mây, dây thừng, ban đầu chị Dậu dịu dàng nhẫn nhịn, van xin: "Cháu van ông, ông tha cho anh cháu...". Nhưng sự tàn bạo của cai lệ đã vượt quá giới hạn. Chị đứng dậy đấu lý "Tôi bế con tôi, tôi không cho ông trói chồng tôi!" rồi vung tay quật ngã tên cai lệ ngã chổng gọng.
+
+<b>KẾT BÀI:</b>
+Đoạn trích khẳng định triết lý hiện thực sâu sắc: Ở đâu có áp bức, ở đó có đấu tranh.`
     }
   ]
 };
