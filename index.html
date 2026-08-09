@@ -3114,127 +3114,154 @@
             to { opacity: 1; transform: scale(1); }
         }
 
-        /* ===================== PRIMARY SUBJECT HUB MODULES DESIGN ===================== */
+        /* ===================== PRIMARY SUBJECT HUB MODULES DESIGN — PREMIUM DARK ===================== */
         .vn-hub-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 25px;
-            max-width: 1000px;
-            margin: 30px auto;
+            grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+            gap: 22px;
+            max-width: 1100px;
+            margin: 28px auto;
         }
 
         .vn-module-card {
-            background: white;
-            border-radius: 32px;
-            border: 2px solid rgba(226, 232, 240, 0.8);
-            padding: 35px 25px;
+            background: rgba(13, 21, 44, 0.88);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-radius: 28px;
+            border: 1.5px solid rgba(56, 189, 248, 0.18);
+            padding: 32px 24px 26px;
             text-align: center;
             cursor: pointer;
-            transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            transition: all 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
             position: relative;
             overflow: hidden;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.02);
+            box-shadow: 0 12px 32px rgba(0,0,0,0.45);
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: space-between;
-            min-height: 280px;
+            min-height: 275px;
         }
+
+        /* Shine sweep on hover */
+        .vn-module-card::after {
+            content: '';
+            position: absolute;
+            top: -60%;
+            left: -60%;
+            width: 50%;
+            height: 200%;
+            background: linear-gradient(105deg, transparent 30%, rgba(255,255,255,0.07) 50%, transparent 70%);
+            transform: skewX(-15deg);
+            transition: left 0.55s ease;
+            pointer-events: none;
+        }
+        .vn-module-card:hover::after { left: 130%; }
 
         .vn-module-card:hover {
-            transform: translateY(-8px);
-            border-color: #3b82f6;
-            box-shadow: 0 20px 40px rgba(59, 130, 246, 0.15);
+            transform: translateY(-9px) scale(1.02);
+            border-color: rgba(56, 189, 248, 0.5);
+            box-shadow: 0 24px 50px rgba(0,0,0,0.55), 0 0 0 1px rgba(56,189,248,0.25);
         }
 
-        /* Top accent bars for different game modules */
+        /* Top accent gradient bar */
         .vn-module-card::before {
             content: '';
             position: absolute;
-            top: 0;
-            left: 0;
+            top: 0; left: 0;
             width: 100%;
-            height: 8px;
-            background: linear-gradient(90deg, #3b82f6, #60a5fa);
+            height: 4px;
+            background: linear-gradient(90deg, #38bdf8, #818cf8);
+            border-radius: 28px 28px 0 0;
         }
-
         .vn-module-card.mod-danh_van::before,
         .vn-module-card.mod-count::before,
         .vn-module-card.mod-flashcard::before {
             background: linear-gradient(90deg, #ff7e5f, #feb47b);
         }
-
         .vn-module-card.mod-go_chu::before,
         .vn-module-card.mod-quick::before,
         .vn-module-card.mod-word_scramble::before {
             background: linear-gradient(90deg, #10b981, #34d399);
         }
-
         .vn-module-card.mod-ghep_van::before,
         .vn-module-card.mod-geo::before,
         .vn-module-card.mod-pronounce::before {
             background: linear-gradient(90deg, #a855f7, #c084fc);
         }
-
-        .vn-module-card.mod-quiz::before,
+        .vn-module-card.mod-quiz::before {
+            background: linear-gradient(90deg, #22c55e, #16a34a);
+        }
+        .vn-module-card.mod-exam_quiz::before {
+            background: linear-gradient(90deg, #f59e0b, #d97706);
+        }
+        .vn-module-card.mod-speed_quiz::before {
+            background: linear-gradient(90deg, #ef4444, #b91c1c);
+        }
+        .vn-module-card.mod-samples::before {
+            background: linear-gradient(90deg, #38bdf8, #0284c7);
+        }
         .vn-module-card.mod-quick_quiz::before {
             background: linear-gradient(90deg, #f43f5e, #fb7185);
         }
 
         .vn-mod-icon {
-            font-size: 4rem;
-            margin: 15px 0 10px 0;
-            filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.08));
-            transition: transform 0.3s ease;
+            font-size: 3.6rem;
+            margin: 10px 0 8px 0;
+            filter: drop-shadow(0 4px 12px rgba(0,0,0,0.3));
+            transition: transform 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            display: block;
         }
-
         .vn-module-card:hover .vn-mod-icon {
-            transform: scale(1.15) rotate(5deg);
+            transform: scale(1.2) rotate(6deg);
         }
 
         .vn-mod-title {
-            font-size: 1.45rem;
+            font-size: 1.18rem;
             font-weight: 800;
-            color: #1e293b;
+            color: #f1f5f9;
             margin-bottom: 8px;
+            line-height: 1.35;
+            letter-spacing: -0.2px;
         }
 
         .vn-mod-desc {
-            font-size: 0.95rem;
-            color: #64748b;
-            line-height: 1.5;
-            margin-bottom: 20px;
+            font-size: 0.85rem;
+            color: #94a3b8;
+            line-height: 1.55;
+            margin-bottom: 18px;
             flex-grow: 1;
-            padding: 0 10px;
+            padding: 0 4px;
         }
 
         .vn-mod-badge {
             display: inline-block;
-            padding: 8px 20px;
+            padding: 7px 18px;
             border-radius: 50px;
-            font-size: 0.82rem;
+            font-size: 0.76rem;
             font-weight: 800;
             text-transform: uppercase;
-            letter-spacing: 0.5px;
-            background: #f1f5f9;
-            color: #475569;
+            letter-spacing: 0.6px;
+            background: rgba(51,65,85,0.8);
+            color: #cbd5e1;
+            border: 1px solid rgba(100,116,139,0.35);
             transition: all 0.3s ease;
         }
-
         .vn-mod-badge.ai {
             background: linear-gradient(135deg, #a855f7 0%, #7e22ce 100%);
             color: white;
-            box-shadow: 0 4px 12px rgba(168, 85, 247, 0.25);
+            border-color: transparent;
+            box-shadow: 0 4px 14px rgba(168,85,247,0.35);
         }
-
         .vn-mod-badge.live {
             background: linear-gradient(135deg, #ef4444 0%, #b91c1c 100%);
             color: white;
-            box-shadow: 0 4px 12px rgba(239, 68, 68, 0.25);
+            border-color: transparent;
+            box-shadow: 0 4px 14px rgba(239,68,68,0.35);
         }
-
         .vn-module-card:hover .vn-mod-badge {
-            transform: scale(1.05);
+            transform: scale(1.06);
+            box-shadow: 0 6px 18px rgba(0,0,0,0.3);
         }
     
         /* ===================== FUTURISTIC INTERFACE - HỆ TRI THỨC TƯƠNG LAI ===================== */
@@ -4898,6 +4925,38 @@
                 timerDiv.classList.add('warning');
             }
         }
+        function playEduSound(type) {
+            try {
+                const AudioCtx = window.AudioContext || window.webkitAudioContext;
+                if (!AudioCtx) return;
+                const ctx = new AudioCtx();
+                const osc = ctx.createOscillator();
+                const gain = ctx.createGain();
+                osc.connect(gain);
+                gain.connect(ctx.destination);
+
+                const now = ctx.currentTime;
+                if (type === 'correct') {
+                    osc.type = 'sine';
+                    osc.frequency.setValueAtTime(523.25, now);
+                    osc.frequency.exponentialRampToValueAtTime(659.25, now + 0.1);
+                    osc.frequency.exponentialRampToValueAtTime(783.99, now + 0.22);
+                    gain.gain.setValueAtTime(0.3, now);
+                    gain.gain.exponentialRampToValueAtTime(0.01, now + 0.35);
+                    osc.start(now);
+                    osc.stop(now + 0.35);
+                } else if (type === 'wrong') {
+                    osc.type = 'sawtooth';
+                    osc.frequency.setValueAtTime(220, now);
+                    osc.frequency.exponentialRampToValueAtTime(146.83, now + 0.22);
+                    gain.gain.setValueAtTime(0.25, now);
+                    gain.gain.exponentialRampToValueAtTime(0.01, now + 0.3);
+                    osc.start(now);
+                    osc.stop(now + 0.3);
+                }
+            } catch(e) {}
+        }
+
         function selectAnswer(index) {
             const question = filteredQuestions[currentQuestionIndex];
             if (isMockExam) {
@@ -4909,12 +4968,14 @@
                 const isCorrect = index === question.correct;
                 if (isCorrect) {
                     score++;
+                    playEduSound('correct');
                     if (isPrimaryQuizMode) {
                         showPrimaryToast("🎉 Bạn đã trả lời CHÍNH XÁC! Hãy xem giải thích bên dưới.", true);
                         if (typeof triggerPrimaryConfetti === 'function') triggerPrimaryConfetti();
                         if (typeof addLearningXP === 'function') addLearningXP(15);
                     }
                 } else {
+                    playEduSound('wrong');
                     if (isPrimaryQuizMode) {
                         showPrimaryToast("💡 Chưa chính xác! Hãy xem đáp án đúng & giải thích chi tiết bên dưới.", false);
                         if (typeof logWrongAnswer === 'function') {
@@ -8975,6 +9036,42 @@
             });
         }
 
+        function startExamPrimaryQuiz(subject) {
+            isMockExam = true;
+            isTheoryMode = false;
+            selectedPrimarySubject = subject;
+            currentQuestionIndex = 0;
+            score = 0;
+            isPrimaryQuizMode = true;
+            timeRemaining = 45 * 60; // 45 phút đếm ngược chuẩn BGD
+
+            showPrimaryToast(`⏱️ Đang khởi tạo Đề Thi Thử Chuẩn BGD Lớp ${selectedPrimaryLevel}...`, true);
+            loadQuestionBank(selectedPrimaryLevel, subject, 40, function(classQuestions) {
+                filteredQuestions = shuffleArray(classQuestions).slice(0, 40);
+                answers = Array(filteredQuestions.length).fill(undefined);
+                startTimer();
+                renderQuiz();
+            });
+        }
+
+        function startSpeedPrimaryQuiz(subject) {
+            isMockExam = false;
+            isTheoryMode = false;
+            selectedPrimarySubject = subject;
+            currentQuestionIndex = 0;
+            score = 0;
+            isPrimaryQuizMode = true;
+            timeRemaining = 15; // 15 giây mỗi câu
+
+            showPrimaryToast(`⚡ Đang chuẩn bị Thử Thách Thần Tốc Lớp ${selectedPrimaryLevel}...`, true);
+            loadQuestionBank(selectedPrimaryLevel, subject, 15, function(classQuestions) {
+                filteredQuestions = shuffleArray(classQuestions).slice(0, 15);
+                answers = Array(filteredQuestions.length).fill(undefined);
+                startTimer();
+                renderQuiz();
+            });
+        }
+
 
         // Helper lấy danh sách thông báo từ hệ thống
         function loadSystemNotifications() {
@@ -10071,31 +10168,90 @@
                 'economics_law': { name: 'Kinh Tế & Pháp Luật', icon: '⚖️', desc: `KT&PL Lớp ${lvl}: Pháp luật đại cương, thị trường kinh tế & quyền công dân`, color: 'linear-gradient(135deg, #64748b 0%, #475569 100%)', lightBg: '#f8fafc', badge: 'Pháp Luật' }
             };
 
-            const subjectsHtml = primarySubjects.map(subKey => {
+            const getGlowRGB = (color) => {
+                if (color.includes('#10b981')) return '16,185,129';
+                if (color.includes('#0284c7') || color.includes('#0369a1')) return '2,132,199';
+                if (color.includes('#f43f5e') || color.includes('#be123c')) return '244,63,94';
+                if (color.includes('#8b5cf6') || color.includes('#6d28d9')) return '139,92,246';
+                if (color.includes('#f59e0b') || color.includes('#d97706')) return '245,158,11';
+                if (color.includes('#06b6d4') || color.includes('#0891b2')) return '6,182,212';
+                if (color.includes('#ec4899') || color.includes('#db2777')) return '236,72,153';
+                if (color.includes('#22c55e') || color.includes('#15803d')) return '34,197,94';
+                if (color.includes('#ea580c') || color.includes('#c2410c')) return '234,88,12';
+                if (color.includes('#14b8a6') || color.includes('#0f766e')) return '20,184,166';
+                return '100,116,139';
+            };
+
+            const subjectsHtml = primarySubjects.map((subKey, idx) => {
                 const meta = subjectMeta[subKey] || { name: subKey, icon: '📚', desc: `Chương trình bài học môn ${subKey} Lớp ${lvl}`, color: 'linear-gradient(135deg, #64748b 0%, #475569 100%)', lightBg: '#f8fafc', badge: 'Môn Học' };
+                const glow = getGlowRGB(meta.color);
+                const delay = idx * 70;
                 return `
-                    <div class="license-card" onclick="selectPrimarySubject('${subKey}')" style="background: rgba(255, 255, 255, 0.96); backdrop-filter: blur(16px); border-radius: 28px; border: 2px solid rgba(226, 232, 240, 0.9); padding: 26px; text-align: left; cursor: pointer; transition: all 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275); position: relative; overflow: hidden; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 10px 30px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-8px) scale(1.01)'; this.style.borderColor='#3b82f6'; this.style.boxShadow='0 20px 40px rgba(59, 130, 246, 0.18)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.borderColor='rgba(226, 232, 240, 0.9)'; this.style.boxShadow='0 10px 30px rgba(0,0,0,0.04)'">
-                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 6px; background: ${meta.color};"></div>
-                        <div>
-                            <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px;">
-                                <div style="width: 58px; height: 58px; border-radius: 18px; background: ${meta.lightBg}; display: flex; align-items: center; justify-content: center; font-size: 2.2rem; box-shadow: 0 8px 16px rgba(0,0,0,0.05);">
-                                    ${meta.icon}
-                                </div>
-                                <span style="background: #eff6ff; color: #2563eb; padding: 5px 14px; border-radius: 20px; font-weight: 800; font-size: 0.78rem; border: 1px solid #bfdbfe;">${meta.badge}</span>
+                    <div onclick="selectPrimarySubject('${subKey}')" style="
+                        background: rgba(13,21,44,0.9);
+                        backdrop-filter: blur(20px);
+                        -webkit-backdrop-filter: blur(20px);
+                        border-radius: 28px;
+                        border: 1.5px solid rgba(${glow},0.22);
+                        padding: 26px 24px;
+                        text-align: left;
+                        cursor: pointer;
+                        transition: all 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+                        position: relative;
+                        overflow: hidden;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: space-between;
+                        box-shadow: 0 12px 32px rgba(0,0,0,0.45);
+                        animation: fadeInUp 0.45s ease ${delay}ms both;
+                    " onmouseover="
+                        this.style.transform='translateY(-8px) scale(1.02)';
+                        this.style.borderColor='rgba(${glow},0.55)';
+                        this.style.boxShadow='0 22px 50px rgba(0,0,0,0.55), 0 0 0 1px rgba(${glow},0.3)';
+                    " onmouseout="
+                        this.style.transform='translateY(0) scale(1)';
+                        this.style.borderColor='rgba(${glow},0.22)';
+                        this.style.boxShadow='0 12px 32px rgba(0,0,0,0.45)';
+                    ">
+                        <div style="position:absolute; top:0; left:0; width:100%; height:4px; background:${meta.color}; border-radius:28px 28px 0 0;"></div>
+                        <div style="position:absolute; inset:0; background:radial-gradient(ellipse at 0% 0%, rgba(${glow},0.07) 0%, transparent 65%); pointer-events:none;"></div>
+                        <div style="position:relative; z-index:2;">
+                            <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:16px;">
+                                <div style="
+                                    width:60px; height:60px;
+                                    border-radius:18px;
+                                    background:rgba(${glow},0.15);
+                                    border:1.5px solid rgba(${glow},0.28);
+                                    display:flex; align-items:center; justify-content:center;
+                                    font-size:2.1rem;
+                                    box-shadow:0 6px 16px rgba(0,0,0,0.3);
+                                ">${meta.icon}</div>
+                                <span style="
+                                    background:rgba(${glow},0.13);
+                                    border:1px solid rgba(${glow},0.3);
+                                    color:rgb(${glow});
+                                    filter:brightness(1.6);
+                                    padding:5px 14px; border-radius:20px;
+                                    font-weight:800; font-size:0.75rem; letter-spacing:0.3px;
+                                ">${meta.badge}</span>
                             </div>
-                            <h3 style="font-size: 1.45rem; font-weight: 900; color: #0f172a; margin: 0 0 8px 0; letter-spacing: -0.3px;">${meta.name}</h3>
-                            <p style="font-size: 0.92rem; color: #64748b; margin: 0 0 18px 0; line-height: 1.6;">${meta.desc}</p>
-                            
-                            <!-- FEATURE PILL TAGS -->
-                            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px;">
-                                <span style="background: #f8fafc; color: #475569; padding: 4px 10px; border-radius: 10px; font-size: 0.76rem; font-weight: 700; border: 1px solid #e2e8f0;">⚡ 120+ Câu Trắc Nghiệm</span>
-                                <span style="background: #fdf4ff; color: #c026d3; padding: 4px 10px; border-radius: 10px; font-size: 0.76rem; font-weight: 700; border: 1px solid #f5d0fe;">💡 Bài Giải Mẫu Lớp ${lvl}</span>
+                            <h3 style="font-size:1.38rem; font-weight:900; color:#f1f5f9; margin:0 0 8px 0; letter-spacing:-0.3px;">${meta.name}</h3>
+                            <p style="font-size:0.87rem; color:#94a3b8; margin:0 0 16px 0; line-height:1.6;">${meta.desc}</p>
+                            <div style="display:flex; flex-wrap:wrap; gap:7px; margin-bottom:20px;">
+                                <span style="background:rgba(255,255,255,0.06); color:#cbd5e1; padding:4px 10px; border-radius:10px; font-size:0.72rem; font-weight:700; border:1px solid rgba(255,255,255,0.1);">⚡ 500 Câu Trắc Nghiệm</span>
+                                <span style="background:rgba(${glow},0.1); color:rgb(${glow}); filter:brightness(1.6); padding:4px 10px; border-radius:10px; font-size:0.72rem; font-weight:700; border:1px solid rgba(${glow},0.25);">🏆 Thi Thử Chuẩn BGD</span>
+                                <span style="background:rgba(168,85,247,0.12); color:#c084fc; padding:4px 10px; border-radius:10px; font-size:0.72rem; font-weight:700; border:1px solid rgba(168,85,247,0.25);">⚡ Thần Tốc Combo</span>
                             </div>
                         </div>
-
-                        <!-- CTA BUTTON -->
-                        <button class="btn btn-primary" style="background: ${meta.color}; border: none; border-radius: 18px; color: white; font-weight: 800; width: 100%; padding: 14px 0; font-size: 0.98rem; display: flex; align-items: center; justify-content: center; gap: 10px; box-shadow: 0 8px 20px rgba(0,0,0,0.12); transition: all 0.2s;">
-                            <span>Vào Bài Học & Bài Tập</span> <i class="fas fa-arrow-right" style="font-size: 0.9rem; transition: transform 0.2s;"></i>
+                        <button style="
+                            background:${meta.color};
+                            border:none; border-radius:18px; color:white;
+                            font-weight:800; width:100%; padding:13px 0;
+                            font-size:0.95rem; cursor:pointer; pointer-events:none;
+                            display:flex; align-items:center; justify-content:center; gap:10px;
+                            box-shadow:0 6px 18px rgba(${glow},0.35);
+                        ">
+                            <span>Vào Bài Học &amp; Luyện Thi</span> <i class="fas fa-arrow-right" style="font-size:0.85rem;"></i>
                         </button>
                     </div>
                 `;
@@ -10112,15 +10268,15 @@
                 <div class="dashboard-container" style="animation: fadeInUp 0.5s ease; max-width: 1200px; margin: 0 auto; padding: 0 15px;">
                     <!-- Navigation Header -->
                     <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 25px; flex-wrap: wrap; gap: 15px;">
-                        <button class="back-btn" onclick="navigateTo('PRIMARY_GRADE_SELECT')">
+                        <button class="back-btn" onclick="navigateTo('PRIMARY_GRADE_SELECT')" style="background: rgba(15,23,42,0.8); border: 1.5px solid rgba(0,242,254,0.3); color: #38bdf8; padding: 8px 20px; border-radius: 20px; font-weight:700; cursor:pointer; backdrop-filter: blur(10px); transition: all 0.3s;" onmouseover="this.style.borderColor='#00f2fe'; this.style.boxShadow='0 0 15px rgba(0,242,254,0.3)'" onmouseout="this.style.borderColor='rgba(0,242,254,0.3)'; this.style.boxShadow='none'">
                             <i class="fas fa-arrow-left"></i> Danh mục các lớp
                         </button>
 
                         <div style="display: flex; align-items: center; gap: 12px;">
-                            <span style="background: #eff6ff; color: #1d4ed8; padding: 8px 18px; border-radius: 20px; font-weight: 800; font-size: 0.95rem; border: 1px solid #bfdbfe; display: flex; align-items: center; gap: 8px;">
+                            <span style="background: rgba(56,189,248,0.12); color: #38bdf8; padding: 8px 18px; border-radius: 20px; font-weight: 800; font-size: 0.95rem; border: 1px solid rgba(56,189,248,0.3); display: flex; align-items: center; gap: 8px;">
                                 🎓 Bạn đang ở: <strong>Lớp ${lvl}</strong> (${levelTypeName})
                             </span>
-                            <button onclick="openGradeSelectorModal()" style="background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; border: none; padding: 9px 20px; border-radius: 20px; font-weight: 800; font-size: 0.9rem; cursor: pointer; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.25); transition: all 0.2s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+                            <button onclick="openGradeSelectorModal()" style="background: rgba(15,23,42,0.8); border: 1.5px solid rgba(0,242,254,0.4); color: #38bdf8; padding: 9px 20px; border-radius: 20px; font-weight: 800; font-size: 0.9rem; cursor: pointer; backdrop-filter:blur(10px); transition: all 0.3s;" onmouseover="this.style.borderColor='#00f2fe'; this.style.boxShadow='0 0 15px rgba(0,242,254,0.3)'" onmouseout="this.style.borderColor='rgba(0,242,254,0.4)'; this.style.boxShadow='none'">
                                 ⚙️ Đổi Lớp Học
                             </button>
                         </div>
@@ -10196,8 +10352,7 @@
 
                     <!-- SUBJECTS SECTION TITLE -->
                     <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
-                        <h2 style="font-size: 1.6rem; font-weight: 800; color: #0f172a; margin: 0; display: flex; align-items: center; gap: 10px;">
-                            📚 Khung Bài Học & Môn Học Lớp ${lvl}
+                        <h2 style="font-size: 1.6rem; font-weight: 800; color: #f1f5f9; margin: 0; display: flex; align-items: center; gap: 10px;">📚 Khung Bài Học & Môn Học Lớp ${lvl}
                         </h2>
                         <span style="font-size: 0.9rem; color: #64748b;">Chọn môn để bắt đầu ôn luyện</span>
                     </div>
@@ -10244,7 +10399,7 @@
                     </div>
 
                     <!-- WRONG ANSWERS & REPEAT ERROR ANALYTICS TABLE (SEPARATE BY GRADE) -->
-                    <div style="background: white; border-radius: 28px; border: 1.5px solid #e2e8f0; padding: 30px; margin-bottom: 40px; box-shadow: 0 4px 20px rgba(0,0,0,0.03);">
+                    <div style="background: rgba(13,21,44,0.9); backdrop-filter: blur(20px); border-radius: 28px; border: 1.5px solid rgba(244,63,94,0.2); padding: 30px; margin-bottom: 40px; box-shadow: 0 12px 32px rgba(0,0,0,0.4);">
                         <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; flex-wrap: wrap; gap: 10px;">
                             <div>
                                 <h3 style="font-size: 1.4rem; font-weight: 800; color: #0f172a; margin: 0 0 4px 0; display: flex; align-items: center; gap: 10px;">
@@ -10261,9 +10416,9 @@
                         </div>
 
                         ${currentGradeWrong.length === 0 ? `
-                            <div style="text-align: center; padding: 35px 20px; background: #f8fafc; border-radius: 20px; border: 2px dashed #e2e8f0;">
+                            <div style="text-align: center; padding: 35px 20px; background: rgba(255,255,255,0.04); border-radius: 20px; border: 2px dashed rgba(255,255,255,0.1);">
                                 <div style="font-size: 3rem; margin-bottom: 10px;">🎉</div>
-                                <div style="font-size: 1.1rem; font-weight: 800; color: #166534; margin-bottom: 4px;">Tất Cả Bài Học Lớp ${lvl} Đều Hoàn Hảo!</div>
+                                <div style="font-size: 1.1rem; font-weight: 800; color: #4ade80; margin-bottom: 4px;">Tất Cả Bài Học Lớp ${lvl} Đều Hoàn Hảo!</div>
                                 <div style="font-size: 0.9rem; color: #64748b;">Bạn chưa làm sai câu hỏi nào trong Lớp ${lvl}. Hãy tiếp tục phát huy nhé!</div>
                             </div>
                         ` : `
@@ -10276,7 +10431,7 @@
                                     const borderClr = isFrequent ? '#fca5a5' : '#e2e8f0';
 
                                     return `
-                                        <div style="background: white; border: 1.5px solid ${borderClr}; border-radius: 20px; padding: 18px 20px; display: flex; align-items: center; justify-content: space-between; gap: 15px; flex-wrap: wrap; transition: all 0.2s;" onmouseover="this.style.boxShadow='0 8px 20px rgba(0,0,0,0.04)'" onmouseout="this.style.boxShadow='none'">
+                                        <div style="background: rgba(13,21,44,0.85); border: 1.5px solid ${borderClr}; border-radius: 20px; padding: 18px 20px; display: flex; align-items: center; justify-content: space-between; gap: 15px; flex-wrap: wrap; transition: all 0.2s;" onmouseover="this.style.boxShadow='0 8px 20px rgba(0,0,0,0.04)'" onmouseout="this.style.boxShadow='none'">
                                             <div style="flex: 1; min-width: 250px;">
                                                 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px; flex-wrap: wrap;">
                                                     <span style="background: #e0f2fe; color: #0369a1; font-size: 0.75rem; font-weight: 800; padding: 2px 8px; border-radius: 10px;">
@@ -10287,8 +10442,8 @@
                                                     </span>
                                                     <span style="font-size: 0.8rem; color: #94a3b8;">🕒 ${item.timestamp || 'Gần đây'}</span>
                                                 </div>
-                                                <div style="font-size: 1.05rem; font-weight: 800; color: #0f172a; margin-bottom: 6px;">"${item.question}"</div>
-                                                <div style="font-size: 0.88rem; color: #475569; display: flex; gap: 15px; flex-wrap: wrap;">
+                                                <div style="font-size: 1.05rem; font-weight: 800; color: #f1f5f9; margin-bottom: 6px;">"${item.question}"</div>
+                                                <div style="font-size: 0.88rem; color: #94a3b8; display: flex; gap: 15px; flex-wrap: wrap;">
                                                     <span>❌ Bạn chọn: <strong style="color: #ef4444;">${item.userAns}</strong></span>
                                                     <span>✅ Đáp án đúng: <strong style="color: #16a34a;">${item.correctAns}</strong></span>
                                                 </div>
@@ -10306,20 +10461,19 @@
 
                                         <!-- NEWSPAPER ARTICLES / STUDY TIPS FEED -->
                     <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
-                        <h2 style="font-size: 1.6rem; font-weight: 800; color: #0f172a; margin: 0; display: flex; align-items: center; gap: 10px;">
-                            📰 Cẩm Nang & Bản Tin Học Tốt Lớp ${lvl}
+                        <h2 style="font-size: 1.6rem; font-weight: 800; color: #f1f5f9; margin: 0; display: flex; align-items: center; gap: 10px;">📰 Cẩm Nang & Bản Tin Học Tốt Lớp ${lvl}
                         </h2>
                         <span style="font-size: 0.9rem; color: #64748b;">Cập nhật bí quyết học tập mới nhất</span>
                     </div>
 
                     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; margin-bottom: 40px;">
                         ${newsFeedArticles.map(art => `
-                            <div onclick="openArticleReaderModal('${art.key}')" style="background: white; border-radius: 24px; border: 1.5px solid #e2e8f0; padding: 24px; transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.02); cursor: pointer;" onmouseover="this.style.transform='translateY(-6px)'; this.style.borderColor='#3b82f6'; this.style.boxShadow='0 15px 30px rgba(59,130,246,0.12)'" onmouseout="this.style.transform='translateY(0)'; this.style.borderColor='#e2e8f0'; this.style.boxShadow='none'">
+                            <div onclick="openArticleReaderModal('${art.key}')" style="background: rgba(13,21,44,0.88); backdrop-filter:blur(20px); border-radius: 24px; border: 1.5px solid rgba(56,189,248,0.15); padding: 24px; transition: all 0.3s ease; box-shadow: 0 8px 24px rgba(0,0,0,0.4); cursor: pointer;" onmouseover="this.style.transform='translateY(-6px)'; this.style.borderColor='rgba(56,189,248,0.4)'; this.style.boxShadow='0 16px 36px rgba(0,0,0,0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.borderColor='rgba(56,189,248,0.15)'; this.style.boxShadow='0 8px 24px rgba(0,0,0,0.4)'">
                                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
                                     <span style="background: #eff6ff; color: #2563eb; font-weight: 800; font-size: 0.78rem; padding: 4px 12px; border-radius: 12px;">${art.tag}</span>
                                     <span style="font-size: 0.8rem; color: #94a3b8;">${art.readTime}</span>
                                 </div>
-                                <h3 style="font-size: 1.2rem; font-weight: 800; color: #0f172a; margin: 0 0 10px 0; line-height: 1.4; display: flex; gap: 8px; align-items: flex-start;">
+                                <h3 style="font-size: 1.2rem; font-weight: 800; color: #f1f5f9; margin: 0 0 10px 0; line-height: 1.4; display: flex; gap: 8px; align-items: flex-start;">
                                     <span>${art.icon}</span> <span>${art.title}</span>
                                 </h3>
                                 <p style="font-size: 0.92rem; color: #64748b; margin: 0 0 16px 0; line-height: 1.6;">${art.desc}</p>
@@ -10440,25 +10594,27 @@
                 ];
             } else {
                 modules = [
-                    { id: 'quiz', title: 'Trắc Nghiệm Tổng Hợp', icon: '📝', desc: `Đề thi trắc nghiệm tổng hợp gồm 20 câu hỏi ngẫu nhiên môn ${title} Lớp ${selectedPrimaryLevel}.`, badge: '20 Câu', badgeClass: 'live', action: `startPrimaryQuiz('${selectedPrimarySubject}')` },
-                    { id: 'quick_quiz', title: 'Luyện Tập Nhanh', icon: '⚡', desc: `Luyện tập nhanh với 10 câu hỏi ngẫu nhiên môn ${title} Lớp ${selectedPrimaryLevel}.`, badge: '10 Câu', badgeClass: 'ai', action: `startQuickPrimaryQuiz('${selectedPrimarySubject}')` }
+                    { id: 'quiz', title: '🎓 Chế Độ Luyện Tập Tự Do', icon: '📝', desc: `Ôn tập 20 câu hỏi trắc nghiệm tự do môn ${title} Lớp ${selectedPrimaryLevel}, có đáp án và lời giải chi tiết tức thì.`, badge: '20 Câu • Tự Do', badgeClass: 'live', action: `startPrimaryQuiz('${selectedPrimarySubject}')` },
+                    { id: 'exam_quiz', title: '⏱️ Thi Thử Chuẩn Bộ GD&ĐT', icon: '🏆', desc: `Đề thi thử 40 câu trắc nghiệm đếm ngược 45 phút môn ${title} Lớp ${selectedPrimaryLevel}, có chấm điểm và phân tích kết quả.`, badge: '40 Câu • 45 Phút', badgeClass: 'ai', action: `startExamPrimaryQuiz('${selectedPrimarySubject}')` },
+                    { id: 'speed_quiz', title: '⚡ Thử Thách Thần Tốc', icon: '⚡', desc: `Thử thách phản xạ nhanh 15 câu với thời gian 15s/câu môn ${title} Lớp ${selectedPrimaryLevel}, tích lũy điểm combo XP!`, badge: '15s/Câu • Combo XP', badgeClass: 'live', action: `startSpeedPrimaryQuiz('${selectedPrimarySubject}')` }
                 ];
                 if (parseInt(selectedPrimaryLevel) >= 6) {
                     modules.push({
                         id: 'samples',
                         title: '📚 Bài Giải Mẫu & Văn Mẫu Chi Tiết',
                         icon: '📚',
-                        desc: `Xem kho bài giải chi tiết Lớp ${selectedPrimaryLevel} có đề bài đầy đủ, lời giải từng bước và văn mẫu đạt điểm cao.`,
-                        badge: 'Bài Mẫu Lớp ' + selectedPrimaryLevel,
+                        desc: `Xem kho bài giải chi tiết môn ${title} Lớp ${selectedPrimaryLevel} có lời giải từng bước và văn mẫu đạt điểm cao.`,
+                        badge: 'Lời Giải Chuẩn BGD',
                         badgeClass: 'ai',
                         action: `openSampleLibraryModal(${selectedPrimaryLevel})`
                     });
                 }
             }
 
-            let modulesHtml = modules.map(m => {
+            let modulesHtml = modules.map((m, idx) => {
+                const animDelay = idx * 80;
                 return `
-                    <div class="vn-module-card mod-${m.id}" onclick="${m.action}">
+                    <div class="vn-module-card mod-${m.id}" onclick="${m.action}" style="animation: fadeInUp 0.45s ease ${animDelay}ms both;">
                         <span class="vn-mod-icon">${m.icon}</span>
                         <div class="vn-mod-title">${m.title}</div>
                         <div class="vn-mod-desc">${m.desc}</div>
@@ -10519,17 +10675,44 @@
             }
 
             app.innerHTML = `
-                <div class="dashboard-container">
+                <div class="dashboard-container" style="animation: fadeInUp 0.4s ease;">
                     <div class="back-btn-container">
-                        <button class="back-btn" onclick="navigateTo('PRIMARY_CLASS')">
+                        <button class="back-btn" onclick="navigateTo('PRIMARY_CLASS')" style="background: rgba(15,23,42,0.8); border: 1.5px solid rgba(0,242,254,0.3); color: #38bdf8; padding: 8px 20px; border-radius: 20px; font-weight:700; cursor:pointer; backdrop-filter: blur(10px); transition: all 0.3s;" onmouseover="this.style.borderColor='#00f2fe'; this.style.boxShadow='0 0 15px rgba(0,242,254,0.3)'" onmouseout="this.style.borderColor='rgba(0,242,254,0.3)'; this.style.boxShadow='none'">
                             <i class="fas fa-arrow-left"></i> Quay lại chọn môn
                         </button>
                     </div>
-                    <div style="display:flex; align-items:center; gap: 12px; margin-bottom: 8px;">
-                        <span style="font-size: 2.2rem;">${icon}</span>
-                        <h2 class="dashboard-title" style="margin: 0;">Môn ${title} - Lớp ${selectedPrimaryLevel}</h2>
+
+                    <!-- Subject Hub Hero Banner -->
+                    <div style="
+                        background: linear-gradient(135deg, rgba(15,23,42,0.95) 0%, rgba(10,18,38,0.98) 100%);
+                        border: 1.5px solid rgba(56,189,248,0.2);
+                        border-radius: 24px;
+                        padding: 28px 30px;
+                        margin-bottom: 28px;
+                        display: flex;
+                        align-items: center;
+                        gap: 22px;
+                        flex-wrap: wrap;
+                        position: relative;
+                        overflow: hidden;
+                        box-shadow: 0 16px 40px rgba(0,0,0,0.5);
+                    ">
+                        <div style="position:absolute; inset:0; background: radial-gradient(ellipse at 15% 50%, rgba(56,189,248,0.07) 0%, transparent 60%); pointer-events:none;"></div>
+                        <div style="
+                            font-size: 4.2rem;
+                            filter: drop-shadow(0 4px 18px rgba(56,189,248,0.3));
+                            flex-shrink: 0;
+                            animation: floatIcon 4s ease-in-out infinite;
+                        ">${icon}</div>
+                        <div style="flex: 1; min-width: 200px;">
+                            <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px; flex-wrap: wrap;">
+                                <span style="font-size: 0.72rem; font-weight:800; background: rgba(56,189,248,0.15); border: 1px solid rgba(56,189,248,0.3); color: #38bdf8; padding: 3px 12px; border-radius: 20px; letter-spacing:0.5px;">LỚP ${selectedPrimaryLevel}</span>
+                                <span style="font-size: 0.72rem; font-weight:800; background: rgba(129,140,248,0.15); border: 1px solid rgba(129,140,248,0.3); color: #818cf8; padding: 3px 12px; border-radius: 20px; letter-spacing:0.5px;">CHUẨN GDPT 2018</span>
+                            </div>
+                            <h2 style="margin: 0 0 6px 0; font-size: 2rem; font-weight: 900; background: linear-gradient(135deg, #f1f5f9 0%, #38bdf8 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; line-height:1.15;">Môn ${title}</h2>
+                            <p style="margin:0; color:#94a3b8; font-size:0.9rem; font-weight:500;">Chọn chế độ học tập để rèn luyện tư duy, phản xạ và chinh phục bài thi chuẩn Bộ GD&amp;ĐT</p>
+                        </div>
                     </div>
-                    <p class="dashboard-subtitle">Chọn chế độ học tập để bắt đầu rèn luyện tư duy và phản xạ tương tác</p>
                     
                     <div class="vn-hub-grid">
                         ${modulesHtml}
