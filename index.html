@@ -3690,6 +3690,44 @@
   }
 </style>
 
+
+<style id="cls-performance-fixes">
+  /* Containment & Layout Shift Prevention */
+  #sample-list {
+    min-height: 320px;
+    contain: content;
+  }
+  .sample-card {
+    contain: layout style;
+    will-change: transform, opacity;
+  }
+  #sample-library-modal, #single-sample-modal {
+    contain: strict;
+    will-change: opacity;
+  }
+  
+  /* Smooth Tab Switches for Single Article View */
+  .article-sec-tab {
+    padding: 8px 14px;
+    border-radius: 14px;
+    font-weight: 800;
+    font-size: 0.8rem;
+    cursor: pointer;
+    border: 1px solid rgba(0, 242, 254, 0.25);
+    background: rgba(15, 25, 55, 0.7);
+    color: #94a3b8;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    touch-action: manipulation;
+  }
+  .article-sec-tab.active {
+    background: linear-gradient(135deg, #00f2fe, #3b82f6);
+    color: #050c23;
+    border-color: transparent;
+    box-shadow: 0 0 12px rgba(0, 242, 254, 0.35);
+  }
+</style>
+
 </head>
 
 <body>
@@ -3893,14 +3931,15 @@
         }
     
 </script>
-    <script src="assets/samples_grade1_5.js"></script>
-    <script src="assets/samples_grade7.js"></script>
-    <script src="assets/samples_grade8.js"></script>
-    <script src="assets/samples_grade9.js"></script>
-    <script src="assets/samples_grade10.js"></script>
-    <script src="assets/samples_grade11_12.js"></script>
-    <script src="assets/sample_viewer.js"></script>
-    <script src="assets/auth.js"></script>
+        <script defer src="assets/samples_grade1_5.js"></script>
+    <script defer src="assets/samples_grade6.js"></script>
+    <script defer src="assets/samples_grade7.js"></script>
+    <script defer src="assets/samples_grade8.js"></script>
+    <script defer src="assets/samples_grade9.js"></script>
+    <script defer src="assets/samples_grade10.js"></script>
+    <script defer src="assets/samples_grade11_12.js"></script>
+    <script defer src="assets/sample_viewer.js"></script>
+    <script defer src="assets/auth.js"></script>
 
     <script>
         // ===================== SVG BIỂN BÁO VIỆT NAM =====================
