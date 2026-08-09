@@ -2805,2698 +2805,2698 @@
     "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 18 = 342 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 256)",
+    "question": "Tính: 1/12 + 2/12 = ? [Mã câu 256]",
     "options": [
-      "4/24",
-      "3/12",
+      "3/24",
+      "2/12",
       "4/12",
-      "5/12"
+      "3/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 2 = 3/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 257)",
+    "question": "Tính: 1/12 + 3/12 = ? [Mã câu 257]",
     "options": [
-      "4/24",
       "3/12",
       "4/12",
-      "5/12"
+      "5/12",
+      "4/24"
     ],
-    "correct": 2,
+    "correct": 1,
     "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 258)",
+    "question": "Tính: 1/12 + 4/12 = ? [Mã câu 258]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "5/12",
+      "5/24",
+      "6/12",
+      "5/6"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 4 = 5/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 259)",
+    "question": "Tính: 1/12 + 5/12 = ? [Mã câu 259]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "7/12",
+      "6/6",
+      "6/12",
+      "6/24"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 5 = 6/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 260)",
+    "question": "Tính: 1/12 + 6/12 = ? [Mã câu 260]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "7/12",
+      "6/12",
+      "7/6",
+      "8/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 6 = 7/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 261)",
+    "question": "Tính: 1/12 + 7/12 = ? [Mã câu 261]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "8/12",
+      "7/12",
+      "8/24",
+      "9/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 7 = 8/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 262)",
+    "question": "Tính: 1/12 + 8/12 = ? [Mã câu 262]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/12",
+      "9/12",
+      "9/24",
+      "8/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 8 = 9/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 263)",
+    "question": "Tính: 1/12 + 9/12 = ? [Mã câu 263]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/24",
+      "11/12",
+      "10/6",
+      "10/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 9 = 10/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 264)",
+    "question": "Tính: 2/12 + 1/12 = ? [Mã câu 264]",
     "options": [
-      "4/24",
+      "3/6",
+      "2/12",
       "3/12",
-      "4/12",
-      "5/12"
+      "3/24"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 1 = 3/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 265)",
+    "question": "Tính: 2/12 + 3/12 = ? [Mã câu 265]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "5/24",
+      "5/6",
+      "5/12",
+      "6/12"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 3 = 5/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 266)",
+    "question": "Tính: 2/12 + 4/12 = ? [Mã câu 266]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "6/12",
+      "6/6",
+      "7/12",
+      "6/24"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 4 = 6/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 267)",
+    "question": "Tính: 2/12 + 5/12 = ? [Mã câu 267]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "7/24",
+      "7/6",
+      "6/12",
+      "7/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 5 = 7/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 268)",
+    "question": "Tính: 2/12 + 6/12 = ? [Mã câu 268]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "8/12",
+      "8/24",
+      "7/12",
+      "8/6"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 6 = 8/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 269)",
+    "question": "Tính: 2/12 + 7/12 = ? [Mã câu 269]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "8/12",
+      "9/24",
+      "9/12",
+      "10/12"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 7 = 9/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 270)",
+    "question": "Tính: 2/12 + 8/12 = ? [Mã câu 270]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/12",
+      "9/12",
+      "10/24",
+      "11/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 8 = 10/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 271)",
+    "question": "Tính: 2/12 + 9/12 = ? [Mã câu 271]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "11/24",
+      "11/6",
+      "11/12",
+      "12/12"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 2 + 9 = 11/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 272)",
+    "question": "Tính: 3/12 + 1/12 = ? [Mã câu 272]",
     "options": [
-      "4/24",
+      "5/12",
       "3/12",
       "4/12",
-      "5/12"
+      "4/24"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 1 = 4/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 273)",
+    "question": "Tính: 3/12 + 2/12 = ? [Mã câu 273]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "5/6",
+      "5/24",
+      "5/12",
+      "4/12"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 2 = 5/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 274)",
+    "question": "Tính: 3/12 + 4/12 = ? [Mã câu 274]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "7/6",
+      "8/12",
+      "7/12",
+      "6/12"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 4 = 7/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 275)",
+    "question": "Tính: 3/12 + 5/12 = ? [Mã câu 275]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "8/24",
+      "8/12",
+      "7/12",
+      "8/6"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 5 = 8/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 276)",
+    "question": "Tính: 3/12 + 6/12 = ? [Mã câu 276]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "8/12",
+      "9/24",
+      "10/12",
+      "9/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 6 = 9/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 277)",
+    "question": "Tính: 3/12 + 7/12 = ? [Mã câu 277]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/24",
+      "11/12",
+      "10/6",
+      "10/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 7 = 10/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 278)",
+    "question": "Tính: 3/12 + 8/12 = ? [Mã câu 278]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "11/24",
+      "11/12",
+      "12/12",
+      "10/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 8 = 11/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 279)",
+    "question": "Tính: 3/12 + 9/12 = ? [Mã câu 279]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "13/12",
+      "12/24",
+      "12/6",
+      "12/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 3 + 9 = 12/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 280)",
+    "question": "Tính: 4/12 + 1/12 = ? [Mã câu 280]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "5/12",
+      "6/12",
+      "5/24",
+      "4/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 1 = 5/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 281)",
+    "question": "Tính: 4/12 + 2/12 = ? [Mã câu 281]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "6/6",
+      "5/12",
+      "6/12",
+      "6/24"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 2 = 6/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 282)",
+    "question": "Tính: 4/12 + 3/12 = ? [Mã câu 282]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "6/12",
+      "7/24",
+      "7/12",
+      "7/6"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 3 = 7/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 283)",
+    "question": "Tính: 4/12 + 5/12 = ? [Mã câu 283]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "9/24",
+      "8/12",
+      "9/6",
+      "9/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 5 = 9/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 284)",
+    "question": "Tính: 4/12 + 6/12 = ? [Mã câu 284]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/6",
+      "11/12",
+      "10/12",
+      "10/24"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 6 = 10/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 285)",
+    "question": "Tính: 4/12 + 7/12 = ? [Mã câu 285]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "12/12",
+      "11/6",
+      "11/24",
+      "11/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 7 = 11/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 286)",
+    "question": "Tính: 4/12 + 8/12 = ? [Mã câu 286]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "12/12",
+      "13/12",
+      "12/24",
+      "12/6"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 8 = 12/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 287)",
+    "question": "Tính: 4/12 + 9/12 = ? [Mã câu 287]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "13/6",
+      "13/12",
+      "14/12",
+      "13/24"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 4 + 9 = 13/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 288)",
+    "question": "Tính: 5/12 + 1/12 = ? [Mã câu 288]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "5/12",
+      "7/12",
+      "6/24",
+      "6/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 1 = 6/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 289)",
+    "question": "Tính: 5/12 + 2/12 = ? [Mã câu 289]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "7/12",
+      "7/24",
+      "6/12",
+      "7/6"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 2 = 7/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 290)",
+    "question": "Tính: 5/12 + 3/12 = ? [Mã câu 290]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "7/12",
+      "8/24",
+      "8/6",
+      "8/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 3 = 8/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 291)",
+    "question": "Tính: 5/12 + 4/12 = ? [Mã câu 291]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/12",
+      "8/12",
+      "9/12",
+      "9/24"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 4 = 9/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 292)",
+    "question": "Tính: 5/12 + 6/12 = ? [Mã câu 292]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/12",
+      "12/12",
+      "11/12",
+      "11/24"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 6 = 11/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 293)",
+    "question": "Tính: 5/12 + 7/12 = ? [Mã câu 293]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "13/12",
+      "12/12",
+      "12/24",
+      "11/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 7 = 12/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 294)",
+    "question": "Tính: 5/12 + 8/12 = ? [Mã câu 294]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "13/6",
+      "14/12",
+      "13/12",
+      "12/12"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 8 = 13/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 295)",
+    "question": "Tính: 5/12 + 9/12 = ? [Mã câu 295]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "14/12",
+      "14/6",
+      "14/24",
+      "13/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 5 + 9 = 14/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 296)",
+    "question": "Tính: 6/12 + 1/12 = ? [Mã câu 296]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "8/12",
+      "6/12",
+      "7/12",
+      "7/6"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 1 = 7/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 297)",
+    "question": "Tính: 6/12 + 2/12 = ? [Mã câu 297]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "8/24",
+      "8/6",
+      "9/12",
+      "8/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 2 = 8/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 298)",
+    "question": "Tính: 6/12 + 3/12 = ? [Mã câu 298]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/12",
+      "9/24",
+      "9/12",
+      "9/6"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 3 = 9/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 299)",
+    "question": "Tính: 6/12 + 4/12 = ? [Mã câu 299]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/6",
+      "11/12",
+      "9/12",
+      "10/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 4 = 10/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 300)",
+    "question": "Tính: 6/12 + 5/12 = ? [Mã câu 300]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/12",
+      "11/24",
+      "11/12",
+      "12/12"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 5 = 11/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 301)",
+    "question": "Tính: 6/12 + 7/12 = ? [Mã câu 301]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "13/24",
+      "13/12",
+      "14/12",
+      "13/6"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 7 = 13/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 302)",
+    "question": "Tính: 6/12 + 8/12 = ? [Mã câu 302]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "13/12",
+      "14/12",
+      "15/12",
+      "14/24"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 8 = 14/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 303)",
+    "question": "Tính: 6/12 + 9/12 = ? [Mã câu 303]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "15/6",
+      "15/24",
+      "15/12",
+      "16/12"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 6 + 9 = 15/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 304)",
+    "question": "Tính: 7/12 + 1/12 = ? [Mã câu 304]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "7/12",
+      "8/12",
+      "8/24",
+      "8/6"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 1 = 8/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 305)",
+    "question": "Tính: 7/12 + 2/12 = ? [Mã câu 305]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "9/24",
+      "9/6",
+      "10/12",
+      "9/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 2 = 9/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 306)",
+    "question": "Tính: 7/12 + 3/12 = ? [Mã câu 306]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "9/12",
+      "10/12",
+      "11/12",
+      "10/24"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 3 = 10/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 307)",
+    "question": "Tính: 7/12 + 4/12 = ? [Mã câu 307]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/12",
+      "11/6",
+      "11/12",
+      "12/12"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 4 = 11/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 308)",
+    "question": "Tính: 7/12 + 5/12 = ? [Mã câu 308]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "12/6",
+      "11/12",
+      "12/12",
+      "12/24"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 5 = 12/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 309)",
+    "question": "Tính: 7/12 + 6/12 = ? [Mã câu 309]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "14/12",
+      "12/12",
+      "13/12",
+      "13/24"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 6 = 13/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 310)",
+    "question": "Tính: 7/12 + 8/12 = ? [Mã câu 310]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "15/12",
+      "15/6",
+      "15/24",
+      "16/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 8 = 15/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 311)",
+    "question": "Tính: 7/12 + 9/12 = ? [Mã câu 311]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "16/12",
+      "16/24",
+      "16/6",
+      "15/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 7 + 9 = 16/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 312)",
+    "question": "Tính: 8/12 + 1/12 = ? [Mã câu 312]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "9/24",
+      "8/12",
+      "9/12",
+      "10/12"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 1 = 9/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 313)",
+    "question": "Tính: 8/12 + 2/12 = ? [Mã câu 313]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/12",
+      "9/12",
+      "11/12",
+      "10/6"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 2 = 10/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 314)",
+    "question": "Tính: 8/12 + 3/12 = ? [Mã câu 314]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10/12",
+      "11/12",
+      "12/12",
+      "11/6"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 3 = 11/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 315)",
+    "question": "Tính: 8/12 + 4/12 = ? [Mã câu 315]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "12/12",
+      "13/12",
+      "12/6",
+      "11/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 4 = 12/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 316)",
+    "question": "Tính: 8/12 + 5/12 = ? [Mã câu 316]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "13/24",
+      "13/12",
+      "14/12",
+      "13/6"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 5 = 13/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 317)",
+    "question": "Tính: 8/12 + 6/12 = ? [Mã câu 317]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "14/12",
+      "14/6",
+      "15/12",
+      "13/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 6 = 14/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 318)",
+    "question": "Tính: 8/12 + 7/12 = ? [Mã câu 318]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "15/12",
+      "15/24",
+      "15/6",
+      "14/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 7 = 15/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 319)",
+    "question": "Tính: 8/12 + 9/12 = ? [Mã câu 319]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "17/6",
+      "17/12",
+      "18/12",
+      "17/24"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 8 + 9 = 17/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 320)",
+    "question": "Tính: 9/12 + 1/12 = ? [Mã câu 320]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "11/12",
+      "10/24",
+      "10/12",
+      "10/6"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 1 = 10/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 321)",
+    "question": "Tính: 9/12 + 2/12 = ? [Mã câu 321]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "11/6",
+      "11/12",
+      "12/12",
+      "11/24"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 2 = 11/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 322)",
+    "question": "Tính: 9/12 + 3/12 = ? [Mã câu 322]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "12/24",
+      "13/12",
+      "11/12",
+      "12/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 3 = 12/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 323)",
+    "question": "Tính: 9/12 + 4/12 = ? [Mã câu 323]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "13/12",
+      "14/12",
+      "13/6",
+      "12/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 4 = 13/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 324)",
+    "question": "Tính: 9/12 + 5/12 = ? [Mã câu 324]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "14/12",
+      "13/12",
+      "14/6",
+      "15/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 5 = 14/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 325)",
+    "question": "Tính: 9/12 + 6/12 = ? [Mã câu 325]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "15/12",
+      "15/6",
+      "14/12",
+      "16/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 6 = 15/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 326)",
+    "question": "Tính: 9/12 + 7/12 = ? [Mã câu 326]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "16/12",
+      "15/12",
+      "16/6",
+      "16/24"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 7 = 16/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 327)",
+    "question": "Tính: 9/12 + 8/12 = ? [Mã câu 327]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "16/12",
+      "18/12",
+      "17/6",
+      "17/12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Cùng mẫu số 12: ta cộng tử số 9 + 8 = 17/12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 328)",
+    "question": "Trung bình cộng của hai số 10 và 10 là: [Mã câu 328]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10",
+      "15",
+      "12",
+      "8"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (10 + 10) : 2 = 20 : 2 = 10."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 329)",
+    "question": "Trung bình cộng của hai số 10 và 15 là: [Mã câu 329]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "10",
+      "14",
+      "12",
+      "7"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (10 + 15) : 2 = 25 : 2 = 12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 330)",
+    "question": "Trung bình cộng của hai số 10 và 20 là: [Mã câu 330]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "13",
+      "10",
+      "15",
+      "17"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (10 + 20) : 2 = 30 : 2 = 15."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 331)",
+    "question": "Trung bình cộng của hai số 10 và 25 là: [Mã câu 331]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "17",
+      "12",
+      "22",
+      "19"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (10 + 25) : 2 = 35 : 2 = 17."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 332)",
+    "question": "Trung bình cộng của hai số 10 và 30 là: [Mã câu 332]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "15",
+      "20",
+      "22",
+      "25"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (10 + 30) : 2 = 40 : 2 = 20."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 333)",
+    "question": "Trung bình cộng của hai số 10 và 35 là: [Mã câu 333]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "20",
+      "17",
+      "24",
+      "22"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (10 + 35) : 2 = 45 : 2 = 22."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 334)",
+    "question": "Trung bình cộng của hai số 10 và 40 là: [Mã câu 334]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "25",
+      "20",
+      "27",
+      "23"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (10 + 40) : 2 = 50 : 2 = 25."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 335)",
+    "question": "Trung bình cộng của hai số 10 và 45 là: [Mã câu 335]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "25",
+      "22",
+      "29",
+      "27"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (10 + 45) : 2 = 55 : 2 = 27."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 336)",
+    "question": "Trung bình cộng của hai số 15 và 10 là: [Mã câu 336]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "14",
+      "7",
+      "17",
+      "12"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (15 + 10) : 2 = 25 : 2 = 12."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 337)",
+    "question": "Trung bình cộng của hai số 15 và 15 là: [Mã câu 337]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "15",
+      "20",
+      "17",
+      "10"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (15 + 15) : 2 = 30 : 2 = 15."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 338)",
+    "question": "Trung bình cộng của hai số 15 và 20 là: [Mã câu 338]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "12",
+      "15",
+      "19",
+      "17"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (15 + 20) : 2 = 35 : 2 = 17."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 339)",
+    "question": "Trung bình cộng của hai số 15 và 25 là: [Mã câu 339]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "22",
+      "18",
+      "20",
+      "15"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (15 + 25) : 2 = 40 : 2 = 20."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 340)",
+    "question": "Trung bình cộng của hai số 15 và 30 là: [Mã câu 340]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "22",
+      "20",
+      "27",
+      "24"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (15 + 30) : 2 = 45 : 2 = 22."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 341)",
+    "question": "Trung bình cộng của hai số 15 và 35 là: [Mã câu 341]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "30",
+      "20",
+      "25",
+      "23"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (15 + 35) : 2 = 50 : 2 = 25."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 342)",
+    "question": "Trung bình cộng của hai số 15 và 40 là: [Mã câu 342]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "27",
+      "29",
+      "22",
+      "32"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (15 + 40) : 2 = 55 : 2 = 27."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 343)",
+    "question": "Trung bình cộng của hai số 15 và 45 là: [Mã câu 343]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "30",
+      "28",
+      "25",
+      "32"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (15 + 45) : 2 = 60 : 2 = 30."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 344)",
+    "question": "Trung bình cộng của hai số 20 và 10 là: [Mã câu 344]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "20",
+      "15",
+      "13",
+      "17"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (20 + 10) : 2 = 30 : 2 = 15."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 345)",
+    "question": "Trung bình cộng của hai số 20 và 15 là: [Mã câu 345]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "12",
+      "19",
+      "17",
+      "22"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (20 + 15) : 2 = 35 : 2 = 17."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 346)",
+    "question": "Trung bình cộng của hai số 20 và 20 là: [Mã câu 346]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "18",
+      "20",
+      "25",
+      "22"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (20 + 20) : 2 = 40 : 2 = 20."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 347)",
+    "question": "Trung bình cộng của hai số 20 và 25 là: [Mã câu 347]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "27",
+      "20",
+      "22",
+      "17"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (20 + 25) : 2 = 45 : 2 = 22."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 348)",
+    "question": "Trung bình cộng của hai số 20 và 30 là: [Mã câu 348]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "20",
+      "25",
+      "23",
+      "30"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (20 + 30) : 2 = 50 : 2 = 25."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 349)",
+    "question": "Trung bình cộng của hai số 20 và 35 là: [Mã câu 349]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "29",
+      "27",
+      "22",
+      "25"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (20 + 35) : 2 = 55 : 2 = 27."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 350)",
+    "question": "Trung bình cộng của hai số 20 và 40 là: [Mã câu 350]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "28",
+      "30",
+      "25",
+      "32"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (20 + 40) : 2 = 60 : 2 = 30."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 351)",
+    "question": "Trung bình cộng của hai số 20 và 45 là: [Mã câu 351]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "30",
+      "37",
+      "32",
+      "27"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (20 + 45) : 2 = 65 : 2 = 32."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 352)",
+    "question": "Trung bình cộng của hai số 25 và 10 là: [Mã câu 352]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "12",
+      "15",
+      "22",
+      "17"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (25 + 10) : 2 = 35 : 2 = 17."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 353)",
+    "question": "Trung bình cộng của hai số 25 và 15 là: [Mã câu 353]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "20",
+      "18",
+      "22",
+      "25"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (25 + 15) : 2 = 40 : 2 = 20."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 354)",
+    "question": "Trung bình cộng của hai số 25 và 20 là: [Mã câu 354]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "27",
+      "17",
+      "22",
+      "20"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (25 + 20) : 2 = 45 : 2 = 22."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 355)",
+    "question": "Trung bình cộng của hai số 25 và 25 là: [Mã câu 355]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "25",
+      "27",
+      "23",
+      "20"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (25 + 25) : 2 = 50 : 2 = 25."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 356)",
+    "question": "Trung bình cộng của hai số 25 và 30 là: [Mã câu 356]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "29",
+      "32",
+      "25",
+      "27"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (25 + 30) : 2 = 55 : 2 = 27."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 357)",
+    "question": "Trung bình cộng của hai số 25 và 35 là: [Mã câu 357]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "28",
+      "35",
+      "30",
+      "32"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (25 + 35) : 2 = 60 : 2 = 30."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 358)",
+    "question": "Trung bình cộng của hai số 25 và 40 là: [Mã câu 358]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "37",
+      "34",
+      "27",
+      "32"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (25 + 40) : 2 = 65 : 2 = 32."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 359)",
+    "question": "Trung bình cộng của hai số 25 và 45 là: [Mã câu 359]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "37",
+      "33",
+      "35",
+      "40"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (25 + 45) : 2 = 70 : 2 = 35."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 360)",
+    "question": "Trung bình cộng của hai số 30 và 10 là: [Mã câu 360]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "18",
+      "22",
+      "25",
+      "20"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (30 + 10) : 2 = 40 : 2 = 20."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 361)",
+    "question": "Trung bình cộng của hai số 30 và 15 là: [Mã câu 361]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "27",
+      "17",
+      "22",
+      "24"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (30 + 15) : 2 = 45 : 2 = 22."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 362)",
+    "question": "Trung bình cộng của hai số 30 và 20 là: [Mã câu 362]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "23",
+      "25",
+      "27",
+      "20"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (30 + 20) : 2 = 50 : 2 = 25."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 363)",
+    "question": "Trung bình cộng của hai số 30 và 25 là: [Mã câu 363]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "32",
+      "27",
+      "25",
+      "22"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (30 + 25) : 2 = 55 : 2 = 27."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 364)",
+    "question": "Trung bình cộng của hai số 30 và 30 là: [Mã câu 364]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "25",
+      "30",
+      "32",
+      "28"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (30 + 30) : 2 = 60 : 2 = 30."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 365)",
+    "question": "Trung bình cộng của hai số 30 và 35 là: [Mã câu 365]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "37",
+      "32",
+      "34",
+      "30"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (30 + 35) : 2 = 65 : 2 = 32."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 366)",
+    "question": "Trung bình cộng của hai số 30 và 40 là: [Mã câu 366]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "30",
+      "40",
+      "33",
+      "35"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (30 + 40) : 2 = 70 : 2 = 35."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 367)",
+    "question": "Trung bình cộng của hai số 30 và 45 là: [Mã câu 367]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "37",
+      "42",
+      "35",
+      "32"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (30 + 45) : 2 = 75 : 2 = 37."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 368)",
+    "question": "Trung bình cộng của hai số 35 và 10 là: [Mã câu 368]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "27",
+      "20",
+      "22",
+      "17"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (35 + 10) : 2 = 45 : 2 = 22."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 369)",
+    "question": "Trung bình cộng của hai số 35 và 15 là: [Mã câu 369]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "23",
+      "27",
+      "25",
+      "20"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (35 + 15) : 2 = 50 : 2 = 25."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 370)",
+    "question": "Trung bình cộng của hai số 35 và 20 là: [Mã câu 370]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "29",
+      "25",
+      "32",
+      "27"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (35 + 20) : 2 = 55 : 2 = 27."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 371)",
+    "question": "Trung bình cộng của hai số 35 và 25 là: [Mã câu 371]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "30",
+      "25",
+      "28",
+      "32"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (35 + 25) : 2 = 60 : 2 = 30."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 372)",
+    "question": "Trung bình cộng của hai số 35 và 30 là: [Mã câu 372]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "32",
+      "37",
+      "27",
+      "30"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (35 + 30) : 2 = 65 : 2 = 32."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 373)",
+    "question": "Trung bình cộng của hai số 35 và 35 là: [Mã câu 373]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "37",
+      "33",
+      "35",
+      "30"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (35 + 35) : 2 = 70 : 2 = 35."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 374)",
+    "question": "Trung bình cộng của hai số 35 và 40 là: [Mã câu 374]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "32",
+      "42",
+      "37",
+      "39"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (35 + 40) : 2 = 75 : 2 = 37."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 375)",
+    "question": "Trung bình cộng của hai số 35 và 45 là: [Mã câu 375]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "38",
+      "35",
+      "45",
+      "40"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (35 + 45) : 2 = 80 : 2 = 40."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 376)",
+    "question": "Trung bình cộng của hai số 40 và 10 là: [Mã câu 376]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "30",
+      "27",
+      "25",
+      "23"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (40 + 10) : 2 = 50 : 2 = 25."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 377)",
+    "question": "Trung bình cộng của hai số 40 và 15 là: [Mã câu 377]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "27",
+      "22",
+      "32",
+      "25"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (40 + 15) : 2 = 55 : 2 = 27."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 378)",
+    "question": "Trung bình cộng của hai số 40 và 20 là: [Mã câu 378]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "28",
+      "32",
+      "25",
+      "30"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (40 + 20) : 2 = 60 : 2 = 30."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 379)",
+    "question": "Trung bình cộng của hai số 40 và 25 là: [Mã câu 379]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "37",
+      "30",
+      "32",
+      "34"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (40 + 25) : 2 = 65 : 2 = 32."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 380)",
+    "question": "Trung bình cộng của hai số 40 và 30 là: [Mã câu 380]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "37",
+      "35",
+      "40",
+      "30"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (40 + 30) : 2 = 70 : 2 = 35."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 381)",
+    "question": "Trung bình cộng của hai số 40 và 35 là: [Mã câu 381]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "42",
+      "35",
+      "37",
+      "32"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (40 + 35) : 2 = 75 : 2 = 37."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 382)",
+    "question": "Trung bình cộng của hai số 40 và 40 là: [Mã câu 382]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "35",
+      "42",
+      "38",
+      "40"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (40 + 40) : 2 = 80 : 2 = 40."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 383)",
+    "question": "Trung bình cộng của hai số 40 và 45 là: [Mã câu 383]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "44",
+      "42",
+      "37",
+      "47"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (40 + 45) : 2 = 85 : 2 = 42."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 384)",
+    "question": "Trung bình cộng của hai số 45 và 10 là: [Mã câu 384]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "32",
+      "22",
+      "29",
+      "27"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (45 + 10) : 2 = 55 : 2 = 27."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 385)",
+    "question": "Trung bình cộng của hai số 45 và 15 là: [Mã câu 385]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "28",
+      "32",
+      "25",
+      "30"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (45 + 15) : 2 = 60 : 2 = 30."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 386)",
+    "question": "Trung bình cộng của hai số 45 và 20 là: [Mã câu 386]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "37",
+      "34",
+      "27",
+      "32"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Trung bình cộng = (45 + 20) : 2 = 65 : 2 = 32."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 387)",
+    "question": "Trung bình cộng của hai số 45 và 25 là: [Mã câu 387]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "35",
+      "33",
+      "30",
+      "37"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (45 + 25) : 2 = 70 : 2 = 35."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 388)",
+    "question": "Trung bình cộng của hai số 45 và 30 là: [Mã câu 388]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "42",
+      "32",
+      "37",
+      "35"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (45 + 30) : 2 = 75 : 2 = 37."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 389)",
+    "question": "Trung bình cộng của hai số 45 và 35 là: [Mã câu 389]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "40",
+      "45",
+      "38",
+      "42"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Trung bình cộng = (45 + 35) : 2 = 80 : 2 = 40."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 390)",
+    "question": "Trung bình cộng của hai số 45 và 40 là: [Mã câu 390]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "47",
+      "42",
+      "37",
+      "40"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Trung bình cộng = (45 + 40) : 2 = 85 : 2 = 42."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 391)",
+    "question": "Trung bình cộng của hai số 45 và 45 là: [Mã câu 391]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "40",
+      "50",
+      "45",
+      "43"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Trung bình cộng = (45 + 45) : 2 = 90 : 2 = 45."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 392)",
+    "question": "Diện tích hình bình hành có độ dài đáy 6 cm và chiều cao 4 cm là: [Mã câu 392]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "24 cm²",
+      "26 cm²",
+      "30 cm²",
+      "18 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 6 × 4 = 24 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 393)",
+    "question": "Diện tích hình bình hành có độ dài đáy 6 cm và chiều cao 5 cm là: [Mã câu 393]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "30 cm²",
+      "24 cm²",
+      "32 cm²",
+      "28 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 6 × 5 = 30 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 394)",
+    "question": "Diện tích hình bình hành có độ dài đáy 7 cm và chiều cao 4 cm là: [Mã câu 394]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "30 cm²",
+      "35 cm²",
+      "26 cm²",
+      "28 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 7 × 4 = 28 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 395)",
+    "question": "Diện tích hình bình hành có độ dài đáy 7 cm và chiều cao 5 cm là: [Mã câu 395]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "42 cm²",
+      "28 cm²",
+      "35 cm²",
+      "33 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 7 × 5 = 35 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 396)",
+    "question": "Diện tích hình bình hành có độ dài đáy 7 cm và chiều cao 6 cm là: [Mã câu 396]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "49 cm²",
+      "44 cm²",
+      "40 cm²",
+      "42 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 7 × 6 = 42 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 397)",
+    "question": "Diện tích hình bình hành có độ dài đáy 8 cm và chiều cao 4 cm là: [Mã câu 397]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "24 cm²",
+      "32 cm²",
+      "40 cm²",
+      "34 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 8 × 4 = 32 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 398)",
+    "question": "Diện tích hình bình hành có độ dài đáy 8 cm và chiều cao 5 cm là: [Mã câu 398]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "40 cm²",
+      "32 cm²",
+      "48 cm²",
+      "42 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 8 × 5 = 40 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 399)",
+    "question": "Diện tích hình bình hành có độ dài đáy 8 cm và chiều cao 6 cm là: [Mã câu 399]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "56 cm²",
+      "48 cm²",
+      "46 cm²",
+      "50 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 8 × 6 = 48 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 400)",
+    "question": "Diện tích hình bình hành có độ dài đáy 8 cm và chiều cao 7 cm là: [Mã câu 400]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "54 cm²",
+      "56 cm²",
+      "64 cm²",
+      "58 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 8 × 7 = 56 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 401)",
+    "question": "Diện tích hình bình hành có độ dài đáy 9 cm và chiều cao 4 cm là: [Mã câu 401]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "34 cm²",
+      "27 cm²",
+      "36 cm²",
+      "45 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 9 × 4 = 36 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 402)",
+    "question": "Diện tích hình bình hành có độ dài đáy 9 cm và chiều cao 5 cm là: [Mã câu 402]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "43 cm²",
+      "47 cm²",
+      "45 cm²",
+      "54 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 9 × 5 = 45 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 403)",
+    "question": "Diện tích hình bình hành có độ dài đáy 9 cm và chiều cao 6 cm là: [Mã câu 403]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "56 cm²",
+      "54 cm²",
+      "45 cm²",
+      "63 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 9 × 6 = 54 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 404)",
+    "question": "Diện tích hình bình hành có độ dài đáy 9 cm và chiều cao 7 cm là: [Mã câu 404]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "61 cm²",
+      "54 cm²",
+      "72 cm²",
+      "63 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 9 × 7 = 63 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 405)",
+    "question": "Diện tích hình bình hành có độ dài đáy 9 cm và chiều cao 8 cm là: [Mã câu 405]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "72 cm²",
+      "74 cm²",
+      "70 cm²",
+      "63 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 9 × 8 = 72 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 406)",
+    "question": "Diện tích hình bình hành có độ dài đáy 10 cm và chiều cao 4 cm là: [Mã câu 406]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "42 cm²",
+      "50 cm²",
+      "38 cm²",
+      "40 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 10 × 4 = 40 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 407)",
+    "question": "Diện tích hình bình hành có độ dài đáy 10 cm và chiều cao 5 cm là: [Mã câu 407]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "50 cm²",
+      "48 cm²",
+      "60 cm²",
+      "52 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 10 × 5 = 50 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 408)",
+    "question": "Diện tích hình bình hành có độ dài đáy 10 cm và chiều cao 6 cm là: [Mã câu 408]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "62 cm²",
+      "58 cm²",
+      "70 cm²",
+      "60 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 10 × 6 = 60 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 409)",
+    "question": "Diện tích hình bình hành có độ dài đáy 10 cm và chiều cao 7 cm là: [Mã câu 409]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "72 cm²",
+      "80 cm²",
+      "70 cm²",
+      "60 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 10 × 7 = 70 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 410)",
+    "question": "Diện tích hình bình hành có độ dài đáy 10 cm và chiều cao 8 cm là: [Mã câu 410]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "78 cm²",
+      "80 cm²",
+      "82 cm²",
+      "90 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 10 × 8 = 80 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 411)",
+    "question": "Diện tích hình bình hành có độ dài đáy 10 cm và chiều cao 9 cm là: [Mã câu 411]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "90 cm²",
+      "92 cm²",
+      "88 cm²",
+      "80 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 10 × 9 = 90 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 412)",
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 4 cm là: [Mã câu 412]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "44 cm²",
+      "42 cm²",
+      "33 cm²",
+      "55 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 4 = 44 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 413)",
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 5 cm là: [Mã câu 413]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "53 cm²",
+      "44 cm²",
+      "57 cm²",
+      "55 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 5 = 55 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 414)",
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 6 cm là: [Mã câu 414]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "68 cm²",
+      "55 cm²",
+      "77 cm²",
+      "66 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 6 = 66 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 415)",
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 7 cm là: [Mã câu 415]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "66 cm²",
+      "77 cm²",
+      "79 cm²",
+      "75 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 7 = 77 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 416)",
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 8 cm là: [Mã câu 416]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "90 cm²",
+      "88 cm²",
+      "77 cm²",
+      "99 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 8 = 88 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 417)",
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 9 cm là: [Mã câu 417]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "99 cm²",
+      "101 cm²",
+      "97 cm²",
+      "110 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 9 = 99 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 418)",
+    "question": "Diện tích hình bình hành có độ dài đáy 11 cm và chiều cao 10 cm là: [Mã câu 418]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "112 cm²",
+      "121 cm²",
+      "99 cm²",
+      "110 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 11 × 10 = 110 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 419)",
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 4 cm là: [Mã câu 419]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "48 cm²",
+      "60 cm²",
+      "36 cm²",
+      "46 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 4 = 48 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 420)",
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 5 cm là: [Mã câu 420]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "60 cm²",
+      "62 cm²",
+      "58 cm²",
+      "48 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 5 = 60 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 421)",
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 6 cm là: [Mã câu 421]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "60 cm²",
+      "70 cm²",
+      "74 cm²",
+      "72 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 6 = 72 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 422)",
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 7 cm là: [Mã câu 422]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "72 cm²",
+      "86 cm²",
+      "96 cm²",
+      "84 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 7 = 84 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 423)",
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 8 cm là: [Mã câu 423]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "96 cm²",
+      "98 cm²",
+      "84 cm²",
+      "108 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 8 = 96 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 424)",
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 9 cm là: [Mã câu 424]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "106 cm²",
+      "96 cm²",
+      "110 cm²",
+      "108 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 9 = 108 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 425)",
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 10 cm là: [Mã câu 425]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "122 cm²",
+      "132 cm²",
+      "120 cm²",
+      "118 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 10 = 120 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 426)",
+    "question": "Diện tích hình bình hành có độ dài đáy 12 cm và chiều cao 11 cm là: [Mã câu 426]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "144 cm²",
+      "132 cm²",
+      "134 cm²",
+      "130 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 12 × 11 = 132 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 427)",
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 4 cm là: [Mã câu 427]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "52 cm²",
+      "54 cm²",
+      "65 cm²",
+      "39 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 4 = 52 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 428)",
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 5 cm là: [Mã câu 428]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "65 cm²",
+      "52 cm²",
+      "63 cm²",
+      "78 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 5 = 65 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 429)",
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 6 cm là: [Mã câu 429]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "91 cm²",
+      "76 cm²",
+      "78 cm²",
+      "80 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 6 = 78 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 430)",
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 7 cm là: [Mã câu 430]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "91 cm²",
+      "89 cm²",
+      "93 cm²",
+      "104 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 7 = 91 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 431)",
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 8 cm là: [Mã câu 431]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "117 cm²",
+      "91 cm²",
+      "106 cm²",
+      "104 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 8 = 104 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 432)",
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 9 cm là: [Mã câu 432]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "117 cm²",
+      "130 cm²",
+      "115 cm²",
+      "119 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 9 = 117 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 433)",
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 10 cm là: [Mã câu 433]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "128 cm²",
+      "130 cm²",
+      "117 cm²",
+      "143 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 10 = 130 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 434)",
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 11 cm là: [Mã câu 434]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "156 cm²",
+      "141 cm²",
+      "130 cm²",
+      "143 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 11 = 143 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 435)",
+    "question": "Diện tích hình bình hành có độ dài đáy 13 cm và chiều cao 12 cm là: [Mã câu 435]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "156 cm²",
+      "169 cm²",
+      "158 cm²",
+      "154 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 13 × 12 = 156 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 436)",
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 4 cm là: [Mã câu 436]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "56 cm²",
+      "42 cm²",
+      "54 cm²",
+      "70 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 4 = 56 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 437)",
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 5 cm là: [Mã câu 437]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "68 cm²",
+      "72 cm²",
+      "70 cm²",
+      "84 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 5 = 70 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 438)",
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 6 cm là: [Mã câu 438]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "98 cm²",
+      "84 cm²",
+      "70 cm²",
+      "86 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 6 = 84 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 439)",
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 7 cm là: [Mã câu 439]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "98 cm²",
+      "112 cm²",
+      "84 cm²",
+      "96 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 7 = 98 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 440)",
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 8 cm là: [Mã câu 440]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "126 cm²",
+      "114 cm²",
+      "98 cm²",
+      "112 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 8 = 112 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 441)",
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 9 cm là: [Mã câu 441]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "124 cm²",
+      "126 cm²",
+      "140 cm²",
+      "112 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 9 = 126 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 442)",
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 10 cm là: [Mã câu 442]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "140 cm²",
+      "154 cm²",
+      "142 cm²",
+      "138 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 10 = 140 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 443)",
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 11 cm là: [Mã câu 443]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "168 cm²",
+      "156 cm²",
+      "154 cm²",
+      "140 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 11 = 154 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 444)",
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 12 cm là: [Mã câu 444]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "168 cm²",
+      "182 cm²",
+      "170 cm²",
+      "154 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 12 = 168 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 445)",
+    "question": "Diện tích hình bình hành có độ dài đáy 14 cm và chiều cao 13 cm là: [Mã câu 445]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "196 cm²",
+      "168 cm²",
+      "184 cm²",
+      "182 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 14 × 13 = 182 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 446)",
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 4 cm là: [Mã câu 446]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "62 cm²",
+      "75 cm²",
+      "45 cm²",
+      "60 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 4 = 60 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 447)",
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 5 cm là: [Mã câu 447]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "90 cm²",
+      "60 cm²",
+      "75 cm²",
+      "77 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 5 = 75 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 448)",
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 6 cm là: [Mã câu 448]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "75 cm²",
+      "90 cm²",
+      "92 cm²",
+      "88 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 6 = 90 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 449)",
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 7 cm là: [Mã câu 449]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "90 cm²",
+      "103 cm²",
+      "120 cm²",
+      "105 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 7 = 105 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 450)",
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 8 cm là: [Mã câu 450]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "105 cm²",
+      "122 cm²",
+      "120 cm²",
+      "118 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 8 = 120 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 451)",
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 9 cm là: [Mã câu 451]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "137 cm²",
+      "150 cm²",
+      "135 cm²",
+      "120 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 9 = 135 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 452)",
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 10 cm là: [Mã câu 452]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "152 cm²",
+      "135 cm²",
+      "150 cm²",
+      "165 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 10 = 150 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 453)",
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 11 cm là: [Mã câu 453]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "165 cm²",
+      "163 cm²",
+      "180 cm²",
+      "167 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 11 = 165 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 454)",
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 12 cm là: [Mã câu 454]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "178 cm²",
+      "180 cm²",
+      "182 cm²",
+      "165 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 12 = 180 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 455)",
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 13 cm là: [Mã câu 455]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "195 cm²",
+      "197 cm²",
+      "210 cm²",
+      "180 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 13 = 195 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 456)",
+    "question": "Diện tích hình bình hành có độ dài đáy 15 cm và chiều cao 14 cm là: [Mã câu 456]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "210 cm²",
+      "212 cm²",
+      "208 cm²",
+      "195 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 15 × 14 = 210 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 457)",
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 4 cm là: [Mã câu 457]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "48 cm²",
+      "66 cm²",
+      "64 cm²",
+      "62 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 4 = 64 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 458)",
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 5 cm là: [Mã câu 458]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "64 cm²",
+      "96 cm²",
+      "82 cm²",
+      "80 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 5 = 80 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 459)",
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 6 cm là: [Mã câu 459]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "98 cm²",
+      "94 cm²",
+      "96 cm²",
+      "80 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 6 = 96 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 460)",
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 7 cm là: [Mã câu 460]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "112 cm²",
+      "96 cm²",
+      "128 cm²",
+      "114 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 7 = 112 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 461)",
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 8 cm là: [Mã câu 461]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "130 cm²",
+      "144 cm²",
+      "128 cm²",
+      "126 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 8 = 128 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 462)",
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 9 cm là: [Mã câu 462]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "142 cm²",
+      "160 cm²",
+      "144 cm²",
+      "146 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 9 = 144 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 463)",
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 10 cm là: [Mã câu 463]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "158 cm²",
+      "160 cm²",
+      "162 cm²",
+      "144 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 10 = 160 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 464)",
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 11 cm là: [Mã câu 464]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "178 cm²",
+      "176 cm²",
+      "174 cm²",
+      "160 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 11 = 176 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 465)",
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 12 cm là: [Mã câu 465]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "192 cm²",
+      "194 cm²",
+      "208 cm²",
+      "176 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 12 = 192 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 466)",
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 13 cm là: [Mã câu 466]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "208 cm²",
+      "224 cm²",
+      "192 cm²",
+      "206 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 13 = 208 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 467)",
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 14 cm là: [Mã câu 467]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "208 cm²",
+      "226 cm²",
+      "224 cm²",
+      "222 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 14 = 224 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 468)",
+    "question": "Diện tích hình bình hành có độ dài đáy 16 cm và chiều cao 15 cm là: [Mã câu 468]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "238 cm²",
+      "242 cm²",
+      "224 cm²",
+      "240 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 16 × 15 = 240 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 469)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 4 cm là: [Mã câu 469]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "66 cm²",
+      "68 cm²",
+      "70 cm²",
+      "51 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 4 = 68 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 470)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 5 cm là: [Mã câu 470]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "83 cm²",
+      "85 cm²",
+      "87 cm²",
+      "68 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 5 = 85 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 471)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 6 cm là: [Mã câu 471]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "119 cm²",
+      "102 cm²",
+      "100 cm²",
+      "104 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 6 = 102 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 472)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 7 cm là: [Mã câu 472]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "121 cm²",
+      "117 cm²",
+      "102 cm²",
+      "119 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 7 = 119 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 473)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 8 cm là: [Mã câu 473]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "136 cm²",
+      "153 cm²",
+      "138 cm²",
+      "134 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 8 = 136 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 474)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 9 cm là: [Mã câu 474]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "136 cm²",
+      "153 cm²",
+      "155 cm²",
+      "170 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 9 = 153 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 475)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 10 cm là: [Mã câu 475]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "153 cm²",
+      "168 cm²",
+      "170 cm²",
+      "187 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 10 = 170 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 476)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 11 cm là: [Mã câu 476]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "187 cm²",
+      "170 cm²",
+      "189 cm²",
+      "185 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 11 = 187 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 477)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 12 cm là: [Mã câu 477]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "221 cm²",
+      "204 cm²",
+      "206 cm²",
+      "202 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 12 = 204 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 478)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 13 cm là: [Mã câu 478]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "219 cm²",
+      "238 cm²",
+      "221 cm²",
+      "204 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 13 = 221 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 479)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 14 cm là: [Mã câu 479]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "238 cm²",
+      "240 cm²",
+      "255 cm²",
+      "221 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 14 = 238 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 480)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 15 cm là: [Mã câu 480]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "255 cm²",
+      "238 cm²",
+      "272 cm²",
+      "253 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 15 = 255 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 481)",
+    "question": "Diện tích hình bình hành có độ dài đáy 17 cm và chiều cao 16 cm là: [Mã câu 481]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "272 cm²",
+      "274 cm²",
+      "270 cm²",
+      "289 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 17 × 16 = 272 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 482)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 4 cm là: [Mã câu 482]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "74 cm²",
+      "70 cm²",
+      "90 cm²",
+      "72 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 4 = 72 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 483)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 5 cm là: [Mã câu 483]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "108 cm²",
+      "92 cm²",
+      "90 cm²",
+      "88 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 5 = 90 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 484)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 6 cm là: [Mã câu 484]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "110 cm²",
+      "90 cm²",
+      "108 cm²",
+      "106 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 6 = 108 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 485)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 7 cm là: [Mã câu 485]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "124 cm²",
+      "126 cm²",
+      "128 cm²",
+      "144 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 7 = 126 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 486)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 8 cm là: [Mã câu 486]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "144 cm²",
+      "146 cm²",
+      "162 cm²",
+      "142 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 8 = 144 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 487)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 9 cm là: [Mã câu 487]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "160 cm²",
+      "144 cm²",
+      "162 cm²",
+      "180 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 9 = 162 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 488)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 10 cm là: [Mã câu 488]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "162 cm²",
+      "182 cm²",
+      "180 cm²",
+      "178 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 10 = 180 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 489)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 11 cm là: [Mã câu 489]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "198 cm²",
+      "196 cm²",
+      "200 cm²",
+      "180 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 11 = 198 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 490)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 12 cm là: [Mã câu 490]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "214 cm²",
+      "216 cm²",
+      "234 cm²",
+      "198 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 12 = 216 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 491)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 13 cm là: [Mã câu 491]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "252 cm²",
+      "216 cm²",
+      "234 cm²",
+      "232 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 13 = 234 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 492)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 14 cm là: [Mã câu 492]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "250 cm²",
+      "252 cm²",
+      "234 cm²",
+      "270 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 14 = 252 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 493)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 15 cm là: [Mã câu 493]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "270 cm²",
+      "272 cm²",
+      "288 cm²",
+      "268 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 0,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 15 = 270 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 494)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 16 cm là: [Mã câu 494]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "306 cm²",
+      "290 cm²",
+      "270 cm²",
+      "288 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 16 = 288 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 495)",
+    "question": "Diện tích hình bình hành có độ dài đáy 18 cm và chiều cao 17 cm là: [Mã câu 495]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "324 cm²",
+      "308 cm²",
+      "304 cm²",
+      "306 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 18 × 17 = 306 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 496)",
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 4 cm là: [Mã câu 496]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "74 cm²",
+      "95 cm²",
+      "76 cm²",
+      "57 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 4 = 76 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 497)",
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 5 cm là: [Mã câu 497]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "114 cm²",
+      "97 cm²",
+      "93 cm²",
+      "95 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 5 = 95 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 498)",
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 6 cm là: [Mã câu 498]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "116 cm²",
+      "133 cm²",
+      "112 cm²",
+      "114 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 3,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 6 = 114 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 499)",
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 7 cm là: [Mã câu 499]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "152 cm²",
+      "114 cm²",
+      "133 cm²",
+      "135 cm²"
     ],
     "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 7 = 133 cm²."
   },
   {
-    "question": "Tính: 1/12 + 3/12 = ? (Dạng luyện tập 500)",
+    "question": "Diện tích hình bình hành có độ dài đáy 19 cm và chiều cao 8 cm là: [Mã câu 500]",
     "options": [
-      "4/24",
-      "3/12",
-      "4/12",
-      "5/12"
+      "150 cm²",
+      "152 cm²",
+      "133 cm²",
+      "154 cm²"
     ],
-    "correct": 2,
-    "explain": "Cùng mẫu số 12: ta cộng tử số 1 + 3 = 4/12."
+    "correct": 1,
+    "explain": "Diện tích hình bình hành = Đáy × Chiều cao = 19 × 8 = 152 cm²."
   }
 ]
