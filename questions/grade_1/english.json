@@ -968,84 +968,524 @@
     "explain": "'J' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'K' trong các đáp án:",
+    "question": "Từ 'APPLE' trong tiếng Anh có nghĩa là gì? (Biến thể 2)",
     "options": [
-      "K",
+      "quả táo",
+      "banana",
+      "grape",
+      "orange"
+    ],
+    "correct": 0,
+    "explain": "'APPLE' = quả táo."
+  },
+  {
+    "question": "Từ 'BANANA' trong tiếng Anh có nghĩa là gì? (Biến thể 2)",
+    "options": [
+      "quả chuối",
+      "apple",
+      "grape",
+      "orange"
+    ],
+    "correct": 0,
+    "explain": "'BANANA' = quả chuối."
+  },
+  {
+    "question": "Từ 'CAT' trong tiếng Anh có nghĩa là gì? (Biến thể 2)",
+    "options": [
+      "fish",
+      "bird",
+      "con mèo",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'CAT' = con mèo."
+  },
+  {
+    "question": "Từ 'DOG' trong tiếng Anh có nghĩa là gì? (Biến thể 2)",
+    "options": [
+      "con chó",
+      "cat",
+      "fish",
+      "bird"
+    ],
+    "correct": 0,
+    "explain": "'DOG' = con chó."
+  },
+  {
+    "question": "Từ 'RED' trong tiếng Anh có nghĩa là gì? (Biến thể 2)",
+    "options": [
+      "green",
+      "blue",
+      "màu đỏ",
+      "yellow"
+    ],
+    "correct": 2,
+    "explain": "'RED' = màu đỏ."
+  },
+  {
+    "question": "Từ 'BLUE' trong tiếng Anh có nghĩa là gì? (Biến thể 2)",
+    "options": [
+      "yellow",
+      "màu xanh dương",
+      "green",
+      "red"
+    ],
+    "correct": 1,
+    "explain": "'BLUE' = màu xanh dương."
+  },
+  {
+    "question": "Từ 'ONE' trong tiếng Anh có nghĩa là gì? (Biến thể 2)",
+    "options": [
+      "four",
+      "một",
+      "three",
+      "two"
+    ],
+    "correct": 1,
+    "explain": "'ONE' = một."
+  },
+  {
+    "question": "Từ 'TWO' trong tiếng Anh có nghĩa là gì? (Biến thể 2)",
+    "options": [
+      "four",
+      "one",
+      "three",
+      "hai"
+    ],
+    "correct": 3,
+    "explain": "'TWO' = hai."
+  },
+  {
+    "question": "Từ 'THREE' trong tiếng Anh có nghĩa là gì? (Biến thể 2)",
+    "options": [
+      "two",
+      "one",
+      "four",
+      "ba"
+    ],
+    "correct": 3,
+    "explain": "'THREE' = ba."
+  },
+  {
+    "question": "Từ 'FOUR' trong tiếng Anh có nghĩa là gì? (Biến thể 2)",
+    "options": [
+      "three",
+      "one",
+      "two",
+      "bốn"
+    ],
+    "correct": 3,
+    "explain": "'FOUR' = bốn."
+  },
+  {
+    "question": "Từ 'FIVE' trong tiếng Anh có nghĩa là gì? (Biến thể 2)",
+    "options": [
+      "eight",
+      "seven",
+      "six",
+      "năm"
+    ],
+    "correct": 3,
+    "explain": "'FIVE' = năm."
+  },
+  {
+    "question": "Từ 'SIX' trong tiếng Anh có nghĩa là gì? (Biến thể 2)",
+    "options": [
+      "five",
+      "sáu",
+      "seven",
+      "eight"
+    ],
+    "correct": 1,
+    "explain": "'SIX' = sáu."
+  },
+  {
+    "question": "Từ 'SEVEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "five",
+      "eight",
+      "bảy",
+      "six"
+    ],
+    "correct": 2,
+    "explain": "'SEVEN' = bảy."
+  },
+  {
+    "question": "Từ 'EIGHT' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "seven",
+      "tám",
+      "five",
+      "six"
+    ],
+    "correct": 1,
+    "explain": "'EIGHT' = tám."
+  },
+  {
+    "question": "Từ 'NINE' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "ten",
+      "chín",
+      "seven",
+      "six"
+    ],
+    "correct": 1,
+    "explain": "'NINE' = chín."
+  },
+  {
+    "question": "Từ 'TEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "seven",
+      "six",
+      "mười",
+      "nine"
+    ],
+    "correct": 2,
+    "explain": "'TEN' = mười."
+  },
+  {
+    "question": "Từ 'MOTHER' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "brother",
+      "father",
+      "mẹ",
+      "sister"
+    ],
+    "correct": 2,
+    "explain": "'MOTHER' = mẹ."
+  },
+  {
+    "question": "Từ 'FATHER' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "sister",
+      "mother",
+      "brother",
+      "bố"
+    ],
+    "correct": 3,
+    "explain": "'FATHER' = bố."
+  },
+  {
+    "question": "Từ 'SCHOOL' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "trường học",
+      "store",
+      "house",
+      "park"
+    ],
+    "correct": 0,
+    "explain": "'SCHOOL' = trường học."
+  },
+  {
+    "question": "Từ 'BOOK' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "ruler",
+      "bag",
+      "sách",
+      "pen"
+    ],
+    "correct": 2,
+    "explain": "'BOOK' = sách."
+  },
+  {
+    "question": "Từ 'PEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "ruler",
+      "bút",
+      "book",
+      "bag"
+    ],
+    "correct": 1,
+    "explain": "'PEN' = bút."
+  },
+  {
+    "question": "Từ 'BAG' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "book",
+      "cái cặp",
+      "pen",
+      "ruler"
+    ],
+    "correct": 1,
+    "explain": "'BAG' = cái cặp."
+  },
+  {
+    "question": "Từ 'BIG' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "small",
+      "long",
+      "short",
+      "to lớn"
+    ],
+    "correct": 3,
+    "explain": "'BIG' = to lớn."
+  },
+  {
+    "question": "Từ 'SMALL' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "big",
+      "short",
+      "nhỏ",
+      "long"
+    ],
+    "correct": 2,
+    "explain": "'SMALL' = nhỏ."
+  },
+  {
+    "question": "Từ 'HOT' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "cold",
+      "nóng",
+      "warm",
+      "cool"
+    ],
+    "correct": 1,
+    "explain": "'HOT' = nóng."
+  },
+  {
+    "question": "Từ 'COLD' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "cool",
+      "hot",
+      "warm",
+      "lạnh"
+    ],
+    "correct": 3,
+    "explain": "'COLD' = lạnh."
+  },
+  {
+    "question": "Từ 'SUN' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "mặt trời",
+      "star",
+      "cloud",
+      "moon"
+    ],
+    "correct": 0,
+    "explain": "'SUN' = mặt trời."
+  },
+  {
+    "question": "Từ 'MOON' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "sun",
+      "mặt trăng",
+      "cloud",
+      "star"
+    ],
+    "correct": 1,
+    "explain": "'MOON' = mặt trăng."
+  },
+  {
+    "question": "Từ 'BIRD' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "dog",
+      "con chim",
+      "cat",
+      "fish"
+    ],
+    "correct": 1,
+    "explain": "'BIRD' = con chim."
+  },
+  {
+    "question": "Từ 'FISH' trong tiếng Anh có nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "bird",
+      "con cá",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'FISH' = con cá."
+  },
+  {
+    "question": "Chữ cái thứ 1 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 1 là 'A'."
+  },
+  {
+    "question": "Chữ cái thứ 2 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "C",
       "B",
+      "A",
+      "D"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 2 là 'B'."
+  },
+  {
+    "question": "Chữ cái thứ 3 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "B",
+      "D",
       "C",
       "A"
     ],
-    "correct": 0,
-    "explain": "'K' là chữ cái tiếng Anh."
+    "correct": 2,
+    "explain": "Chữ cái thứ 3 là 'C'."
   },
   {
-    "question": "Tìm chữ 'L' trong các đáp án:",
+    "question": "Chữ cái thứ 4 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
     "options": [
-      "A",
       "B",
       "C",
-      "L"
+      "D",
+      "A"
     ],
-    "correct": 3,
-    "explain": "'L' là chữ cái tiếng Anh."
+    "correct": 2,
+    "explain": "Chữ cái thứ 4 là 'D'."
   },
   {
-    "question": "Tìm chữ 'M' trong các đáp án:",
+    "question": "Chữ cái thứ 5 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
     "options": [
       "A",
-      "M",
+      "E",
       "B",
       "C"
     ],
     "correct": 1,
-    "explain": "'M' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 5 là 'E'."
   },
   {
-    "question": "Tìm chữ 'N' trong các đáp án:",
+    "question": "Chữ cái thứ 6 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
     "options": [
-      "N",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'N' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'O' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
       "A",
-      "O"
-    ],
-    "correct": 3,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
-    "options": [
       "C",
-      "A",
-      "P",
+      "F",
       "B"
     ],
     "correct": 2,
-    "explain": "'P' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 6 là 'F'."
   },
   {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
+    "question": "Chữ cái thứ 7 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
     "options": [
-      "B",
+      "C",
+      "A",
+      "G",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 7 là 'G'."
+  },
+  {
+    "question": "Chữ cái thứ 8 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "C",
+      "A",
+      "H",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 8 là 'H'."
+  },
+  {
+    "question": "Chữ cái thứ 9 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "I",
       "A",
       "C",
-      "Q"
+      "B"
     ],
-    "correct": 3,
-    "explain": "'Q' là chữ cái tiếng Anh."
+    "correct": 0,
+    "explain": "Chữ cái thứ 9 là 'I'."
   },
   {
-    "question": "Tìm chữ 'R' trong các đáp án:",
+    "question": "Chữ cái thứ 10 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "A",
+      "J",
+      "B",
+      "C"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 10 là 'J'."
+  },
+  {
+    "question": "Chữ cái thứ 11 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "A",
+      "B",
+      "K",
+      "C"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 11 là 'K'."
+  },
+  {
+    "question": "Chữ cái thứ 12 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "B",
+      "L",
+      "C",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 12 là 'L'."
+  },
+  {
+    "question": "Chữ cái thứ 13 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "M",
+      "B",
+      "A",
+      "C"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 13 là 'M'."
+  },
+  {
+    "question": "Chữ cái thứ 14 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "N",
+      "A",
+      "C",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 14 là 'N'."
+  },
+  {
+    "question": "Chữ cái thứ 15 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "O",
+      "A",
+      "C",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 15 là 'O'."
+  },
+  {
+    "question": "Chữ cái thứ 16 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "B",
+      "P",
+      "C",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 16 là 'P'."
+  },
+  {
+    "question": "Chữ cái thứ 17 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "B",
+      "C",
+      "Q",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 17 là 'Q'."
+  },
+  {
+    "question": "Chữ cái thứ 18 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
     "options": [
       "B",
       "A",
@@ -1053,32 +1493,32 @@
       "C"
     ],
     "correct": 2,
-    "explain": "'R' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 18 là 'R'."
   },
   {
-    "question": "Tìm chữ 'S' trong các đáp án:",
+    "question": "Chữ cái thứ 19 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "S"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 19 là 'S'."
+  },
+  {
+    "question": "Chữ cái thứ 20 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
     "options": [
       "B",
-      "C",
-      "S",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "T",
       "A",
       "C",
-      "B"
+      "T"
     ],
-    "correct": 0,
-    "explain": "'T' là chữ cái tiếng Anh."
+    "correct": 3,
+    "explain": "Chữ cái thứ 20 là 'T'."
   },
   {
-    "question": "Tìm chữ 'U' trong các đáp án:",
+    "question": "Chữ cái thứ 21 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
     "options": [
       "A",
       "C",
@@ -1086,208 +1526,890 @@
       "B"
     ],
     "correct": 2,
-    "explain": "'U' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 21 là 'U'."
   },
   {
-    "question": "Tìm chữ 'V' trong các đáp án:",
+    "question": "Chữ cái thứ 22 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "C",
+      "B",
+      "V",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 22 là 'V'."
+  },
+  {
+    "question": "Chữ cái thứ 23 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
     "options": [
       "A",
       "B",
-      "V",
+      "W",
       "C"
     ],
     "correct": 2,
-    "explain": "'V' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 23 là 'W'."
   },
   {
-    "question": "Tìm chữ 'W' trong các đáp án:",
+    "question": "Chữ cái thứ 24 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
     "options": [
-      "W",
+      "B",
+      "X",
+      "C",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 24 là 'X'."
+  },
+  {
+    "question": "Chữ cái thứ 25 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "B",
+      "A",
+      "Y",
+      "C"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 25 là 'Y'."
+  },
+  {
+    "question": "Chữ cái thứ 26 trong bảng chữ cái tiếng Anh là? (Biến thể 3)",
+    "options": [
+      "Z",
       "C",
       "B",
       "A"
     ],
     "correct": 0,
-    "explain": "'W' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 26 là 'Z'."
   },
   {
-    "question": "Tìm chữ 'X' trong các đáp án:",
+    "question": "'Hello' nghĩa là gì? (Biến thể 3)",
     "options": [
-      "C",
-      "X",
-      "B",
-      "A"
+      "Cảm ơn",
+      "Tạm biệt",
+      "Xin lỗi",
+      "Xin chào"
     ],
-    "correct": 1,
-    "explain": "'X' là chữ cái tiếng Anh."
+    "correct": 3,
+    "explain": "'Hello' = Xin chào trong tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
+    "question": "'Goodbye' nghĩa là gì? (Biến thể 3)",
     "options": [
-      "B",
+      "Xin chào",
+      "Xin lỗi",
+      "Tạm biệt",
+      "Cảm ơn"
+    ],
+    "correct": 2,
+    "explain": "'Goodbye' = Tạm biệt."
+  },
+  {
+    "question": "'Thank you' nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "Cảm ơn",
+      "Tạm biệt",
+      "Xin lỗi",
+      "Xin chào"
+    ],
+    "correct": 0,
+    "explain": "'Thank you' = Cảm ơn."
+  },
+  {
+    "question": "'Sorry' nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "Xin chào",
+      "Tạm biệt",
+      "Cảm ơn",
+      "Xin lỗi"
+    ],
+    "correct": 3,
+    "explain": "'Sorry' = Xin lỗi."
+  },
+  {
+    "question": "'Yes' nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "Không",
+      "Chưa",
+      "Có/Đúng",
+      "Được"
+    ],
+    "correct": 2,
+    "explain": "'Yes' = Có, Đúng."
+  },
+  {
+    "question": "'No' nghĩa là gì? (Biến thể 3)",
+    "options": [
+      "Rồi",
+      "Có",
+      "Không",
+      "Được"
+    ],
+    "correct": 2,
+    "explain": "'No' = Không."
+  },
+  {
+    "question": "Tìm chữ 'K' trong các đáp án: (Biến thể 4)",
+    "options": [
       "C",
-      "Y",
+      "B",
+      "K",
       "A"
     ],
     "correct": 2,
+    "explain": "'K' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'L' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "L"
+    ],
+    "correct": 3,
+    "explain": "'L' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'M' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "M"
+    ],
+    "correct": 3,
+    "explain": "'M' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'N' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "N"
+    ],
+    "correct": 3,
+    "explain": "'N' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'O' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "B",
+      "O",
+      "A",
+      "C"
+    ],
+    "correct": 1,
+    "explain": "'O' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'P' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "B",
+      "C",
+      "P",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'P' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'Q' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "Q",
+      "C",
+      "B",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'Q' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'R' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "A",
+      "R",
+      "C",
+      "B"
+    ],
+    "correct": 1,
+    "explain": "'R' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'S' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "S",
+      "B",
+      "C",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'S' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'T' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "B",
+      "T",
+      "A",
+      "C"
+    ],
+    "correct": 1,
+    "explain": "'T' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'U' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "U"
+    ],
+    "correct": 3,
+    "explain": "'U' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'V' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "B",
+      "V",
+      "C",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'V' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'W' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "W"
+    ],
+    "correct": 3,
+    "explain": "'W' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'X' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "X"
+    ],
+    "correct": 3,
+    "explain": "'X' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'Y' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "Y"
+    ],
+    "correct": 3,
     "explain": "'Y' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
+    "question": "Tìm chữ 'Z' trong các đáp án: (Biến thể 4)",
     "options": [
-      "B",
       "A",
+      "C",
       "Z",
-      "C"
+      "B"
     ],
     "correct": 2,
     "explain": "'Z' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'A' trong các đáp án:",
+    "question": "Tìm chữ 'A' trong các đáp án: (Biến thể 4)",
     "options": [
+      "D",
       "B",
       "A",
-      "C",
-      "D"
+      "C"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'A' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'B' trong các đáp án:",
+    "question": "Tìm chữ 'B' trong các đáp án: (Biến thể 4)",
     "options": [
-      "D",
-      "A",
+      "B",
       "C",
-      "B"
+      "D",
+      "A"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'B' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'C' trong các đáp án:",
+    "question": "Tìm chữ 'C' trong các đáp án: (Biến thể 4)",
     "options": [
-      "A",
-      "C",
       "B",
-      "D"
+      "C",
+      "D",
+      "A"
     ],
     "correct": 1,
     "explain": "'C' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'D' trong các đáp án:",
+    "question": "Tìm chữ 'D' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'D' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'E' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "E",
+      "C",
+      "A",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "'E' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'F' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "C",
+      "A",
+      "F",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "'F' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'G' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "C",
+      "A",
+      "G",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "'G' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'H' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "H"
+    ],
+    "correct": 3,
+    "explain": "'H' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'I' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "I",
+      "B",
+      "A",
+      "C"
+    ],
+    "correct": 0,
+    "explain": "'I' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'J' trong các đáp án: (Biến thể 4)",
+    "options": [
+      "J",
+      "A",
+      "C",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "'J' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Từ 'APPLE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "banana",
+      "grape",
+      "orange",
+      "quả táo"
+    ],
+    "correct": 3,
+    "explain": "'APPLE' = quả táo."
+  },
+  {
+    "question": "Từ 'BANANA' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "apple",
+      "grape",
+      "orange",
+      "quả chuối"
+    ],
+    "correct": 3,
+    "explain": "'BANANA' = quả chuối."
+  },
+  {
+    "question": "Từ 'CAT' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "bird",
+      "con mèo",
+      "dog",
+      "fish"
+    ],
+    "correct": 1,
+    "explain": "'CAT' = con mèo."
+  },
+  {
+    "question": "Từ 'DOG' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "cat",
+      "fish",
+      "bird",
+      "con chó"
+    ],
+    "correct": 3,
+    "explain": "'DOG' = con chó."
+  },
+  {
+    "question": "Từ 'RED' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "blue",
+      "màu đỏ",
+      "yellow",
+      "green"
+    ],
+    "correct": 1,
+    "explain": "'RED' = màu đỏ."
+  },
+  {
+    "question": "Từ 'BLUE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "màu xanh dương",
+      "green",
+      "red",
+      "yellow"
+    ],
+    "correct": 0,
+    "explain": "'BLUE' = màu xanh dương."
+  },
+  {
+    "question": "Từ 'ONE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "một",
+      "three",
+      "two",
+      "four"
+    ],
+    "correct": 0,
+    "explain": "'ONE' = một."
+  },
+  {
+    "question": "Từ 'TWO' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "one",
+      "three",
+      "hai",
+      "four"
+    ],
+    "correct": 2,
+    "explain": "'TWO' = hai."
+  },
+  {
+    "question": "Từ 'THREE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "one",
+      "four",
+      "ba",
+      "two"
+    ],
+    "correct": 2,
+    "explain": "'THREE' = ba."
+  },
+  {
+    "question": "Từ 'FOUR' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "one",
+      "two",
+      "bốn",
+      "three"
+    ],
+    "correct": 2,
+    "explain": "'FOUR' = bốn."
+  },
+  {
+    "question": "Từ 'FIVE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "seven",
+      "six",
+      "năm",
+      "eight"
+    ],
+    "correct": 2,
+    "explain": "'FIVE' = năm."
+  },
+  {
+    "question": "Từ 'SIX' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "sáu",
+      "seven",
+      "eight",
+      "five"
+    ],
+    "correct": 0,
+    "explain": "'SIX' = sáu."
+  },
+  {
+    "question": "Từ 'SEVEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "eight",
+      "bảy",
+      "six",
+      "five"
+    ],
+    "correct": 1,
+    "explain": "'SEVEN' = bảy."
+  },
+  {
+    "question": "Từ 'EIGHT' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "tám",
+      "five",
+      "six",
+      "seven"
+    ],
+    "correct": 0,
+    "explain": "'EIGHT' = tám."
+  },
+  {
+    "question": "Từ 'NINE' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "chín",
+      "seven",
+      "six",
+      "ten"
+    ],
+    "correct": 0,
+    "explain": "'NINE' = chín."
+  },
+  {
+    "question": "Từ 'TEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "six",
+      "mười",
+      "nine",
+      "seven"
+    ],
+    "correct": 1,
+    "explain": "'TEN' = mười."
+  },
+  {
+    "question": "Từ 'MOTHER' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "father",
+      "mẹ",
+      "sister",
+      "brother"
+    ],
+    "correct": 1,
+    "explain": "'MOTHER' = mẹ."
+  },
+  {
+    "question": "Từ 'FATHER' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "mother",
+      "brother",
+      "bố",
+      "sister"
+    ],
+    "correct": 2,
+    "explain": "'FATHER' = bố."
+  },
+  {
+    "question": "Từ 'SCHOOL' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "store",
+      "house",
+      "park",
+      "trường học"
+    ],
+    "correct": 3,
+    "explain": "'SCHOOL' = trường học."
+  },
+  {
+    "question": "Từ 'BOOK' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "bag",
+      "sách",
+      "pen",
+      "ruler"
+    ],
+    "correct": 1,
+    "explain": "'BOOK' = sách."
+  },
+  {
+    "question": "Từ 'PEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "bút",
+      "book",
+      "bag",
+      "ruler"
+    ],
+    "correct": 0,
+    "explain": "'PEN' = bút."
+  },
+  {
+    "question": "Từ 'BAG' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "cái cặp",
+      "pen",
+      "ruler",
+      "book"
+    ],
+    "correct": 0,
+    "explain": "'BAG' = cái cặp."
+  },
+  {
+    "question": "Từ 'BIG' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "long",
+      "short",
+      "to lớn",
+      "small"
+    ],
+    "correct": 2,
+    "explain": "'BIG' = to lớn."
+  },
+  {
+    "question": "Từ 'SMALL' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "short",
+      "nhỏ",
+      "long",
+      "big"
+    ],
+    "correct": 1,
+    "explain": "'SMALL' = nhỏ."
+  },
+  {
+    "question": "Từ 'HOT' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "nóng",
+      "warm",
+      "cool",
+      "cold"
+    ],
+    "correct": 0,
+    "explain": "'HOT' = nóng."
+  },
+  {
+    "question": "Từ 'COLD' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "hot",
+      "warm",
+      "lạnh",
+      "cool"
+    ],
+    "correct": 2,
+    "explain": "'COLD' = lạnh."
+  },
+  {
+    "question": "Từ 'SUN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "star",
+      "cloud",
+      "moon",
+      "mặt trời"
+    ],
+    "correct": 3,
+    "explain": "'SUN' = mặt trời."
+  },
+  {
+    "question": "Từ 'MOON' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "mặt trăng",
+      "cloud",
+      "star",
+      "sun"
+    ],
+    "correct": 0,
+    "explain": "'MOON' = mặt trăng."
+  },
+  {
+    "question": "Từ 'BIRD' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "con chim",
+      "cat",
+      "fish",
+      "dog"
+    ],
+    "correct": 0,
+    "explain": "'BIRD' = con chim."
+  },
+  {
+    "question": "Từ 'FISH' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "con cá",
+      "cat",
+      "dog",
+      "bird"
+    ],
+    "correct": 0,
+    "explain": "'FISH' = con cá."
+  },
+  {
+    "question": "Chữ cái thứ 1 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 1 là 'A'."
+  },
+  {
+    "question": "Chữ cái thứ 2 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 2 là 'B'."
+  },
+  {
+    "question": "Chữ cái thứ 3 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
       "D",
       "C",
       "A",
       "B"
     ],
-    "correct": 0,
-    "explain": "'D' là chữ cái tiếng Anh."
+    "correct": 1,
+    "explain": "Chữ cái thứ 3 là 'C'."
   },
   {
-    "question": "Tìm chữ 'E' trong các đáp án:",
+    "question": "Chữ cái thứ 4 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 4 là 'D'."
+  },
+  {
+    "question": "Chữ cái thứ 5 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
       "E",
-      "C",
       "B",
+      "C",
       "A"
     ],
     "correct": 0,
-    "explain": "'E' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 5 là 'E'."
   },
   {
-    "question": "Tìm chữ 'F' trong các đáp án:",
+    "question": "Chữ cái thứ 6 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "B",
-      "A",
       "C",
-      "F"
+      "F",
+      "B",
+      "A"
     ],
-    "correct": 3,
-    "explain": "'F' là chữ cái tiếng Anh."
+    "correct": 1,
+    "explain": "Chữ cái thứ 6 là 'F'."
   },
   {
-    "question": "Tìm chữ 'G' trong các đáp án:",
+    "question": "Chữ cái thứ 7 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
+      "A",
       "G",
-      "A",
-      "C",
-      "B"
+      "B",
+      "C"
     ],
-    "correct": 0,
-    "explain": "'G' là chữ cái tiếng Anh."
+    "correct": 1,
+    "explain": "Chữ cái thứ 7 là 'G'."
   },
   {
-    "question": "Tìm chữ 'H' trong các đáp án:",
+    "question": "Chữ cái thứ 8 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
       "A",
-      "C",
       "H",
-      "B"
+      "B",
+      "C"
     ],
-    "correct": 2,
-    "explain": "'H' là chữ cái tiếng Anh."
+    "correct": 1,
+    "explain": "Chữ cái thứ 8 là 'H'."
   },
   {
-    "question": "Tìm chữ 'I' trong các đáp án:",
+    "question": "Chữ cái thứ 9 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
+      "A",
       "C",
       "B",
-      "A",
       "I"
     ],
     "correct": 3,
-    "explain": "'I' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 9 là 'I'."
   },
   {
-    "question": "Tìm chữ 'J' trong các đáp án:",
+    "question": "Chữ cái thứ 10 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "B",
-      "A",
       "J",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'J' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'K' trong các đáp án:",
-    "options": [
-      "C",
       "B",
-      "A",
-      "K"
+      "C",
+      "A"
     ],
-    "correct": 3,
-    "explain": "'K' là chữ cái tiếng Anh."
+    "correct": 0,
+    "explain": "Chữ cái thứ 10 là 'J'."
   },
   {
-    "question": "Tìm chữ 'L' trong các đáp án:",
+    "question": "Chữ cái thứ 11 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
+      "B",
+      "K",
+      "C",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 11 là 'K'."
+  },
+  {
+    "question": "Chữ cái thứ 12 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "L",
       "C",
       "A",
-      "L",
       "B"
     ],
-    "correct": 2,
-    "explain": "'L' là chữ cái tiếng Anh."
+    "correct": 0,
+    "explain": "Chữ cái thứ 12 là 'L'."
   },
   {
-    "question": "Tìm chữ 'M' trong các đáp án:",
+    "question": "Chữ cái thứ 13 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "A",
       "B",
-      "M",
-      "C"
+      "A",
+      "C",
+      "M"
     ],
-    "correct": 2,
-    "explain": "'M' là chữ cái tiếng Anh."
+    "correct": 3,
+    "explain": "Chữ cái thứ 13 là 'M'."
   },
   {
-    "question": "Tìm chữ 'N' trong các đáp án:",
+    "question": "Chữ cái thứ 14 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
       "A",
       "C",
@@ -1295,398 +2417,354 @@
       "N"
     ],
     "correct": 3,
-    "explain": "'N' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 14 là 'N'."
   },
   {
-    "question": "Tìm chữ 'O' trong các đáp án:",
+    "question": "Chữ cái thứ 15 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
+      "A",
       "C",
-      "O",
+      "B",
+      "O"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 15 là 'O'."
+  },
+  {
+    "question": "Chữ cái thứ 16 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "P",
+      "C",
       "A",
       "B"
     ],
-    "correct": 1,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
-    "options": [
-      "P",
-      "B",
-      "A",
-      "C"
-    ],
     "correct": 0,
-    "explain": "'P' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 16 là 'P'."
   },
   {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
+    "question": "Chữ cái thứ 17 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
       "C",
       "Q",
-      "B",
-      "A"
+      "A",
+      "B"
     ],
     "correct": 1,
-    "explain": "'Q' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 17 là 'Q'."
   },
   {
-    "question": "Tìm chữ 'R' trong các đáp án:",
+    "question": "Chữ cái thứ 18 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "B",
+      "A",
       "R",
       "C",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "C",
-      "S",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "A",
-      "T",
-      "C",
       "B"
     ],
     "correct": 1,
-    "explain": "'T' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 18 là 'R'."
   },
   {
-    "question": "Tìm chữ 'U' trong các đáp án:",
+    "question": "Chữ cái thứ 19 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "U",
-      "A",
       "B",
+      "A",
+      "S",
       "C"
     ],
-    "correct": 0,
-    "explain": "'U' là chữ cái tiếng Anh."
+    "correct": 2,
+    "explain": "Chữ cái thứ 19 là 'S'."
   },
   {
-    "question": "Tìm chữ 'V' trong các đáp án:",
+    "question": "Chữ cái thứ 20 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "V",
       "A",
       "C",
+      "T",
       "B"
     ],
-    "correct": 0,
-    "explain": "'V' là chữ cái tiếng Anh."
+    "correct": 2,
+    "explain": "Chữ cái thứ 20 là 'T'."
   },
   {
-    "question": "Tìm chữ 'W' trong các đáp án:",
+    "question": "Chữ cái thứ 21 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "W",
+      "C",
+      "U",
       "B",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 21 là 'U'."
+  },
+  {
+    "question": "Chữ cái thứ 22 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "B",
+      "V",
+      "A",
+      "C"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 22 là 'V'."
+  },
+  {
+    "question": "Chữ cái thứ 23 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "B",
+      "W",
       "C",
       "A"
     ],
-    "correct": 0,
-    "explain": "'W' là chữ cái tiếng Anh."
+    "correct": 1,
+    "explain": "Chữ cái thứ 23 là 'W'."
   },
   {
-    "question": "Tìm chữ 'X' trong các đáp án:",
+    "question": "Chữ cái thứ 24 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "A",
-      "C",
-      "B",
-      "X"
-    ],
-    "correct": 3,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
-      "Y",
+      "X",
       "C",
       "A",
       "B"
     ],
     "correct": 0,
-    "explain": "'Y' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 24 là 'X'."
   },
   {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
+    "question": "Chữ cái thứ 25 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
     "options": [
       "A",
-      "B",
+      "Y",
       "C",
+      "B"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 25 là 'Y'."
+  },
+  {
+    "question": "Chữ cái thứ 26 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "C",
+      "B",
+      "A",
       "Z"
     ],
     "correct": 3,
-    "explain": "'Z' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 26 là 'Z'."
   },
   {
-    "question": "Tìm chữ 'A' trong các đáp án:",
+    "question": "'Hello' nghĩa là gì? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'A' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'B' trong các đáp án:",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "Tạm biệt",
+      "Xin lỗi",
+      "Xin chào",
+      "Cảm ơn"
     ],
     "correct": 2,
-    "explain": "'B' là chữ cái tiếng Anh."
+    "explain": "'Hello' = Xin chào trong tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'C' trong các đáp án:",
+    "question": "'Goodbye' nghĩa là gì? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "Xin lỗi",
+      "Tạm biệt",
+      "Cảm ơn",
+      "Xin chào"
     ],
     "correct": 1,
-    "explain": "'C' là chữ cái tiếng Anh."
+    "explain": "'Goodbye' = Tạm biệt."
   },
   {
-    "question": "Tìm chữ 'D' trong các đáp án:",
+    "question": "'Thank you' nghĩa là gì? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "D",
-      "A",
+      "Tạm biệt",
+      "Xin lỗi",
+      "Xin chào",
+      "Cảm ơn"
+    ],
+    "correct": 3,
+    "explain": "'Thank you' = Cảm ơn."
+  },
+  {
+    "question": "'Sorry' nghĩa là gì? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "Tạm biệt",
+      "Cảm ơn",
+      "Xin lỗi",
+      "Xin chào"
+    ],
+    "correct": 2,
+    "explain": "'Sorry' = Xin lỗi."
+  },
+  {
+    "question": "'Yes' nghĩa là gì? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "Chưa",
+      "Có/Đúng",
+      "Được",
+      "Không"
+    ],
+    "correct": 1,
+    "explain": "'Yes' = Có, Đúng."
+  },
+  {
+    "question": "'No' nghĩa là gì? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "Có",
+      "Không",
+      "Được",
+      "Rồi"
+    ],
+    "correct": 1,
+    "explain": "'No' = Không."
+  },
+  {
+    "question": "Tìm chữ 'K' trong các đáp án: (Biến thể 4) (Biến thể 5)",
+    "options": [
       "B",
+      "K",
+      "A",
       "C"
     ],
-    "correct": 0,
-    "explain": "'D' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'E' trong các đáp án:",
-    "options": [
-      "E",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'E' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'F' trong các đáp án:",
-    "options": [
-      "C",
-      "F",
-      "B",
-      "A"
-    ],
     "correct": 1,
-    "explain": "'F' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'G' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "G",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'G' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'H' trong các đáp án:",
-    "options": [
-      "H",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'H' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'I' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "I",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'I' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'J' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "J"
-    ],
-    "correct": 3,
-    "explain": "'J' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'K' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "K"
-    ],
-    "correct": 3,
     "explain": "'K' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'L' trong các đáp án:",
+    "question": "Tìm chữ 'L' trong các đáp án: (Biến thể 4) (Biến thể 5)",
     "options": [
       "A",
       "B",
-      "C",
-      "L"
-    ],
-    "correct": 3,
-    "explain": "'L' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'M' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "M"
-    ],
-    "correct": 3,
-    "explain": "'M' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'N' trong các đáp án:",
-    "options": [
-      "C",
-      "N",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'N' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'O' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "O",
+      "L",
       "C"
     ],
     "correct": 2,
+    "explain": "'L' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'M' trong các đáp án: (Biến thể 4) (Biến thể 5)",
+    "options": [
+      "C",
+      "A",
+      "M",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "'M' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'N' trong các đáp án: (Biến thể 4) (Biến thể 5)",
+    "options": [
+      "C",
+      "A",
+      "N",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "'N' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'O' trong các đáp án: (Biến thể 4) (Biến thể 5)",
+    "options": [
+      "O",
+      "A",
+      "C",
+      "B"
+    ],
+    "correct": 0,
     "explain": "'O' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'P' trong các đáp án:",
+    "question": "Tìm chữ 'P' trong các đáp án: (Biến thể 4) (Biến thể 5)",
     "options": [
+      "C",
       "P",
-      "B",
       "A",
-      "C"
+      "B"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'P' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
+    "question": "Tìm chữ 'Q' trong các đáp án: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "A",
-      "Q",
+      "C",
       "B",
-      "C"
+      "A",
+      "Q"
     ],
-    "correct": 1,
+    "correct": 3,
     "explain": "'Q' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'R' trong các đáp án:",
+    "question": "Tìm chữ 'R' trong các đáp án: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "B",
       "R",
       "C",
+      "B",
       "A"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'R' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'S' trong các đáp án:",
+    "question": "Tìm chữ 'S' trong các đáp án: (Biến thể 4) (Biến thể 5)",
     "options": [
       "B",
-      "A",
       "C",
+      "A",
       "S"
     ],
     "correct": 3,
     "explain": "'S' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'T' trong các đáp án:",
+    "question": "Tìm chữ 'T' trong các đáp án: (Biến thể 4) (Biến thể 5)",
     "options": [
+      "T",
       "A",
       "C",
-      "B",
-      "T"
+      "B"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'T' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'U' trong các đáp án:",
+    "question": "Tìm chữ 'U' trong các đáp án: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "U",
-      "A",
+      "C",
       "B",
-      "C"
+      "U",
+      "A"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'U' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'V' trong các đáp án:",
+    "question": "Tìm chữ 'V' trong các đáp án: (Biến thể 4) (Biến thể 5)",
     "options": [
       "V",
       "C",
-      "B",
-      "A"
+      "A",
+      "B"
     ],
     "correct": 0,
     "explain": "'V' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'W' trong các đáp án:",
+    "question": "Tìm chữ 'W' trong các đáp án: (Biến thể 4) (Biến thể 6)",
     "options": [
       "A",
+      "B",
       "W",
-      "C",
-      "B"
+      "C"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'W' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'X' trong các đáp án:",
+    "question": "Tìm chữ 'X' trong các đáp án: (Biến thể 4) (Biến thể 6)",
     "options": [
-      "C",
       "B",
+      "C",
       "X",
       "A"
     ],
@@ -1694,106 +2772,106 @@
     "explain": "'X' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
+    "question": "Tìm chữ 'Y' trong các đáp án: (Biến thể 4) (Biến thể 6)",
     "options": [
+      "C",
+      "A",
       "Y",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'Y' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "Z"
-    ],
-    "correct": 3,
-    "explain": "'Z' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'A' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct": 0,
-    "explain": "'A' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'B' trong các đáp án:",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'B' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'C' trong các đáp án:",
-    "options": [
-      "D",
-      "A",
-      "C",
       "B"
     ],
     "correct": 2,
+    "explain": "'Y' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'Z' trong các đáp án: (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "C",
+      "Z",
+      "B",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'Z' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'A' trong các đáp án: (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "explain": "'A' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'B' trong các đáp án: (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "correct": 3,
+    "explain": "'B' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'C' trong các đáp án: (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "correct": 0,
     "explain": "'C' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'D' trong các đáp án:",
+    "question": "Tìm chữ 'D' trong các đáp án: (Biến thể 4) (Biến thể 6)",
     "options": [
       "D",
-      "B",
       "C",
-      "A"
+      "A",
+      "B"
     ],
     "correct": 0,
     "explain": "'D' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'E' trong các đáp án:",
+    "question": "Tìm chữ 'E' trong các đáp án: (Biến thể 4) (Biến thể 6)",
     "options": [
-      "B",
-      "A",
       "C",
+      "A",
+      "B",
       "E"
     ],
     "correct": 3,
     "explain": "'E' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'F' trong các đáp án:",
+    "question": "Tìm chữ 'F' trong các đáp án: (Biến thể 4) (Biến thể 6)",
     "options": [
-      "B",
-      "C",
       "A",
-      "F"
+      "F",
+      "B",
+      "C"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'F' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'G' trong các đáp án:",
+    "question": "Tìm chữ 'G' trong các đáp án: (Biến thể 4) (Biến thể 6)",
     "options": [
+      "A",
       "G",
-      "C",
       "B",
-      "A"
+      "C"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'G' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'H' trong các đáp án:",
+    "question": "Tìm chữ 'H' trong các đáp án: (Biến thể 4) (Biến thể 6)",
     "options": [
       "A",
       "B",
@@ -1804,10 +2882,10 @@
     "explain": "'H' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'I' trong các đáp án:",
+    "question": "Tìm chữ 'I' trong các đáp án: (Biến thể 4) (Biến thể 6)",
     "options": [
-      "A",
       "B",
+      "A",
       "C",
       "I"
     ],
@@ -1815,139 +2893,821 @@
     "explain": "'I' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'J' trong các đáp án:",
+    "question": "Tìm chữ 'J' trong các đáp án: (Biến thể 4) (Biến thể 6)",
     "options": [
-      "C",
-      "J",
       "A",
-      "B"
+      "C",
+      "B",
+      "J"
     ],
-    "correct": 1,
+    "correct": 3,
     "explain": "'J' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'K' trong các đáp án:",
+    "question": "Từ 'APPLE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "grape",
+      "orange",
+      "quả táo",
+      "banana"
+    ],
+    "correct": 2,
+    "explain": "'APPLE' = quả táo."
+  },
+  {
+    "question": "Từ 'BANANA' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "grape",
+      "orange",
+      "quả chuối",
+      "apple"
+    ],
+    "correct": 2,
+    "explain": "'BANANA' = quả chuối."
+  },
+  {
+    "question": "Từ 'CAT' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "con mèo",
+      "dog",
+      "fish",
+      "bird"
+    ],
+    "correct": 0,
+    "explain": "'CAT' = con mèo."
+  },
+  {
+    "question": "Từ 'DOG' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "fish",
+      "bird",
+      "con chó",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'DOG' = con chó."
+  },
+  {
+    "question": "Từ 'RED' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "màu đỏ",
+      "yellow",
+      "green",
+      "blue"
+    ],
+    "correct": 0,
+    "explain": "'RED' = màu đỏ."
+  },
+  {
+    "question": "Từ 'BLUE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "green",
+      "red",
+      "yellow",
+      "màu xanh dương"
+    ],
+    "correct": 3,
+    "explain": "'BLUE' = màu xanh dương."
+  },
+  {
+    "question": "Từ 'ONE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "three",
+      "two",
+      "four",
+      "một"
+    ],
+    "correct": 3,
+    "explain": "'ONE' = một."
+  },
+  {
+    "question": "Từ 'TWO' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "three",
+      "hai",
+      "four",
+      "one"
+    ],
+    "correct": 1,
+    "explain": "'TWO' = hai."
+  },
+  {
+    "question": "Từ 'THREE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "four",
+      "ba",
+      "two",
+      "one"
+    ],
+    "correct": 1,
+    "explain": "'THREE' = ba."
+  },
+  {
+    "question": "Từ 'FOUR' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "two",
+      "bốn",
+      "three",
+      "one"
+    ],
+    "correct": 1,
+    "explain": "'FOUR' = bốn."
+  },
+  {
+    "question": "Từ 'FIVE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "six",
+      "năm",
+      "eight",
+      "seven"
+    ],
+    "correct": 1,
+    "explain": "'FIVE' = năm."
+  },
+  {
+    "question": "Từ 'SIX' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "seven",
+      "eight",
+      "five",
+      "sáu"
+    ],
+    "correct": 3,
+    "explain": "'SIX' = sáu."
+  },
+  {
+    "question": "Từ 'SEVEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "bảy",
+      "six",
+      "five",
+      "eight"
+    ],
+    "correct": 0,
+    "explain": "'SEVEN' = bảy."
+  },
+  {
+    "question": "Từ 'EIGHT' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "five",
+      "six",
+      "seven",
+      "tám"
+    ],
+    "correct": 3,
+    "explain": "'EIGHT' = tám."
+  },
+  {
+    "question": "Từ 'NINE' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "seven",
+      "six",
+      "ten",
+      "chín"
+    ],
+    "correct": 3,
+    "explain": "'NINE' = chín."
+  },
+  {
+    "question": "Từ 'TEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "mười",
+      "nine",
+      "seven",
+      "six"
+    ],
+    "correct": 0,
+    "explain": "'TEN' = mười."
+  },
+  {
+    "question": "Từ 'MOTHER' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "mẹ",
+      "sister",
+      "brother",
+      "father"
+    ],
+    "correct": 0,
+    "explain": "'MOTHER' = mẹ."
+  },
+  {
+    "question": "Từ 'FATHER' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "brother",
+      "bố",
+      "sister",
+      "mother"
+    ],
+    "correct": 1,
+    "explain": "'FATHER' = bố."
+  },
+  {
+    "question": "Từ 'SCHOOL' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "house",
+      "park",
+      "trường học",
+      "store"
+    ],
+    "correct": 2,
+    "explain": "'SCHOOL' = trường học."
+  },
+  {
+    "question": "Từ 'BOOK' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "sách",
+      "pen",
+      "ruler",
+      "bag"
+    ],
+    "correct": 0,
+    "explain": "'BOOK' = sách."
+  },
+  {
+    "question": "Từ 'PEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "book",
+      "bag",
+      "ruler",
+      "bút"
+    ],
+    "correct": 3,
+    "explain": "'PEN' = bút."
+  },
+  {
+    "question": "Từ 'BAG' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "pen",
+      "ruler",
+      "book",
+      "cái cặp"
+    ],
+    "correct": 3,
+    "explain": "'BAG' = cái cặp."
+  },
+  {
+    "question": "Từ 'BIG' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "short",
+      "to lớn",
+      "small",
+      "long"
+    ],
+    "correct": 1,
+    "explain": "'BIG' = to lớn."
+  },
+  {
+    "question": "Từ 'SMALL' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "nhỏ",
+      "long",
+      "big",
+      "short"
+    ],
+    "correct": 0,
+    "explain": "'SMALL' = nhỏ."
+  },
+  {
+    "question": "Từ 'HOT' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "warm",
+      "cool",
+      "cold",
+      "nóng"
+    ],
+    "correct": 3,
+    "explain": "'HOT' = nóng."
+  },
+  {
+    "question": "Từ 'COLD' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "warm",
+      "lạnh",
+      "cool",
+      "hot"
+    ],
+    "correct": 1,
+    "explain": "'COLD' = lạnh."
+  },
+  {
+    "question": "Từ 'SUN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "cloud",
+      "moon",
+      "mặt trời",
+      "star"
+    ],
+    "correct": 2,
+    "explain": "'SUN' = mặt trời."
+  },
+  {
+    "question": "Từ 'MOON' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "cloud",
+      "star",
+      "sun",
+      "mặt trăng"
+    ],
+    "correct": 3,
+    "explain": "'MOON' = mặt trăng."
+  },
+  {
+    "question": "Từ 'BIRD' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "cat",
+      "fish",
+      "dog",
+      "con chim"
+    ],
+    "correct": 3,
+    "explain": "'BIRD' = con chim."
+  },
+  {
+    "question": "Từ 'FISH' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "cat",
+      "dog",
+      "bird",
+      "con cá"
+    ],
+    "correct": 3,
+    "explain": "'FISH' = con cá."
+  },
+  {
+    "question": "Chữ cái thứ 1 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 1 là 'A'."
+  },
+  {
+    "question": "Chữ cái thứ 2 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
     "options": [
       "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 2 là 'B'."
+  },
+  {
+    "question": "Chữ cái thứ 3 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "C",
+      "A",
       "B",
+      "D"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 3 là 'C'."
+  },
+  {
+    "question": "Chữ cái thứ 4 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 4 là 'D'."
+  },
+  {
+    "question": "Chữ cái thứ 5 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "E"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 5 là 'E'."
+  },
+  {
+    "question": "Chữ cái thứ 6 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "F",
+      "B",
+      "A",
+      "C"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 6 là 'F'."
+  },
+  {
+    "question": "Chữ cái thứ 7 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "G",
+      "B",
+      "C",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 7 là 'G'."
+  },
+  {
+    "question": "Chữ cái thứ 8 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "H",
+      "B",
+      "C",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 8 là 'H'."
+  },
+  {
+    "question": "Chữ cái thứ 9 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "C",
+      "B",
+      "I",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 9 là 'I'."
+  },
+  {
+    "question": "Chữ cái thứ 10 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "J"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 10 là 'J'."
+  },
+  {
+    "question": "Chữ cái thứ 11 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
       "K",
+      "C",
+      "A",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 11 là 'K'."
+  },
+  {
+    "question": "Chữ cái thứ 12 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "L"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 12 là 'L'."
+  },
+  {
+    "question": "Chữ cái thứ 13 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "A",
+      "C",
+      "M",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 13 là 'M'."
+  },
+  {
+    "question": "Chữ cái thứ 14 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "C",
+      "B",
+      "N",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 14 là 'N'."
+  },
+  {
+    "question": "Chữ cái thứ 15 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "C",
+      "B",
+      "O",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 15 là 'O'."
+  },
+  {
+    "question": "Chữ cái thứ 16 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "P"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 16 là 'P'."
+  },
+  {
+    "question": "Chữ cái thứ 17 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Q",
+      "A",
+      "B",
+      "C"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 17 là 'Q'."
+  },
+  {
+    "question": "Chữ cái thứ 18 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "R",
+      "C",
+      "B",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 18 là 'R'."
+  },
+  {
+    "question": "Chữ cái thứ 19 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "A",
+      "S",
+      "C",
+      "B"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 19 là 'S'."
+  },
+  {
+    "question": "Chữ cái thứ 20 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "C",
+      "T",
+      "B",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 20 là 'T'."
+  },
+  {
+    "question": "Chữ cái thứ 21 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "U",
+      "B",
+      "A",
+      "C"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 21 là 'U'."
+  },
+  {
+    "question": "Chữ cái thứ 22 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "V",
+      "A",
+      "C",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 22 là 'V'."
+  },
+  {
+    "question": "Chữ cái thứ 23 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "W",
+      "C",
+      "A",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 23 là 'W'."
+  },
+  {
+    "question": "Chữ cái thứ 24 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "X"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 24 là 'X'."
+  },
+  {
+    "question": "Chữ cái thứ 25 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Y",
+      "C",
+      "B",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 25 là 'Y'."
+  },
+  {
+    "question": "Chữ cái thứ 26 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "B",
+      "A",
+      "Z",
       "C"
     ],
     "correct": 2,
+    "explain": "Chữ cái thứ 26 là 'Z'."
+  },
+  {
+    "question": "'Hello' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Xin lỗi",
+      "Xin chào",
+      "Cảm ơn",
+      "Tạm biệt"
+    ],
+    "correct": 1,
+    "explain": "'Hello' = Xin chào trong tiếng Anh."
+  },
+  {
+    "question": "'Goodbye' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Tạm biệt",
+      "Cảm ơn",
+      "Xin chào",
+      "Xin lỗi"
+    ],
+    "correct": 0,
+    "explain": "'Goodbye' = Tạm biệt."
+  },
+  {
+    "question": "'Thank you' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Xin lỗi",
+      "Xin chào",
+      "Cảm ơn",
+      "Tạm biệt"
+    ],
+    "correct": 2,
+    "explain": "'Thank you' = Cảm ơn."
+  },
+  {
+    "question": "'Sorry' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Cảm ơn",
+      "Xin lỗi",
+      "Xin chào",
+      "Tạm biệt"
+    ],
+    "correct": 1,
+    "explain": "'Sorry' = Xin lỗi."
+  },
+  {
+    "question": "'Yes' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Có/Đúng",
+      "Được",
+      "Không",
+      "Chưa"
+    ],
+    "correct": 0,
+    "explain": "'Yes' = Có, Đúng."
+  },
+  {
+    "question": "'No' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Không",
+      "Được",
+      "Rồi",
+      "Có"
+    ],
+    "correct": 0,
+    "explain": "'No' = Không."
+  },
+  {
+    "question": "Tìm chữ 'K' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "K",
+      "A",
+      "C",
+      "B"
+    ],
+    "correct": 0,
     "explain": "'K' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'L' trong các đáp án:",
+    "question": "Tìm chữ 'L' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
-      "C",
-      "L",
       "B",
+      "L",
+      "C",
       "A"
     ],
     "correct": 1,
     "explain": "'L' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'M' trong các đáp án:",
+    "question": "Tìm chữ 'M' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
-      "C",
       "A",
+      "M",
       "B",
-      "M"
+      "C"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'M' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'N' trong các đáp án:",
+    "question": "Tìm chữ 'N' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
+      "A",
       "N",
-      "C",
       "B",
-      "A"
+      "C"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'N' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'O' trong các đáp án:",
+    "question": "Tìm chữ 'O' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
-      "B",
-      "C",
       "A",
+      "C",
+      "B",
       "O"
     ],
     "correct": 3,
     "explain": "'O' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'P' trong các đáp án:",
+    "question": "Tìm chữ 'P' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
-      "A",
       "P",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'P' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
-    "options": [
-      "C",
-      "Q",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'Q' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'R' trong các đáp án:",
-    "options": [
-      "R",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "S",
       "A",
       "B",
       "C"
     ],
     "correct": 0,
+    "explain": "'P' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'Q' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "B",
+      "A",
+      "Q",
+      "C"
+    ],
+    "correct": 2,
+    "explain": "'Q' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'R' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "R"
+    ],
+    "correct": 3,
+    "explain": "'R' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'S' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "C",
+      "A",
+      "S",
+      "B"
+    ],
+    "correct": 2,
     "explain": "'S' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'T' trong các đáp án:",
+    "question": "Tìm chữ 'T' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
-      "B",
-      "C",
       "A",
+      "C",
+      "B",
       "T"
     ],
     "correct": 3,
     "explain": "'T' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'U' trong các đáp án:",
+    "question": "Tìm chữ 'U' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
-      "A",
+      "B",
       "U",
-      "C",
-      "B"
+      "A",
+      "C"
     ],
     "correct": 1,
     "explain": "'U' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'V' trong các đáp án:",
+    "question": "Tìm chữ 'V' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
       "C",
       "A",
@@ -1958,1558 +3718,568 @@
     "explain": "'V' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'W' trong các đáp án:",
+    "question": "Tìm chữ 'W' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
     "options": [
-      "C",
-      "A",
       "B",
-      "W"
+      "W",
+      "C",
+      "A"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'W' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'X' trong các đáp án:",
+    "question": "Tìm chữ 'X' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
     "options": [
       "C",
       "X",
-      "B",
-      "A"
+      "A",
+      "B"
     ],
     "correct": 1,
     "explain": "'X' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
+    "question": "Tìm chữ 'Y' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
     "options": [
       "A",
-      "C",
+      "Y",
       "B",
-      "Y"
+      "C"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'Y' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
+    "question": "Tìm chữ 'Z' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
     "options": [
-      "B",
       "Z",
-      "C",
-      "A"
+      "B",
+      "A",
+      "C"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'Z' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'A' trong các đáp án:",
+    "question": "Tìm chữ 'A' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
     "options": [
+      "A",
       "C",
-      "B",
       "D",
-      "A"
+      "B"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'A' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'B' trong các đáp án:",
+    "question": "Tìm chữ 'B' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
     "options": [
-      "C",
       "D",
+      "A",
       "B",
-      "A"
+      "C"
     ],
     "correct": 2,
     "explain": "'B' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'C' trong các đáp án:",
+    "question": "Tìm chữ 'C' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
     "options": [
-      "B",
-      "A",
       "D",
+      "A",
+      "B",
       "C"
     ],
     "correct": 3,
     "explain": "'C' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'D' trong các đáp án:",
+    "question": "Tìm chữ 'D' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
     "options": [
-      "B",
-      "D",
+      "C",
       "A",
-      "C"
+      "B",
+      "D"
     ],
-    "correct": 1,
+    "correct": 3,
     "explain": "'D' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'E' trong các đáp án:",
+    "question": "Tìm chữ 'E' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
     "options": [
       "A",
-      "E",
       "B",
+      "E",
       "C"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'E' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'F' trong các đáp án:",
+    "question": "Tìm chữ 'F' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "F",
+      "B",
+      "C",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'F' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'G' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "G",
+      "B",
+      "C",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'G' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'H' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "B",
+      "H",
+      "C",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'H' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'I' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "A",
+      "C",
+      "I",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "'I' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'J' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 8)",
     "options": [
       "C",
       "B",
+      "J",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'J' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Từ 'APPLE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "orange",
+      "quả táo",
+      "banana",
+      "grape"
+    ],
+    "correct": 1,
+    "explain": "'APPLE' = quả táo."
+  },
+  {
+    "question": "Từ 'BANANA' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "orange",
+      "quả chuối",
+      "apple",
+      "grape"
+    ],
+    "correct": 1,
+    "explain": "'BANANA' = quả chuối."
+  },
+  {
+    "question": "Từ 'CAT' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "dog",
+      "fish",
+      "bird",
+      "con mèo"
+    ],
+    "correct": 3,
+    "explain": "'CAT' = con mèo."
+  },
+  {
+    "question": "Từ 'DOG' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bird",
+      "con chó",
+      "cat",
+      "fish"
+    ],
+    "correct": 1,
+    "explain": "'DOG' = con chó."
+  },
+  {
+    "question": "Từ 'RED' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "yellow",
+      "green",
+      "blue",
+      "màu đỏ"
+    ],
+    "correct": 3,
+    "explain": "'RED' = màu đỏ."
+  },
+  {
+    "question": "Từ 'BLUE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "red",
+      "yellow",
+      "màu xanh dương",
+      "green"
+    ],
+    "correct": 2,
+    "explain": "'BLUE' = màu xanh dương."
+  },
+  {
+    "question": "Từ 'ONE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "two",
+      "four",
+      "một",
+      "three"
+    ],
+    "correct": 2,
+    "explain": "'ONE' = một."
+  },
+  {
+    "question": "Từ 'TWO' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "hai",
+      "four",
+      "one",
+      "three"
+    ],
+    "correct": 0,
+    "explain": "'TWO' = hai."
+  },
+  {
+    "question": "Từ 'THREE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "ba",
+      "two",
+      "one",
+      "four"
+    ],
+    "correct": 0,
+    "explain": "'THREE' = ba."
+  },
+  {
+    "question": "Từ 'FOUR' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bốn",
+      "three",
+      "one",
+      "two"
+    ],
+    "correct": 0,
+    "explain": "'FOUR' = bốn."
+  },
+  {
+    "question": "Từ 'FIVE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "năm",
+      "eight",
+      "seven",
+      "six"
+    ],
+    "correct": 0,
+    "explain": "'FIVE' = năm."
+  },
+  {
+    "question": "Từ 'SIX' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "eight",
+      "five",
+      "sáu",
+      "seven"
+    ],
+    "correct": 2,
+    "explain": "'SIX' = sáu."
+  },
+  {
+    "question": "Từ 'SEVEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "six",
+      "five",
+      "eight",
+      "bảy"
+    ],
+    "correct": 3,
+    "explain": "'SEVEN' = bảy."
+  },
+  {
+    "question": "Từ 'EIGHT' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "six",
+      "seven",
+      "tám",
+      "five"
+    ],
+    "correct": 2,
+    "explain": "'EIGHT' = tám."
+  },
+  {
+    "question": "Từ 'NINE' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "six",
+      "ten",
+      "chín",
+      "seven"
+    ],
+    "correct": 2,
+    "explain": "'NINE' = chín."
+  },
+  {
+    "question": "Từ 'TEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "nine",
+      "seven",
+      "six",
+      "mười"
+    ],
+    "correct": 3,
+    "explain": "'TEN' = mười."
+  },
+  {
+    "question": "Từ 'MOTHER' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "sister",
+      "brother",
+      "father",
+      "mẹ"
+    ],
+    "correct": 3,
+    "explain": "'MOTHER' = mẹ."
+  },
+  {
+    "question": "Từ 'FATHER' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bố",
+      "sister",
+      "mother",
+      "brother"
+    ],
+    "correct": 0,
+    "explain": "'FATHER' = bố."
+  },
+  {
+    "question": "Từ 'SCHOOL' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "park",
+      "trường học",
+      "store",
+      "house"
+    ],
+    "correct": 1,
+    "explain": "'SCHOOL' = trường học."
+  },
+  {
+    "question": "Từ 'BOOK' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "pen",
+      "ruler",
+      "bag",
+      "sách"
+    ],
+    "correct": 3,
+    "explain": "'BOOK' = sách."
+  },
+  {
+    "question": "Từ 'PEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bag",
+      "ruler",
+      "bút",
+      "book"
+    ],
+    "correct": 2,
+    "explain": "'PEN' = bút."
+  },
+  {
+    "question": "Từ 'BAG' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "ruler",
+      "book",
+      "cái cặp",
+      "pen"
+    ],
+    "correct": 2,
+    "explain": "'BAG' = cái cặp."
+  },
+  {
+    "question": "Từ 'BIG' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "to lớn",
+      "small",
+      "long",
+      "short"
+    ],
+    "correct": 0,
+    "explain": "'BIG' = to lớn."
+  },
+  {
+    "question": "Từ 'SMALL' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "long",
+      "big",
+      "short",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'SMALL' = nhỏ."
+  },
+  {
+    "question": "Từ 'HOT' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "cool",
+      "cold",
+      "nóng",
+      "warm"
+    ],
+    "correct": 2,
+    "explain": "'HOT' = nóng."
+  },
+  {
+    "question": "Từ 'COLD' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "lạnh",
+      "cool",
+      "hot",
+      "warm"
+    ],
+    "correct": 0,
+    "explain": "'COLD' = lạnh."
+  },
+  {
+    "question": "Từ 'SUN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "moon",
+      "mặt trời",
+      "star",
+      "cloud"
+    ],
+    "correct": 1,
+    "explain": "'SUN' = mặt trời."
+  },
+  {
+    "question": "Từ 'MOON' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "star",
+      "sun",
+      "mặt trăng",
+      "cloud"
+    ],
+    "correct": 2,
+    "explain": "'MOON' = mặt trăng."
+  },
+  {
+    "question": "Từ 'BIRD' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "fish",
+      "dog",
+      "con chim",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'BIRD' = con chim."
+  },
+  {
+    "question": "Từ 'FISH' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "dog",
+      "bird",
+      "con cá",
+      "cat"
+    ],
+    "correct": 2,
+    "explain": "'FISH' = con cá."
+  },
+  {
+    "question": "Chữ cái thứ 1 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "B",
       "A",
+      "D",
+      "C"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 1 là 'A'."
+  },
+  {
+    "question": "Chữ cái thứ 2 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 2 là 'B'."
+  },
+  {
+    "question": "Chữ cái thứ 3 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 3 là 'C'."
+  },
+  {
+    "question": "Chữ cái thứ 4 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 4 là 'D'."
+  },
+  {
+    "question": "Chữ cái thứ 5 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "C",
+      "A",
+      "E",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 5 là 'E'."
+  },
+  {
+    "question": "Chữ cái thứ 6 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "B",
+      "A",
+      "C",
       "F"
     ],
     "correct": 3,
-    "explain": "'F' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 6 là 'F'."
   },
   {
-    "question": "Tìm chữ 'G' trong các đáp án:",
+    "question": "Chữ cái thứ 7 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
-      "C",
-      "A",
-      "G",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'G' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'H' trong các đáp án:",
-    "options": [
-      "H",
       "B",
       "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'H' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'I' trong các đáp án:",
-    "options": [
-      "I",
-      "C",
       "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'I' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'J' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "J",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'J' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'K' trong các đáp án:",
-    "options": [
-      "K",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'K' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'L' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "L"
+      "G"
     ],
     "correct": 3,
-    "explain": "'L' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 7 là 'G'."
   },
   {
-    "question": "Tìm chữ 'M' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "M",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'M' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'N' trong các đáp án:",
-    "options": [
-      "N",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'N' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'O' trong các đáp án:",
-    "options": [
-      "B",
-      "O",
-      "C",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "P"
-    ],
-    "correct": 3,
-    "explain": "'P' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "Q"
-    ],
-    "correct": 3,
-    "explain": "'Q' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'R' trong các đáp án:",
-    "options": [
-      "C",
-      "R",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "S"
-    ],
-    "correct": 3,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "T",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'T' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'U' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "U"
-    ],
-    "correct": 3,
-    "explain": "'U' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'V' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "V"
-    ],
-    "correct": 3,
-    "explain": "'V' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'W' trong các đáp án:",
-    "options": [
-      "A",
-      "W",
-      "B",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'W' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'X' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "X"
-    ],
-    "correct": 3,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
-      "A",
-      "Y",
-      "B",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'Y' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "Z",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'Z' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'A' trong các đáp án:",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 3,
-    "explain": "'A' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'B' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "correct": 1,
-    "explain": "'B' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'C' trong các đáp án:",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'C' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'D' trong các đáp án:",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'D' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'E' trong các đáp án:",
-    "options": [
-      "E",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'E' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'F' trong các đáp án:",
-    "options": [
-      "F",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'F' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'G' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "G",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'G' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'H' trong các đáp án:",
-    "options": [
-      "B",
-      "H",
-      "A",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'H' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'I' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "I"
-    ],
-    "correct": 3,
-    "explain": "'I' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'J' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "J",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'J' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'K' trong các đáp án:",
-    "options": [
-      "B",
-      "K",
-      "A",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'K' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'L' trong các đáp án:",
-    "options": [
-      "B",
-      "L",
-      "A",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'L' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'M' trong các đáp án:",
-    "options": [
-      "M",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'M' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'N' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "N",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'N' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'O' trong các đáp án:",
-    "options": [
-      "A",
-      "O",
-      "B",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "P"
-    ],
-    "correct": 3,
-    "explain": "'P' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
-    "options": [
-      "Q",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'Q' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'R' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "R",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "S",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "T",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'T' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'U' trong các đáp án:",
-    "options": [
-      "A",
-      "U",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'U' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'V' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "V",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'V' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'W' trong các đáp án:",
-    "options": [
-      "B",
-      "W",
-      "A",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'W' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'X' trong các đáp án:",
-    "options": [
-      "C",
-      "X",
-      "A",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
-      "B",
-      "Y",
-      "A",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'Y' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
-    "options": [
-      "Z",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'Z' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'A' trong các đáp án:",
-    "options": [
-      "A",
-      "D",
-      "C",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'A' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'B' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'B' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'C' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'C' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'D' trong các đáp án:",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'D' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'E' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "E"
-    ],
-    "correct": 3,
-    "explain": "'E' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'F' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "F",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'F' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'G' trong các đáp án:",
-    "options": [
-      "A",
-      "G",
-      "B",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'G' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'H' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "H",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'H' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'I' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "I",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'I' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'J' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "J"
-    ],
-    "correct": 3,
-    "explain": "'J' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'K' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "K"
-    ],
-    "correct": 3,
-    "explain": "'K' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'L' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "L"
-    ],
-    "correct": 3,
-    "explain": "'L' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'M' trong các đáp án:",
-    "options": [
-      "M",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'M' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'N' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "N",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'N' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'O' trong các đáp án:",
-    "options": [
-      "C",
-      "O",
-      "A",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "P",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'P' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
-    "options": [
-      "B",
-      "Q",
-      "C",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'Q' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'R' trong các đáp án:",
-    "options": [
-      "C",
-      "R",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "S",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "T",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'T' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'U' trong các đáp án:",
-    "options": [
-      "C",
-      "U",
-      "A",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'U' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'V' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "V",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'V' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'W' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "W"
-    ],
-    "correct": 3,
-    "explain": "'W' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'X' trong các đáp án:",
-    "options": [
-      "B",
-      "X",
-      "C",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "Y"
-    ],
-    "correct": 3,
-    "explain": "'Y' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
-    "options": [
-      "Z",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'Z' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'A' trong các đáp án:",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'A' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'B' trong các đáp án:",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 3,
-    "explain": "'B' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'C' trong các đáp án:",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 3,
-    "explain": "'C' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'D' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'D' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'E' trong các đáp án:",
-    "options": [
-      "C",
-      "E",
-      "A",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'E' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'F' trong các đáp án:",
-    "options": [
-      "F",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'F' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'G' trong các đáp án:",
-    "options": [
-      "G",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'G' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'H' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "H",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'H' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'I' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "I"
-    ],
-    "correct": 3,
-    "explain": "'I' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'J' trong các đáp án:",
-    "options": [
-      "C",
-      "J",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'J' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'K' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "K",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'K' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'L' trong các đáp án:",
-    "options": [
-      "L",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'L' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'M' trong các đáp án:",
-    "options": [
-      "M",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'M' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'N' trong các đáp án:",
-    "options": [
-      "A",
-      "N",
-      "B",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'N' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'O' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "O",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
-    "options": [
-      "P",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'P' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "Q"
-    ],
-    "correct": 3,
-    "explain": "'Q' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'R' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "R"
-    ],
-    "correct": 3,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "A",
-      "S",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "C",
-      "T",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'T' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'U' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "U",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'U' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'V' trong các đáp án:",
-    "options": [
-      "C",
-      "V",
-      "A",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'V' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'W' trong các đáp án:",
-    "options": [
-      "C",
-      "W",
-      "A",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'W' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'X' trong các đáp án:",
-    "options": [
-      "X",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "Y"
-    ],
-    "correct": 3,
-    "explain": "'Y' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "Z",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'Z' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'A' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'A' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'B' trong các đáp án:",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 3,
-    "explain": "'B' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'C' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "correct": 1,
-    "explain": "'C' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'D' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "correct": 3,
-    "explain": "'D' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'E' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "E",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'E' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'F' trong các đáp án:",
-    "options": [
-      "F",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'F' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'G' trong các đáp án:",
-    "options": [
-      "G",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'G' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'H' trong các đáp án:",
-    "options": [
-      "H",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'H' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'I' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "I"
-    ],
-    "correct": 3,
-    "explain": "'I' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'J' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "J",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'J' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'K' trong các đáp án:",
-    "options": [
-      "K",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'K' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'L' trong các đáp án:",
-    "options": [
-      "B",
-      "L",
-      "A",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'L' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'M' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "M"
-    ],
-    "correct": 3,
-    "explain": "'M' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'N' trong các đáp án:",
-    "options": [
-      "N",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'N' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'O' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "O",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
-    "options": [
-      "P",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'P' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
-    "options": [
-      "Q",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'Q' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'R' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "R"
-    ],
-    "correct": 3,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "S"
-    ],
-    "correct": 3,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "A",
-      "T",
-      "B",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'T' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'U' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "U"
-    ],
-    "correct": 3,
-    "explain": "'U' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'V' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "V",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'V' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'W' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "W",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'W' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'X' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "X",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "Y"
-    ],
-    "correct": 3,
-    "explain": "'Y' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
-    "options": [
-      "Z",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'Z' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'A' trong các đáp án:",
-    "options": [
-      "A",
-      "D",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'A' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'B' trong các đáp án:",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 3,
-    "explain": "'B' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'C' trong các đáp án:",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'C' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'D' trong các đáp án:",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'D' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'E' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "E"
-    ],
-    "correct": 3,
-    "explain": "'E' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'F' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "F",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'F' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'G' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "G",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'G' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'H' trong các đáp án:",
+    "question": "Chữ cái thứ 8 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
       "B",
       "C",
@@ -3517,197 +4287,197 @@
       "H"
     ],
     "correct": 3,
-    "explain": "'H' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 8 là 'H'."
   },
   {
-    "question": "Tìm chữ 'I' trong các đáp án:",
+    "question": "Chữ cái thứ 9 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
-      "I",
-      "C",
       "B",
-      "A"
+      "I",
+      "A",
+      "C"
     ],
-    "correct": 0,
-    "explain": "'I' là chữ cái tiếng Anh."
+    "correct": 1,
+    "explain": "Chữ cái thứ 9 là 'I'."
   },
   {
-    "question": "Tìm chữ 'J' trong các đáp án:",
+    "question": "Chữ cái thứ 10 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
-      "J",
-      "A",
       "C",
+      "A",
+      "J",
       "B"
     ],
-    "correct": 0,
-    "explain": "'J' là chữ cái tiếng Anh."
+    "correct": 2,
+    "explain": "Chữ cái thứ 10 là 'J'."
   },
   {
-    "question": "Tìm chữ 'K' trong các đáp án:",
+    "question": "Chữ cái thứ 11 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
-      "K",
-      "B",
       "C",
-      "A"
+      "A",
+      "B",
+      "K"
     ],
-    "correct": 0,
-    "explain": "'K' là chữ cái tiếng Anh."
+    "correct": 3,
+    "explain": "Chữ cái thứ 11 là 'K'."
   },
   {
-    "question": "Tìm chữ 'L' trong các đáp án:",
+    "question": "Chữ cái thứ 12 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
+      "A",
+      "B",
       "L",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'L' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'M' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "M",
-      "A"
+      "C"
     ],
     "correct": 2,
-    "explain": "'M' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 12 là 'L'."
   },
   {
-    "question": "Tìm chữ 'N' trong các đáp án:",
+    "question": "Chữ cái thứ 13 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
       "C",
-      "N",
+      "M",
       "B",
       "A"
     ],
     "correct": 1,
-    "explain": "'N' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 13 là 'M'."
   },
   {
-    "question": "Tìm chữ 'O' trong các đáp án:",
+    "question": "Chữ cái thứ 14 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
-      "C",
-      "A",
       "B",
-      "O"
+      "N",
+      "A",
+      "C"
     ],
-    "correct": 3,
-    "explain": "'O' là chữ cái tiếng Anh."
+    "correct": 1,
+    "explain": "Chữ cái thứ 14 là 'N'."
   },
   {
-    "question": "Tìm chữ 'P' trong các đáp án:",
+    "question": "Chữ cái thứ 15 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
       "B",
+      "O",
       "A",
+      "C"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 15 là 'O'."
+  },
+  {
+    "question": "Chữ cái thứ 16 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
+    "options": [
+      "A",
+      "B",
       "P",
       "C"
     ],
     "correct": 2,
-    "explain": "'P' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 16 là 'P'."
   },
   {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
+    "question": "Chữ cái thứ 17 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
-      "Q",
+      "A",
+      "B",
+      "C",
+      "Q"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 17 là 'Q'."
+  },
+  {
+    "question": "Chữ cái thứ 18 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "R"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 18 là 'R'."
+  },
+  {
+    "question": "Chữ cái thứ 19 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "S",
       "C",
       "B",
       "A"
     ],
     "correct": 0,
-    "explain": "'Q' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 19 là 'S'."
   },
   {
-    "question": "Tìm chữ 'R' trong các đáp án:",
+    "question": "Chữ cái thứ 20 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "A",
-      "R",
-      "B",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "B",
-      "S",
-      "C",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
       "T",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'T' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'U' trong các đáp án:",
-    "options": [
-      "C",
       "B",
       "A",
+      "C"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 20 là 'T'."
+  },
+  {
+    "question": "Chữ cái thứ 21 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "B",
+      "A",
+      "C",
       "U"
     ],
     "correct": 3,
-    "explain": "'U' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 21 là 'U'."
   },
   {
-    "question": "Tìm chữ 'V' trong các đáp án:",
+    "question": "Chữ cái thứ 22 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
+      "A",
       "C",
       "B",
-      "A",
       "V"
     ],
     "correct": 3,
-    "explain": "'V' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 22 là 'V'."
   },
   {
-    "question": "Tìm chữ 'W' trong các đáp án:",
+    "question": "Chữ cái thứ 23 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "W"
+    ],
+    "correct": 3,
+    "explain": "Chữ cái thứ 23 là 'W'."
+  },
+  {
+    "question": "Chữ cái thứ 24 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
       "A",
       "B",
-      "W",
+      "X",
       "C"
     ],
     "correct": 2,
-    "explain": "'W' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 24 là 'X'."
   },
   {
-    "question": "Tìm chữ 'X' trong các đáp án:",
+    "question": "Chữ cái thứ 25 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "X",
       "C",
       "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
       "A",
-      "B",
-      "Y",
-      "C"
+      "Y"
     ],
-    "correct": 2,
-    "explain": "'Y' là chữ cái tiếng Anh."
+    "correct": 3,
+    "explain": "Chữ cái thứ 25 là 'Y'."
   },
   {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
+    "question": "Chữ cái thứ 26 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
       "A",
       "Z",
@@ -3715,945 +4485,769 @@
       "B"
     ],
     "correct": 1,
-    "explain": "'Z' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 26 là 'Z'."
   },
   {
-    "question": "Tìm chữ 'A' trong các đáp án:",
+    "question": "'Hello' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "D",
+      "Xin chào",
+      "Cảm ơn",
+      "Tạm biệt",
+      "Xin lỗi"
+    ],
+    "correct": 0,
+    "explain": "'Hello' = Xin chào trong tiếng Anh."
+  },
+  {
+    "question": "'Goodbye' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "Cảm ơn",
+      "Xin chào",
+      "Xin lỗi",
+      "Tạm biệt"
+    ],
+    "correct": 3,
+    "explain": "'Goodbye' = Tạm biệt."
+  },
+  {
+    "question": "'Thank you' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "Xin chào",
+      "Cảm ơn",
+      "Tạm biệt",
+      "Xin lỗi"
+    ],
+    "correct": 1,
+    "explain": "'Thank you' = Cảm ơn."
+  },
+  {
+    "question": "'Sorry' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "Xin lỗi",
+      "Xin chào",
+      "Tạm biệt",
+      "Cảm ơn"
+    ],
+    "correct": 0,
+    "explain": "'Sorry' = Xin lỗi."
+  },
+  {
+    "question": "'Yes' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "Được",
+      "Không",
+      "Chưa",
+      "Có/Đúng"
+    ],
+    "correct": 3,
+    "explain": "'Yes' = Có, Đúng."
+  },
+  {
+    "question": "'No' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "Được",
+      "Rồi",
+      "Có",
+      "Không"
+    ],
+    "correct": 3,
+    "explain": "'No' = Không."
+  },
+  {
+    "question": "Tìm chữ 'K' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
       "A",
+      "C",
+      "B",
+      "K"
+    ],
+    "correct": 3,
+    "explain": "'K' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'L' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "L",
+      "C",
+      "A",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "'L' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'M' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "M",
+      "B",
+      "C",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'M' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'N' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "N",
+      "B",
+      "C",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'N' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'O' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "C",
+      "B",
+      "O",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'O' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'P' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "P"
+    ],
+    "correct": 3,
+    "explain": "'P' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'Q' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "A",
+      "Q",
+      "C",
+      "B"
+    ],
+    "correct": 1,
+    "explain": "'Q' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'R' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "B",
+      "A",
+      "R",
+      "C"
+    ],
+    "correct": 2,
+    "explain": "'R' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'S' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "A",
+      "S",
       "B",
       "C"
     ],
     "correct": 1,
-    "explain": "'A' là chữ cái tiếng Anh."
+    "explain": "'S' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'B' trong các đáp án:",
+    "question": "Tìm chữ 'T' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "D",
+      "C",
+      "B",
+      "T",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'T' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'U' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "U",
+      "A",
+      "C",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "'U' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'V' trong các đáp án: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "A",
+      "B",
+      "V",
+      "C"
+    ],
+    "correct": 2,
+    "explain": "'V' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'W' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "W",
+      "C",
+      "A",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "'W' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'X' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "X",
       "A",
       "B",
       "C"
     ],
-    "correct": 2,
+    "correct": 0,
+    "explain": "'X' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'Y' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "Y",
+      "B",
+      "C",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'Y' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'Z' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "Z"
+    ],
+    "correct": 3,
+    "explain": "'Z' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'A' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "correct": 3,
+    "explain": "'A' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'B' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
     "explain": "'B' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'C' trong các đáp án:",
+    "question": "Tìm chữ 'C' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
     "options": [
       "A",
-      "D",
+      "B",
       "C",
-      "B"
+      "D"
     ],
     "correct": 2,
     "explain": "'C' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'D' trong các đáp án:",
+    "question": "Tìm chữ 'D' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
     "options": [
       "A",
-      "D",
       "B",
+      "D",
       "C"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'D' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'E' trong các đáp án:",
+    "question": "Tìm chữ 'E' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "C",
-      "E",
       "B",
+      "E",
+      "C",
       "A"
     ],
     "correct": 1,
     "explain": "'E' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'F' trong các đáp án:",
+    "question": "Tìm chữ 'F' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
     "options": [
       "B",
-      "A",
       "C",
+      "A",
       "F"
     ],
     "correct": 3,
     "explain": "'F' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'G' trong các đáp án:",
-    "options": [
-      "G",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'G' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'H' trong các đáp án:",
-    "options": [
-      "A",
-      "H",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'H' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'I' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "I"
-    ],
-    "correct": 3,
-    "explain": "'I' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'J' trong các đáp án:",
-    "options": [
-      "C",
-      "J",
-      "A",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'J' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'K' trong các đáp án:",
-    "options": [
-      "C",
-      "K",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'K' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'L' trong các đáp án:",
-    "options": [
-      "L",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'L' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'M' trong các đáp án:",
-    "options": [
-      "A",
-      "M",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'M' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'N' trong các đáp án:",
-    "options": [
-      "N",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'N' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'O' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "O"
-    ],
-    "correct": 3,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
+    "question": "Tìm chữ 'G' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
     "options": [
       "B",
       "C",
       "A",
-      "P"
-    ],
-    "correct": 3,
-    "explain": "'P' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "Q"
-    ],
-    "correct": 3,
-    "explain": "'Q' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'R' trong các đáp án:",
-    "options": [
-      "R",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "B",
-      "S",
-      "A",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "B",
-      "T",
-      "C",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'T' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'U' trong các đáp án:",
-    "options": [
-      "A",
-      "U",
-      "B",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'U' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'V' trong các đáp án:",
-    "options": [
-      "C",
-      "V",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'V' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'W' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "W"
-    ],
-    "correct": 3,
-    "explain": "'W' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'X' trong các đáp án:",
-    "options": [
-      "A",
-      "X",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "Y",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'Y' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
-    "options": [
-      "Z",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'Z' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'A' trong các đáp án:",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "correct": 3,
-    "explain": "'A' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'B' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'B' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'C' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "correct": 3,
-    "explain": "'C' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'D' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'D' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'E' trong các đáp án:",
-    "options": [
-      "E",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'E' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'F' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "F",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'F' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'G' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "G",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'G' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'H' trong các đáp án:",
-    "options": [
-      "A",
-      "H",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'H' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'I' trong các đáp án:",
-    "options": [
-      "I",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'I' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'J' trong các đáp án:",
-    "options": [
-      "J",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'J' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'K' trong các đáp án:",
-    "options": [
-      "C",
-      "K",
-      "B",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'K' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'L' trong các đáp án:",
-    "options": [
-      "L",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'L' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'M' trong các đáp án:",
-    "options": [
-      "M",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'M' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'N' trong các đáp án:",
-    "options": [
-      "N",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'N' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'O' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "O"
-    ],
-    "correct": 3,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
-    "options": [
-      "A",
-      "P",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'P' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
-    "options": [
-      "A",
-      "Q",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'Q' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'R' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "R",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "S"
-    ],
-    "correct": 3,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "T",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'T' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'U' trong các đáp án:",
-    "options": [
-      "U",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'U' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'V' trong các đáp án:",
-    "options": [
-      "V",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'V' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'W' trong các đáp án:",
-    "options": [
-      "A",
-      "W",
-      "B",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'W' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'X' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "X"
-    ],
-    "correct": 3,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
-      "Y",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'Y' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
-    "options": [
-      "B",
-      "Z",
-      "A",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'Z' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'A' trong các đáp án:",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'A' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'B' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "correct": 1,
-    "explain": "'B' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'C' trong các đáp án:",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "correct": 3,
-    "explain": "'C' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'D' trong các đáp án:",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'D' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'E' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "E"
-    ],
-    "correct": 3,
-    "explain": "'E' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'F' trong các đáp án:",
-    "options": [
-      "A",
-      "F",
-      "B",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'F' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'G' trong các đáp án:",
-    "options": [
-      "G",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'G' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'H' trong các đáp án:",
-    "options": [
-      "A",
-      "H",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'H' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'I' trong các đáp án:",
-    "options": [
-      "B",
-      "I",
-      "C",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'I' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'J' trong các đáp án:",
-    "options": [
-      "J",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'J' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'K' trong các đáp án:",
-    "options": [
-      "C",
-      "K",
-      "A",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'K' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'L' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "L",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'L' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'M' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "M",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'M' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'N' trong các đáp án:",
-    "options": [
-      "N",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'N' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'O' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "O"
-    ],
-    "correct": 3,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "P"
-    ],
-    "correct": 3,
-    "explain": "'P' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "Q",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'Q' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'R' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "R",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "S",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "T",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'T' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'U' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "U"
-    ],
-    "correct": 3,
-    "explain": "'U' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'V' trong các đáp án:",
-    "options": [
-      "V",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'V' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'W' trong các đáp án:",
-    "options": [
-      "W",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'W' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'X' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "X",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
-      "Y",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'Y' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
-    "options": [
-      "A",
-      "Z",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'Z' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'A' trong các đáp án:",
-    "options": [
-      "A",
-      "D",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'A' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'B' trong các đáp án:",
-    "options": [
-      "D",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'B' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'C' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "correct": 0,
-    "explain": "'C' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'D' trong các đáp án:",
-    "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'D' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'E' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "E"
-    ],
-    "correct": 3,
-    "explain": "'E' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'F' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "F",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'F' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'G' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "C",
       "G"
     ],
     "correct": 3,
     "explain": "'G' là chữ cái tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'H' trong các đáp án:",
+    "question": "Tìm chữ 'H' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "H",
+      "C",
+      "A",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "'H' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'I' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "C",
+      "I",
+      "B",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'I' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Tìm chữ 'J' trong các đáp án: (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "B",
+      "J",
+      "A",
+      "C"
+    ],
+    "correct": 1,
+    "explain": "'J' là chữ cái tiếng Anh."
+  },
+  {
+    "question": "Từ 'APPLE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "quả táo",
+      "banana",
+      "grape",
+      "orange"
+    ],
+    "correct": 0,
+    "explain": "'APPLE' = quả táo."
+  },
+  {
+    "question": "Từ 'BANANA' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "quả chuối",
+      "apple",
+      "grape",
+      "orange"
+    ],
+    "correct": 0,
+    "explain": "'BANANA' = quả chuối."
+  },
+  {
+    "question": "Từ 'CAT' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "fish",
+      "bird",
+      "con mèo",
+      "dog"
+    ],
+    "correct": 2,
+    "explain": "'CAT' = con mèo."
+  },
+  {
+    "question": "Từ 'DOG' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "con chó",
+      "cat",
+      "fish",
+      "bird"
+    ],
+    "correct": 0,
+    "explain": "'DOG' = con chó."
+  },
+  {
+    "question": "Từ 'RED' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "green",
+      "blue",
+      "màu đỏ",
+      "yellow"
+    ],
+    "correct": 2,
+    "explain": "'RED' = màu đỏ."
+  },
+  {
+    "question": "Từ 'BLUE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "yellow",
+      "màu xanh dương",
+      "green",
+      "red"
+    ],
+    "correct": 1,
+    "explain": "'BLUE' = màu xanh dương."
+  },
+  {
+    "question": "Từ 'ONE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "four",
+      "một",
+      "three",
+      "two"
+    ],
+    "correct": 1,
+    "explain": "'ONE' = một."
+  },
+  {
+    "question": "Từ 'TWO' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "four",
+      "one",
+      "three",
+      "hai"
+    ],
+    "correct": 3,
+    "explain": "'TWO' = hai."
+  },
+  {
+    "question": "Từ 'THREE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "two",
+      "one",
+      "four",
+      "ba"
+    ],
+    "correct": 3,
+    "explain": "'THREE' = ba."
+  },
+  {
+    "question": "Từ 'FOUR' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "three",
+      "one",
+      "two",
+      "bốn"
+    ],
+    "correct": 3,
+    "explain": "'FOUR' = bốn."
+  },
+  {
+    "question": "Từ 'FIVE' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "eight",
+      "seven",
+      "six",
+      "năm"
+    ],
+    "correct": 3,
+    "explain": "'FIVE' = năm."
+  },
+  {
+    "question": "Từ 'SIX' trong tiếng Anh có nghĩa là gì? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "five",
+      "sáu",
+      "seven",
+      "eight"
+    ],
+    "correct": 1,
+    "explain": "'SIX' = sáu."
+  },
+  {
+    "question": "Từ 'SEVEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "five",
+      "eight",
+      "bảy",
+      "six"
+    ],
+    "correct": 2,
+    "explain": "'SEVEN' = bảy."
+  },
+  {
+    "question": "Từ 'EIGHT' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "seven",
+      "tám",
+      "five",
+      "six"
+    ],
+    "correct": 1,
+    "explain": "'EIGHT' = tám."
+  },
+  {
+    "question": "Từ 'NINE' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "ten",
+      "chín",
+      "seven",
+      "six"
+    ],
+    "correct": 1,
+    "explain": "'NINE' = chín."
+  },
+  {
+    "question": "Từ 'TEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "seven",
+      "six",
+      "mười",
+      "nine"
+    ],
+    "correct": 2,
+    "explain": "'TEN' = mười."
+  },
+  {
+    "question": "Từ 'MOTHER' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "brother",
+      "father",
+      "mẹ",
+      "sister"
+    ],
+    "correct": 2,
+    "explain": "'MOTHER' = mẹ."
+  },
+  {
+    "question": "Từ 'FATHER' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "sister",
+      "mother",
+      "brother",
+      "bố"
+    ],
+    "correct": 3,
+    "explain": "'FATHER' = bố."
+  },
+  {
+    "question": "Từ 'SCHOOL' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "trường học",
+      "store",
+      "house",
+      "park"
+    ],
+    "correct": 0,
+    "explain": "'SCHOOL' = trường học."
+  },
+  {
+    "question": "Từ 'BOOK' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "ruler",
+      "bag",
+      "sách",
+      "pen"
+    ],
+    "correct": 2,
+    "explain": "'BOOK' = sách."
+  },
+  {
+    "question": "Từ 'PEN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "ruler",
+      "bút",
+      "book",
+      "bag"
+    ],
+    "correct": 1,
+    "explain": "'PEN' = bút."
+  },
+  {
+    "question": "Từ 'BAG' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "book",
+      "cái cặp",
+      "pen",
+      "ruler"
+    ],
+    "correct": 1,
+    "explain": "'BAG' = cái cặp."
+  },
+  {
+    "question": "Từ 'BIG' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "small",
+      "long",
+      "short",
+      "to lớn"
+    ],
+    "correct": 3,
+    "explain": "'BIG' = to lớn."
+  },
+  {
+    "question": "Từ 'SMALL' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "big",
+      "short",
+      "nhỏ",
+      "long"
+    ],
+    "correct": 2,
+    "explain": "'SMALL' = nhỏ."
+  },
+  {
+    "question": "Từ 'HOT' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "cold",
+      "nóng",
+      "warm",
+      "cool"
+    ],
+    "correct": 1,
+    "explain": "'HOT' = nóng."
+  },
+  {
+    "question": "Từ 'COLD' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "cool",
+      "hot",
+      "warm",
+      "lạnh"
+    ],
+    "correct": 3,
+    "explain": "'COLD' = lạnh."
+  },
+  {
+    "question": "Từ 'SUN' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "mặt trời",
+      "star",
+      "cloud",
+      "moon"
+    ],
+    "correct": 0,
+    "explain": "'SUN' = mặt trời."
+  },
+  {
+    "question": "Từ 'MOON' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "sun",
+      "mặt trăng",
+      "cloud",
+      "star"
+    ],
+    "correct": 1,
+    "explain": "'MOON' = mặt trăng."
+  },
+  {
+    "question": "Từ 'BIRD' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "dog",
+      "con chim",
+      "cat",
+      "fish"
+    ],
+    "correct": 1,
+    "explain": "'BIRD' = con chim."
+  },
+  {
+    "question": "Từ 'FISH' trong tiếng Anh có nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "bird",
+      "con cá",
+      "cat",
+      "dog"
+    ],
+    "correct": 1,
+    "explain": "'FISH' = con cá."
+  },
+  {
+    "question": "Chữ cái thứ 1 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 1 là 'A'."
+  },
+  {
+    "question": "Chữ cái thứ 2 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 2 là 'B'."
+  },
+  {
+    "question": "Chữ cái thứ 3 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 3 là 'C'."
+  },
+  {
+    "question": "Chữ cái thứ 4 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 4 là 'D'."
+  },
+  {
+    "question": "Chữ cái thứ 5 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "A",
+      "E",
+      "B",
+      "C"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 5 là 'E'."
+  },
+  {
+    "question": "Chữ cái thứ 6 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "A",
+      "C",
+      "F",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 6 là 'F'."
+  },
+  {
+    "question": "Chữ cái thứ 7 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "C",
+      "A",
+      "G",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 7 là 'G'."
+  },
+  {
+    "question": "Chữ cái thứ 8 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
     "options": [
       "C",
       "A",
@@ -4661,450 +5255,164 @@
       "B"
     ],
     "correct": 2,
-    "explain": "'H' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 8 là 'H'."
   },
   {
-    "question": "Tìm chữ 'I' trong các đáp án:",
+    "question": "Chữ cái thứ 9 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
     "options": [
-      "A",
-      "C",
       "I",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'I' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'J' trong các đáp án:",
-    "options": [
-      "J",
-      "C",
       "A",
+      "C",
       "B"
     ],
     "correct": 0,
-    "explain": "'J' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 9 là 'I'."
   },
   {
-    "question": "Tìm chữ 'K' trong các đáp án:",
+    "question": "Chữ cái thứ 10 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
     "options": [
       "A",
-      "K",
-      "C",
-      "B"
+      "J",
+      "B",
+      "C"
     ],
     "correct": 1,
-    "explain": "'K' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 10 là 'J'."
   },
   {
-    "question": "Tìm chữ 'L' trong các đáp án:",
+    "question": "Chữ cái thứ 11 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
     "options": [
+      "A",
       "B",
-      "C",
-      "L",
-      "A"
+      "K",
+      "C"
     ],
     "correct": 2,
-    "explain": "'L' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 11 là 'K'."
   },
   {
-    "question": "Tìm chữ 'M' trong các đáp án:",
+    "question": "Chữ cái thứ 12 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "B",
+      "L",
+      "C",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "Chữ cái thứ 12 là 'L'."
+  },
+  {
+    "question": "Chữ cái thứ 13 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
     "options": [
       "M",
-      "C",
+      "B",
       "A",
+      "C"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 13 là 'M'."
+  },
+  {
+    "question": "Chữ cái thứ 14 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "N",
+      "A",
+      "C",
       "B"
     ],
     "correct": 0,
-    "explain": "'M' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 14 là 'N'."
   },
   {
-    "question": "Tìm chữ 'N' trong các đáp án:",
+    "question": "Chữ cái thứ 15 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
     "options": [
-      "N",
+      "O",
+      "A",
       "C",
-      "B",
-      "A"
+      "B"
     ],
     "correct": 0,
-    "explain": "'N' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 15 là 'O'."
   },
   {
-    "question": "Tìm chữ 'O' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "O",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
+    "question": "Chữ cái thứ 16 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
     "options": [
       "B",
       "P",
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "correct": 1,
-    "explain": "'P' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 16 là 'P'."
   },
   {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
+    "question": "Chữ cái thứ 17 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
     "options": [
-      "C",
       "B",
+      "C",
       "Q",
       "A"
     ],
     "correct": 2,
-    "explain": "'Q' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 17 là 'Q'."
   },
   {
-    "question": "Tìm chữ 'R' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "R"
-    ],
-    "correct": 3,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "S",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "T",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'T' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'U' trong các đáp án:",
-    "options": [
-      "U",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'U' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'V' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "V"
-    ],
-    "correct": 3,
-    "explain": "'V' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'W' trong các đáp án:",
-    "options": [
-      "B",
-      "W",
-      "C",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'W' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'X' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "X"
-    ],
-    "correct": 3,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "Y",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'Y' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
-    "options": [
-      "Z",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'Z' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'A' trong các đáp án:",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'A' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'B' trong các đáp án:",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'B' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'C' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "correct": 0,
-    "explain": "'C' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'D' trong các đáp án:",
+    "question": "Chữ cái thứ 18 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
     "options": [
       "B",
       "A",
-      "D",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'D' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'E' trong các đáp án:",
-    "options": [
-      "E",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'E' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'F' trong các đáp án:",
-    "options": [
-      "C",
-      "F",
-      "A",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'F' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'G' trong các đáp án:",
-    "options": [
-      "A",
-      "G",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'G' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'H' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "H"
-    ],
-    "correct": 3,
-    "explain": "'H' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'I' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "I",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'I' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'J' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "J"
-    ],
-    "correct": 3,
-    "explain": "'J' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'K' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "K",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'K' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'L' trong các đáp án:",
-    "options": [
-      "L",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'L' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'M' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "M"
-    ],
-    "correct": 3,
-    "explain": "'M' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'N' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "N",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'N' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'O' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "O"
-    ],
-    "correct": 3,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "P"
-    ],
-    "correct": 3,
-    "explain": "'P' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
-    "options": [
-      "Q",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'Q' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'R' trong các đáp án:",
-    "options": [
-      "B",
       "R",
-      "C",
-      "A"
+      "C"
     ],
-    "correct": 1,
-    "explain": "'R' là chữ cái tiếng Anh."
+    "correct": 2,
+    "explain": "Chữ cái thứ 18 là 'R'."
   },
   {
-    "question": "Tìm chữ 'S' trong các đáp án:",
+    "question": "Chữ cái thứ 19 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
-      "A",
       "C",
       "B",
+      "A",
       "S"
     ],
     "correct": 3,
-    "explain": "'S' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 19 là 'S'."
   },
   {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "A",
-      "T",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'T' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'U' trong các đáp án:",
-    "options": [
-      "C",
-      "U",
-      "A",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'U' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'V' trong các đáp án:",
+    "question": "Chữ cái thứ 20 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
       "B",
       "A",
-      "V",
-      "C"
+      "C",
+      "T"
     ],
-    "correct": 2,
-    "explain": "'V' là chữ cái tiếng Anh."
+    "correct": 3,
+    "explain": "Chữ cái thứ 20 là 'T'."
   },
   {
-    "question": "Tìm chữ 'W' trong các đáp án:",
+    "question": "Chữ cái thứ 21 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
+    "options": [
+      "A",
+      "C",
+      "U",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 21 là 'U'."
+  },
+  {
+    "question": "Chữ cái thứ 22 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
+    "options": [
+      "C",
+      "B",
+      "V",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "Chữ cái thứ 22 là 'V'."
+  },
+  {
+    "question": "Chữ cái thứ 23 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
       "A",
       "B",
@@ -5112,391 +5420,83 @@
       "C"
     ],
     "correct": 2,
-    "explain": "'W' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 23 là 'W'."
   },
   {
-    "question": "Tìm chữ 'X' trong các đáp án:",
+    "question": "Chữ cái thứ 24 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
       "B",
       "X",
-      "A",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "Y"
-    ],
-    "correct": 3,
-    "explain": "'Y' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
-    "options": [
-      "Z",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'Z' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'A' trong các đáp án:",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 3,
-    "explain": "'A' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'B' trong các đáp án:",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "correct": 1,
-    "explain": "'B' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'C' trong các đáp án:",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "correct": 3,
-    "explain": "'C' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'D' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'D' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'E' trong các đáp án:",
-    "options": [
-      "E",
-      "C",
-      "B",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'E' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'F' trong các đáp án:",
-    "options": [
-      "C",
-      "A",
-      "F",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'F' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'G' trong các đáp án:",
-    "options": [
-      "G",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'G' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'H' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "H"
-    ],
-    "correct": 3,
-    "explain": "'H' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'I' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "I",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'I' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'J' trong các đáp án:",
-    "options": [
-      "J",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'J' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'K' trong các đáp án:",
-    "options": [
-      "B",
-      "K",
       "C",
       "A"
     ],
     "correct": 1,
-    "explain": "'K' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 24 là 'X'."
   },
   {
-    "question": "Tìm chữ 'L' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "L",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'L' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'M' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "M",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'M' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'N' trong các đáp án:",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "N"
-    ],
-    "correct": 3,
-    "explain": "'N' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'O' trong các đáp án:",
+    "question": "Chữ cái thứ 25 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
       "B",
       "A",
-      "O",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'O' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'P' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "P",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'P' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Q' trong các đáp án:",
-    "options": [
-      "Q",
-      "C",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'Q' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'R' trong các đáp án:",
-    "options": [
-      "A",
-      "R",
-      "C",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'R' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'S' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "S",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'S' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'T' trong các đáp án:",
-    "options": [
-      "T",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'T' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'U' trong các đáp án:",
-    "options": [
-      "U",
-      "B",
-      "C",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'U' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'V' trong các đáp án:",
-    "options": [
-      "V",
-      "A",
-      "B",
-      "C"
-    ],
-    "correct": 0,
-    "explain": "'V' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'W' trong các đáp án:",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "W"
-    ],
-    "correct": 3,
-    "explain": "'W' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'X' trong các đáp án:",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "X"
-    ],
-    "correct": 3,
-    "explain": "'X' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Y' trong các đáp án:",
-    "options": [
       "Y",
-      "A",
-      "C",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'Y' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'Z' trong các đáp án:",
-    "options": [
-      "A",
-      "B",
-      "Z",
       "C"
     ],
     "correct": 2,
-    "explain": "'Z' là chữ cái tiếng Anh."
+    "explain": "Chữ cái thứ 25 là 'Y'."
   },
   {
-    "question": "Tìm chữ 'A' trong các đáp án:",
+    "question": "Chữ cái thứ 26 trong bảng chữ cái tiếng Anh là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
-      "D",
+      "Z",
       "C",
       "B",
       "A"
+    ],
+    "correct": 0,
+    "explain": "Chữ cái thứ 26 là 'Z'."
+  },
+  {
+    "question": "'Hello' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
+    "options": [
+      "Cảm ơn",
+      "Tạm biệt",
+      "Xin lỗi",
+      "Xin chào"
     ],
     "correct": 3,
-    "explain": "'A' là chữ cái tiếng Anh."
+    "explain": "'Hello' = Xin chào trong tiếng Anh."
   },
   {
-    "question": "Tìm chữ 'B' trong các đáp án:",
+    "question": "'Goodbye' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 1,
-    "explain": "'B' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'C' trong các đáp án:",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Xin chào",
+      "Xin lỗi",
+      "Tạm biệt",
+      "Cảm ơn"
     ],
     "correct": 2,
-    "explain": "'C' là chữ cái tiếng Anh."
+    "explain": "'Goodbye' = Tạm biệt."
   },
   {
-    "question": "Tìm chữ 'D' trong các đáp án:",
+    "question": "'Thank you' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "correct": 2,
-    "explain": "'D' là chữ cái tiếng Anh."
-  },
-  {
-    "question": "Tìm chữ 'E' trong các đáp án:",
-    "options": [
-      "E",
-      "C",
-      "A",
-      "B"
+      "Cảm ơn",
+      "Tạm biệt",
+      "Xin lỗi",
+      "Xin chào"
     ],
     "correct": 0,
-    "explain": "'E' là chữ cái tiếng Anh."
+    "explain": "'Thank you' = Cảm ơn."
   },
   {
-    "question": "Tìm chữ 'F' trong các đáp án:",
+    "question": "'Sorry' nghĩa là gì? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
-      "C",
-      "A",
-      "F",
-      "B"
+      "Xin chào",
+      "Tạm biệt",
+      "Cảm ơn",
+      "Xin lỗi"
     ],
-    "correct": 2,
-    "explain": "'F' là chữ cái tiếng Anh."
+    "correct": 3,
+    "explain": "'Sorry' = Xin lỗi."
   }
 ]

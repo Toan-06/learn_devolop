@@ -1270,3010 +1270,782 @@
     "explain": "'Saturday' = thứ Bảy"
   },
   {
-    "question": "Nghĩa của 'SUNDAY' là?",
+    "question": "'MORNING' có nghĩa là? (Biến thể 3)",
     "options": [
+      "ban đêm",
       "buổi sáng",
-      "buổi chiều",
-      "buổi tối",
-      "Chủ Nhật"
-    ],
-    "correct": 3,
-    "explain": "'Sunday' = Chủ Nhật"
-  },
-  {
-    "question": "Nghĩa của 'JANUARY' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "tháng Một",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'January' = tháng Một"
-  },
-  {
-    "question": "Nghĩa của 'FEBRUARY' là?",
-    "options": [
-      "buổi sáng",
-      "tháng Hai",
       "buổi tối",
       "buổi chiều"
     ],
     "correct": 1,
-    "explain": "'February' = tháng Hai"
-  },
-  {
-    "question": "Nghĩa của 'MARCH' là?",
-    "options": [
-      "buổi tối",
-      "tháng Ba",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'March' = tháng Ba"
-  },
-  {
-    "question": "Nghĩa của 'SPRING' là?",
-    "options": [
-      "mùa xuân",
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'spring' = mùa xuân"
-  },
-  {
-    "question": "Nghĩa của 'SUMMER' là?",
-    "options": [
-      "buổi sáng",
-      "mùa hè",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'summer' = mùa hè"
-  },
-  {
-    "question": "Nghĩa của 'AUTUMN' là?",
-    "options": [
-      "mùa thu",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 0,
-    "explain": "'autumn' = mùa thu"
-  },
-  {
-    "question": "Nghĩa của 'WINTER' là?",
-    "options": [
-      "mùa đông",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'winter' = mùa đông"
-  },
-  {
-    "question": "Nghĩa của 'HOUSE' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "ngôi nhà",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'house' = ngôi nhà"
-  },
-  {
-    "question": "Nghĩa của 'SCHOOL' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "trường học",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'school' = trường học"
-  },
-  {
-    "question": "Nghĩa của 'HOSPITAL' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "bệnh viện",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'hospital' = bệnh viện"
-  },
-  {
-    "question": "Nghĩa của 'MARKET' là?",
-    "options": [
-      "chợ",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 0,
-    "explain": "'market' = chợ"
-  },
-  {
-    "question": "Nghĩa của 'TEACHER' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "giáo viên",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'teacher' = giáo viên"
-  },
-  {
-    "question": "Nghĩa của 'STUDENT' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
-      "học sinh"
-    ],
-    "correct": 3,
-    "explain": "'student' = học sinh"
-  },
-  {
-    "question": "Nghĩa của 'DOCTOR' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối",
-      "bác sĩ"
-    ],
-    "correct": 3,
-    "explain": "'doctor' = bác sĩ"
-  },
-  {
-    "question": "Nghĩa của 'FARMER' là?",
-    "options": [
-      "nông dân",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'farmer' = nông dân"
-  },
-  {
-    "question": "Nghĩa của 'HEAD' là?",
-    "options": [
-      "đầu",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'head' = đầu"
-  },
-  {
-    "question": "Nghĩa của 'EYE' là?",
-    "options": [
-      "mắt",
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'eye' = mắt"
-  },
-  {
-    "question": "Nghĩa của 'NOSE' là?",
-    "options": [
-      "buổi chiều",
-      "mũi",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'nose' = mũi"
-  },
-  {
-    "question": "Nghĩa của 'MOUTH' là?",
-    "options": [
-      "miệng",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 0,
-    "explain": "'mouth' = miệng"
-  },
-  {
-    "question": "Nghĩa của 'EAR' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "tai",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'ear' = tai"
-  },
-  {
-    "question": "Nghĩa của 'HAND' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "bàn tay",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'hand' = bàn tay"
-  },
-  {
-    "question": "Nghĩa của 'FOOT' là?",
-    "options": [
-      "bàn chân",
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'foot' = bàn chân"
-  },
-  {
-    "question": "Nghĩa của 'LEG' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
-      "chân"
-    ],
-    "correct": 3,
-    "explain": "'leg' = chân"
-  },
-  {
-    "question": "Nghĩa của 'ARM' là?",
-    "options": [
-      "cánh tay",
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'arm' = cánh tay"
-  },
-  {
-    "question": "Nghĩa của 'HAPPY' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
-      "vui vẻ"
-    ],
-    "correct": 3,
-    "explain": "'happy' = vui vẻ"
-  },
-  {
-    "question": "Nghĩa của 'SAD' là?",
-    "options": [
-      "buổi tối",
-      "buồn",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'sad' = buồn"
-  },
-  {
-    "question": "Nghĩa của 'ANGRY' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "tức giận",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'angry' = tức giận"
-  },
-  {
-    "question": "Nghĩa của 'TIRED' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "mệt mỏi",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'tired' = mệt mỏi"
-  },
-  {
-    "question": "Nghĩa của 'TALL' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "cao",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'tall' = cao"
-  },
-  {
-    "question": "Nghĩa của 'SHORT' là?",
-    "options": [
-      "thấp/ngắn",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'short' = thấp/ngắn"
-  },
-  {
-    "question": "Nghĩa của 'FAT' là?",
-    "options": [
-      "buổi chiều",
-      "béo",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 1,
-    "explain": "'fat' = béo"
-  },
-  {
-    "question": "Nghĩa của 'THIN' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "gầy",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'thin' = gầy"
-  },
-  {
-    "question": "Nghĩa của 'RUN' là?",
-    "options": [
-      "buổi sáng",
-      "chạy",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 1,
-    "explain": "'run' = chạy"
-  },
-  {
-    "question": "Nghĩa của 'JUMP' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "nhảy",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'jump' = nhảy"
-  },
-  {
-    "question": "Nghĩa của 'SWIM' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "bơi"
-    ],
-    "correct": 3,
-    "explain": "'swim' = bơi"
-  },
-  {
-    "question": "Nghĩa của 'FLY' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "bay",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'fly' = bay"
-  },
-  {
-    "question": "Nghĩa của 'WALK' là?",
-    "options": [
-      "đi bộ",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'walk' = đi bộ"
-  },
-  {
-    "question": "Nghĩa của 'EAT' là?",
-    "options": [
-      "buổi tối",
-      "ăn",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'eat' = ăn"
-  },
-  {
-    "question": "Nghĩa của 'DRINK' là?",
-    "options": [
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng",
-      "uống"
-    ],
-    "correct": 3,
-    "explain": "'drink' = uống"
-  },
-  {
-    "question": "Nghĩa của 'SLEEP' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "ngủ"
-    ],
-    "correct": 3,
-    "explain": "'sleep' = ngủ"
-  },
-  {
-    "question": "Nghĩa của 'STUDY' là?",
-    "options": [
-      "buổi sáng",
-      "học",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'study' = học"
-  },
-  {
-    "question": "Nghĩa của 'PLAY' là?",
-    "options": [
-      "chơi",
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'play' = chơi"
-  },
-  {
-    "question": "Nghĩa của 'MORNING' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
-      "ban đêm"
-    ],
-    "correct": 0,
     "explain": "'morning' = buổi sáng"
   },
   {
-    "question": "Nghĩa của 'AFTERNOON' là?",
+    "question": "'AFTERNOON' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
-      "ban đêm"
-    ],
-    "correct": 2,
-    "explain": "'afternoon' = buổi chiều"
-  },
-  {
-    "question": "Nghĩa của 'EVENING' là?",
-    "options": [
-      "ban đêm",
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 3,
-    "explain": "'evening' = buổi tối"
-  },
-  {
-    "question": "Nghĩa của 'NIGHT' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "ban đêm",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'night' = ban đêm"
-  },
-  {
-    "question": "Nghĩa của 'MONDAY' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
       "thứ Hai",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'Monday' = thứ Hai"
-  },
-  {
-    "question": "Nghĩa của 'TUESDAY' là?",
-    "options": [
-      "buổi tối",
-      "thứ Ba",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'Tuesday' = thứ Ba"
-  },
-  {
-    "question": "Nghĩa của 'WEDNESDAY' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
-      "thứ Tư"
-    ],
-    "correct": 3,
-    "explain": "'Wednesday' = thứ Tư"
-  },
-  {
-    "question": "Nghĩa của 'THURSDAY' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối",
-      "thứ Năm"
-    ],
-    "correct": 3,
-    "explain": "'Thursday' = thứ Năm"
-  },
-  {
-    "question": "Nghĩa của 'FRIDAY' là?",
-    "options": [
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng",
-      "thứ Sáu"
-    ],
-    "correct": 3,
-    "explain": "'Friday' = thứ Sáu"
-  },
-  {
-    "question": "Nghĩa của 'SATURDAY' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
-      "thứ Bảy"
-    ],
-    "correct": 3,
-    "explain": "'Saturday' = thứ Bảy"
-  },
-  {
-    "question": "Nghĩa của 'SUNDAY' là?",
-    "options": [
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng",
-      "Chủ Nhật"
-    ],
-    "correct": 3,
-    "explain": "'Sunday' = Chủ Nhật"
-  },
-  {
-    "question": "Nghĩa của 'JANUARY' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "tháng Một",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'January' = tháng Một"
-  },
-  {
-    "question": "Nghĩa của 'FEBRUARY' là?",
-    "options": [
-      "tháng Hai",
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'February' = tháng Hai"
-  },
-  {
-    "question": "Nghĩa của 'MARCH' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "tháng Ba"
-    ],
-    "correct": 3,
-    "explain": "'March' = tháng Ba"
-  },
-  {
-    "question": "Nghĩa của 'SPRING' là?",
-    "options": [
-      "buổi chiều",
-      "mùa xuân",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 1,
-    "explain": "'spring' = mùa xuân"
-  },
-  {
-    "question": "Nghĩa của 'SUMMER' là?",
-    "options": [
-      "buổi tối",
-      "mùa hè",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'summer' = mùa hè"
-  },
-  {
-    "question": "Nghĩa của 'AUTUMN' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "mùa thu",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'autumn' = mùa thu"
-  },
-  {
-    "question": "Nghĩa của 'WINTER' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "mùa đông",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'winter' = mùa đông"
-  },
-  {
-    "question": "Nghĩa của 'HOUSE' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "ngôi nhà"
-    ],
-    "correct": 3,
-    "explain": "'house' = ngôi nhà"
-  },
-  {
-    "question": "Nghĩa của 'SCHOOL' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "trường học",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'school' = trường học"
-  },
-  {
-    "question": "Nghĩa của 'HOSPITAL' là?",
-    "options": [
-      "buổi chiều",
-      "bệnh viện",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 1,
-    "explain": "'hospital' = bệnh viện"
-  },
-  {
-    "question": "Nghĩa của 'MARKET' là?",
-    "options": [
-      "chợ",
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 0,
-    "explain": "'market' = chợ"
-  },
-  {
-    "question": "Nghĩa của 'TEACHER' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "giáo viên",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'teacher' = giáo viên"
-  },
-  {
-    "question": "Nghĩa của 'STUDENT' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "học sinh",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'student' = học sinh"
-  },
-  {
-    "question": "Nghĩa của 'DOCTOR' là?",
-    "options": [
-      "bác sĩ",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'doctor' = bác sĩ"
-  },
-  {
-    "question": "Nghĩa của 'FARMER' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "nông dân",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'farmer' = nông dân"
-  },
-  {
-    "question": "Nghĩa của 'HEAD' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "đầu",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'head' = đầu"
-  },
-  {
-    "question": "Nghĩa của 'EYE' là?",
-    "options": [
-      "buổi tối",
-      "mắt",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'eye' = mắt"
-  },
-  {
-    "question": "Nghĩa của 'NOSE' là?",
-    "options": [
-      "buổi tối",
-      "mũi",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'nose' = mũi"
-  },
-  {
-    "question": "Nghĩa của 'MOUTH' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối",
-      "miệng"
-    ],
-    "correct": 3,
-    "explain": "'mouth' = miệng"
-  },
-  {
-    "question": "Nghĩa của 'EAR' là?",
-    "options": [
-      "buổi tối",
-      "tai",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'ear' = tai"
-  },
-  {
-    "question": "Nghĩa của 'HAND' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "bàn tay",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'hand' = bàn tay"
-  },
-  {
-    "question": "Nghĩa của 'FOOT' là?",
-    "options": [
-      "buổi sáng",
-      "bàn chân",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 1,
-    "explain": "'foot' = bàn chân"
-  },
-  {
-    "question": "Nghĩa của 'LEG' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
-      "chân"
-    ],
-    "correct": 3,
-    "explain": "'leg' = chân"
-  },
-  {
-    "question": "Nghĩa của 'ARM' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "cánh tay",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'arm' = cánh tay"
-  },
-  {
-    "question": "Nghĩa của 'HAPPY' là?",
-    "options": [
-      "buổi tối",
-      "vui vẻ",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'happy' = vui vẻ"
-  },
-  {
-    "question": "Nghĩa của 'SAD' là?",
-    "options": [
-      "buồn",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 0,
-    "explain": "'sad' = buồn"
-  },
-  {
-    "question": "Nghĩa của 'ANGRY' là?",
-    "options": [
-      "buổi tối",
-      "tức giận",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'angry' = tức giận"
-  },
-  {
-    "question": "Nghĩa của 'TIRED' là?",
-    "options": [
-      "buổi tối",
-      "mệt mỏi",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'tired' = mệt mỏi"
-  },
-  {
-    "question": "Nghĩa của 'TALL' là?",
-    "options": [
-      "buổi chiều",
-      "cao",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'tall' = cao"
-  },
-  {
-    "question": "Nghĩa của 'SHORT' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
-      "thấp/ngắn"
-    ],
-    "correct": 3,
-    "explain": "'short' = thấp/ngắn"
-  },
-  {
-    "question": "Nghĩa của 'FAT' là?",
-    "options": [
-      "béo",
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'fat' = béo"
-  },
-  {
-    "question": "Nghĩa của 'THIN' là?",
-    "options": [
-      "buổi sáng",
-      "gầy",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'thin' = gầy"
-  },
-  {
-    "question": "Nghĩa của 'RUN' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "chạy",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'run' = chạy"
-  },
-  {
-    "question": "Nghĩa của 'JUMP' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "nhảy"
-    ],
-    "correct": 3,
-    "explain": "'jump' = nhảy"
-  },
-  {
-    "question": "Nghĩa của 'SWIM' là?",
-    "options": [
-      "bơi",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'swim' = bơi"
-  },
-  {
-    "question": "Nghĩa của 'FLY' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "bay",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'fly' = bay"
-  },
-  {
-    "question": "Nghĩa của 'WALK' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "đi bộ",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'walk' = đi bộ"
-  },
-  {
-    "question": "Nghĩa của 'EAT' là?",
-    "options": [
-      "ăn",
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'eat' = ăn"
-  },
-  {
-    "question": "Nghĩa của 'DRINK' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều",
-      "uống"
-    ],
-    "correct": 3,
-    "explain": "'drink' = uống"
-  },
-  {
-    "question": "Nghĩa của 'SLEEP' là?",
-    "options": [
-      "ngủ",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'sleep' = ngủ"
-  },
-  {
-    "question": "Nghĩa của 'STUDY' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "học",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'study' = học"
-  },
-  {
-    "question": "Nghĩa của 'PLAY' là?",
-    "options": [
-      "chơi",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'play' = chơi"
-  },
-  {
-    "question": "Nghĩa của 'MORNING' là?",
-    "options": [
-      "ban đêm",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 3,
-    "explain": "'morning' = buổi sáng"
-  },
-  {
-    "question": "Nghĩa của 'AFTERNOON' là?",
-    "options": [
       "buổi chiều",
       "ban đêm",
-      "buổi tối",
-      "buổi sáng"
+      "buổi tối"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'afternoon' = buổi chiều"
   },
   {
-    "question": "Nghĩa của 'EVENING' là?",
+    "question": "'EVENING' có nghĩa là? (Biến thể 3)",
     "options": [
       "buổi tối",
-      "buổi chiều",
-      "ban đêm",
-      "buổi sáng"
+      "thứ Hai",
+      "thứ Ba",
+      "ban đêm"
     ],
     "correct": 0,
     "explain": "'evening' = buổi tối"
   },
   {
-    "question": "Nghĩa của 'NIGHT' là?",
+    "question": "'NIGHT' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
-      "ban đêm"
-    ],
-    "correct": 3,
-    "explain": "'night' = ban đêm"
-  },
-  {
-    "question": "Nghĩa của 'MONDAY' là?",
-    "options": [
-      "thứ Hai",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'Monday' = thứ Hai"
-  },
-  {
-    "question": "Nghĩa của 'TUESDAY' là?",
-    "options": [
+      "ban đêm",
       "thứ Ba",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'Tuesday' = thứ Ba"
-  },
-  {
-    "question": "Nghĩa của 'WEDNESDAY' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
       "thứ Tư",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'Wednesday' = thứ Tư"
-  },
-  {
-    "question": "Nghĩa của 'THURSDAY' là?",
-    "options": [
-      "thứ Năm",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'Thursday' = thứ Năm"
-  },
-  {
-    "question": "Nghĩa của 'FRIDAY' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "thứ Sáu",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'Friday' = thứ Sáu"
-  },
-  {
-    "question": "Nghĩa của 'SATURDAY' là?",
-    "options": [
-      "buổi chiều",
-      "thứ Bảy",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 1,
-    "explain": "'Saturday' = thứ Bảy"
-  },
-  {
-    "question": "Nghĩa của 'SUNDAY' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều",
-      "Chủ Nhật"
-    ],
-    "correct": 3,
-    "explain": "'Sunday' = Chủ Nhật"
-  },
-  {
-    "question": "Nghĩa của 'JANUARY' là?",
-    "options": [
-      "buổi chiều",
-      "buổi tối",
-      "tháng Một",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'January' = tháng Một"
-  },
-  {
-    "question": "Nghĩa của 'FEBRUARY' là?",
-    "options": [
-      "tháng Hai",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'February' = tháng Hai"
-  },
-  {
-    "question": "Nghĩa của 'MARCH' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "tháng Ba",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'March' = tháng Ba"
-  },
-  {
-    "question": "Nghĩa của 'SPRING' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "mùa xuân",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'spring' = mùa xuân"
-  },
-  {
-    "question": "Nghĩa của 'SUMMER' là?",
-    "options": [
-      "mùa hè",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'summer' = mùa hè"
-  },
-  {
-    "question": "Nghĩa của 'AUTUMN' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
-      "mùa thu"
-    ],
-    "correct": 3,
-    "explain": "'autumn' = mùa thu"
-  },
-  {
-    "question": "Nghĩa của 'WINTER' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "mùa đông",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'winter' = mùa đông"
-  },
-  {
-    "question": "Nghĩa của 'HOUSE' là?",
-    "options": [
-      "ngôi nhà",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'house' = ngôi nhà"
-  },
-  {
-    "question": "Nghĩa của 'SCHOOL' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
-      "trường học"
-    ],
-    "correct": 3,
-    "explain": "'school' = trường học"
-  },
-  {
-    "question": "Nghĩa của 'HOSPITAL' là?",
-    "options": [
-      "buổi tối",
-      "bệnh viện",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'hospital' = bệnh viện"
-  },
-  {
-    "question": "Nghĩa của 'MARKET' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "chợ",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'market' = chợ"
-  },
-  {
-    "question": "Nghĩa của 'TEACHER' là?",
-    "options": [
-      "giáo viên",
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 0,
-    "explain": "'teacher' = giáo viên"
-  },
-  {
-    "question": "Nghĩa của 'STUDENT' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "học sinh",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'student' = học sinh"
-  },
-  {
-    "question": "Nghĩa của 'DOCTOR' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
-      "bác sĩ"
-    ],
-    "correct": 3,
-    "explain": "'doctor' = bác sĩ"
-  },
-  {
-    "question": "Nghĩa của 'FARMER' là?",
-    "options": [
-      "buổi sáng",
-      "nông dân",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'farmer' = nông dân"
-  },
-  {
-    "question": "Nghĩa của 'HEAD' là?",
-    "options": [
-      "đầu",
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'head' = đầu"
-  },
-  {
-    "question": "Nghĩa của 'EYE' là?",
-    "options": [
-      "mắt",
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'eye' = mắt"
-  },
-  {
-    "question": "Nghĩa của 'NOSE' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
-      "mũi"
-    ],
-    "correct": 3,
-    "explain": "'nose' = mũi"
-  },
-  {
-    "question": "Nghĩa của 'MOUTH' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "miệng",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'mouth' = miệng"
-  },
-  {
-    "question": "Nghĩa của 'EAR' là?",
-    "options": [
-      "buổi tối",
-      "tai",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'ear' = tai"
-  },
-  {
-    "question": "Nghĩa của 'HAND' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "bàn tay",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'hand' = bàn tay"
-  },
-  {
-    "question": "Nghĩa của 'FOOT' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "bàn chân",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'foot' = bàn chân"
-  },
-  {
-    "question": "Nghĩa của 'LEG' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "chân",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'leg' = chân"
-  },
-  {
-    "question": "Nghĩa của 'ARM' là?",
-    "options": [
-      "buổi sáng",
-      "cánh tay",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'arm' = cánh tay"
-  },
-  {
-    "question": "Nghĩa của 'HAPPY' là?",
-    "options": [
-      "buổi sáng",
-      "vui vẻ",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 1,
-    "explain": "'happy' = vui vẻ"
-  },
-  {
-    "question": "Nghĩa của 'SAD' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều",
-      "buồn"
-    ],
-    "correct": 3,
-    "explain": "'sad' = buồn"
-  },
-  {
-    "question": "Nghĩa của 'ANGRY' là?",
-    "options": [
-      "tức giận",
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'angry' = tức giận"
-  },
-  {
-    "question": "Nghĩa của 'TIRED' là?",
-    "options": [
-      "buổi chiều",
-      "mệt mỏi",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'tired' = mệt mỏi"
-  },
-  {
-    "question": "Nghĩa của 'TALL' là?",
-    "options": [
-      "buổi chiều",
-      "cao",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 1,
-    "explain": "'tall' = cao"
-  },
-  {
-    "question": "Nghĩa của 'SHORT' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
-      "thấp/ngắn"
-    ],
-    "correct": 3,
-    "explain": "'short' = thấp/ngắn"
-  },
-  {
-    "question": "Nghĩa của 'FAT' là?",
-    "options": [
-      "buổi chiều",
-      "béo",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'fat' = béo"
-  },
-  {
-    "question": "Nghĩa của 'THIN' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "gầy",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'thin' = gầy"
-  },
-  {
-    "question": "Nghĩa của 'RUN' là?",
-    "options": [
-      "chạy",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'run' = chạy"
-  },
-  {
-    "question": "Nghĩa của 'JUMP' là?",
-    "options": [
-      "buổi sáng",
-      "nhảy",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'jump' = nhảy"
-  },
-  {
-    "question": "Nghĩa của 'SWIM' là?",
-    "options": [
-      "buổi chiều",
-      "bơi",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'swim' = bơi"
-  },
-  {
-    "question": "Nghĩa của 'FLY' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "bay",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'fly' = bay"
-  },
-  {
-    "question": "Nghĩa của 'WALK' là?",
-    "options": [
-      "đi bộ",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 0,
-    "explain": "'walk' = đi bộ"
-  },
-  {
-    "question": "Nghĩa của 'EAT' là?",
-    "options": [
-      "ăn",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'eat' = ăn"
-  },
-  {
-    "question": "Nghĩa của 'DRINK' là?",
-    "options": [
-      "buổi tối",
-      "uống",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'drink' = uống"
-  },
-  {
-    "question": "Nghĩa của 'SLEEP' là?",
-    "options": [
-      "ngủ",
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'sleep' = ngủ"
-  },
-  {
-    "question": "Nghĩa của 'STUDY' là?",
-    "options": [
-      "buổi tối",
-      "học",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'study' = học"
-  },
-  {
-    "question": "Nghĩa của 'PLAY' là?",
-    "options": [
-      "buổi chiều",
-      "chơi",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 1,
-    "explain": "'play' = chơi"
-  },
-  {
-    "question": "Nghĩa của 'MORNING' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "ban đêm",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'morning' = buổi sáng"
-  },
-  {
-    "question": "Nghĩa của 'AFTERNOON' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "ban đêm",
-      "buổi chiều"
-    ],
-    "correct": 3,
-    "explain": "'afternoon' = buổi chiều"
-  },
-  {
-    "question": "Nghĩa của 'EVENING' là?",
-    "options": [
-      "buổi chiều",
-      "ban đêm",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'evening' = buổi tối"
-  },
-  {
-    "question": "Nghĩa của 'NIGHT' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
-      "ban đêm"
-    ],
-    "correct": 3,
-    "explain": "'night' = ban đêm"
-  },
-  {
-    "question": "Nghĩa của 'MONDAY' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
       "thứ Hai"
     ],
-    "correct": 3,
-    "explain": "'Monday' = thứ Hai"
-  },
-  {
-    "question": "Nghĩa của 'TUESDAY' là?",
-    "options": [
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng",
-      "thứ Ba"
-    ],
-    "correct": 3,
-    "explain": "'Tuesday' = thứ Ba"
-  },
-  {
-    "question": "Nghĩa của 'WEDNESDAY' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "thứ Tư",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'Wednesday' = thứ Tư"
-  },
-  {
-    "question": "Nghĩa của 'THURSDAY' là?",
-    "options": [
-      "thứ Năm",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
-    ],
     "correct": 0,
-    "explain": "'Thursday' = thứ Năm"
-  },
-  {
-    "question": "Nghĩa của 'FRIDAY' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều",
-      "thứ Sáu"
-    ],
-    "correct": 3,
-    "explain": "'Friday' = thứ Sáu"
-  },
-  {
-    "question": "Nghĩa của 'SATURDAY' là?",
-    "options": [
-      "buổi chiều",
-      "thứ Bảy",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'Saturday' = thứ Bảy"
-  },
-  {
-    "question": "Nghĩa của 'SUNDAY' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "Chủ Nhật"
-    ],
-    "correct": 3,
-    "explain": "'Sunday' = Chủ Nhật"
-  },
-  {
-    "question": "Nghĩa của 'JANUARY' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "tháng Một"
-    ],
-    "correct": 3,
-    "explain": "'January' = tháng Một"
-  },
-  {
-    "question": "Nghĩa của 'FEBRUARY' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "tháng Hai"
-    ],
-    "correct": 3,
-    "explain": "'February' = tháng Hai"
-  },
-  {
-    "question": "Nghĩa của 'MARCH' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
-      "tháng Ba"
-    ],
-    "correct": 3,
-    "explain": "'March' = tháng Ba"
-  },
-  {
-    "question": "Nghĩa của 'SPRING' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
-      "mùa xuân"
-    ],
-    "correct": 3,
-    "explain": "'spring' = mùa xuân"
-  },
-  {
-    "question": "Nghĩa của 'SUMMER' là?",
-    "options": [
-      "buổi tối",
-      "mùa hè",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'summer' = mùa hè"
-  },
-  {
-    "question": "Nghĩa của 'AUTUMN' là?",
-    "options": [
-      "mùa thu",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'autumn' = mùa thu"
-  },
-  {
-    "question": "Nghĩa của 'WINTER' là?",
-    "options": [
-      "buổi tối",
-      "mùa đông",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'winter' = mùa đông"
-  },
-  {
-    "question": "Nghĩa của 'HOUSE' là?",
-    "options": [
-      "buổi chiều",
-      "buổi tối",
-      "ngôi nhà",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'house' = ngôi nhà"
-  },
-  {
-    "question": "Nghĩa của 'SCHOOL' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "trường học"
-    ],
-    "correct": 3,
-    "explain": "'school' = trường học"
-  },
-  {
-    "question": "Nghĩa của 'HOSPITAL' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "bệnh viện",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'hospital' = bệnh viện"
-  },
-  {
-    "question": "Nghĩa của 'MARKET' là?",
-    "options": [
-      "buổi tối",
-      "chợ",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'market' = chợ"
-  },
-  {
-    "question": "Nghĩa của 'TEACHER' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "giáo viên",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'teacher' = giáo viên"
-  },
-  {
-    "question": "Nghĩa của 'STUDENT' là?",
-    "options": [
-      "học sinh",
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'student' = học sinh"
-  },
-  {
-    "question": "Nghĩa của 'DOCTOR' là?",
-    "options": [
-      "buổi chiều",
-      "bác sĩ",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'doctor' = bác sĩ"
-  },
-  {
-    "question": "Nghĩa của 'FARMER' là?",
-    "options": [
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng",
-      "nông dân"
-    ],
-    "correct": 3,
-    "explain": "'farmer' = nông dân"
-  },
-  {
-    "question": "Nghĩa của 'HEAD' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "đầu",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'head' = đầu"
-  },
-  {
-    "question": "Nghĩa của 'EYE' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "mắt"
-    ],
-    "correct": 3,
-    "explain": "'eye' = mắt"
-  },
-  {
-    "question": "Nghĩa của 'NOSE' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều",
-      "mũi"
-    ],
-    "correct": 3,
-    "explain": "'nose' = mũi"
-  },
-  {
-    "question": "Nghĩa của 'MOUTH' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "miệng",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'mouth' = miệng"
-  },
-  {
-    "question": "Nghĩa của 'EAR' là?",
-    "options": [
-      "tai",
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'ear' = tai"
-  },
-  {
-    "question": "Nghĩa của 'HAND' là?",
-    "options": [
-      "buổi chiều",
-      "buổi tối",
-      "bàn tay",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'hand' = bàn tay"
-  },
-  {
-    "question": "Nghĩa của 'FOOT' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "bàn chân"
-    ],
-    "correct": 3,
-    "explain": "'foot' = bàn chân"
-  },
-  {
-    "question": "Nghĩa của 'LEG' là?",
-    "options": [
-      "buổi tối",
-      "chân",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'leg' = chân"
-  },
-  {
-    "question": "Nghĩa của 'ARM' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
-      "cánh tay"
-    ],
-    "correct": 3,
-    "explain": "'arm' = cánh tay"
-  },
-  {
-    "question": "Nghĩa của 'HAPPY' là?",
-    "options": [
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng",
-      "vui vẻ"
-    ],
-    "correct": 3,
-    "explain": "'happy' = vui vẻ"
-  },
-  {
-    "question": "Nghĩa của 'SAD' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "buồn"
-    ],
-    "correct": 3,
-    "explain": "'sad' = buồn"
-  },
-  {
-    "question": "Nghĩa của 'ANGRY' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "tức giận",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'angry' = tức giận"
-  },
-  {
-    "question": "Nghĩa của 'TIRED' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối",
-      "mệt mỏi"
-    ],
-    "correct": 3,
-    "explain": "'tired' = mệt mỏi"
-  },
-  {
-    "question": "Nghĩa của 'TALL' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "cao",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'tall' = cao"
-  },
-  {
-    "question": "Nghĩa của 'SHORT' là?",
-    "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "thấp/ngắn",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'short' = thấp/ngắn"
-  },
-  {
-    "question": "Nghĩa của 'FAT' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối",
-      "béo"
-    ],
-    "correct": 3,
-    "explain": "'fat' = béo"
-  },
-  {
-    "question": "Nghĩa của 'THIN' là?",
-    "options": [
-      "gầy",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'thin' = gầy"
-  },
-  {
-    "question": "Nghĩa của 'RUN' là?",
-    "options": [
-      "buổi tối",
-      "buổi sáng",
-      "chạy",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'run' = chạy"
-  },
-  {
-    "question": "Nghĩa của 'JUMP' là?",
-    "options": [
-      "nhảy",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'jump' = nhảy"
-  },
-  {
-    "question": "Nghĩa của 'SWIM' là?",
-    "options": [
-      "buổi sáng",
-      "bơi",
-      "buổi chiều",
-      "buổi tối"
-    ],
-    "correct": 1,
-    "explain": "'swim' = bơi"
-  },
-  {
-    "question": "Nghĩa của 'FLY' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "bay",
-      "buổi tối"
-    ],
-    "correct": 2,
-    "explain": "'fly' = bay"
-  },
-  {
-    "question": "Nghĩa của 'WALK' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "đi bộ",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'walk' = đi bộ"
-  },
-  {
-    "question": "Nghĩa của 'EAT' là?",
-    "options": [
-      "buổi chiều",
-      "ăn",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'eat' = ăn"
-  },
-  {
-    "question": "Nghĩa của 'DRINK' là?",
-    "options": [
-      "buổi chiều",
-      "uống",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 1,
-    "explain": "'drink' = uống"
-  },
-  {
-    "question": "Nghĩa của 'SLEEP' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "ngủ",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'sleep' = ngủ"
-  },
-  {
-    "question": "Nghĩa của 'STUDY' là?",
-    "options": [
-      "buổi sáng",
-      "học",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'study' = học"
-  },
-  {
-    "question": "Nghĩa của 'PLAY' là?",
-    "options": [
-      "chơi",
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 0,
-    "explain": "'play' = chơi"
-  },
-  {
-    "question": "Nghĩa của 'MORNING' là?",
-    "options": [
-      "ban đêm",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 1,
-    "explain": "'morning' = buổi sáng"
-  },
-  {
-    "question": "Nghĩa của 'AFTERNOON' là?",
-    "options": [
-      "ban đêm",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'afternoon' = buổi chiều"
-  },
-  {
-    "question": "Nghĩa của 'EVENING' là?",
-    "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
-      "ban đêm"
-    ],
-    "correct": 1,
-    "explain": "'evening' = buổi tối"
-  },
-  {
-    "question": "Nghĩa của 'NIGHT' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "ban đêm"
-    ],
-    "correct": 3,
     "explain": "'night' = ban đêm"
   },
   {
-    "question": "Nghĩa của 'MONDAY' là?",
+    "question": "'MONDAY' có nghĩa là? (Biến thể 3)",
     "options": [
       "thứ Hai",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
+      "thứ Năm",
+      "thứ Tư",
+      "thứ Ba"
     ],
     "correct": 0,
     "explain": "'Monday' = thứ Hai"
   },
   {
-    "question": "Nghĩa của 'TUESDAY' là?",
+    "question": "'TUESDAY' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi tối",
       "thứ Ba",
-      "buổi sáng",
-      "buổi chiều"
+      "thứ Tư",
+      "thứ Năm",
+      "thứ Sáu"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'Tuesday' = thứ Ba"
   },
   {
-    "question": "Nghĩa của 'WEDNESDAY' là?",
+    "question": "'WEDNESDAY' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
+      "thứ Bảy",
+      "thứ Năm",
+      "thứ Sáu",
       "thứ Tư"
     ],
     "correct": 3,
     "explain": "'Wednesday' = thứ Tư"
   },
   {
-    "question": "Nghĩa của 'THURSDAY' là?",
+    "question": "'THURSDAY' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi tối",
-      "buổi chiều",
+      "Chủ Nhật",
+      "thứ Bảy",
       "thứ Năm",
-      "buổi sáng"
+      "thứ Sáu"
     ],
     "correct": 2,
     "explain": "'Thursday' = thứ Năm"
   },
   {
-    "question": "Nghĩa của 'FRIDAY' là?",
+    "question": "'FRIDAY' có nghĩa là? (Biến thể 3)",
     "options": [
+      "tháng Một",
+      "thứ Bảy",
       "thứ Sáu",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
+      "Chủ Nhật"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'Friday' = thứ Sáu"
   },
   {
-    "question": "Nghĩa của 'SATURDAY' là?",
+    "question": "'SATURDAY' có nghĩa là? (Biến thể 3)",
     "options": [
+      "tháng Một",
+      "Chủ Nhật",
       "thứ Bảy",
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng"
+      "tháng Hai"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'Saturday' = thứ Bảy"
   },
   {
-    "question": "Nghĩa của 'SUNDAY' là?",
+    "question": "'SUNDAY' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi chiều",
       "Chủ Nhật",
-      "buổi sáng",
-      "buổi tối"
+      "tháng Hai",
+      "tháng Ba",
+      "tháng Một"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'Sunday' = Chủ Nhật"
   },
   {
-    "question": "Nghĩa của 'JANUARY' là?",
+    "question": "'JANUARY' có nghĩa là? (Biến thể 3)",
     "options": [
+      "mùa xuân",
+      "tháng Hai",
       "tháng Một",
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối"
+      "tháng Ba"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'January' = tháng Một"
   },
   {
-    "question": "Nghĩa của 'FEBRUARY' là?",
+    "question": "'FEBRUARY' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
-      "tháng Hai"
+      "tháng Hai",
+      "tháng Ba",
+      "mùa xuân",
+      "mùa hè"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'February' = tháng Hai"
   },
   {
-    "question": "Nghĩa của 'MARCH' là?",
+    "question": "'MARCH' có nghĩa là? (Biến thể 3)",
     "options": [
+      "mùa xuân",
       "tháng Ba",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
+      "mùa hè",
+      "mùa thu"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'March' = tháng Ba"
   },
   {
-    "question": "Nghĩa của 'SPRING' là?",
+    "question": "'SPRING' có nghĩa là? (Biến thể 3)",
     "options": [
+      "mùa thu",
       "mùa xuân",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
+      "mùa hè",
+      "mùa đông"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'spring' = mùa xuân"
   },
   {
-    "question": "Nghĩa của 'SUMMER' là?",
+    "question": "'SUMMER' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi tối",
       "mùa hè",
-      "buổi sáng",
-      "buổi chiều"
+      "mùa thu",
+      "ngôi nhà",
+      "mùa đông"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'summer' = mùa hè"
   },
   {
-    "question": "Nghĩa của 'AUTUMN' là?",
+    "question": "'AUTUMN' có nghĩa là? (Biến thể 3)",
     "options": [
+      "mùa đông",
+      "trường học",
       "mùa thu",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
+      "ngôi nhà"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'autumn' = mùa thu"
   },
   {
-    "question": "Nghĩa của 'WINTER' là?",
+    "question": "'WINTER' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
+      "ngôi nhà",
+      "bệnh viện",
+      "trường học",
       "mùa đông"
     ],
     "correct": 3,
     "explain": "'winter' = mùa đông"
   },
   {
-    "question": "Nghĩa của 'HOUSE' là?",
+    "question": "'HOUSE' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi chiều",
-      "buổi sáng",
+      "bệnh viện",
+      "trường học",
       "ngôi nhà",
-      "buổi tối"
+      "chợ"
     ],
     "correct": 2,
     "explain": "'house' = ngôi nhà"
   },
   {
-    "question": "Nghĩa của 'SCHOOL' là?",
+    "question": "'SCHOOL' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi sáng",
-      "buổi chiều",
       "trường học",
-      "buổi tối"
+      "bệnh viện",
+      "chợ",
+      "giáo viên"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'school' = trường học"
   },
   {
-    "question": "Nghĩa của 'HOSPITAL' là?",
+    "question": "'HOSPITAL' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi tối",
+      "giáo viên",
       "bệnh viện",
-      "buổi sáng",
-      "buổi chiều"
+      "chợ",
+      "học sinh"
     ],
     "correct": 1,
     "explain": "'hospital' = bệnh viện"
   },
   {
-    "question": "Nghĩa của 'MARKET' là?",
+    "question": "'MARKET' có nghĩa là? (Biến thể 3)",
     "options": [
-      "chợ",
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối"
+      "bác sĩ",
+      "học sinh",
+      "giáo viên",
+      "chợ"
     ],
-    "correct": 0,
+    "correct": 3,
     "explain": "'market' = chợ"
   },
   {
-    "question": "Nghĩa của 'TEACHER' là?",
+    "question": "'TEACHER' có nghĩa là? (Biến thể 3)",
     "options": [
+      "học sinh",
+      "bác sĩ",
       "giáo viên",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
+      "nông dân"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'teacher' = giáo viên"
   },
   {
-    "question": "Nghĩa của 'STUDENT' là?",
+    "question": "'STUDENT' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều",
-      "học sinh"
+      "bác sĩ",
+      "học sinh",
+      "nông dân",
+      "đầu"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'student' = học sinh"
   },
   {
-    "question": "Nghĩa của 'DOCTOR' là?",
+    "question": "'DOCTOR' có nghĩa là? (Biến thể 3)",
     "options": [
       "bác sĩ",
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng"
+      "mắt",
+      "nông dân",
+      "đầu"
     ],
     "correct": 0,
     "explain": "'doctor' = bác sĩ"
   },
   {
-    "question": "Nghĩa của 'FARMER' là?",
+    "question": "'FARMER' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều",
-      "nông dân"
+      "nông dân",
+      "mũi",
+      "mắt",
+      "đầu"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'farmer' = nông dân"
   },
   {
-    "question": "Nghĩa của 'HEAD' là?",
+    "question": "'HEAD' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi chiều",
       "đầu",
-      "buổi sáng",
-      "buổi tối"
+      "miệng",
+      "mũi",
+      "mắt"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'head' = đầu"
   },
   {
-    "question": "Nghĩa của 'EYE' là?",
+    "question": "'EYE' có nghĩa là? (Biến thể 3)",
     "options": [
+      "mũi",
       "mắt",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
+      "tai",
+      "miệng"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'eye' = mắt"
   },
   {
-    "question": "Nghĩa của 'NOSE' là?",
+    "question": "'NOSE' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
-      "mũi"
+      "miệng",
+      "mũi",
+      "tai",
+      "bàn tay"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'nose' = mũi"
   },
   {
-    "question": "Nghĩa của 'MOUTH' là?",
+    "question": "'MOUTH' có nghĩa là? (Biến thể 3)",
     "options": [
+      "bàn chân",
       "miệng",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
+      "bàn tay",
+      "tai"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'mouth' = miệng"
   },
   {
-    "question": "Nghĩa của 'EAR' là?",
+    "question": "'EAR' có nghĩa là? (Biến thể 3)",
     "options": [
+      "bàn tay",
+      "bàn chân",
       "tai",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
+      "chân"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'ear' = tai"
   },
   {
-    "question": "Nghĩa của 'HAND' là?",
+    "question": "'HAND' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi tối",
-      "bàn tay",
-      "buổi chiều",
-      "buổi sáng"
+      "bàn chân",
+      "chân",
+      "cánh tay",
+      "bàn tay"
     ],
-    "correct": 1,
+    "correct": 3,
     "explain": "'hand' = bàn tay"
   },
   {
-    "question": "Nghĩa của 'FOOT' là?",
+    "question": "'FOOT' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
+      "chân",
+      "vui vẻ",
+      "cánh tay",
       "bàn chân"
     ],
     "correct": 3,
     "explain": "'foot' = bàn chân"
   },
   {
-    "question": "Nghĩa của 'LEG' là?",
+    "question": "'LEG' có nghĩa là? (Biến thể 3)",
     "options": [
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều",
-      "chân"
+      "chân",
+      "cánh tay",
+      "vui vẻ",
+      "buồn"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'leg' = chân"
   },
   {
-    "question": "Nghĩa của 'ARM' là?",
+    "question": "'ARM' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi chiều",
-      "buổi sáng",
+      "buồn",
+      "tức giận",
       "cánh tay",
-      "buổi tối"
+      "vui vẻ"
     ],
     "correct": 2,
     "explain": "'arm' = cánh tay"
   },
   {
-    "question": "Nghĩa của 'HAPPY' là?",
+    "question": "'HAPPY' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi tối",
+      "tức giận",
+      "buồn",
       "vui vẻ",
-      "buổi sáng",
-      "buổi chiều"
+      "mệt mỏi"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'happy' = vui vẻ"
   },
   {
-    "question": "Nghĩa của 'SAD' là?",
+    "question": "'SAD' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi tối",
-      "buổi chiều",
       "buồn",
-      "buổi sáng"
+      "mệt mỏi",
+      "cao",
+      "tức giận"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'sad' = buồn"
   },
   {
-    "question": "Nghĩa của 'ANGRY' là?",
+    "question": "'ANGRY' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
-      "tức giận"
+      "thấp/ngắn",
+      "tức giận",
+      "mệt mỏi",
+      "cao"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'angry' = tức giận"
   },
   {
-    "question": "Nghĩa của 'TIRED' là?",
+    "question": "'TIRED' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi tối",
-      "buổi sáng",
+      "thấp/ngắn",
+      "béo",
       "mệt mỏi",
-      "buổi chiều"
+      "cao"
     ],
     "correct": 2,
     "explain": "'tired' = mệt mỏi"
   },
   {
-    "question": "Nghĩa của 'TALL' là?",
+    "question": "'TALL' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng",
+      "gầy",
+      "béo",
+      "thấp/ngắn",
       "cao"
     ],
     "correct": 3,
     "explain": "'tall' = cao"
   },
   {
-    "question": "Nghĩa của 'SHORT' là?",
+    "question": "'SHORT' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi chiều",
+      "chạy",
       "thấp/ngắn",
-      "buổi tối",
-      "buổi sáng"
+      "gầy",
+      "béo"
     ],
     "correct": 1,
     "explain": "'short' = thấp/ngắn"
   },
   {
-    "question": "Nghĩa của 'FAT' là?",
+    "question": "'FAT' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi chiều",
-      "buổi sáng",
       "béo",
-      "buổi tối"
+      "chạy",
+      "gầy",
+      "nhảy"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'fat' = béo"
   },
   {
-    "question": "Nghĩa của 'THIN' là?",
+    "question": "'THIN' có nghĩa là? (Biến thể 4)",
     "options": [
+      "bơi",
       "gầy",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
+      "chạy",
+      "nhảy"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'thin' = gầy"
   },
   {
-    "question": "Nghĩa của 'RUN' là?",
+    "question": "'RUN' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi tối",
-      "buổi chiều",
+      "bơi",
+      "nhảy",
       "chạy",
-      "buổi sáng"
+      "bay"
     ],
     "correct": 2,
     "explain": "'run' = chạy"
   },
   {
-    "question": "Nghĩa của 'JUMP' là?",
+    "question": "'JUMP' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi chiều",
-      "buổi sáng",
+      "bơi",
       "nhảy",
-      "buổi tối"
+      "bay",
+      "đi bộ"
     ],
-    "correct": 2,
+    "correct": 1,
     "explain": "'jump' = nhảy"
   },
   {
-    "question": "Nghĩa của 'SWIM' là?",
+    "question": "'SWIM' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi tối",
+      "đi bộ",
+      "ăn",
       "bơi",
-      "buổi chiều",
-      "buổi sáng"
+      "bay"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'swim' = bơi"
   },
   {
-    "question": "Nghĩa của 'FLY' là?",
+    "question": "'FLY' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "bay"
+      "đi bộ",
+      "uống",
+      "bay",
+      "ăn"
     ],
-    "correct": 3,
+    "correct": 2,
     "explain": "'fly' = bay"
   },
   {
-    "question": "Nghĩa của 'WALK' là?",
+    "question": "'WALK' có nghĩa là? (Biến thể 4)",
     "options": [
       "đi bộ",
-      "buổi sáng",
-      "buổi chiều",
-      "buổi tối"
+      "ngủ",
+      "uống",
+      "ăn"
     ],
     "correct": 0,
     "explain": "'walk' = đi bộ"
   },
   {
-    "question": "Nghĩa của 'EAT' là?",
+    "question": "'EAT' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi chiều",
-      "buổi tối",
+      "ngủ",
+      "uống",
       "ăn",
-      "buổi sáng"
+      "học"
     ],
     "correct": 2,
     "explain": "'eat' = ăn"
   },
   {
-    "question": "Nghĩa của 'DRINK' là?",
+    "question": "'DRINK' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi chiều",
+      "học",
+      "chơi",
       "uống",
-      "buổi sáng",
-      "buổi tối"
+      "ngủ"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'drink' = uống"
   },
   {
-    "question": "Nghĩa của 'SLEEP' là?",
+    "question": "'SLEEP' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối",
-      "ngủ"
+      "ngủ",
+      "chơi",
+      "học"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'sleep' = ngủ"
   },
   {
-    "question": "Nghĩa của 'STUDY' là?",
+    "question": "'STUDY' có nghĩa là? (Biến thể 4)",
     "options": [
       "học",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
+      "chơi"
     ],
     "correct": 0,
     "explain": "'study' = học"
   },
   {
-    "question": "Nghĩa của 'PLAY' là?",
+    "question": "'PLAY' có nghĩa là? (Biến thể 4)",
     "options": [
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều",
       "chơi"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'play' = chơi"
   },
   {
-    "question": "Nghĩa của 'MORNING' là?",
+    "question": "I ___ to school every day. (Biến thể 4)",
     "options": [
-      "buổi tối",
-      "ban đêm",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 3,
-    "explain": "'morning' = buổi sáng"
-  },
-  {
-    "question": "Nghĩa của 'AFTERNOON' là?",
-    "options": [
-      "ban đêm",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
+      "goes",
+      "go",
+      "gone",
+      "going"
     ],
     "correct": 1,
-    "explain": "'afternoon' = buổi chiều"
+    "explain": "'I go' - chủ ngữ 'I' dùng động từ nguyên thể."
   },
   {
-    "question": "Nghĩa của 'EVENING' là?",
+    "question": "She ___ an apple every morning. (Biến thể 4)",
     "options": [
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều",
-      "ban đêm"
+      "eats",
+      "eaten",
+      "eating",
+      "eat"
     ],
     "correct": 0,
-    "explain": "'evening' = buổi tối"
+    "explain": "'She eats' - chủ ngữ ngôi 3 số ít thêm 's'."
   },
   {
-    "question": "Nghĩa của 'NIGHT' là?",
+    "question": "They ___ football in the park. (Biến thể 4)",
     "options": [
-      "buổi tối",
-      "ban đêm",
-      "buổi chiều",
-      "buổi sáng"
+      "plays",
+      "play",
+      "playing",
+      "played"
     ],
     "correct": 1,
-    "explain": "'night' = ban đêm"
+    "explain": "'They play' - chủ ngữ số nhiều dùng nguyên thể."
   },
   {
-    "question": "Nghĩa của 'MONDAY' là?",
+    "question": "My name ___ Lan. (Biến thể 4)",
     "options": [
-      "buổi sáng",
-      "thứ Hai",
-      "buổi chiều",
-      "buổi tối"
+      "am",
+      "is",
+      "are",
+      "be"
     ],
     "correct": 1,
-    "explain": "'Monday' = thứ Hai"
+    "explain": "'My name is' - 'name' là ngôi 3 số ít dùng 'is'."
   },
   {
-    "question": "Nghĩa của 'TUESDAY' là?",
+    "question": "I ___ a student. (Biến thể 4)",
     "options": [
-      "thứ Ba",
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng"
+      "be",
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "explain": "'I am' - chủ ngữ 'I' luôn dùng 'am'."
+  },
+  {
+    "question": "How ___ you? (Biến thể 4)",
+    "options": [
+      "are",
+      "am",
+      "is",
+      "be"
     ],
     "correct": 0,
-    "explain": "'Tuesday' = thứ Ba"
+    "explain": "'How are you?' là câu hỏi thăm sức khỏe."
   },
   {
-    "question": "Nghĩa của 'WEDNESDAY' là?",
+    "question": "___ is your name? (Biến thể 4)",
     "options": [
-      "buổi tối",
-      "buổi sáng",
-      "thứ Tư",
-      "buổi chiều"
+      "How",
+      "Where",
+      "What",
+      "When"
     ],
     "correct": 2,
-    "explain": "'Wednesday' = thứ Tư"
+    "explain": "'What is your name?' - hỏi tên."
   },
   {
-    "question": "Nghĩa của 'THURSDAY' là?",
+    "question": "___ old are you? (Biến thể 4)",
     "options": [
-      "buổi chiều",
-      "buổi sáng",
-      "thứ Năm",
-      "buổi tối"
+      "When",
+      "What",
+      "How",
+      "Where"
     ],
     "correct": 2,
-    "explain": "'Thursday' = thứ Năm"
+    "explain": "'How old are you?' - hỏi tuổi."
   },
   {
-    "question": "Nghĩa của 'FRIDAY' là?",
+    "question": "I live ___ Hanoi. (Biến thể 4)",
     "options": [
-      "thứ Sáu",
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'Friday' = thứ Sáu"
-  },
-  {
-    "question": "Nghĩa của 'SATURDAY' là?",
-    "options": [
-      "thứ Bảy",
-      "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
-    ],
-    "correct": 0,
-    "explain": "'Saturday' = thứ Bảy"
-  },
-  {
-    "question": "Nghĩa của 'SUNDAY' là?",
-    "options": [
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng",
-      "Chủ Nhật"
+      "on",
+      "at",
+      "to",
+      "in"
     ],
     "correct": 3,
+    "explain": "Dùng 'in' với tên thành phố."
+  },
+  {
+    "question": "She has ___ books. (Biến thể 4)",
+    "options": [
+      "second",
+      "two",
+      "twos",
+      "twice"
+    ],
+    "correct": 1,
+    "explain": "'two books' - từ chỉ số lượng không thêm 's'."
+  },
+  {
+    "question": "Nghĩa của 'SUNDAY' là? (Biến thể 4)",
+    "options": [
+      "buổi tối",
+      "Chủ Nhật",
+      "buổi chiều",
+      "buổi sáng"
+    ],
+    "correct": 1,
     "explain": "'Sunday' = Chủ Nhật"
   },
   {
-    "question": "Nghĩa của 'JANUARY' là?",
+    "question": "Nghĩa của 'JANUARY' là? (Biến thể 4)",
     "options": [
-      "buổi chiều",
-      "tháng Một",
+      "buổi tối",
       "buổi sáng",
-      "buổi tối"
+      "tháng Một",
+      "buổi chiều"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'January' = tháng Một"
   },
   {
-    "question": "Nghĩa của 'FEBRUARY' là?",
+    "question": "Nghĩa của 'FEBRUARY' là? (Biến thể 4)",
     "options": [
-      "buổi tối",
       "buổi sáng",
+      "tháng Hai",
       "buổi chiều",
-      "tháng Hai"
+      "buổi tối"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'February' = tháng Hai"
   },
   {
-    "question": "Nghĩa của 'MARCH' là?",
+    "question": "Nghĩa của 'MARCH' là? (Biến thể 4)",
     "options": [
+      "buổi tối",
       "tháng Ba",
       "buổi chiều",
-      "buổi sáng",
-      "buổi tối"
+      "buổi sáng"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'March' = tháng Ba"
   },
   {
-    "question": "Nghĩa của 'SPRING' là?",
+    "question": "Nghĩa của 'SPRING' là? (Biến thể 4)",
     "options": [
+      "buổi tối",
       "buổi chiều",
       "buổi sáng",
-      "buổi tối",
       "mùa xuân"
     ],
     "correct": 3,
     "explain": "'spring' = mùa xuân"
   },
   {
-    "question": "Nghĩa của 'SUMMER' là?",
-    "options": [
-      "buổi tối",
-      "mùa hè",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 1,
-    "explain": "'summer' = mùa hè"
-  },
-  {
-    "question": "Nghĩa của 'AUTUMN' là?",
-    "options": [
-      "buổi chiều",
-      "buổi tối",
-      "mùa thu",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'autumn' = mùa thu"
-  },
-  {
-    "question": "Nghĩa của 'WINTER' là?",
+    "question": "Nghĩa của 'SUMMER' là? (Biến thể 4)",
     "options": [
       "buổi chiều",
       "buổi tối",
       "buổi sáng",
-      "mùa đông"
+      "mùa hè"
     ],
     "correct": 3,
+    "explain": "'summer' = mùa hè"
+  },
+  {
+    "question": "Nghĩa của 'AUTUMN' là? (Biến thể 4)",
+    "options": [
+      "buổi tối",
+      "buổi chiều",
+      "buổi sáng",
+      "mùa thu"
+    ],
+    "correct": 3,
+    "explain": "'autumn' = mùa thu"
+  },
+  {
+    "question": "Nghĩa của 'WINTER' là? (Biến thể 4)",
+    "options": [
+      "buổi tối",
+      "buổi sáng",
+      "mùa đông",
+      "buổi chiều"
+    ],
+    "correct": 2,
     "explain": "'winter' = mùa đông"
   },
   {
-    "question": "Nghĩa của 'HOUSE' là?",
+    "question": "Nghĩa của 'HOUSE' là? (Biến thể 4)",
     "options": [
       "ngôi nhà",
       "buổi chiều",
@@ -4284,40 +2056,40 @@
     "explain": "'house' = ngôi nhà"
   },
   {
-    "question": "Nghĩa của 'SCHOOL' là?",
+    "question": "Nghĩa của 'SCHOOL' là? (Biến thể 4)",
     "options": [
-      "buổi chiều",
-      "trường học",
+      "buổi tối",
       "buổi sáng",
-      "buổi tối"
+      "trường học",
+      "buổi chiều"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'school' = trường học"
   },
   {
-    "question": "Nghĩa của 'HOSPITAL' là?",
+    "question": "Nghĩa của 'HOSPITAL' là? (Biến thể 4)",
     "options": [
-      "buổi chiều",
-      "buổi sáng",
       "bệnh viện",
-      "buổi tối"
+      "buổi sáng",
+      "buổi tối",
+      "buổi chiều"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'hospital' = bệnh viện"
   },
   {
-    "question": "Nghĩa của 'MARKET' là?",
+    "question": "Nghĩa của 'MARKET' là? (Biến thể 4)",
     "options": [
+      "buổi tối",
       "chợ",
       "buổi chiều",
-      "buổi tối",
       "buổi sáng"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'market' = chợ"
   },
   {
-    "question": "Nghĩa của 'TEACHER' là?",
+    "question": "Nghĩa của 'TEACHER' là? (Biến thể 4)",
     "options": [
       "giáo viên",
       "buổi chiều",
@@ -4328,18 +2100,18 @@
     "explain": "'teacher' = giáo viên"
   },
   {
-    "question": "Nghĩa của 'STUDENT' là?",
+    "question": "Nghĩa của 'STUDENT' là? (Biến thể 4)",
     "options": [
-      "buổi tối",
+      "buổi chiều",
       "học sinh",
       "buổi sáng",
-      "buổi chiều"
+      "buổi tối"
     ],
     "correct": 1,
     "explain": "'student' = học sinh"
   },
   {
-    "question": "Nghĩa của 'DOCTOR' là?",
+    "question": "Nghĩa của 'DOCTOR' là? (Biến thể 4)",
     "options": [
       "buổi chiều",
       "buổi tối",
@@ -4350,164 +2122,164 @@
     "explain": "'doctor' = bác sĩ"
   },
   {
-    "question": "Nghĩa của 'FARMER' là?",
+    "question": "Nghĩa của 'FARMER' là? (Biến thể 4)",
     "options": [
-      "nông dân",
-      "buổi sáng",
+      "buổi chiều",
       "buổi tối",
-      "buổi chiều"
+      "buổi sáng",
+      "nông dân"
     ],
-    "correct": 0,
+    "correct": 3,
     "explain": "'farmer' = nông dân"
   },
   {
-    "question": "Nghĩa của 'HEAD' là?",
+    "question": "Nghĩa của 'HEAD' là? (Biến thể 4)",
     "options": [
+      "buổi chiều",
       "buổi sáng",
       "đầu",
-      "buổi tối",
-      "buổi chiều"
+      "buổi tối"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'head' = đầu"
   },
   {
-    "question": "Nghĩa của 'EYE' là?",
+    "question": "Nghĩa của 'EYE' là? (Biến thể 4)",
     "options": [
-      "buổi sáng",
-      "buổi chiều",
       "buổi tối",
-      "mắt"
+      "buổi chiều",
+      "mắt",
+      "buổi sáng"
     ],
-    "correct": 3,
+    "correct": 2,
     "explain": "'eye' = mắt"
   },
   {
-    "question": "Nghĩa của 'NOSE' là?",
+    "question": "Nghĩa của 'NOSE' là? (Biến thể 4)",
     "options": [
+      "buổi chiều",
       "buổi sáng",
-      "buổi tối",
       "mũi",
-      "buổi chiều"
+      "buổi tối"
     ],
     "correct": 2,
     "explain": "'nose' = mũi"
   },
   {
-    "question": "Nghĩa của 'MOUTH' là?",
+    "question": "Nghĩa của 'MOUTH' là? (Biến thể 4)",
     "options": [
-      "buổi sáng",
       "miệng",
+      "buổi sáng",
       "buổi tối",
       "buổi chiều"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'mouth' = miệng"
   },
   {
-    "question": "Nghĩa của 'EAR' là?",
+    "question": "Nghĩa của 'EAR' là? (Biến thể 4)",
     "options": [
-      "buổi sáng",
-      "tai",
       "buổi tối",
-      "buổi chiều"
+      "buổi chiều",
+      "tai",
+      "buổi sáng"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'ear' = tai"
   },
   {
-    "question": "Nghĩa của 'HAND' là?",
+    "question": "Nghĩa của 'HAND' là? (Biến thể 5)",
     "options": [
       "bàn tay",
-      "buổi chiều",
       "buổi sáng",
-      "buổi tối"
+      "buổi tối",
+      "buổi chiều"
     ],
     "correct": 0,
     "explain": "'hand' = bàn tay"
   },
   {
-    "question": "Nghĩa của 'FOOT' là?",
+    "question": "Nghĩa của 'FOOT' là? (Biến thể 5)",
     "options": [
-      "buổi sáng",
       "buổi chiều",
+      "buổi tối",
       "bàn chân",
-      "buổi tối"
+      "buổi sáng"
     ],
     "correct": 2,
     "explain": "'foot' = bàn chân"
   },
   {
-    "question": "Nghĩa của 'LEG' là?",
+    "question": "Nghĩa của 'LEG' là? (Biến thể 5)",
     "options": [
-      "buổi chiều",
       "buổi tối",
+      "chân",
       "buổi sáng",
-      "chân"
+      "buổi chiều"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'leg' = chân"
   },
   {
-    "question": "Nghĩa của 'ARM' là?",
+    "question": "Nghĩa của 'ARM' là? (Biến thể 5)",
     "options": [
+      "cánh tay",
       "buổi tối",
-      "buổi chiều",
       "buổi sáng",
-      "cánh tay"
+      "buổi chiều"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'arm' = cánh tay"
   },
   {
-    "question": "Nghĩa của 'HAPPY' là?",
+    "question": "Nghĩa của 'HAPPY' là? (Biến thể 5)",
     "options": [
       "buổi tối",
-      "buổi chiều",
+      "vui vẻ",
       "buổi sáng",
-      "vui vẻ"
+      "buổi chiều"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'happy' = vui vẻ"
   },
   {
-    "question": "Nghĩa của 'SAD' là?",
+    "question": "Nghĩa của 'SAD' là? (Biến thể 5)",
     "options": [
+      "buổi sáng",
       "buổi chiều",
       "buồn",
-      "buổi tối",
-      "buổi sáng"
+      "buổi tối"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'sad' = buồn"
   },
   {
-    "question": "Nghĩa của 'ANGRY' là?",
+    "question": "Nghĩa của 'ANGRY' là? (Biến thể 5)",
     "options": [
+      "tức giận",
       "buổi chiều",
       "buổi tối",
-      "tức giận",
       "buổi sáng"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'angry' = tức giận"
   },
   {
-    "question": "Nghĩa của 'TIRED' là?",
+    "question": "Nghĩa của 'TIRED' là? (Biến thể 5)",
     "options": [
-      "buổi chiều",
       "buổi sáng",
-      "buổi tối",
-      "mệt mỏi"
+      "buổi chiều",
+      "mệt mỏi",
+      "buổi tối"
     ],
-    "correct": 3,
+    "correct": 2,
     "explain": "'tired' = mệt mỏi"
   },
   {
-    "question": "Nghĩa của 'TALL' là?",
+    "question": "Nghĩa của 'TALL' là? (Biến thể 5)",
     "options": [
-      "buổi sáng",
       "buổi chiều",
+      "buổi sáng",
       "cao",
       "buổi tối"
     ],
@@ -4515,40 +2287,40 @@
     "explain": "'tall' = cao"
   },
   {
-    "question": "Nghĩa của 'SHORT' là?",
+    "question": "Nghĩa của 'SHORT' là? (Biến thể 5)",
     "options": [
-      "buổi tối",
-      "buổi chiều",
+      "thấp/ngắn",
       "buổi sáng",
-      "thấp/ngắn"
+      "buổi tối",
+      "buổi chiều"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'short' = thấp/ngắn"
   },
   {
-    "question": "Nghĩa của 'FAT' là?",
+    "question": "Nghĩa của 'FAT' là? (Biến thể 5)",
     "options": [
       "buổi tối",
-      "buổi sáng",
       "buổi chiều",
+      "buổi sáng",
       "béo"
     ],
     "correct": 3,
     "explain": "'fat' = béo"
   },
   {
-    "question": "Nghĩa của 'THIN' là?",
+    "question": "Nghĩa của 'THIN' là? (Biến thể 5)",
     "options": [
+      "buổi sáng",
       "gầy",
       "buổi tối",
-      "buổi chiều",
-      "buổi sáng"
+      "buổi chiều"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'thin' = gầy"
   },
   {
-    "question": "Nghĩa của 'RUN' là?",
+    "question": "Nghĩa của 'RUN' là? (Biến thể 5)",
     "options": [
       "buổi sáng",
       "buổi chiều",
@@ -4559,40 +2331,40 @@
     "explain": "'run' = chạy"
   },
   {
-    "question": "Nghĩa của 'JUMP' là?",
+    "question": "Nghĩa của 'JUMP' là? (Biến thể 5)",
     "options": [
-      "nhảy",
       "buổi tối",
-      "buổi sáng",
-      "buổi chiều"
+      "nhảy",
+      "buổi chiều",
+      "buổi sáng"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'jump' = nhảy"
   },
   {
-    "question": "Nghĩa của 'SWIM' là?",
+    "question": "Nghĩa của 'SWIM' là? (Biến thể 5)",
+    "options": [
+      "buổi tối",
+      "bơi",
+      "buổi chiều",
+      "buổi sáng"
+    ],
+    "correct": 1,
+    "explain": "'swim' = bơi"
+  },
+  {
+    "question": "Nghĩa của 'FLY' là? (Biến thể 5)",
     "options": [
       "buổi sáng",
       "buổi tối",
       "buổi chiều",
-      "bơi"
+      "bay"
     ],
     "correct": 3,
-    "explain": "'swim' = bơi"
-  },
-  {
-    "question": "Nghĩa của 'FLY' là?",
-    "options": [
-      "buổi sáng",
-      "buổi chiều",
-      "bay",
-      "buổi tối"
-    ],
-    "correct": 2,
     "explain": "'fly' = bay"
   },
   {
-    "question": "Nghĩa của 'WALK' là?",
+    "question": "Nghĩa của 'WALK' là? (Biến thể 5)",
     "options": [
       "buổi chiều",
       "buổi tối",
@@ -4603,161 +2375,161 @@
     "explain": "'walk' = đi bộ"
   },
   {
-    "question": "Nghĩa của 'EAT' là?",
+    "question": "Nghĩa của 'EAT' là? (Biến thể 5)",
     "options": [
-      "buổi chiều",
       "buổi sáng",
+      "ăn",
       "buổi tối",
-      "ăn"
+      "buổi chiều"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'eat' = ăn"
   },
   {
-    "question": "Nghĩa của 'DRINK' là?",
+    "question": "Nghĩa của 'DRINK' là? (Biến thể 5)",
     "options": [
-      "buổi sáng",
-      "buổi chiều",
+      "uống",
       "buổi tối",
-      "uống"
+      "buổi sáng",
+      "buổi chiều"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'drink' = uống"
   },
   {
-    "question": "Nghĩa của 'SLEEP' là?",
+    "question": "Nghĩa của 'SLEEP' là? (Biến thể 5)",
     "options": [
+      "buổi sáng",
       "buổi chiều",
       "buổi tối",
-      "ngủ",
-      "buổi sáng"
+      "ngủ"
     ],
-    "correct": 2,
+    "correct": 3,
     "explain": "'sleep' = ngủ"
   },
   {
-    "question": "Nghĩa của 'STUDY' là?",
+    "question": "Nghĩa của 'STUDY' là? (Biến thể 5)",
     "options": [
       "buổi sáng",
+      "học",
       "buổi tối",
-      "buổi chiều",
-      "học"
+      "buổi chiều"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'study' = học"
   },
   {
-    "question": "Nghĩa của 'PLAY' là?",
+    "question": "Nghĩa của 'PLAY' là? (Biến thể 5)",
     "options": [
-      "buổi chiều",
       "buổi sáng",
       "chơi",
+      "buổi chiều",
       "buổi tối"
     ],
-    "correct": 2,
+    "correct": 1,
     "explain": "'play' = chơi"
   },
   {
-    "question": "Nghĩa của 'MORNING' là?",
+    "question": "Nghĩa của 'MORNING' là? (Biến thể 5)",
     "options": [
       "buổi tối",
-      "buổi sáng",
       "buổi chiều",
-      "ban đêm"
+      "ban đêm",
+      "buổi sáng"
     ],
-    "correct": 1,
+    "correct": 3,
     "explain": "'morning' = buổi sáng"
   },
   {
-    "question": "Nghĩa của 'AFTERNOON' là?",
+    "question": "Nghĩa của 'AFTERNOON' là? (Biến thể 5)",
     "options": [
-      "buổi sáng",
-      "ban đêm",
       "buổi tối",
-      "buổi chiều"
+      "buổi chiều",
+      "buổi sáng",
+      "ban đêm"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'afternoon' = buổi chiều"
   },
   {
-    "question": "Nghĩa của 'EVENING' là?",
+    "question": "Nghĩa của 'EVENING' là? (Biến thể 5)",
     "options": [
       "buổi sáng",
-      "ban đêm",
+      "buổi chiều",
       "buổi tối",
-      "buổi chiều"
+      "ban đêm"
     ],
     "correct": 2,
     "explain": "'evening' = buổi tối"
   },
   {
-    "question": "Nghĩa của 'NIGHT' là?",
+    "question": "Nghĩa của 'NIGHT' là? (Biến thể 5)",
     "options": [
-      "buổi chiều",
-      "buổi sáng",
+      "ban đêm",
       "buổi tối",
-      "ban đêm"
+      "buổi sáng",
+      "buổi chiều"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'night' = ban đêm"
   },
   {
-    "question": "Nghĩa của 'MONDAY' là?",
+    "question": "Nghĩa của 'MONDAY' là? (Biến thể 5)",
     "options": [
-      "buổi tối",
+      "buổi sáng",
       "buổi chiều",
-      "thứ Hai",
-      "buổi sáng"
+      "buổi tối",
+      "thứ Hai"
     ],
-    "correct": 2,
+    "correct": 3,
     "explain": "'Monday' = thứ Hai"
   },
   {
-    "question": "Nghĩa của 'TUESDAY' là?",
+    "question": "Nghĩa của 'TUESDAY' là? (Biến thể 5)",
     "options": [
       "thứ Ba",
-      "buổi sáng",
       "buổi chiều",
-      "buổi tối"
+      "buổi tối",
+      "buổi sáng"
     ],
     "correct": 0,
     "explain": "'Tuesday' = thứ Ba"
   },
   {
-    "question": "Nghĩa của 'WEDNESDAY' là?",
+    "question": "Nghĩa của 'WEDNESDAY' là? (Biến thể 5)",
     "options": [
       "buổi tối",
-      "buổi sáng",
+      "buổi chiều",
       "thứ Tư",
-      "buổi chiều"
+      "buổi sáng"
     ],
     "correct": 2,
     "explain": "'Wednesday' = thứ Tư"
   },
   {
-    "question": "Nghĩa của 'THURSDAY' là?",
+    "question": "Nghĩa của 'THURSDAY' là? (Biến thể 5)",
     "options": [
-      "thứ Năm",
-      "buổi chiều",
       "buổi tối",
+      "buổi chiều",
+      "thứ Năm",
       "buổi sáng"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'Thursday' = thứ Năm"
   },
   {
-    "question": "Nghĩa của 'FRIDAY' là?",
+    "question": "Nghĩa của 'FRIDAY' là? (Biến thể 5)",
     "options": [
-      "buổi tối",
       "buổi chiều",
       "buổi sáng",
+      "buổi tối",
       "thứ Sáu"
     ],
     "correct": 3,
     "explain": "'Friday' = thứ Sáu"
   },
   {
-    "question": "Nghĩa của 'SATURDAY' là?",
+    "question": "Nghĩa của 'SATURDAY' là? (Biến thể 5)",
     "options": [
       "buổi tối",
       "buổi chiều",
@@ -4768,54 +2540,741 @@
     "explain": "'Saturday' = thứ Bảy"
   },
   {
-    "question": "Nghĩa của 'SUNDAY' là?",
+    "question": "'MORNING' có nghĩa là? (Biến thể 3) (Biến thể 5)",
     "options": [
+      "buổi sáng",
       "buổi tối",
       "buổi chiều",
-      "Chủ Nhật",
-      "buổi sáng"
+      "ban đêm"
+    ],
+    "correct": 0,
+    "explain": "'morning' = buổi sáng"
+  },
+  {
+    "question": "'AFTERNOON' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "buổi chiều",
+      "ban đêm",
+      "buổi tối",
+      "thứ Hai"
+    ],
+    "correct": 0,
+    "explain": "'afternoon' = buổi chiều"
+  },
+  {
+    "question": "'EVENING' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "thứ Hai",
+      "thứ Ba",
+      "ban đêm",
+      "buổi tối"
+    ],
+    "correct": 3,
+    "explain": "'evening' = buổi tối"
+  },
+  {
+    "question": "'NIGHT' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "thứ Ba",
+      "thứ Tư",
+      "thứ Hai",
+      "ban đêm"
+    ],
+    "correct": 3,
+    "explain": "'night' = ban đêm"
+  },
+  {
+    "question": "'MONDAY' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "thứ Năm",
+      "thứ Tư",
+      "thứ Ba",
+      "thứ Hai"
+    ],
+    "correct": 3,
+    "explain": "'Monday' = thứ Hai"
+  },
+  {
+    "question": "'TUESDAY' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "thứ Tư",
+      "thứ Năm",
+      "thứ Sáu",
+      "thứ Ba"
+    ],
+    "correct": 3,
+    "explain": "'Tuesday' = thứ Ba"
+  },
+  {
+    "question": "'WEDNESDAY' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "thứ Năm",
+      "thứ Sáu",
+      "thứ Tư",
+      "thứ Bảy"
     ],
     "correct": 2,
+    "explain": "'Wednesday' = thứ Tư"
+  },
+  {
+    "question": "'THURSDAY' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "thứ Bảy",
+      "thứ Năm",
+      "thứ Sáu",
+      "Chủ Nhật"
+    ],
+    "correct": 1,
+    "explain": "'Thursday' = thứ Năm"
+  },
+  {
+    "question": "'FRIDAY' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "thứ Bảy",
+      "thứ Sáu",
+      "Chủ Nhật",
+      "tháng Một"
+    ],
+    "correct": 1,
+    "explain": "'Friday' = thứ Sáu"
+  },
+  {
+    "question": "'SATURDAY' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "Chủ Nhật",
+      "thứ Bảy",
+      "tháng Hai",
+      "tháng Một"
+    ],
+    "correct": 1,
+    "explain": "'Saturday' = thứ Bảy"
+  },
+  {
+    "question": "'SUNDAY' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "tháng Hai",
+      "tháng Ba",
+      "tháng Một",
+      "Chủ Nhật"
+    ],
+    "correct": 3,
     "explain": "'Sunday' = Chủ Nhật"
   },
   {
-    "question": "Nghĩa của 'JANUARY' là?",
+    "question": "'JANUARY' có nghĩa là? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng",
-      "tháng Một"
+      "tháng Hai",
+      "tháng Một",
+      "tháng Ba",
+      "mùa xuân"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'January' = tháng Một"
   },
   {
-    "question": "Nghĩa của 'FEBRUARY' là?",
+    "question": "'FEBRUARY' có nghĩa là? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "buổi tối",
-      "buổi chiều",
-      "tháng Hai",
-      "buổi sáng"
+      "tháng Ba",
+      "mùa xuân",
+      "mùa hè",
+      "tháng Hai"
     ],
-    "correct": 2,
+    "correct": 3,
     "explain": "'February' = tháng Hai"
   },
   {
-    "question": "Nghĩa của 'MARCH' là?",
+    "question": "'MARCH' có nghĩa là? (Biến thể 3) (Biến thể 5)",
     "options": [
       "tháng Ba",
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng"
+      "mùa hè",
+      "mùa thu",
+      "mùa xuân"
     ],
     "correct": 0,
     "explain": "'March' = tháng Ba"
   },
   {
-    "question": "Nghĩa của 'SPRING' là?",
+    "question": "'SPRING' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "mùa xuân",
+      "mùa hè",
+      "mùa đông",
+      "mùa thu"
+    ],
+    "correct": 0,
+    "explain": "'spring' = mùa xuân"
+  },
+  {
+    "question": "'SUMMER' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "mùa thu",
+      "ngôi nhà",
+      "mùa đông",
+      "mùa hè"
+    ],
+    "correct": 3,
+    "explain": "'summer' = mùa hè"
+  },
+  {
+    "question": "'AUTUMN' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "trường học",
+      "mùa thu",
+      "ngôi nhà",
+      "mùa đông"
+    ],
+    "correct": 1,
+    "explain": "'autumn' = mùa thu"
+  },
+  {
+    "question": "'WINTER' có nghĩa là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "bệnh viện",
+      "trường học",
+      "mùa đông",
+      "ngôi nhà"
+    ],
+    "correct": 2,
+    "explain": "'winter' = mùa đông"
+  },
+  {
+    "question": "'HOUSE' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "trường học",
+      "ngôi nhà",
+      "chợ",
+      "bệnh viện"
+    ],
+    "correct": 1,
+    "explain": "'house' = ngôi nhà"
+  },
+  {
+    "question": "'SCHOOL' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "bệnh viện",
+      "chợ",
+      "giáo viên",
+      "trường học"
+    ],
+    "correct": 3,
+    "explain": "'school' = trường học"
+  },
+  {
+    "question": "'HOSPITAL' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "bệnh viện",
+      "chợ",
+      "học sinh",
+      "giáo viên"
+    ],
+    "correct": 0,
+    "explain": "'hospital' = bệnh viện"
+  },
+  {
+    "question": "'MARKET' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "học sinh",
+      "giáo viên",
+      "chợ",
+      "bác sĩ"
+    ],
+    "correct": 2,
+    "explain": "'market' = chợ"
+  },
+  {
+    "question": "'TEACHER' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "bác sĩ",
+      "giáo viên",
+      "nông dân",
+      "học sinh"
+    ],
+    "correct": 1,
+    "explain": "'teacher' = giáo viên"
+  },
+  {
+    "question": "'STUDENT' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "học sinh",
+      "nông dân",
+      "đầu",
+      "bác sĩ"
+    ],
+    "correct": 0,
+    "explain": "'student' = học sinh"
+  },
+  {
+    "question": "'DOCTOR' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "mắt",
+      "nông dân",
+      "đầu",
+      "bác sĩ"
+    ],
+    "correct": 3,
+    "explain": "'doctor' = bác sĩ"
+  },
+  {
+    "question": "'FARMER' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "mũi",
+      "mắt",
+      "đầu",
+      "nông dân"
+    ],
+    "correct": 3,
+    "explain": "'farmer' = nông dân"
+  },
+  {
+    "question": "'HEAD' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "miệng",
+      "mũi",
+      "mắt",
+      "đầu"
+    ],
+    "correct": 3,
+    "explain": "'head' = đầu"
+  },
+  {
+    "question": "'EYE' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "mắt",
+      "tai",
+      "miệng",
+      "mũi"
+    ],
+    "correct": 0,
+    "explain": "'eye' = mắt"
+  },
+  {
+    "question": "'NOSE' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "mũi",
+      "tai",
+      "bàn tay",
+      "miệng"
+    ],
+    "correct": 0,
+    "explain": "'nose' = mũi"
+  },
+  {
+    "question": "'MOUTH' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "miệng",
+      "bàn tay",
+      "tai",
+      "bàn chân"
+    ],
+    "correct": 0,
+    "explain": "'mouth' = miệng"
+  },
+  {
+    "question": "'EAR' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "bàn chân",
+      "tai",
+      "chân",
+      "bàn tay"
+    ],
+    "correct": 1,
+    "explain": "'ear' = tai"
+  },
+  {
+    "question": "'HAND' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "chân",
+      "cánh tay",
+      "bàn tay",
+      "bàn chân"
+    ],
+    "correct": 2,
+    "explain": "'hand' = bàn tay"
+  },
+  {
+    "question": "'FOOT' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "vui vẻ",
+      "cánh tay",
+      "bàn chân",
+      "chân"
+    ],
+    "correct": 2,
+    "explain": "'foot' = bàn chân"
+  },
+  {
+    "question": "'LEG' có nghĩa là? (Biến thể 3) (Biến thể 6)",
+    "options": [
+      "cánh tay",
+      "vui vẻ",
+      "buồn",
+      "chân"
+    ],
+    "correct": 3,
+    "explain": "'leg' = chân"
+  },
+  {
+    "question": "'ARM' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "tức giận",
+      "cánh tay",
+      "vui vẻ",
+      "buồn"
+    ],
+    "correct": 1,
+    "explain": "'arm' = cánh tay"
+  },
+  {
+    "question": "'HAPPY' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "buồn",
+      "vui vẻ",
+      "mệt mỏi",
+      "tức giận"
+    ],
+    "correct": 1,
+    "explain": "'happy' = vui vẻ"
+  },
+  {
+    "question": "'SAD' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "mệt mỏi",
+      "cao",
+      "tức giận",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'sad' = buồn"
+  },
+  {
+    "question": "'ANGRY' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "tức giận",
+      "mệt mỏi",
+      "cao",
+      "thấp/ngắn"
+    ],
+    "correct": 0,
+    "explain": "'angry' = tức giận"
+  },
+  {
+    "question": "'TIRED' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "béo",
+      "mệt mỏi",
+      "cao",
+      "thấp/ngắn"
+    ],
+    "correct": 1,
+    "explain": "'tired' = mệt mỏi"
+  },
+  {
+    "question": "'TALL' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "béo",
+      "thấp/ngắn",
+      "cao",
+      "gầy"
+    ],
+    "correct": 2,
+    "explain": "'tall' = cao"
+  },
+  {
+    "question": "'SHORT' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "thấp/ngắn",
+      "gầy",
+      "béo",
+      "chạy"
+    ],
+    "correct": 0,
+    "explain": "'short' = thấp/ngắn"
+  },
+  {
+    "question": "'FAT' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "chạy",
+      "gầy",
+      "nhảy",
+      "béo"
+    ],
+    "correct": 3,
+    "explain": "'fat' = béo"
+  },
+  {
+    "question": "'THIN' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "gầy",
+      "chạy",
+      "nhảy",
+      "bơi"
+    ],
+    "correct": 0,
+    "explain": "'thin' = gầy"
+  },
+  {
+    "question": "'RUN' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "nhảy",
+      "chạy",
+      "bay",
+      "bơi"
+    ],
+    "correct": 1,
+    "explain": "'run' = chạy"
+  },
+  {
+    "question": "'JUMP' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "nhảy",
+      "bay",
+      "đi bộ",
+      "bơi"
+    ],
+    "correct": 0,
+    "explain": "'jump' = nhảy"
+  },
+  {
+    "question": "'SWIM' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "ăn",
+      "bơi",
+      "bay",
+      "đi bộ"
+    ],
+    "correct": 1,
+    "explain": "'swim' = bơi"
+  },
+  {
+    "question": "'FLY' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "uống",
+      "bay",
+      "ăn",
+      "đi bộ"
+    ],
+    "correct": 1,
+    "explain": "'fly' = bay"
+  },
+  {
+    "question": "'WALK' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "ngủ",
+      "uống",
+      "ăn",
+      "đi bộ"
+    ],
+    "correct": 3,
+    "explain": "'walk' = đi bộ"
+  },
+  {
+    "question": "'EAT' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "uống",
+      "ăn",
+      "học",
+      "ngủ"
+    ],
+    "correct": 1,
+    "explain": "'eat' = ăn"
+  },
+  {
+    "question": "'DRINK' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "chơi",
+      "uống",
+      "ngủ",
+      "học"
+    ],
+    "correct": 1,
+    "explain": "'drink' = uống"
+  },
+  {
+    "question": "'SLEEP' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "chơi",
+      "học",
+      "ngủ"
+    ],
+    "correct": 2,
+    "explain": "'sleep' = ngủ"
+  },
+  {
+    "question": "'STUDY' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "chơi",
+      "học"
+    ],
+    "correct": 1,
+    "explain": "'study' = học"
+  },
+  {
+    "question": "'PLAY' có nghĩa là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "chơi"
+    ],
+    "correct": 0,
+    "explain": "'play' = chơi"
+  },
+  {
+    "question": "I ___ to school every day. (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "go",
+      "gone",
+      "going",
+      "goes"
+    ],
+    "correct": 0,
+    "explain": "'I go' - chủ ngữ 'I' dùng động từ nguyên thể."
+  },
+  {
+    "question": "She ___ an apple every morning. (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "eaten",
+      "eating",
+      "eat",
+      "eats"
+    ],
+    "correct": 3,
+    "explain": "'She eats' - chủ ngữ ngôi 3 số ít thêm 's'."
+  },
+  {
+    "question": "They ___ football in the park. (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "play",
+      "playing",
+      "played",
+      "plays"
+    ],
+    "correct": 0,
+    "explain": "'They play' - chủ ngữ số nhiều dùng nguyên thể."
+  },
+  {
+    "question": "My name ___ Lan. (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "is",
+      "are",
+      "be",
+      "am"
+    ],
+    "correct": 0,
+    "explain": "'My name is' - 'name' là ngôi 3 số ít dùng 'is'."
+  },
+  {
+    "question": "I ___ a student. (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "correct": 0,
+    "explain": "'I am' - chủ ngữ 'I' luôn dùng 'am'."
+  },
+  {
+    "question": "How ___ you? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "am",
+      "is",
+      "be",
+      "are"
+    ],
+    "correct": 3,
+    "explain": "'How are you?' là câu hỏi thăm sức khỏe."
+  },
+  {
+    "question": "___ is your name? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Where",
+      "What",
+      "When",
+      "How"
+    ],
+    "correct": 1,
+    "explain": "'What is your name?' - hỏi tên."
+  },
+  {
+    "question": "___ old are you? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "What",
+      "How",
+      "Where",
+      "When"
+    ],
+    "correct": 1,
+    "explain": "'How old are you?' - hỏi tuổi."
+  },
+  {
+    "question": "I live ___ Hanoi. (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "at",
+      "to",
+      "in",
+      "on"
+    ],
+    "correct": 2,
+    "explain": "Dùng 'in' với tên thành phố."
+  },
+  {
+    "question": "She has ___ books. (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "two",
+      "twos",
+      "twice",
+      "second"
+    ],
+    "correct": 0,
+    "explain": "'two books' - từ chỉ số lượng không thêm 's'."
+  },
+  {
+    "question": "Nghĩa của 'SUNDAY' là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Chủ Nhật",
+      "buổi chiều",
+      "buổi sáng",
+      "buổi tối"
+    ],
+    "correct": 0,
+    "explain": "'Sunday' = Chủ Nhật"
+  },
+  {
+    "question": "Nghĩa của 'JANUARY' là? (Biến thể 4) (Biến thể 6)",
     "options": [
       "buổi sáng",
+      "tháng Một",
       "buổi chiều",
+      "buổi tối"
+    ],
+    "correct": 1,
+    "explain": "'January' = tháng Một"
+  },
+  {
+    "question": "Nghĩa của 'FEBRUARY' là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "tháng Hai",
+      "buổi chiều",
+      "buổi tối",
+      "buổi sáng"
+    ],
+    "correct": 0,
+    "explain": "'February' = tháng Hai"
+  },
+  {
+    "question": "Nghĩa của 'MARCH' là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "tháng Ba",
+      "buổi chiều",
+      "buổi sáng",
+      "buổi tối"
+    ],
+    "correct": 0,
+    "explain": "'March' = tháng Ba"
+  },
+  {
+    "question": "Nghĩa của 'SPRING' là? (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "buổi chiều",
+      "buổi sáng",
       "mùa xuân",
       "buổi tối"
     ],
@@ -4823,227 +3282,227 @@
     "explain": "'spring' = mùa xuân"
   },
   {
-    "question": "Nghĩa của 'SUMMER' là?",
+    "question": "Nghĩa của 'SUMMER' là? (Biến thể 4) (Biến thể 7)",
     "options": [
       "buổi tối",
-      "buổi chiều",
       "buổi sáng",
-      "mùa hè"
+      "mùa hè",
+      "buổi chiều"
     ],
-    "correct": 3,
+    "correct": 2,
     "explain": "'summer' = mùa hè"
   },
   {
-    "question": "Nghĩa của 'AUTUMN' là?",
+    "question": "Nghĩa của 'AUTUMN' là? (Biến thể 4) (Biến thể 7)",
     "options": [
-      "buổi tối",
+      "buổi chiều",
       "buổi sáng",
       "mùa thu",
-      "buổi chiều"
+      "buổi tối"
     ],
     "correct": 2,
     "explain": "'autumn' = mùa thu"
   },
   {
-    "question": "Nghĩa của 'WINTER' là?",
+    "question": "Nghĩa của 'WINTER' là? (Biến thể 4) (Biến thể 7)",
     "options": [
-      "buổi tối",
-      "mùa đông",
       "buổi sáng",
-      "buổi chiều"
+      "mùa đông",
+      "buổi chiều",
+      "buổi tối"
     ],
     "correct": 1,
     "explain": "'winter' = mùa đông"
   },
   {
-    "question": "Nghĩa của 'HOUSE' là?",
+    "question": "Nghĩa của 'HOUSE' là? (Biến thể 4) (Biến thể 7)",
     "options": [
       "buổi chiều",
-      "ngôi nhà",
       "buổi sáng",
-      "buổi tối"
+      "buổi tối",
+      "ngôi nhà"
     ],
-    "correct": 1,
+    "correct": 3,
     "explain": "'house' = ngôi nhà"
   },
   {
-    "question": "Nghĩa của 'SCHOOL' là?",
+    "question": "Nghĩa của 'SCHOOL' là? (Biến thể 4) (Biến thể 7)",
     "options": [
       "buổi sáng",
-      "buổi tối",
       "trường học",
-      "buổi chiều"
+      "buổi chiều",
+      "buổi tối"
     ],
-    "correct": 2,
+    "correct": 1,
     "explain": "'school' = trường học"
   },
   {
-    "question": "Nghĩa của 'HOSPITAL' là?",
+    "question": "Nghĩa của 'HOSPITAL' là? (Biến thể 4) (Biến thể 7)",
     "options": [
       "buổi sáng",
       "buổi tối",
-      "bệnh viện",
-      "buổi chiều"
+      "buổi chiều",
+      "bệnh viện"
     ],
-    "correct": 2,
+    "correct": 3,
     "explain": "'hospital' = bệnh viện"
   },
   {
-    "question": "Nghĩa của 'MARKET' là?",
+    "question": "Nghĩa của 'MARKET' là? (Biến thể 4) (Biến thể 7)",
     "options": [
-      "buổi sáng",
-      "buổi tối",
+      "chợ",
       "buổi chiều",
-      "chợ"
+      "buổi sáng",
+      "buổi tối"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'market' = chợ"
   },
   {
-    "question": "Nghĩa của 'TEACHER' là?",
+    "question": "Nghĩa của 'TEACHER' là? (Biến thể 4) (Biến thể 7)",
     "options": [
       "buổi chiều",
+      "buổi sáng",
       "buổi tối",
-      "giáo viên",
-      "buổi sáng"
+      "giáo viên"
     ],
-    "correct": 2,
+    "correct": 3,
     "explain": "'teacher' = giáo viên"
   },
   {
-    "question": "Nghĩa của 'STUDENT' là?",
+    "question": "Nghĩa của 'STUDENT' là? (Biến thể 4) (Biến thể 7)",
     "options": [
-      "buổi chiều",
-      "buổi tối",
       "học sinh",
-      "buổi sáng"
+      "buổi sáng",
+      "buổi tối",
+      "buổi chiều"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'student' = học sinh"
   },
   {
-    "question": "Nghĩa của 'DOCTOR' là?",
+    "question": "Nghĩa của 'DOCTOR' là? (Biến thể 4) (Biến thể 7)",
     "options": [
       "buổi tối",
       "bác sĩ",
-      "buổi chiều",
-      "buổi sáng"
+      "buổi sáng",
+      "buổi chiều"
     ],
     "correct": 1,
     "explain": "'doctor' = bác sĩ"
   },
   {
-    "question": "Nghĩa của 'FARMER' là?",
+    "question": "Nghĩa của 'FARMER' là? (Biến thể 4) (Biến thể 7)",
     "options": [
-      "buổi chiều",
-      "nông dân",
       "buổi tối",
-      "buổi sáng"
+      "buổi sáng",
+      "nông dân",
+      "buổi chiều"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'farmer' = nông dân"
   },
   {
-    "question": "Nghĩa của 'HEAD' là?",
+    "question": "Nghĩa của 'HEAD' là? (Biến thể 4) (Biến thể 7)",
     "options": [
-      "buổi chiều",
+      "buổi sáng",
       "đầu",
       "buổi tối",
-      "buổi sáng"
+      "buổi chiều"
     ],
     "correct": 1,
     "explain": "'head' = đầu"
   },
   {
-    "question": "Nghĩa của 'EYE' là?",
+    "question": "Nghĩa của 'EYE' là? (Biến thể 4) (Biến thể 7)",
     "options": [
-      "buổi tối",
-      "mắt",
       "buổi chiều",
-      "buổi sáng"
+      "mắt",
+      "buổi sáng",
+      "buổi tối"
     ],
     "correct": 1,
     "explain": "'eye' = mắt"
   },
   {
-    "question": "Nghĩa của 'NOSE' là?",
+    "question": "Nghĩa của 'NOSE' là? (Biến thể 4) (Biến thể 7)",
     "options": [
+      "buổi sáng",
       "mũi",
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 0,
-    "explain": "'nose' = mũi"
-  },
-  {
-    "question": "Nghĩa của 'MOUTH' là?",
-    "options": [
-      "buổi chiều",
-      "buổi tối",
-      "miệng",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'mouth' = miệng"
-  },
-  {
-    "question": "Nghĩa của 'EAR' là?",
-    "options": [
-      "tai",
-      "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
-    ],
-    "correct": 0,
-    "explain": "'ear' = tai"
-  },
-  {
-    "question": "Nghĩa của 'HAND' là?",
-    "options": [
-      "buổi chiều",
-      "buổi tối",
-      "bàn tay",
-      "buổi sáng"
-    ],
-    "correct": 2,
-    "explain": "'hand' = bàn tay"
-  },
-  {
-    "question": "Nghĩa của 'FOOT' là?",
-    "options": [
-      "bàn chân",
-      "buổi tối",
-      "buổi chiều",
-      "buổi sáng"
-    ],
-    "correct": 0,
-    "explain": "'foot' = bàn chân"
-  },
-  {
-    "question": "Nghĩa của 'LEG' là?",
-    "options": [
-      "buổi sáng",
-      "chân",
       "buổi tối",
       "buổi chiều"
     ],
     "correct": 1,
+    "explain": "'nose' = mũi"
+  },
+  {
+    "question": "Nghĩa của 'MOUTH' là? (Biến thể 4) (Biến thể 7)",
+    "options": [
+      "buổi sáng",
+      "buổi tối",
+      "buổi chiều",
+      "miệng"
+    ],
+    "correct": 3,
+    "explain": "'mouth' = miệng"
+  },
+  {
+    "question": "Nghĩa của 'EAR' là? (Biến thể 4) (Biến thể 7)",
+    "options": [
+      "buổi chiều",
+      "tai",
+      "buổi sáng",
+      "buổi tối"
+    ],
+    "correct": 1,
+    "explain": "'ear' = tai"
+  },
+  {
+    "question": "Nghĩa của 'HAND' là? (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "buổi sáng",
+      "buổi tối",
+      "buổi chiều",
+      "bàn tay"
+    ],
+    "correct": 3,
+    "explain": "'hand' = bàn tay"
+  },
+  {
+    "question": "Nghĩa của 'FOOT' là? (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "buổi tối",
+      "bàn chân",
+      "buổi sáng",
+      "buổi chiều"
+    ],
+    "correct": 1,
+    "explain": "'foot' = bàn chân"
+  },
+  {
+    "question": "Nghĩa của 'LEG' là? (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "chân",
+      "buổi sáng",
+      "buổi chiều",
+      "buổi tối"
+    ],
+    "correct": 0,
     "explain": "'leg' = chân"
   },
   {
-    "question": "Nghĩa của 'ARM' là?",
+    "question": "Nghĩa của 'ARM' là? (Biến thể 5) (Biến thể 7)",
     "options": [
       "buổi tối",
-      "buổi chiều",
       "buổi sáng",
+      "buổi chiều",
       "cánh tay"
     ],
     "correct": 3,
     "explain": "'arm' = cánh tay"
   },
   {
-    "question": "Nghĩa của 'HAPPY' là?",
+    "question": "Nghĩa của 'HAPPY' là? (Biến thể 5) (Biến thể 7)",
     "options": [
       "vui vẻ",
       "buổi sáng",
@@ -5054,340 +3513,1027 @@
     "explain": "'happy' = vui vẻ"
   },
   {
-    "question": "Nghĩa của 'SAD' là?",
+    "question": "Nghĩa của 'SAD' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi sáng",
       "buổi chiều",
+      "buồn",
       "buổi tối",
-      "buồn"
+      "buổi sáng"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'sad' = buồn"
   },
   {
-    "question": "Nghĩa của 'ANGRY' là?",
+    "question": "Nghĩa của 'ANGRY' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "tức giận",
-      "buổi sáng",
       "buổi chiều",
-      "buổi tối"
+      "buổi tối",
+      "buổi sáng",
+      "tức giận"
     ],
-    "correct": 0,
+    "correct": 3,
     "explain": "'angry' = tức giận"
   },
   {
-    "question": "Nghĩa của 'TIRED' là?",
+    "question": "Nghĩa của 'TIRED' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi sáng",
       "buổi chiều",
+      "mệt mỏi",
       "buổi tối",
-      "mệt mỏi"
+      "buổi sáng"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'tired' = mệt mỏi"
   },
   {
-    "question": "Nghĩa của 'TALL' là?",
+    "question": "Nghĩa của 'TALL' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi chiều",
       "buổi sáng",
+      "cao",
       "buổi tối",
-      "cao"
+      "buổi chiều"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'tall' = cao"
   },
   {
-    "question": "Nghĩa của 'SHORT' là?",
+    "question": "Nghĩa của 'SHORT' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi chiều",
       "buổi sáng",
       "buổi tối",
+      "buổi chiều",
       "thấp/ngắn"
     ],
     "correct": 3,
     "explain": "'short' = thấp/ngắn"
   },
   {
-    "question": "Nghĩa của 'FAT' là?",
+    "question": "Nghĩa của 'FAT' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "béo",
+      "buổi chiều",
       "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
+      "béo",
+      "buổi tối"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'fat' = béo"
   },
   {
-    "question": "Nghĩa của 'THIN' là?",
+    "question": "Nghĩa của 'THIN' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi chiều",
-      "buổi tối",
       "gầy",
+      "buổi tối",
+      "buổi chiều",
       "buổi sáng"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'thin' = gầy"
   },
   {
-    "question": "Nghĩa của 'RUN' là?",
+    "question": "Nghĩa của 'RUN' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "chạy",
-      "buổi sáng",
       "buổi chiều",
-      "buổi tối"
+      "buổi tối",
+      "chạy",
+      "buổi sáng"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'run' = chạy"
   },
   {
-    "question": "Nghĩa của 'JUMP' là?",
+    "question": "Nghĩa của 'JUMP' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi sáng",
-      "buổi chiều",
       "nhảy",
+      "buổi chiều",
+      "buổi sáng",
       "buổi tối"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'jump' = nhảy"
   },
   {
-    "question": "Nghĩa của 'SWIM' là?",
+    "question": "Nghĩa của 'SWIM' là? (Biến thể 5) (Biến thể 7)",
     "options": [
       "bơi",
+      "buổi chiều",
       "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
+      "buổi tối"
     ],
     "correct": 0,
     "explain": "'swim' = bơi"
   },
   {
-    "question": "Nghĩa của 'FLY' là?",
+    "question": "Nghĩa của 'FLY' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi sáng",
+      "buổi tối",
       "buổi chiều",
       "bay",
-      "buổi tối"
+      "buổi sáng"
     ],
     "correct": 2,
     "explain": "'fly' = bay"
   },
   {
-    "question": "Nghĩa của 'WALK' là?",
+    "question": "Nghĩa của 'WALK' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi chiều",
-      "đi bộ",
       "buổi tối",
-      "buổi sáng"
+      "đi bộ",
+      "buổi sáng",
+      "buổi chiều"
     ],
     "correct": 1,
     "explain": "'walk' = đi bộ"
   },
   {
-    "question": "Nghĩa của 'EAT' là?",
+    "question": "Nghĩa của 'EAT' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi tối",
       "ăn",
-      "buổi sáng",
-      "buổi chiều"
+      "buổi tối",
+      "buổi chiều",
+      "buổi sáng"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'eat' = ăn"
   },
   {
-    "question": "Nghĩa của 'DRINK' là?",
+    "question": "Nghĩa của 'DRINK' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi chiều",
       "buổi tối",
-      "uống",
-      "buổi sáng"
+      "buổi sáng",
+      "buổi chiều",
+      "uống"
     ],
-    "correct": 2,
+    "correct": 3,
     "explain": "'drink' = uống"
   },
   {
-    "question": "Nghĩa của 'SLEEP' là?",
+    "question": "Nghĩa của 'SLEEP' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "ngủ",
+      "buổi chiều",
       "buổi tối",
-      "buổi sáng",
-      "buổi chiều"
+      "ngủ",
+      "buổi sáng"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'sleep' = ngủ"
   },
   {
-    "question": "Nghĩa của 'STUDY' là?",
+    "question": "Nghĩa của 'STUDY' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi sáng",
-      "buổi tối",
       "học",
-      "buổi chiều"
-    ],
-    "correct": 2,
-    "explain": "'study' = học"
-  },
-  {
-    "question": "Nghĩa của 'PLAY' là?",
-    "options": [
       "buổi tối",
-      "chơi",
       "buổi chiều",
       "buổi sáng"
     ],
-    "correct": 1,
+    "correct": 0,
+    "explain": "'study' = học"
+  },
+  {
+    "question": "Nghĩa của 'PLAY' là? (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "chơi",
+      "buổi chiều",
+      "buổi tối",
+      "buổi sáng"
+    ],
+    "correct": 0,
     "explain": "'play' = chơi"
   },
   {
-    "question": "Nghĩa của 'MORNING' là?",
+    "question": "Nghĩa của 'MORNING' là? (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "buổi chiều",
+      "ban đêm",
+      "buổi sáng",
+      "buổi tối"
+    ],
+    "correct": 2,
+    "explain": "'morning' = buổi sáng"
+  },
+  {
+    "question": "Nghĩa của 'AFTERNOON' là? (Biến thể 5) (Biến thể 7)",
     "options": [
       "buổi chiều",
       "buổi sáng",
       "ban đêm",
       "buổi tối"
     ],
-    "correct": 1,
-    "explain": "'morning' = buổi sáng"
-  },
-  {
-    "question": "Nghĩa của 'AFTERNOON' là?",
-    "options": [
-      "ban đêm",
-      "buổi tối",
-      "buổi sáng",
-      "buổi chiều"
-    ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'afternoon' = buổi chiều"
   },
   {
-    "question": "Nghĩa của 'EVENING' là?",
+    "question": "Nghĩa của 'EVENING' là? (Biến thể 5) (Biến thể 7)",
     "options": [
       "buổi chiều",
       "buổi tối",
-      "buổi sáng",
-      "ban đêm"
+      "ban đêm",
+      "buổi sáng"
     ],
     "correct": 1,
     "explain": "'evening' = buổi tối"
   },
   {
-    "question": "Nghĩa của 'NIGHT' là?",
+    "question": "Nghĩa của 'NIGHT' là? (Biến thể 5) (Biến thể 7)",
     "options": [
       "buổi tối",
-      "buổi chiều",
       "buổi sáng",
+      "buổi chiều",
       "ban đêm"
     ],
     "correct": 3,
     "explain": "'night' = ban đêm"
   },
   {
-    "question": "Nghĩa của 'MONDAY' là?",
+    "question": "Nghĩa của 'MONDAY' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi sáng",
-      "buổi tối",
       "buổi chiều",
-      "thứ Hai"
+      "buổi tối",
+      "thứ Hai",
+      "buổi sáng"
     ],
-    "correct": 3,
+    "correct": 2,
     "explain": "'Monday' = thứ Hai"
   },
   {
-    "question": "Nghĩa của 'TUESDAY' là?",
+    "question": "Nghĩa của 'TUESDAY' là? (Biến thể 5) (Biến thể 7)",
     "options": [
-      "buổi sáng",
-      "thứ Ba",
+      "buổi chiều",
       "buổi tối",
-      "buổi chiều"
+      "buổi sáng",
+      "thứ Ba"
     ],
-    "correct": 1,
+    "correct": 3,
     "explain": "'Tuesday' = thứ Ba"
   },
   {
-    "question": "Nghĩa của 'WEDNESDAY' là?",
+    "question": "Nghĩa của 'WEDNESDAY' là? (Biến thể 5) (Biến thể 7)",
     "options": [
+      "buổi chiều",
       "thứ Tư",
       "buổi sáng",
-      "buổi tối",
-      "buổi chiều"
+      "buổi tối"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'Wednesday' = thứ Tư"
   },
   {
-    "question": "Nghĩa của 'THURSDAY' là?",
+    "question": "Nghĩa của 'THURSDAY' là? (Biến thể 5) (Biến thể 7)",
     "options": [
       "buổi chiều",
+      "thứ Năm",
       "buổi sáng",
-      "buổi tối",
-      "thứ Năm"
+      "buổi tối"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'Thursday' = thứ Năm"
   },
   {
-    "question": "Nghĩa của 'FRIDAY' là?",
+    "question": "Nghĩa của 'FRIDAY' là? (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "buổi sáng",
+      "buổi tối",
+      "thứ Sáu",
+      "buổi chiều"
+    ],
+    "correct": 2,
+    "explain": "'Friday' = thứ Sáu"
+  },
+  {
+    "question": "Nghĩa của 'SATURDAY' là? (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "buổi chiều",
+      "thứ Bảy",
+      "buổi sáng",
+      "buổi tối"
+    ],
+    "correct": 1,
+    "explain": "'Saturday' = thứ Bảy"
+  },
+  {
+    "question": "'MORNING' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "buổi tối",
+      "buổi chiều",
+      "ban đêm",
+      "buổi sáng"
+    ],
+    "correct": 3,
+    "explain": "'morning' = buổi sáng"
+  },
+  {
+    "question": "'AFTERNOON' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "ban đêm",
+      "buổi tối",
+      "thứ Hai",
+      "buổi chiều"
+    ],
+    "correct": 3,
+    "explain": "'afternoon' = buổi chiều"
+  },
+  {
+    "question": "'EVENING' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
+    "options": [
+      "thứ Ba",
+      "ban đêm",
+      "buổi tối",
+      "thứ Hai"
+    ],
+    "correct": 2,
+    "explain": "'evening' = buổi tối"
+  },
+  {
+    "question": "'NIGHT' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
+    "options": [
+      "thứ Tư",
+      "thứ Hai",
+      "ban đêm",
+      "thứ Ba"
+    ],
+    "correct": 2,
+    "explain": "'night' = ban đêm"
+  },
+  {
+    "question": "'MONDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
+    "options": [
+      "thứ Tư",
+      "thứ Ba",
+      "thứ Hai",
+      "thứ Năm"
+    ],
+    "correct": 2,
+    "explain": "'Monday' = thứ Hai"
+  },
+  {
+    "question": "'TUESDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
+    "options": [
+      "thứ Năm",
+      "thứ Sáu",
+      "thứ Ba",
+      "thứ Tư"
+    ],
+    "correct": 2,
+    "explain": "'Tuesday' = thứ Ba"
+  },
+  {
+    "question": "'WEDNESDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
     "options": [
       "thứ Sáu",
-      "buổi chiều",
-      "buổi tối",
-      "buổi sáng"
+      "thứ Tư",
+      "thứ Bảy",
+      "thứ Năm"
+    ],
+    "correct": 1,
+    "explain": "'Wednesday' = thứ Tư"
+  },
+  {
+    "question": "'THURSDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
+    "options": [
+      "thứ Năm",
+      "thứ Sáu",
+      "Chủ Nhật",
+      "thứ Bảy"
+    ],
+    "correct": 0,
+    "explain": "'Thursday' = thứ Năm"
+  },
+  {
+    "question": "'FRIDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
+    "options": [
+      "thứ Sáu",
+      "Chủ Nhật",
+      "tháng Một",
+      "thứ Bảy"
     ],
     "correct": 0,
     "explain": "'Friday' = thứ Sáu"
   },
   {
-    "question": "Nghĩa của 'SATURDAY' là?",
+    "question": "'SATURDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
     "options": [
-      "buổi chiều",
-      "buổi tối",
       "thứ Bảy",
-      "buổi sáng"
+      "tháng Hai",
+      "tháng Một",
+      "Chủ Nhật"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'Saturday' = thứ Bảy"
   },
   {
-    "question": "Nghĩa của 'SUNDAY' là?",
+    "question": "'SUNDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
     "options": [
-      "buổi tối",
+      "tháng Ba",
+      "tháng Một",
       "Chủ Nhật",
-      "buổi chiều",
-      "buổi sáng"
+      "tháng Hai"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'Sunday' = Chủ Nhật"
   },
   {
-    "question": "Nghĩa của 'JANUARY' là?",
+    "question": "'JANUARY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
     "options": [
-      "buổi tối",
       "tháng Một",
-      "buổi chiều",
-      "buổi sáng"
+      "tháng Ba",
+      "mùa xuân",
+      "tháng Hai"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'January' = tháng Một"
   },
   {
-    "question": "Nghĩa của 'FEBRUARY' là?",
+    "question": "'FEBRUARY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
+    "options": [
+      "mùa xuân",
+      "mùa hè",
+      "tháng Hai",
+      "tháng Ba"
+    ],
+    "correct": 2,
+    "explain": "'February' = tháng Hai"
+  },
+  {
+    "question": "'MARCH' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
+    "options": [
+      "mùa hè",
+      "mùa thu",
+      "mùa xuân",
+      "tháng Ba"
+    ],
+    "correct": 3,
+    "explain": "'March' = tháng Ba"
+  },
+  {
+    "question": "'SPRING' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
+    "options": [
+      "mùa hè",
+      "mùa đông",
+      "mùa thu",
+      "mùa xuân"
+    ],
+    "correct": 3,
+    "explain": "'spring' = mùa xuân"
+  },
+  {
+    "question": "'SUMMER' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
+    "options": [
+      "ngôi nhà",
+      "mùa đông",
+      "mùa hè",
+      "mùa thu"
+    ],
+    "correct": 2,
+    "explain": "'summer' = mùa hè"
+  },
+  {
+    "question": "'AUTUMN' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
+    "options": [
+      "mùa thu",
+      "ngôi nhà",
+      "mùa đông",
+      "trường học"
+    ],
+    "correct": 0,
+    "explain": "'autumn' = mùa thu"
+  },
+  {
+    "question": "'WINTER' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8)",
+    "options": [
+      "trường học",
+      "mùa đông",
+      "ngôi nhà",
+      "bệnh viện"
+    ],
+    "correct": 1,
+    "explain": "'winter' = mùa đông"
+  },
+  {
+    "question": "'HOUSE' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "ngôi nhà",
+      "chợ",
+      "bệnh viện",
+      "trường học"
+    ],
+    "correct": 0,
+    "explain": "'house' = ngôi nhà"
+  },
+  {
+    "question": "'SCHOOL' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "chợ",
+      "giáo viên",
+      "trường học",
+      "bệnh viện"
+    ],
+    "correct": 2,
+    "explain": "'school' = trường học"
+  },
+  {
+    "question": "'HOSPITAL' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "chợ",
+      "học sinh",
+      "giáo viên",
+      "bệnh viện"
+    ],
+    "correct": 3,
+    "explain": "'hospital' = bệnh viện"
+  },
+  {
+    "question": "'MARKET' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "giáo viên",
+      "chợ",
+      "bác sĩ",
+      "học sinh"
+    ],
+    "correct": 1,
+    "explain": "'market' = chợ"
+  },
+  {
+    "question": "'TEACHER' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "giáo viên",
+      "nông dân",
+      "học sinh",
+      "bác sĩ"
+    ],
+    "correct": 0,
+    "explain": "'teacher' = giáo viên"
+  },
+  {
+    "question": "'STUDENT' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "nông dân",
+      "đầu",
+      "bác sĩ",
+      "học sinh"
+    ],
+    "correct": 3,
+    "explain": "'student' = học sinh"
+  },
+  {
+    "question": "'DOCTOR' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "nông dân",
+      "đầu",
+      "bác sĩ",
+      "mắt"
+    ],
+    "correct": 2,
+    "explain": "'doctor' = bác sĩ"
+  },
+  {
+    "question": "'FARMER' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "mắt",
+      "đầu",
+      "nông dân",
+      "mũi"
+    ],
+    "correct": 2,
+    "explain": "'farmer' = nông dân"
+  },
+  {
+    "question": "'HEAD' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "mũi",
+      "mắt",
+      "đầu",
+      "miệng"
+    ],
+    "correct": 2,
+    "explain": "'head' = đầu"
+  },
+  {
+    "question": "'EYE' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "tai",
+      "miệng",
+      "mũi",
+      "mắt"
+    ],
+    "correct": 3,
+    "explain": "'eye' = mắt"
+  },
+  {
+    "question": "'NOSE' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "tai",
+      "bàn tay",
+      "miệng",
+      "mũi"
+    ],
+    "correct": 3,
+    "explain": "'nose' = mũi"
+  },
+  {
+    "question": "'MOUTH' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bàn tay",
+      "tai",
+      "bàn chân",
+      "miệng"
+    ],
+    "correct": 3,
+    "explain": "'mouth' = miệng"
+  },
+  {
+    "question": "'EAR' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "tai",
+      "chân",
+      "bàn tay",
+      "bàn chân"
+    ],
+    "correct": 0,
+    "explain": "'ear' = tai"
+  },
+  {
+    "question": "'HAND' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "cánh tay",
+      "bàn tay",
+      "bàn chân",
+      "chân"
+    ],
+    "correct": 1,
+    "explain": "'hand' = bàn tay"
+  },
+  {
+    "question": "'FOOT' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "cánh tay",
+      "bàn chân",
+      "chân",
+      "vui vẻ"
+    ],
+    "correct": 1,
+    "explain": "'foot' = bàn chân"
+  },
+  {
+    "question": "'LEG' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "vui vẻ",
+      "buồn",
+      "chân",
+      "cánh tay"
+    ],
+    "correct": 2,
+    "explain": "'leg' = chân"
+  },
+  {
+    "question": "'ARM' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "cánh tay",
+      "vui vẻ",
+      "buồn",
+      "tức giận"
+    ],
+    "correct": 0,
+    "explain": "'arm' = cánh tay"
+  },
+  {
+    "question": "'HAPPY' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "vui vẻ",
+      "mệt mỏi",
+      "tức giận",
+      "buồn"
+    ],
+    "correct": 0,
+    "explain": "'happy' = vui vẻ"
+  },
+  {
+    "question": "'SAD' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "cao",
+      "tức giận",
+      "buồn",
+      "mệt mỏi"
+    ],
+    "correct": 2,
+    "explain": "'sad' = buồn"
+  },
+  {
+    "question": "'ANGRY' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "mệt mỏi",
+      "cao",
+      "thấp/ngắn",
+      "tức giận"
+    ],
+    "correct": 3,
+    "explain": "'angry' = tức giận"
+  },
+  {
+    "question": "'TIRED' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "mệt mỏi",
+      "cao",
+      "thấp/ngắn",
+      "béo"
+    ],
+    "correct": 0,
+    "explain": "'tired' = mệt mỏi"
+  },
+  {
+    "question": "'TALL' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "thấp/ngắn",
+      "cao",
+      "gầy",
+      "béo"
+    ],
+    "correct": 1,
+    "explain": "'tall' = cao"
+  },
+  {
+    "question": "'SHORT' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "gầy",
+      "béo",
+      "chạy",
+      "thấp/ngắn"
+    ],
+    "correct": 3,
+    "explain": "'short' = thấp/ngắn"
+  },
+  {
+    "question": "'FAT' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "gầy",
+      "nhảy",
+      "béo",
+      "chạy"
+    ],
+    "correct": 2,
+    "explain": "'fat' = béo"
+  },
+  {
+    "question": "'THIN' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "chạy",
+      "nhảy",
+      "bơi",
+      "gầy"
+    ],
+    "correct": 3,
+    "explain": "'thin' = gầy"
+  },
+  {
+    "question": "'RUN' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "chạy",
+      "bay",
+      "bơi",
+      "nhảy"
+    ],
+    "correct": 0,
+    "explain": "'run' = chạy"
+  },
+  {
+    "question": "'JUMP' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bay",
+      "đi bộ",
+      "bơi",
+      "nhảy"
+    ],
+    "correct": 3,
+    "explain": "'jump' = nhảy"
+  },
+  {
+    "question": "'SWIM' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bơi",
+      "bay",
+      "đi bộ",
+      "ăn"
+    ],
+    "correct": 0,
+    "explain": "'swim' = bơi"
+  },
+  {
+    "question": "'FLY' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bay",
+      "ăn",
+      "đi bộ",
+      "uống"
+    ],
+    "correct": 0,
+    "explain": "'fly' = bay"
+  },
+  {
+    "question": "'WALK' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "uống",
+      "ăn",
+      "đi bộ",
+      "ngủ"
+    ],
+    "correct": 2,
+    "explain": "'walk' = đi bộ"
+  },
+  {
+    "question": "'EAT' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "ăn",
+      "học",
+      "ngủ",
+      "uống"
+    ],
+    "correct": 0,
+    "explain": "'eat' = ăn"
+  },
+  {
+    "question": "'DRINK' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "uống",
+      "ngủ",
+      "học",
+      "chơi"
+    ],
+    "correct": 0,
+    "explain": "'drink' = uống"
+  },
+  {
+    "question": "'SLEEP' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "học",
+      "ngủ",
+      "chơi"
+    ],
+    "correct": 1,
+    "explain": "'sleep' = ngủ"
+  },
+  {
+    "question": "'STUDY' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "học",
+      "chơi"
+    ],
+    "correct": 0,
+    "explain": "'study' = học"
+  },
+  {
+    "question": "'PLAY' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "chơi"
+    ],
+    "correct": 0,
+    "explain": "'play' = chơi"
+  },
+  {
+    "question": "I ___ to school every day. (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "gone",
+      "going",
+      "goes",
+      "go"
+    ],
+    "correct": 3,
+    "explain": "'I go' - chủ ngữ 'I' dùng động từ nguyên thể."
+  },
+  {
+    "question": "She ___ an apple every morning. (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "eating",
+      "eat",
+      "eats",
+      "eaten"
+    ],
+    "correct": 2,
+    "explain": "'She eats' - chủ ngữ ngôi 3 số ít thêm 's'."
+  },
+  {
+    "question": "They ___ football in the park. (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "playing",
+      "played",
+      "plays",
+      "play"
+    ],
+    "correct": 3,
+    "explain": "'They play' - chủ ngữ số nhiều dùng nguyên thể."
+  },
+  {
+    "question": "My name ___ Lan. (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "are",
+      "be",
+      "am",
+      "is"
+    ],
+    "correct": 3,
+    "explain": "'My name is' - 'name' là ngôi 3 số ít dùng 'is'."
+  },
+  {
+    "question": "I ___ a student. (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "is",
+      "are",
+      "be",
+      "am"
+    ],
+    "correct": 3,
+    "explain": "'I am' - chủ ngữ 'I' luôn dùng 'am'."
+  },
+  {
+    "question": "How ___ you? (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "is",
+      "be",
+      "are",
+      "am"
+    ],
+    "correct": 2,
+    "explain": "'How are you?' là câu hỏi thăm sức khỏe."
+  },
+  {
+    "question": "___ is your name? (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "What",
+      "When",
+      "How",
+      "Where"
+    ],
+    "correct": 0,
+    "explain": "'What is your name?' - hỏi tên."
+  },
+  {
+    "question": "___ old are you? (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "How",
+      "Where",
+      "When",
+      "What"
+    ],
+    "correct": 0,
+    "explain": "'How old are you?' - hỏi tuổi."
+  },
+  {
+    "question": "I live ___ Hanoi. (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "to",
+      "in",
+      "on",
+      "at"
+    ],
+    "correct": 1,
+    "explain": "Dùng 'in' với tên thành phố."
+  },
+  {
+    "question": "She has ___ books. (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "twos",
+      "twice",
+      "second",
+      "two"
+    ],
+    "correct": 3,
+    "explain": "'two books' - từ chỉ số lượng không thêm 's'."
+  },
+  {
+    "question": "Nghĩa của 'SUNDAY' là? (Biến thể 4) (Biến thể 6) (Biến thể 9)",
     "options": [
       "buổi chiều",
       "buổi sáng",
       "buổi tối",
+      "Chủ Nhật"
+    ],
+    "correct": 3,
+    "explain": "'Sunday' = Chủ Nhật"
+  },
+  {
+    "question": "Nghĩa của 'JANUARY' là? (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "tháng Một",
+      "buổi chiều",
+      "buổi tối",
+      "buổi sáng"
+    ],
+    "correct": 0,
+    "explain": "'January' = tháng Một"
+  },
+  {
+    "question": "Nghĩa của 'FEBRUARY' là? (Biến thể 4) (Biến thể 6) (Biến thể 9)",
+    "options": [
+      "buổi chiều",
+      "buổi tối",
+      "buổi sáng",
       "tháng Hai"
     ],
     "correct": 3,
     "explain": "'February' = tháng Hai"
   },
   {
-    "question": "Nghĩa của 'MARCH' là?",
+    "question": "Nghĩa của 'MARCH' là? (Biến thể 4) (Biến thể 6) (Biến thể 9)",
     "options": [
-      "buổi sáng",
       "buổi chiều",
+      "buổi sáng",
       "buổi tối",
       "tháng Ba"
     ],
@@ -5395,62 +4541,62 @@
     "explain": "'March' = tháng Ba"
   },
   {
-    "question": "Nghĩa của 'SPRING' là?",
+    "question": "Nghĩa của 'SPRING' là? (Biến thể 4) (Biến thể 6) (Biến thể 9)",
     "options": [
-      "buổi chiều",
       "buổi sáng",
+      "mùa xuân",
       "buổi tối",
-      "mùa xuân"
+      "buổi chiều"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'spring' = mùa xuân"
   },
   {
-    "question": "Nghĩa của 'SUMMER' là?",
+    "question": "Nghĩa của 'SUMMER' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "buổi chiều",
+      "buổi sáng",
       "mùa hè",
-      "buổi tối",
-      "buổi sáng"
+      "buổi chiều",
+      "buổi tối"
     ],
     "correct": 1,
     "explain": "'summer' = mùa hè"
   },
   {
-    "question": "Nghĩa của 'AUTUMN' là?",
+    "question": "Nghĩa của 'AUTUMN' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "buổi chiều",
-      "mùa thu",
       "buổi sáng",
-      "buổi tối"
+      "mùa thu",
+      "buổi tối",
+      "buổi chiều"
     ],
     "correct": 1,
     "explain": "'autumn' = mùa thu"
   },
   {
-    "question": "Nghĩa của 'WINTER' là?",
+    "question": "Nghĩa của 'WINTER' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "buổi sáng",
       "mùa đông",
       "buổi chiều",
-      "buổi tối"
+      "buổi tối",
+      "buổi sáng"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'winter' = mùa đông"
   },
   {
-    "question": "Nghĩa của 'HOUSE' là?",
+    "question": "Nghĩa của 'HOUSE' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
     "options": [
       "buổi sáng",
+      "buổi tối",
       "ngôi nhà",
-      "buổi chiều",
-      "buổi tối"
+      "buổi chiều"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'house' = ngôi nhà"
   },
   {
-    "question": "Nghĩa của 'SCHOOL' là?",
+    "question": "Nghĩa của 'SCHOOL' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
     "options": [
       "trường học",
       "buổi chiều",
@@ -5461,10 +4607,10 @@
     "explain": "'school' = trường học"
   },
   {
-    "question": "Nghĩa của 'HOSPITAL' là?",
+    "question": "Nghĩa của 'HOSPITAL' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "buổi chiều",
       "buổi tối",
+      "buổi chiều",
       "bệnh viện",
       "buổi sáng"
     ],
@@ -5472,25 +4618,861 @@
     "explain": "'hospital' = bệnh viện"
   },
   {
-    "question": "Nghĩa của 'MARKET' là?",
+    "question": "Nghĩa của 'MARKET' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
     "options": [
+      "buổi chiều",
       "buổi sáng",
       "buổi tối",
-      "buổi chiều",
       "chợ"
     ],
     "correct": 3,
     "explain": "'market' = chợ"
   },
   {
-    "question": "Nghĩa của 'TEACHER' là?",
+    "question": "Nghĩa của 'TEACHER' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
     "options": [
       "buổi sáng",
+      "buổi tối",
       "giáo viên",
+      "buổi chiều"
+    ],
+    "correct": 2,
+    "explain": "'teacher' = giáo viên"
+  },
+  {
+    "question": "Nghĩa của 'STUDENT' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi sáng",
+      "buổi tối",
+      "buổi chiều",
+      "học sinh"
+    ],
+    "correct": 3,
+    "explain": "'student' = học sinh"
+  },
+  {
+    "question": "Nghĩa của 'DOCTOR' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "bác sĩ",
+      "buổi sáng",
+      "buổi chiều",
+      "buổi tối"
+    ],
+    "correct": 0,
+    "explain": "'doctor' = bác sĩ"
+  },
+  {
+    "question": "Nghĩa của 'FARMER' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi sáng",
+      "nông dân",
+      "buổi chiều",
+      "buổi tối"
+    ],
+    "correct": 1,
+    "explain": "'farmer' = nông dân"
+  },
+  {
+    "question": "Nghĩa của 'HEAD' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "đầu",
+      "buổi tối",
+      "buổi chiều",
+      "buổi sáng"
+    ],
+    "correct": 0,
+    "explain": "'head' = đầu"
+  },
+  {
+    "question": "Nghĩa của 'EYE' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "mắt",
+      "buổi sáng",
+      "buổi tối",
+      "buổi chiều"
+    ],
+    "correct": 0,
+    "explain": "'eye' = mắt"
+  },
+  {
+    "question": "Nghĩa của 'NOSE' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "mũi",
+      "buổi tối",
+      "buổi chiều",
+      "buổi sáng"
+    ],
+    "correct": 0,
+    "explain": "'nose' = mũi"
+  },
+  {
+    "question": "Nghĩa của 'MOUTH' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi tối",
+      "buổi chiều",
+      "miệng",
+      "buổi sáng"
+    ],
+    "correct": 2,
+    "explain": "'mouth' = miệng"
+  },
+  {
+    "question": "Nghĩa của 'EAR' là? (Biến thể 4) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "tai",
+      "buổi sáng",
+      "buổi tối",
+      "buổi chiều"
+    ],
+    "correct": 0,
+    "explain": "'ear' = tai"
+  },
+  {
+    "question": "Nghĩa của 'HAND' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi tối",
+      "buổi chiều",
+      "bàn tay",
+      "buổi sáng"
+    ],
+    "correct": 2,
+    "explain": "'hand' = bàn tay"
+  },
+  {
+    "question": "Nghĩa của 'FOOT' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "bàn chân",
+      "buổi sáng",
+      "buổi chiều",
+      "buổi tối"
+    ],
+    "correct": 0,
+    "explain": "'foot' = bàn chân"
+  },
+  {
+    "question": "Nghĩa của 'LEG' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi sáng",
+      "buổi chiều",
+      "buổi tối",
+      "chân"
+    ],
+    "correct": 3,
+    "explain": "'leg' = chân"
+  },
+  {
+    "question": "Nghĩa của 'ARM' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi sáng",
+      "buổi chiều",
+      "cánh tay",
+      "buổi tối"
+    ],
+    "correct": 2,
+    "explain": "'arm' = cánh tay"
+  },
+  {
+    "question": "Nghĩa của 'HAPPY' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi sáng",
+      "buổi chiều",
+      "buổi tối",
+      "vui vẻ"
+    ],
+    "correct": 3,
+    "explain": "'happy' = vui vẻ"
+  },
+  {
+    "question": "Nghĩa của 'SAD' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buồn",
+      "buổi tối",
+      "buổi sáng",
+      "buổi chiều"
+    ],
+    "correct": 0,
+    "explain": "'sad' = buồn"
+  },
+  {
+    "question": "Nghĩa của 'ANGRY' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi tối",
+      "buổi sáng",
+      "tức giận",
+      "buổi chiều"
+    ],
+    "correct": 2,
+    "explain": "'angry' = tức giận"
+  },
+  {
+    "question": "Nghĩa của 'TIRED' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "mệt mỏi",
+      "buổi tối",
+      "buổi sáng",
+      "buổi chiều"
+    ],
+    "correct": 0,
+    "explain": "'tired' = mệt mỏi"
+  },
+  {
+    "question": "Nghĩa của 'TALL' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "cao",
+      "buổi tối",
+      "buổi chiều",
+      "buổi sáng"
+    ],
+    "correct": 0,
+    "explain": "'tall' = cao"
+  },
+  {
+    "question": "Nghĩa của 'SHORT' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi tối",
+      "buổi chiều",
+      "thấp/ngắn",
+      "buổi sáng"
+    ],
+    "correct": 2,
+    "explain": "'short' = thấp/ngắn"
+  },
+  {
+    "question": "Nghĩa của 'FAT' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi sáng",
+      "béo",
       "buổi tối",
       "buổi chiều"
     ],
     "correct": 1,
+    "explain": "'fat' = béo"
+  },
+  {
+    "question": "Nghĩa của 'THIN' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi tối",
+      "buổi chiều",
+      "buổi sáng",
+      "gầy"
+    ],
+    "correct": 3,
+    "explain": "'thin' = gầy"
+  },
+  {
+    "question": "Nghĩa của 'RUN' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi tối",
+      "chạy",
+      "buổi sáng",
+      "buổi chiều"
+    ],
+    "correct": 1,
+    "explain": "'run' = chạy"
+  },
+  {
+    "question": "Nghĩa của 'JUMP' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi chiều",
+      "buổi sáng",
+      "buổi tối",
+      "nhảy"
+    ],
+    "correct": 3,
+    "explain": "'jump' = nhảy"
+  },
+  {
+    "question": "Nghĩa của 'SWIM' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi chiều",
+      "buổi sáng",
+      "buổi tối",
+      "bơi"
+    ],
+    "correct": 3,
+    "explain": "'swim' = bơi"
+  },
+  {
+    "question": "Nghĩa của 'FLY' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi chiều",
+      "bay",
+      "buổi sáng",
+      "buổi tối"
+    ],
+    "correct": 1,
+    "explain": "'fly' = bay"
+  },
+  {
+    "question": "Nghĩa của 'WALK' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "đi bộ",
+      "buổi sáng",
+      "buổi chiều",
+      "buổi tối"
+    ],
+    "correct": 0,
+    "explain": "'walk' = đi bộ"
+  },
+  {
+    "question": "Nghĩa của 'EAT' là? (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "buổi tối",
+      "buổi chiều",
+      "buổi sáng",
+      "ăn"
+    ],
+    "correct": 3,
+    "explain": "'eat' = ăn"
+  },
+  {
+    "question": "Nghĩa của 'DRINK' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "buổi sáng",
+      "buổi chiều",
+      "uống",
+      "buổi tối"
+    ],
+    "correct": 2,
+    "explain": "'drink' = uống"
+  },
+  {
+    "question": "Nghĩa của 'SLEEP' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "buổi tối",
+      "ngủ",
+      "buổi sáng",
+      "buổi chiều"
+    ],
+    "correct": 1,
+    "explain": "'sleep' = ngủ"
+  },
+  {
+    "question": "Nghĩa của 'STUDY' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "buổi tối",
+      "buổi chiều",
+      "buổi sáng",
+      "học"
+    ],
+    "correct": 3,
+    "explain": "'study' = học"
+  },
+  {
+    "question": "Nghĩa của 'PLAY' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "buổi chiều",
+      "buổi tối",
+      "buổi sáng",
+      "chơi"
+    ],
+    "correct": 3,
+    "explain": "'play' = chơi"
+  },
+  {
+    "question": "Nghĩa của 'MORNING' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "ban đêm",
+      "buổi sáng",
+      "buổi tối",
+      "buổi chiều"
+    ],
+    "correct": 1,
+    "explain": "'morning' = buổi sáng"
+  },
+  {
+    "question": "Nghĩa của 'AFTERNOON' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "buổi sáng",
+      "ban đêm",
+      "buổi tối",
+      "buổi chiều"
+    ],
+    "correct": 3,
+    "explain": "'afternoon' = buổi chiều"
+  },
+  {
+    "question": "Nghĩa của 'EVENING' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "buổi tối",
+      "ban đêm",
+      "buổi sáng",
+      "buổi chiều"
+    ],
+    "correct": 0,
+    "explain": "'evening' = buổi tối"
+  },
+  {
+    "question": "Nghĩa của 'NIGHT' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "buổi sáng",
+      "buổi chiều",
+      "ban đêm",
+      "buổi tối"
+    ],
+    "correct": 2,
+    "explain": "'night' = ban đêm"
+  },
+  {
+    "question": "Nghĩa của 'MONDAY' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "buổi tối",
+      "thứ Hai",
+      "buổi sáng",
+      "buổi chiều"
+    ],
+    "correct": 1,
+    "explain": "'Monday' = thứ Hai"
+  },
+  {
+    "question": "Nghĩa của 'TUESDAY' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "buổi tối",
+      "buổi sáng",
+      "thứ Ba",
+      "buổi chiều"
+    ],
+    "correct": 2,
+    "explain": "'Tuesday' = thứ Ba"
+  },
+  {
+    "question": "Nghĩa của 'WEDNESDAY' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "thứ Tư",
+      "buổi sáng",
+      "buổi tối",
+      "buổi chiều"
+    ],
+    "correct": 0,
+    "explain": "'Wednesday' = thứ Tư"
+  },
+  {
+    "question": "Nghĩa của 'THURSDAY' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "thứ Năm",
+      "buổi sáng",
+      "buổi tối",
+      "buổi chiều"
+    ],
+    "correct": 0,
+    "explain": "'Thursday' = thứ Năm"
+  },
+  {
+    "question": "Nghĩa của 'FRIDAY' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "buổi tối",
+      "thứ Sáu",
+      "buổi chiều",
+      "buổi sáng"
+    ],
+    "correct": 1,
+    "explain": "'Friday' = thứ Sáu"
+  },
+  {
+    "question": "Nghĩa của 'SATURDAY' là? (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "thứ Bảy",
+      "buổi sáng",
+      "buổi tối",
+      "buổi chiều"
+    ],
+    "correct": 0,
+    "explain": "'Saturday' = thứ Bảy"
+  },
+  {
+    "question": "'MORNING' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "buổi chiều",
+      "ban đêm",
+      "buổi sáng",
+      "buổi tối"
+    ],
+    "correct": 2,
+    "explain": "'morning' = buổi sáng"
+  },
+  {
+    "question": "'AFTERNOON' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 10)",
+    "options": [
+      "buổi tối",
+      "thứ Hai",
+      "buổi chiều",
+      "ban đêm"
+    ],
+    "correct": 2,
+    "explain": "'afternoon' = buổi chiều"
+  },
+  {
+    "question": "'EVENING' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "ban đêm",
+      "buổi tối",
+      "thứ Hai",
+      "thứ Ba"
+    ],
+    "correct": 1,
+    "explain": "'evening' = buổi tối"
+  },
+  {
+    "question": "'NIGHT' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "thứ Hai",
+      "ban đêm",
+      "thứ Ba",
+      "thứ Tư"
+    ],
+    "correct": 1,
+    "explain": "'night' = ban đêm"
+  },
+  {
+    "question": "'MONDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "thứ Ba",
+      "thứ Hai",
+      "thứ Năm",
+      "thứ Tư"
+    ],
+    "correct": 1,
+    "explain": "'Monday' = thứ Hai"
+  },
+  {
+    "question": "'TUESDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "thứ Sáu",
+      "thứ Ba",
+      "thứ Tư",
+      "thứ Năm"
+    ],
+    "correct": 1,
+    "explain": "'Tuesday' = thứ Ba"
+  },
+  {
+    "question": "'WEDNESDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "thứ Tư",
+      "thứ Bảy",
+      "thứ Năm",
+      "thứ Sáu"
+    ],
+    "correct": 0,
+    "explain": "'Wednesday' = thứ Tư"
+  },
+  {
+    "question": "'THURSDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "thứ Sáu",
+      "Chủ Nhật",
+      "thứ Bảy",
+      "thứ Năm"
+    ],
+    "correct": 3,
+    "explain": "'Thursday' = thứ Năm"
+  },
+  {
+    "question": "'FRIDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "Chủ Nhật",
+      "tháng Một",
+      "thứ Bảy",
+      "thứ Sáu"
+    ],
+    "correct": 3,
+    "explain": "'Friday' = thứ Sáu"
+  },
+  {
+    "question": "'SATURDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "tháng Hai",
+      "tháng Một",
+      "Chủ Nhật",
+      "thứ Bảy"
+    ],
+    "correct": 3,
+    "explain": "'Saturday' = thứ Bảy"
+  },
+  {
+    "question": "'SUNDAY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "tháng Một",
+      "Chủ Nhật",
+      "tháng Hai",
+      "tháng Ba"
+    ],
+    "correct": 1,
+    "explain": "'Sunday' = Chủ Nhật"
+  },
+  {
+    "question": "'JANUARY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "tháng Ba",
+      "mùa xuân",
+      "tháng Hai",
+      "tháng Một"
+    ],
+    "correct": 3,
+    "explain": "'January' = tháng Một"
+  },
+  {
+    "question": "'FEBRUARY' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "mùa hè",
+      "tháng Hai",
+      "tháng Ba",
+      "mùa xuân"
+    ],
+    "correct": 1,
+    "explain": "'February' = tháng Hai"
+  },
+  {
+    "question": "'MARCH' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "mùa thu",
+      "mùa xuân",
+      "tháng Ba",
+      "mùa hè"
+    ],
+    "correct": 2,
+    "explain": "'March' = tháng Ba"
+  },
+  {
+    "question": "'SPRING' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "mùa đông",
+      "mùa thu",
+      "mùa xuân",
+      "mùa hè"
+    ],
+    "correct": 2,
+    "explain": "'spring' = mùa xuân"
+  },
+  {
+    "question": "'SUMMER' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "mùa đông",
+      "mùa hè",
+      "mùa thu",
+      "ngôi nhà"
+    ],
+    "correct": 1,
+    "explain": "'summer' = mùa hè"
+  },
+  {
+    "question": "'AUTUMN' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "ngôi nhà",
+      "mùa đông",
+      "trường học",
+      "mùa thu"
+    ],
+    "correct": 3,
+    "explain": "'autumn' = mùa thu"
+  },
+  {
+    "question": "'WINTER' có nghĩa là? (Biến thể 3) (Biến thể 5) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "mùa đông",
+      "ngôi nhà",
+      "bệnh viện",
+      "trường học"
+    ],
+    "correct": 0,
+    "explain": "'winter' = mùa đông"
+  },
+  {
+    "question": "'HOUSE' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "chợ",
+      "bệnh viện",
+      "trường học",
+      "ngôi nhà"
+    ],
+    "correct": 3,
+    "explain": "'house' = ngôi nhà"
+  },
+  {
+    "question": "'SCHOOL' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "giáo viên",
+      "trường học",
+      "bệnh viện",
+      "chợ"
+    ],
+    "correct": 1,
+    "explain": "'school' = trường học"
+  },
+  {
+    "question": "'HOSPITAL' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "học sinh",
+      "giáo viên",
+      "bệnh viện",
+      "chợ"
+    ],
+    "correct": 2,
+    "explain": "'hospital' = bệnh viện"
+  },
+  {
+    "question": "'MARKET' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "chợ",
+      "bác sĩ",
+      "học sinh",
+      "giáo viên"
+    ],
+    "correct": 0,
+    "explain": "'market' = chợ"
+  },
+  {
+    "question": "'TEACHER' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "nông dân",
+      "học sinh",
+      "bác sĩ",
+      "giáo viên"
+    ],
+    "correct": 3,
     "explain": "'teacher' = giáo viên"
+  },
+  {
+    "question": "'STUDENT' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "đầu",
+      "bác sĩ",
+      "học sinh",
+      "nông dân"
+    ],
+    "correct": 2,
+    "explain": "'student' = học sinh"
+  },
+  {
+    "question": "'DOCTOR' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "đầu",
+      "bác sĩ",
+      "mắt",
+      "nông dân"
+    ],
+    "correct": 1,
+    "explain": "'doctor' = bác sĩ"
+  },
+  {
+    "question": "'FARMER' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "đầu",
+      "nông dân",
+      "mũi",
+      "mắt"
+    ],
+    "correct": 1,
+    "explain": "'farmer' = nông dân"
+  },
+  {
+    "question": "'HEAD' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "mắt",
+      "đầu",
+      "miệng",
+      "mũi"
+    ],
+    "correct": 1,
+    "explain": "'head' = đầu"
+  },
+  {
+    "question": "'EYE' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "miệng",
+      "mũi",
+      "mắt",
+      "tai"
+    ],
+    "correct": 2,
+    "explain": "'eye' = mắt"
+  },
+  {
+    "question": "'NOSE' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "bàn tay",
+      "miệng",
+      "mũi",
+      "tai"
+    ],
+    "correct": 2,
+    "explain": "'nose' = mũi"
+  },
+  {
+    "question": "'MOUTH' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "tai",
+      "bàn chân",
+      "miệng",
+      "bàn tay"
+    ],
+    "correct": 2,
+    "explain": "'mouth' = miệng"
+  },
+  {
+    "question": "'EAR' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "chân",
+      "bàn tay",
+      "bàn chân",
+      "tai"
+    ],
+    "correct": 3,
+    "explain": "'ear' = tai"
+  },
+  {
+    "question": "'HAND' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "bàn tay",
+      "bàn chân",
+      "chân",
+      "cánh tay"
+    ],
+    "correct": 0,
+    "explain": "'hand' = bàn tay"
+  },
+  {
+    "question": "'FOOT' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "bàn chân",
+      "chân",
+      "vui vẻ",
+      "cánh tay"
+    ],
+    "correct": 0,
+    "explain": "'foot' = bàn chân"
+  },
+  {
+    "question": "'LEG' có nghĩa là? (Biến thể 3) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "buồn",
+      "chân",
+      "cánh tay",
+      "vui vẻ"
+    ],
+    "correct": 1,
+    "explain": "'leg' = chân"
+  },
+  {
+    "question": "'ARM' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "vui vẻ",
+      "buồn",
+      "tức giận",
+      "cánh tay"
+    ],
+    "correct": 3,
+    "explain": "'arm' = cánh tay"
+  },
+  {
+    "question": "'HAPPY' có nghĩa là? (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "mệt mỏi",
+      "tức giận",
+      "buồn",
+      "vui vẻ"
+    ],
+    "correct": 3,
+    "explain": "'happy' = vui vẻ"
   }
 ]

@@ -385,215 +385,6 @@
     "explain": "'ca' đọc với "
   },
   {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "cá",
-      "cà",
-      "cả",
-      "ca"
-    ],
-    "correct": 1,
-    "explain": "'cà' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "cá",
-      "cả",
-      "ca",
-      "cà"
-    ],
-    "correct": 0,
-    "explain": "'cá' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "cá",
-      "ca",
-      "cà",
-      "cả"
-    ],
-    "correct": 3,
-    "explain": "'cả' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "cã",
-      "cà",
-      "ca",
-      "cá"
-    ],
-    "correct": 0,
-    "explain": "'cã' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "mả",
-      "ma",
-      "má",
-      "mà"
-    ],
-    "correct": 1,
-    "explain": "'ma' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "ma",
-      "má",
-      "mà",
-      "mả"
-    ],
-    "correct": 2,
-    "explain": "'mà' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "má",
-      "mà",
-      "ma",
-      "mả"
-    ],
-    "correct": 0,
-    "explain": "'má' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "mà",
-      "mả",
-      "má",
-      "ma"
-    ],
-    "correct": 1,
-    "explain": "'mả' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "mà",
-      "ma",
-      "mã",
-      "má"
-    ],
-    "correct": 2,
-    "explain": "'mã' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "tá",
-      "tả",
-      "ta",
-      "tà"
-    ],
-    "correct": 2,
-    "explain": "'ta' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "ta",
-      "tà",
-      "tả",
-      "tá"
-    ],
-    "correct": 1,
-    "explain": "'tà' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "ta",
-      "tà",
-      "tả",
-      "tá"
-    ],
-    "correct": 3,
-    "explain": "'tá' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "tà",
-      "tá",
-      "ta",
-      "tả"
-    ],
-    "correct": 3,
-    "explain": "'tả' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "ta",
-      "tá",
-      "tã",
-      "tà"
-    ],
-    "correct": 2,
-    "explain": "'tã' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "là",
-      "lá",
-      "la",
-      "lả"
-    ],
-    "correct": 2,
-    "explain": "'la' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "lá",
-      "lả",
-      "là",
-      "la"
-    ],
-    "correct": 2,
-    "explain": "'là' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "là",
-      "lá",
-      "lả",
-      "la"
-    ],
-    "correct": 1,
-    "explain": "'lá' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "lá",
-      "là",
-      "la",
-      "lả"
-    ],
-    "correct": 3,
-    "explain": "'lả' đọc với "
-  },
-  {
-    "question": "Từ nào có dấu thanh đúng?",
-    "options": [
-      "lá",
-      "lã",
-      "la",
-      "là"
-    ],
-    "correct": 1,
-    "explain": "'lã' đọc với "
-  },
-  {
     "question": "Từ trái nghĩa với 'to' là?",
     "options": [
       "nhỏ",
@@ -1133,854 +924,73 @@
     "explain": "'N' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "O"
-    ],
-    "correct": 3,
-    "explain": "'O' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "Ô"
-    ],
-    "correct": 3,
-    "explain": "'Ô' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Ơ",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'Ơ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "P",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'P' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Â",
-      "Q"
-    ],
-    "correct": 3,
-    "explain": "'Q' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "R",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'R' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "S",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'S' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Â",
-      "T"
-    ],
-    "correct": 3,
-    "explain": "'T' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
-    "options": [
-      "U",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'U' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "Ư"
-    ],
-    "correct": 3,
-    "explain": "'Ư' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
-    "options": [
-      "V",
-      "A",
-      "Ă",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'V' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "X",
-      "Â",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'X' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "Y"
-    ],
-    "correct": 3,
-    "explain": "'Y' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
-    "options": [
-      "B",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 3,
-    "explain": "'A' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'A'? (Biến thể 2)",
     "options": [
       "B",
       "Ă",
-      "A",
-      "Â"
+      "Â",
+      "A"
     ],
-    "correct": 1,
-    "explain": "'Ă' là chữ cái tiếng Việt."
+    "correct": 3,
+    "explain": "'A' là chữ thứ 1 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'Ă'? (Biến thể 2)",
     "options": [
+      "Â",
       "Ă",
       "B",
-      "A",
-      "Â"
-    ],
-    "correct": 3,
-    "explain": "'Â' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Â",
-      "B"
-    ],
-    "correct": 3,
-    "explain": "'B' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
-    "options": [
-      "A",
-      "C",
-      "Â",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'C' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "D",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'D' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Â",
-      "Đ"
-    ],
-    "correct": 3,
-    "explain": "'Đ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "E",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'E' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Ê",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'Ê' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "G",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'G' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "H",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'H' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
-    "options": [
-      "A",
-      "I",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'I' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "K",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'K' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "L"
-    ],
-    "correct": 3,
-    "explain": "'L' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Ă",
-      "M"
-    ],
-    "correct": 3,
-    "explain": "'M' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Ă",
-      "N"
-    ],
-    "correct": 3,
-    "explain": "'N' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
-    "options": [
-      "O",
-      "Â",
-      "A",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'O' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Ô",
-      "Â",
       "A"
     ],
     "correct": 1,
-    "explain": "'Ô' là chữ cái tiếng Việt."
+    "explain": "'Ă' là chữ thứ 2 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'Â'? (Biến thể 2)",
     "options": [
-      "A",
-      "Â",
-      "Ơ",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'Ơ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
-    "options": [
-      "P",
-      "A",
-      "Ă",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'P' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Q",
-      "Â",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'Q' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "R",
-      "Ă",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'R' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "S",
-      "A",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'S' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
-    "options": [
-      "T",
-      "Ă",
-      "Â",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'T' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
-    "options": [
-      "U",
-      "Â",
-      "A",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'U' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "Ă",
-      "Ư"
-    ],
-    "correct": 3,
-    "explain": "'Ư' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
-    "options": [
-      "V",
-      "Ă",
-      "Â",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'V' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "X",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'X' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Y",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'Y' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "B",
-      "A",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'A' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "B",
-      "A",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'Ă' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "B",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'Â' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "B",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'B' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "C"
-    ],
-    "correct": 3,
-    "explain": "'C' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
-    "options": [
-      "D",
-      "Â",
-      "A",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'D' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "Ă",
-      "Đ"
-    ],
-    "correct": 3,
-    "explain": "'Đ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
-    "options": [
-      "E",
-      "Â",
-      "A",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'E' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "Ê"
-    ],
-    "correct": 3,
-    "explain": "'Ê' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "G"
-    ],
-    "correct": 3,
-    "explain": "'G' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "H",
-      "A",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'H' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "I",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'I' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "K",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'K' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
-    "options": [
-      "L",
-      "Ă",
-      "A",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'L' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "Ă",
-      "M"
-    ],
-    "correct": 3,
-    "explain": "'M' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
-    "options": [
-      "N",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'N' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "O"
-    ],
-    "correct": 3,
-    "explain": "'O' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "Ô"
-    ],
-    "correct": 3,
-    "explain": "'Ô' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "Ơ"
-    ],
-    "correct": 3,
-    "explain": "'Ơ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "P",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'P' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Q",
-      "A",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'Q' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "R",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'R' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "S",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'S' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
-    "options": [
-      "A",
-      "T",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'T' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
-    "options": [
-      "A",
-      "U",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'U' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
-    "options": [
-      "Ư",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'Ư' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "V",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'V' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "X",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'X' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Y",
-      "Â",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'Y' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
-    "options": [
-      "B",
-      "A",
-      "Â",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'A' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'Ă' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
-    "options": [
-      "Ă",
       "A",
       "B",
-      "Â"
-    ],
-    "correct": 3,
-    "explain": "'Â' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "B",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'B' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
-    "options": [
       "Â",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'Â' là chữ thứ 3 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'B'? (Biến thể 2)",
+    "options": [
+      "B",
+      "Ă",
+      "Â",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'B' là chữ thứ 4 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'C'? (Biến thể 2)",
+    "options": [
       "A",
+      "Â",
       "C",
       "Ă"
     ],
     "correct": 2,
-    "explain": "'C' là chữ cái tiếng Việt."
+    "explain": "'C' là chữ thứ 5 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'D'? (Biến thể 2)",
     "options": [
-      "Â",
-      "Ă",
       "A",
-      "D"
+      "Ă",
+      "D",
+      "Â"
     ],
-    "correct": 3,
-    "explain": "'D' là chữ cái tiếng Việt."
+    "correct": 2,
+    "explain": "'D' là chữ thứ 6 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'Đ'? (Biến thể 2)",
     "options": [
       "Â",
       "Đ",
@@ -1988,131 +998,131 @@
       "Ă"
     ],
     "correct": 1,
-    "explain": "'Đ' là chữ cái tiếng Việt."
+    "explain": "'Đ' là chữ thứ 7 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'E'? (Biến thể 2)",
     "options": [
-      "A",
-      "Ă",
-      "E",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'E' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
-    "options": [
-      "Ă",
       "Â",
       "A",
-      "Ê"
+      "Ă",
+      "E"
     ],
     "correct": 3,
-    "explain": "'Ê' là chữ cái tiếng Việt."
+    "explain": "'E' là chữ thứ 8 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'Ê'? (Biến thể 2)",
     "options": [
       "Ă",
-      "G",
+      "Ê",
       "A",
       "Â"
     ],
     "correct": 1,
-    "explain": "'G' là chữ cái tiếng Việt."
+    "explain": "'Ê' là chữ thứ 9 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'G'? (Biến thể 2)",
     "options": [
-      "H",
-      "Ă",
-      "Â",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'H' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
-    "options": [
-      "Ă",
       "A",
+      "G",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'G' là chữ thứ 10 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'H'? (Biến thể 2)",
+    "options": [
+      "Ă",
       "Â",
-      "I"
+      "A",
+      "H"
     ],
     "correct": 3,
-    "explain": "'I' là chữ cái tiếng Việt."
+    "explain": "'H' là chữ thứ 11 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'I'? (Biến thể 2)",
     "options": [
-      "Â",
+      "A",
+      "I",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'I' là chữ thứ 12 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'K'? (Biến thể 2)",
+    "options": [
       "K",
       "A",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'K' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
-    "options": [
-      "L",
-      "Ă",
       "Â",
-      "A"
+      "Ă"
     ],
     "correct": 0,
-    "explain": "'L' là chữ cái tiếng Việt."
+    "explain": "'K' là chữ thứ 13 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'L'? (Biến thể 2)",
     "options": [
+      "A",
       "Ă",
       "Â",
-      "A",
-      "M"
+      "L"
     ],
     "correct": 3,
-    "explain": "'M' là chữ cái tiếng Việt."
+    "explain": "'L' là chữ thứ 14 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'M'? (Biến thể 2)",
     "options": [
       "A",
-      "N",
-      "Â",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'N' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
-    "options": [
-      "A",
-      "O",
+      "M",
       "Ă",
       "Â"
     ],
     "correct": 1,
-    "explain": "'O' là chữ cái tiếng Việt."
+    "explain": "'M' là chữ thứ 15 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'N'? (Biến thể 2)",
     "options": [
-      "Ô",
+      "N",
       "Ă",
       "Â",
       "A"
     ],
     "correct": 0,
-    "explain": "'Ô' là chữ cái tiếng Việt."
+    "explain": "'N' là chữ thứ 16 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'O'? (Biến thể 3)",
+    "options": [
+      "O",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'O' là chữ thứ 17 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ô'? (Biến thể 3)",
+    "options": [
+      "A",
+      "Ô",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'Ô' là chữ thứ 18 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ơ'? (Biến thể 3)",
     "options": [
       "Ơ",
       "A",
@@ -2120,10 +1130,934 @@
       "Ă"
     ],
     "correct": 0,
+    "explain": "'Ơ' là chữ thứ 19 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'P'? (Biến thể 3)",
+    "options": [
+      "A",
+      "P",
+      "Â",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'P' là chữ thứ 20 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Q'? (Biến thể 3)",
+    "options": [
+      "Ă",
+      "Q",
+      "Â",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'Q' là chữ thứ 21 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'R'? (Biến thể 3)",
+    "options": [
+      "A",
+      "Ă",
+      "Â",
+      "R"
+    ],
+    "correct": 3,
+    "explain": "'R' là chữ thứ 22 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'S'? (Biến thể 3)",
+    "options": [
+      "S",
+      "Â",
+      "Ă",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'S' là chữ thứ 23 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'T'? (Biến thể 3)",
+    "options": [
+      "A",
+      "Â",
+      "T",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'T' là chữ thứ 24 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'U'? (Biến thể 3)",
+    "options": [
+      "A",
+      "Ă",
+      "Â",
+      "U"
+    ],
+    "correct": 3,
+    "explain": "'U' là chữ thứ 25 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ư'? (Biến thể 3)",
+    "options": [
+      "Ă",
+      "A",
+      "Â",
+      "Ư"
+    ],
+    "correct": 3,
+    "explain": "'Ư' là chữ thứ 26 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'V'? (Biến thể 3)",
+    "options": [
+      "A",
+      "Ă",
+      "V",
+      "Â"
+    ],
+    "correct": 2,
+    "explain": "'V' là chữ thứ 27 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'X'? (Biến thể 3)",
+    "options": [
+      "X",
+      "A",
+      "Â",
+      "Ă"
+    ],
+    "correct": 0,
+    "explain": "'X' là chữ thứ 28 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Y'? (Biến thể 3)",
+    "options": [
+      "Â",
+      "A",
+      "Ă",
+      "Y"
+    ],
+    "correct": 3,
+    "explain": "'Y' là chữ thứ 29 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Từ nào có không có dấu thanh? (Biến thể 3)",
+    "options": [
+      "bà",
+      "ba",
+      "bả",
+      "bá"
+    ],
+    "correct": 1,
+    "explain": "'ba' đọc với không có dấu thanh"
+  },
+  {
+    "question": "Từ nào có dấu huyền (\\`)? (Biến thể 3)",
+    "options": [
+      "ba",
+      "bả",
+      "bà",
+      "bá"
+    ],
+    "correct": 2,
+    "explain": "'bà' đọc với dấu huyền (\\`)"
+  },
+  {
+    "question": "Từ nào có dấu sắc (')? (Biến thể 3)",
+    "options": [
+      "bá",
+      "ba",
+      "bà",
+      "bả"
+    ],
+    "correct": 0,
+    "explain": "'bá' đọc với dấu sắc (')"
+  },
+  {
+    "question": "Từ nào có dấu hỏi (?)? (Biến thể 3)",
+    "options": [
+      "bà",
+      "bả",
+      "ba",
+      "bá"
+    ],
+    "correct": 1,
+    "explain": "'bả' đọc với dấu hỏi (?)"
+  },
+  {
+    "question": "Từ nào có dấu ngã (~)? (Biến thể 3)",
+    "options": [
+      "bã",
+      "bá",
+      "ba",
+      "bà"
+    ],
+    "correct": 0,
+    "explain": "'bã' đọc với dấu ngã (~)"
+  },
+  {
+    "question": "Từ nào có dấu thanh đúng? (Biến thể 3)",
+    "options": [
+      "cà",
+      "ca",
+      "cá",
+      "cả"
+    ],
+    "correct": 1,
+    "explain": "'ca' đọc với "
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là? (Biến thể 3)",
+    "options": [
+      "toa",
+      "tob",
+      "toc",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là? (Biến thể 3)",
+    "options": [
+      "caoa",
+      "caob",
+      "caoc",
+      "thấp"
+    ],
+    "correct": 3,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là? (Biến thể 3)",
+    "options": [
+      "nhanha",
+      "nhanhb",
+      "nhanhc",
+      "chậm"
+    ],
+    "correct": 3,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là? (Biến thể 3)",
+    "options": [
+      "sánga",
+      "sángb",
+      "sángc",
+      "tối"
+    ],
+    "correct": 3,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là? (Biến thể 3)",
+    "options": [
+      "nónga",
+      "nóngb",
+      "nóngc",
+      "lạnh"
+    ],
+    "correct": 3,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là? (Biến thể 3)",
+    "options": [
+      "vuia",
+      "vuib",
+      "vuic",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là? (Biến thể 3)",
+    "options": [
+      "mớia",
+      "mớib",
+      "mớic",
+      "cũ"
+    ],
+    "correct": 3,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là? (Biến thể 3)",
+    "options": [
+      "nhiềua",
+      "nhiềub",
+      "nhiềuc",
+      "ít"
+    ],
+    "correct": 3,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là? (Biến thể 3)",
+    "options": [
+      "dàia",
+      "dàib",
+      "dàic",
+      "ngắn"
+    ],
+    "correct": 3,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là? (Biến thể 3)",
+    "options": [
+      "rộnga",
+      "rộngb",
+      "rộngc",
+      "hẹp"
+    ],
+    "correct": 3,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Em ___ bài tập về nhà mỗi ngày. (Biến thể 3)",
+    "options": [
+      "làm",
+      "ăn",
+      "ngủ",
+      "chơi"
+    ],
+    "correct": 0,
+    "explain": "'làm' bài tập là đúng ngữ cảnh."
+  },
+  {
+    "question": "Bầu trời buổi sáng có màu ___. (Biến thể 3)",
+    "options": [
+      "tím",
+      "đỏ",
+      "đen",
+      "xanh"
+    ],
+    "correct": 3,
+    "explain": "Bầu trời ban ngày có màu xanh."
+  },
+  {
+    "question": "Mặt trời mọc vào buổi ___. (Biến thể 3)",
+    "options": [
+      "chiều",
+      "sáng",
+      "tối",
+      "trưa"
+    ],
+    "correct": 1,
+    "explain": "Mặt trời mọc vào buổi sáng."
+  },
+  {
+    "question": "Con mèo kêu ___. (Biến thể 3)",
+    "options": [
+      "gâu gâu",
+      "ò ó o",
+      "meo meo",
+      "cạc cạc"
+    ],
+    "correct": 2,
+    "explain": "Con mèo kêu 'meo meo'."
+  },
+  {
+    "question": "Con chó kêu ___. (Biến thể 3)",
+    "options": [
+      "gâu gâu",
+      "cạc cạc",
+      "ò ó o",
+      "meo meo"
+    ],
+    "correct": 0,
+    "explain": "Con chó kêu 'gâu gâu'."
+  },
+  {
+    "question": "Quả chuối có màu ___. (Biến thể 3)",
+    "options": [
+      "đỏ",
+      "vàng",
+      "xanh lá",
+      "tím"
+    ],
+    "correct": 1,
+    "explain": "Quả chuối chín có màu vàng."
+  },
+  {
+    "question": "Chúng ta rửa tay trước khi ___. (Biến thể 3)",
+    "options": [
+      "ngủ",
+      "chạy",
+      "ăn",
+      "nhảy"
+    ],
+    "correct": 2,
+    "explain": "Rửa tay trước khi ăn để phòng bệnh."
+  },
+  {
+    "question": "Bảng chữ cái tiếng Việt có ___ chữ cái. (Biến thể 3)",
+    "options": [
+      "24",
+      "29",
+      "26",
+      "30"
+    ],
+    "correct": 1,
+    "explain": "Bảng chữ cái tiếng Việt có 29 chữ cái."
+  },
+  {
+    "question": "Câu văn bắt đầu bằng chữ ___. (Biến thể 3)",
+    "options": [
+      "viết in",
+      "viết tắt",
+      "viết thường",
+      "viết hoa"
+    ],
+    "correct": 3,
+    "explain": "Chữ đầu câu phải viết hoa."
+  },
+  {
+    "question": "Câu hỏi kết thúc bằng dấu ___. (Biến thể 3)",
+    "options": [
+      "phẩy (,)",
+      "chấm than (!)",
+      "chấm (.)",
+      "hỏi (?)"
+    ],
+    "correct": 3,
+    "explain": "Câu hỏi kết thúc bằng dấu hỏi (?)."
+  },
+  {
+    "question": "Chọn chữ cái 'O' trong các đáp án sau: (Biến thể 3)",
+    "options": [
+      "O",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'O' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ô' trong các đáp án sau: (Biến thể 3)",
+    "options": [
+      "Â",
+      "Ô",
+      "A",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'Ô' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau: (Biến thể 3)",
+    "options": [
+      "A",
+      "Ă",
+      "Ơ",
+      "Â"
+    ],
+    "correct": 2,
     "explain": "'Ơ' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'P' trong các đáp án sau: (Biến thể 3)",
+    "options": [
+      "A",
+      "P",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'P' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Q' trong các đáp án sau: (Biến thể 3)",
+    "options": [
+      "Ă",
+      "Q",
+      "A",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'Q' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'R' trong các đáp án sau: (Biến thể 3)",
+    "options": [
+      "R",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'R' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'S' trong các đáp án sau: (Biến thể 3)",
+    "options": [
+      "Â",
+      "S",
+      "A",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'S' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'T' trong các đáp án sau: (Biến thể 3)",
+    "options": [
+      "T",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'T' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'U' trong các đáp án sau: (Biến thể 3)",
+    "options": [
+      "Â",
+      "U",
+      "Ă",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'U' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ư' trong các đáp án sau: (Biến thể 3)",
+    "options": [
+      "Ă",
+      "Â",
+      "A",
+      "Ư"
+    ],
+    "correct": 3,
+    "explain": "'Ư' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'V' trong các đáp án sau: (Biến thể 3)",
+    "options": [
+      "V",
+      "A",
+      "Â",
+      "Ă"
+    ],
+    "correct": 0,
+    "explain": "'V' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'X' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "Ă",
+      "X",
+      "Â",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'X' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Y' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "Y",
+      "Ă",
+      "Â",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'Y' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'A' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "Â",
+      "A",
+      "B",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'A' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ă' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "Ă",
+      "A",
+      "B",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'Ă' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Â' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "B",
+      "A",
+      "Â",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'Â' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'B' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "Ă",
+      "Â",
+      "B",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'B' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'C' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "Â",
+      "C",
+      "A",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'C' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'D' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "A",
+      "D",
+      "Â",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'D' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Đ' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "Â",
+      "Ă",
+      "A",
+      "Đ"
+    ],
+    "correct": 3,
+    "explain": "'Đ' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'E' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "A",
+      "Ă",
+      "Â",
+      "E"
+    ],
+    "correct": 3,
+    "explain": "'E' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ê' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "Ă",
+      "Â",
+      "Ê",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'Ê' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'G' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "A",
+      "G",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'G' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'H' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "A",
+      "H",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'H' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'I' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "I",
+      "Ă",
+      "Â",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'I' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'K' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "Ă",
+      "A",
+      "Â",
+      "K"
+    ],
+    "correct": 3,
+    "explain": "'K' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'L' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "Ă",
+      "A",
+      "L",
+      "Â"
+    ],
+    "correct": 2,
+    "explain": "'L' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'M' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "Ă",
+      "A",
+      "Â",
+      "M"
+    ],
+    "correct": 3,
+    "explain": "'M' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'N' trong các đáp án sau: (Biến thể 4)",
+    "options": [
+      "A",
+      "Â",
+      "N",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'N' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'A'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "Ă",
+      "Â",
+      "A",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "'A' là chữ thứ 1 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ă'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "Ă",
+      "B",
+      "A",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'Ă' là chữ thứ 2 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Â'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "B",
+      "Â",
+      "Ă",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'Â' là chữ thứ 3 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'B'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "Ă",
+      "Â",
+      "A",
+      "B"
+    ],
+    "correct": 3,
+    "explain": "'B' là chữ thứ 4 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'C'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "Â",
+      "C",
+      "Ă",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'C' là chữ thứ 5 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'D'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "Ă",
+      "D",
+      "Â",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'D' là chữ thứ 6 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Đ'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "Đ",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'Đ' là chữ thứ 7 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'E'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "A",
+      "Ă",
+      "E",
+      "Â"
+    ],
+    "correct": 2,
+    "explain": "'E' là chữ thứ 8 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ê'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "Ê",
+      "A",
+      "Â",
+      "Ă"
+    ],
+    "correct": 0,
+    "explain": "'Ê' là chữ thứ 9 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'G'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "G",
+      "Ă",
+      "Â",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'G' là chữ thứ 10 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'H'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "Â",
+      "A",
+      "H",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'H' là chữ thứ 11 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'I'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "I",
+      "Ă",
+      "Â",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'I' là chữ thứ 12 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'K'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "A",
+      "Â",
+      "Ă",
+      "K"
+    ],
+    "correct": 3,
+    "explain": "'K' là chữ thứ 13 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'L'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "Ă",
+      "Â",
+      "L",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'L' là chữ thứ 14 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'M'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "M",
+      "Ă",
+      "Â",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'M' là chữ thứ 15 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'N'? (Biến thể 2) (Biến thể 4)",
+    "options": [
+      "Ă",
+      "Â",
+      "A",
+      "N"
+    ],
+    "correct": 3,
+    "explain": "'N' là chữ thứ 16 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'O'? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "A",
+      "Ă",
+      "Â",
+      "O"
+    ],
+    "correct": 3,
+    "explain": "'O' là chữ thứ 17 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ô'? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "Ô",
+      "Ă",
+      "Â",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'Ô' là chữ thứ 18 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ơ'? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "A",
+      "Â",
+      "Ă",
+      "Ơ"
+    ],
+    "correct": 3,
+    "explain": "'Ơ' là chữ thứ 19 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'P'? (Biến thể 3) (Biến thể 4)",
     "options": [
       "P",
       "Â",
@@ -2131,87 +2065,87 @@
       "A"
     ],
     "correct": 0,
-    "explain": "'P' là chữ cái tiếng Việt."
+    "explain": "'P' là chữ thứ 20 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'Q'? (Biến thể 3) (Biến thể 4)",
     "options": [
-      "Â",
       "Q",
-      "Ă",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'Q' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "R",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'R' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
-    "options": [
-      "S",
       "Â",
       "A",
       "Ă"
     ],
     "correct": 0,
-    "explain": "'S' là chữ cái tiếng Việt."
+    "explain": "'Q' là chữ thứ 21 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'R'? (Biến thể 3) (Biến thể 4)",
     "options": [
-      "Â",
       "Ă",
-      "T",
+      "Â",
+      "R",
       "A"
     ],
     "correct": 2,
-    "explain": "'T' là chữ cái tiếng Việt."
+    "explain": "'R' là chữ thứ 22 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'S'? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "Â",
+      "Ă",
+      "A",
+      "S"
+    ],
+    "correct": 3,
+    "explain": "'S' là chữ thứ 23 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'T'? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "Â",
+      "T",
+      "Ă",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'T' là chữ thứ 24 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'U'? (Biến thể 3) (Biến thể 4)",
+    "options": [
+      "Ă",
+      "Â",
+      "U",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'U' là chữ thứ 25 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ư'? (Biến thể 3) (Biến thể 4)",
     "options": [
       "A",
       "Â",
-      "U",
+      "Ư",
       "Ă"
     ],
     "correct": 2,
-    "explain": "'U' là chữ cái tiếng Việt."
+    "explain": "'Ư' là chữ thứ 26 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'V'? (Biến thể 3) (Biến thể 4)",
     "options": [
-      "Â",
       "Ă",
-      "Ư",
+      "V",
+      "Â",
       "A"
     ],
-    "correct": 2,
-    "explain": "'Ư' là chữ cái tiếng Việt."
+    "correct": 1,
+    "explain": "'V' là chữ thứ 27 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "V",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'V' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'X'? (Biến thể 3) (Biến thể 4)",
     "options": [
       "A",
       "Â",
@@ -2219,252 +2153,362 @@
       "X"
     ],
     "correct": 3,
-    "explain": "'X' là chữ cái tiếng Việt."
+    "explain": "'X' là chữ thứ 28 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'Y'? (Biến thể 3) (Biến thể 4)",
     "options": [
+      "A",
       "Ă",
       "Y",
-      "A",
       "Â"
     ],
-    "correct": 1,
-    "explain": "'Y' là chữ cái tiếng Việt."
+    "correct": 2,
+    "explain": "'Y' là chữ thứ 29 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
+    "question": "Từ nào có không có dấu thanh? (Biến thể 3) (Biến thể 4)",
     "options": [
-      "B",
-      "Ă",
-      "Â",
-      "A"
-    ],
-    "correct": 3,
-    "explain": "'A' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "B"
+      "ba",
+      "bả",
+      "bá",
+      "bà"
     ],
     "correct": 0,
-    "explain": "'Ă' là chữ cái tiếng Việt."
+    "explain": "'ba' đọc với không có dấu thanh"
   },
   {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
+    "question": "Từ nào có dấu huyền (\\`)? (Biến thể 3) (Biến thể 4)",
     "options": [
-      "B",
-      "Ă",
-      "A",
-      "Â"
-    ],
-    "correct": 3,
-    "explain": "'Â' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Â",
-      "B"
-    ],
-    "correct": 3,
-    "explain": "'B' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "C",
-      "Ă",
-      "A"
+      "bả",
+      "bà",
+      "bá",
+      "ba"
     ],
     "correct": 1,
-    "explain": "'C' là chữ cái tiếng Việt."
+    "explain": "'bà' đọc với dấu huyền (\\`)"
   },
   {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
+    "question": "Từ nào có dấu sắc (')? (Biến thể 3) (Biến thể 4)",
     "options": [
-      "D",
-      "Â",
-      "A",
-      "Ă"
+      "ba",
+      "bà",
+      "bả",
+      "bá"
+    ],
+    "correct": 3,
+    "explain": "'bá' đọc với dấu sắc (')"
+  },
+  {
+    "question": "Từ nào có dấu hỏi (?)? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "bả",
+      "ba",
+      "bá",
+      "bà"
     ],
     "correct": 0,
-    "explain": "'D' là chữ cái tiếng Việt."
+    "explain": "'bả' đọc với dấu hỏi (?)"
   },
   {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
+    "question": "Từ nào có dấu ngã (~)? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "A",
-      "Â",
-      "Đ",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'Đ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "E"
+      "bá",
+      "ba",
+      "bà",
+      "bã"
     ],
     "correct": 3,
-    "explain": "'E' là chữ cái tiếng Việt."
+    "explain": "'bã' đọc với dấu ngã (~)"
   },
   {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
+    "question": "Từ nào có dấu thanh đúng? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "Ă",
-      "Ê",
-      "Â",
-      "A"
+      "ca",
+      "cá",
+      "cả",
+      "cà"
     ],
-    "correct": 1,
-    "explain": "'Ê' là chữ cái tiếng Việt."
+    "correct": 0,
+    "explain": "'ca' đọc với "
   },
   {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
+    "question": "Từ trái nghĩa với 'to' là? (Biến thể 3) (Biến thể 5)",
     "options": [
-      "Ă",
-      "A",
-      "Â",
-      "G"
+      "tob",
+      "toc",
+      "nhỏ",
+      "toa"
+    ],
+    "correct": 2,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "caob",
+      "caoc",
+      "thấp",
+      "caoa"
+    ],
+    "correct": 2,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "nhanhb",
+      "nhanhc",
+      "chậm",
+      "nhanha"
+    ],
+    "correct": 2,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "sángb",
+      "sángc",
+      "tối",
+      "sánga"
+    ],
+    "correct": 2,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "nóngb",
+      "nóngc",
+      "lạnh",
+      "nónga"
+    ],
+    "correct": 2,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "vuib",
+      "vuic",
+      "buồn",
+      "vuia"
+    ],
+    "correct": 2,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "mớib",
+      "mớic",
+      "cũ",
+      "mớia"
+    ],
+    "correct": 2,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "nhiềub",
+      "nhiềuc",
+      "ít",
+      "nhiềua"
+    ],
+    "correct": 2,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "dàib",
+      "dàic",
+      "ngắn",
+      "dàia"
+    ],
+    "correct": 2,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là? (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "rộngb",
+      "rộngc",
+      "hẹp",
+      "rộnga"
+    ],
+    "correct": 2,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Em ___ bài tập về nhà mỗi ngày. (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "ăn",
+      "ngủ",
+      "chơi",
+      "làm"
     ],
     "correct": 3,
-    "explain": "'G' là chữ cái tiếng Việt."
+    "explain": "'làm' bài tập là đúng ngữ cảnh."
   },
   {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
+    "question": "Bầu trời buổi sáng có màu ___. (Biến thể 3) (Biến thể 5)",
     "options": [
-      "A",
-      "Ă",
-      "Â",
-      "H"
+      "đỏ",
+      "đen",
+      "xanh",
+      "tím"
+    ],
+    "correct": 2,
+    "explain": "Bầu trời ban ngày có màu xanh."
+  },
+  {
+    "question": "Mặt trời mọc vào buổi ___. (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "sáng",
+      "tối",
+      "trưa",
+      "chiều"
+    ],
+    "correct": 0,
+    "explain": "Mặt trời mọc vào buổi sáng."
+  },
+  {
+    "question": "Con mèo kêu ___. (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "ò ó o",
+      "meo meo",
+      "cạc cạc",
+      "gâu gâu"
+    ],
+    "correct": 1,
+    "explain": "Con mèo kêu 'meo meo'."
+  },
+  {
+    "question": "Con chó kêu ___. (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "cạc cạc",
+      "ò ó o",
+      "meo meo",
+      "gâu gâu"
     ],
     "correct": 3,
-    "explain": "'H' là chữ cái tiếng Việt."
+    "explain": "Con chó kêu 'gâu gâu'."
   },
   {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
+    "question": "Quả chuối có màu ___. (Biến thể 3) (Biến thể 5)",
     "options": [
-      "A",
-      "Â",
-      "I",
-      "Ă"
+      "vàng",
+      "xanh lá",
+      "tím",
+      "đỏ"
     ],
-    "correct": 2,
-    "explain": "'I' là chữ cái tiếng Việt."
+    "correct": 0,
+    "explain": "Quả chuối chín có màu vàng."
   },
   {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
+    "question": "Chúng ta rửa tay trước khi ___. (Biến thể 3) (Biến thể 5)",
     "options": [
-      "A",
-      "K",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'K' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "L",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'L' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "M",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'M' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
-    "options": [
-      "A",
-      "N",
-      "Ă",
-      "Â"
+      "chạy",
+      "ăn",
+      "nhảy",
+      "ngủ"
     ],
     "correct": 1,
-    "explain": "'N' là chữ cái tiếng Việt."
+    "explain": "Rửa tay trước khi ăn để phòng bệnh."
   },
   {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
+    "question": "Bảng chữ cái tiếng Việt có ___ chữ cái. (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "29",
+      "26",
+      "30",
+      "24"
+    ],
+    "correct": 0,
+    "explain": "Bảng chữ cái tiếng Việt có 29 chữ cái."
+  },
+  {
+    "question": "Câu văn bắt đầu bằng chữ ___. (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "viết tắt",
+      "viết thường",
+      "viết hoa",
+      "viết in"
+    ],
+    "correct": 2,
+    "explain": "Chữ đầu câu phải viết hoa."
+  },
+  {
+    "question": "Câu hỏi kết thúc bằng dấu ___. (Biến thể 3) (Biến thể 5)",
+    "options": [
+      "chấm than (!)",
+      "chấm (.)",
+      "hỏi (?)",
+      "phẩy (,)"
+    ],
+    "correct": 2,
+    "explain": "Câu hỏi kết thúc bằng dấu hỏi (?)."
+  },
+  {
+    "question": "Chọn chữ cái 'O' trong các đáp án sau: (Biến thể 3) (Biến thể 5)",
     "options": [
       "A",
-      "O",
+      "Ă",
       "Â",
-      "Ă"
+      "O"
     ],
-    "correct": 1,
+    "correct": 3,
     "explain": "'O' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Ô' trong các đáp án sau: (Biến thể 3) (Biến thể 5)",
     "options": [
-      "Â",
       "Ô",
       "A",
-      "Ă"
+      "Ă",
+      "Â"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'Ô' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau: (Biến thể 3) (Biến thể 5)",
     "options": [
-      "Â",
       "Ă",
-      "A",
-      "Ơ"
+      "Ơ",
+      "Â",
+      "A"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'Ơ' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'P' trong các đáp án sau: (Biến thể 3) (Biến thể 5)",
     "options": [
+      "P",
       "Ă",
       "Â",
-      "P",
       "A"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'P' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Q' trong các đáp án sau: (Biến thể 3) (Biến thể 5)",
     "options": [
+      "Q",
       "A",
-      "Ă",
       "Â",
-      "Q"
+      "Ă"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'Q' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'R' trong các đáp án sau: (Biến thể 3) (Biến thể 5)",
     "options": [
       "A",
       "Ă",
@@ -2475,73 +2519,73 @@
     "explain": "'R' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'S' trong các đáp án sau: (Biến thể 3) (Biến thể 5)",
     "options": [
-      "Ă",
       "S",
       "A",
+      "Ă",
       "Â"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'S' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'T' trong các đáp án sau: (Biến thể 3) (Biến thể 5)",
     "options": [
-      "T",
       "A",
+      "Ă",
       "Â",
-      "Ă"
+      "T"
     ],
-    "correct": 0,
+    "correct": 3,
     "explain": "'T' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'U' trong các đáp án sau: (Biến thể 3) (Biến thể 5)",
     "options": [
       "U",
+      "Ă",
       "A",
-      "Â",
-      "Ă"
+      "Â"
     ],
     "correct": 0,
     "explain": "'U' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Ư' trong các đáp án sau: (Biến thể 3) (Biến thể 5)",
     "options": [
+      "Â",
       "A",
       "Ư",
-      "Â",
       "Ă"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'Ư' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'V' trong các đáp án sau: (Biến thể 3) (Biến thể 5)",
     "options": [
-      "V",
       "A",
       "Â",
-      "Ă"
+      "Ă",
+      "V"
     ],
-    "correct": 0,
+    "correct": 3,
     "explain": "'V' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'X' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "Ă",
-      "A",
+      "X",
       "Â",
-      "X"
+      "A",
+      "Ă"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'X' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Y' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
       "Ă",
       "Â",
@@ -2552,612 +2596,898 @@
     "explain": "'Y' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'A' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "Ă",
       "A",
       "B",
+      "Ă",
       "Â"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'A' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Ă' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "Â",
+      "A",
       "B",
-      "Ă",
-      "A"
+      "Â",
+      "Ă"
     ],
-    "correct": 2,
+    "correct": 3,
     "explain": "'Ă' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Â' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "B",
-      "Ă",
       "A",
-      "Â"
+      "Â",
+      "Ă",
+      "B"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'Â' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'B' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "Ă",
-      "A",
       "Â",
-      "B"
+      "B",
+      "A",
+      "Ă"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'B' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'C' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
       "C",
-      "Â",
       "A",
-      "Ă"
+      "Ă",
+      "Â"
     ],
     "correct": 0,
     "explain": "'C' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'D' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "A",
+      "D",
       "Â",
       "Ă",
-      "D"
+      "A"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'D' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Đ' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
       "Ă",
-      "Â",
+      "A",
       "Đ",
-      "A"
+      "Â"
     ],
     "correct": 2,
     "explain": "'Đ' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'E' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "E",
+      "Ă",
       "Â",
-      "A",
-      "Ă"
+      "E",
+      "A"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'E' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Ê' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "A",
-      "Ă",
       "Â",
-      "Ê"
+      "Ê",
+      "A",
+      "Ă"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'Ê' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'G' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "A",
       "G",
+      "Ă",
       "Â",
-      "Ă"
+      "A"
     ],
-    "correct": 1,
+    "correct": 0,
     "explain": "'G' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'H' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
+      "H",
       "Ă",
       "Â",
-      "H",
       "A"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'H' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'I' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "Â",
-      "I",
       "Ă",
-      "A"
+      "Â",
+      "A",
+      "I"
     ],
-    "correct": 1,
+    "correct": 3,
     "explain": "'I' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'K' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
-      "K",
-      "Â",
       "A",
+      "Â",
+      "K",
       "Ă"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'K' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'L' trong các đáp án sau: (Biến thể 4) (Biến thể 5)",
     "options": [
       "A",
+      "L",
       "Â",
-      "Ă",
-      "L"
+      "Ă"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'L' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'M' trong các đáp án sau: (Biến thể 4) (Biến thể 6)",
     "options": [
-      "Ă",
-      "M",
       "A",
-      "Â"
+      "Â",
+      "M",
+      "Ă"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'M' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'N' trong các đáp án sau: (Biến thể 4) (Biến thể 6)",
     "options": [
-      "Ă",
-      "A",
+      "Â",
       "N",
-      "Â"
+      "Ă",
+      "A"
     ],
-    "correct": 2,
+    "correct": 1,
     "explain": "'N' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'A'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Â",
+      "A",
+      "B",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'A' là chữ thứ 1 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ă'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "B",
+      "A",
+      "Â",
+      "Ă"
+    ],
+    "correct": 3,
+    "explain": "'Ă' là chữ thứ 2 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Â'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Â",
+      "Ă",
+      "A",
+      "B"
+    ],
+    "correct": 0,
+    "explain": "'Â' là chữ thứ 3 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'B'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Â",
+      "A",
+      "B",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'B' là chữ thứ 4 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'C'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "C",
+      "Ă",
+      "A",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'C' là chữ thứ 5 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'D'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "D",
+      "Â",
+      "A",
+      "Ă"
+    ],
+    "correct": 0,
+    "explain": "'D' là chữ thứ 6 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Đ'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "A",
+      "Ă",
+      "Â",
+      "Đ"
+    ],
+    "correct": 3,
+    "explain": "'Đ' là chữ thứ 7 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'E'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Ă",
+      "E",
+      "Â",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'E' là chữ thứ 8 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ê'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
     "options": [
       "A",
       "Â",
       "Ă",
-      "O"
+      "Ê"
     ],
     "correct": 3,
-    "explain": "'O' là chữ cái tiếng Việt."
+    "explain": "'Ê' là chữ thứ 9 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'G'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
     "options": [
-      "Ô",
       "Ă",
       "Â",
-      "A"
+      "A",
+      "G"
     ],
-    "correct": 0,
-    "explain": "'Ô' là chữ cái tiếng Việt."
+    "correct": 3,
+    "explain": "'G' là chữ thứ 10 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'H'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "A",
+      "H",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'H' là chữ thứ 11 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'I'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Ă",
+      "Â",
+      "A",
+      "I"
+    ],
+    "correct": 3,
+    "explain": "'I' là chữ thứ 12 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'K'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
     "options": [
       "Â",
-      "Ơ",
+      "Ă",
+      "K",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'K' là chữ thứ 13 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'L'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Â",
+      "L",
       "A",
       "Ă"
     ],
     "correct": 1,
+    "explain": "'L' là chữ thứ 14 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'M'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Ă",
+      "Â",
+      "A",
+      "M"
+    ],
+    "correct": 3,
+    "explain": "'M' là chữ thứ 15 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'N'? (Biến thể 2) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Â",
+      "A",
+      "N",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'N' là chữ thứ 16 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'O'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Ă",
+      "Â",
+      "O",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'O' là chữ thứ 17 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ô'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Ă",
+      "Â",
+      "A",
+      "Ô"
+    ],
+    "correct": 3,
+    "explain": "'Ô' là chữ thứ 18 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ơ'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Â",
+      "Ă",
+      "Ơ",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'Ơ' là chữ thứ 19 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'P'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Â",
+      "Ă",
+      "A",
+      "P"
+    ],
+    "correct": 3,
+    "explain": "'P' là chữ thứ 20 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Q'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Â",
+      "A",
+      "Ă",
+      "Q"
+    ],
+    "correct": 3,
+    "explain": "'Q' là chữ thứ 21 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'R'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Â",
+      "R",
+      "A",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'R' là chữ thứ 22 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'S'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Ă",
+      "A",
+      "S",
+      "Â"
+    ],
+    "correct": 2,
+    "explain": "'S' là chữ thứ 23 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'T'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "T",
+      "Ă",
+      "A",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'T' là chữ thứ 24 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'U'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Â",
+      "U",
+      "A",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'U' là chữ thứ 25 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ư'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Â",
+      "Ư",
+      "Ă",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'Ư' là chữ thứ 26 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'V'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "V",
+      "Â",
+      "A",
+      "Ă"
+    ],
+    "correct": 0,
+    "explain": "'V' là chữ thứ 27 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'X'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Â",
+      "Ă",
+      "X",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'X' là chữ thứ 28 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Y'? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "Ă",
+      "Y",
+      "Â",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'Y' là chữ thứ 29 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Từ nào có không có dấu thanh? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "bả",
+      "bá",
+      "bà",
+      "ba"
+    ],
+    "correct": 3,
+    "explain": "'ba' đọc với không có dấu thanh"
+  },
+  {
+    "question": "Từ nào có dấu huyền (\\`)? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "bà",
+      "bá",
+      "ba",
+      "bả"
+    ],
+    "correct": 0,
+    "explain": "'bà' đọc với dấu huyền (\\`)"
+  },
+  {
+    "question": "Từ nào có dấu sắc (')? (Biến thể 3) (Biến thể 4) (Biến thể 6)",
+    "options": [
+      "bà",
+      "bả",
+      "bá",
+      "ba"
+    ],
+    "correct": 2,
+    "explain": "'bá' đọc với dấu sắc (')"
+  },
+  {
+    "question": "Từ nào có dấu hỏi (?)? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "ba",
+      "bá",
+      "bà",
+      "bả"
+    ],
+    "correct": 3,
+    "explain": "'bả' đọc với dấu hỏi (?)"
+  },
+  {
+    "question": "Từ nào có dấu ngã (~)? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "ba",
+      "bà",
+      "bã",
+      "bá"
+    ],
+    "correct": 2,
+    "explain": "'bã' đọc với dấu ngã (~)"
+  },
+  {
+    "question": "Từ nào có dấu thanh đúng? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "cá",
+      "cả",
+      "cà",
+      "ca"
+    ],
+    "correct": 3,
+    "explain": "'ca' đọc với "
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "toc",
+      "nhỏ",
+      "toa",
+      "tob"
+    ],
+    "correct": 1,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "caoc",
+      "thấp",
+      "caoa",
+      "caob"
+    ],
+    "correct": 1,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "nhanhc",
+      "chậm",
+      "nhanha",
+      "nhanhb"
+    ],
+    "correct": 1,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "sángc",
+      "tối",
+      "sánga",
+      "sángb"
+    ],
+    "correct": 1,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "nóngc",
+      "lạnh",
+      "nónga",
+      "nóngb"
+    ],
+    "correct": 1,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "vuic",
+      "buồn",
+      "vuia",
+      "vuib"
+    ],
+    "correct": 1,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "mớic",
+      "cũ",
+      "mớia",
+      "mớib"
+    ],
+    "correct": 1,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "nhiềuc",
+      "ít",
+      "nhiềua",
+      "nhiềub"
+    ],
+    "correct": 1,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "dàic",
+      "ngắn",
+      "dàia",
+      "dàib"
+    ],
+    "correct": 1,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là? (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "rộngc",
+      "hẹp",
+      "rộnga",
+      "rộngb"
+    ],
+    "correct": 1,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Em ___ bài tập về nhà mỗi ngày. (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "ngủ",
+      "chơi",
+      "làm",
+      "ăn"
+    ],
+    "correct": 2,
+    "explain": "'làm' bài tập là đúng ngữ cảnh."
+  },
+  {
+    "question": "Bầu trời buổi sáng có màu ___. (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "đen",
+      "xanh",
+      "tím",
+      "đỏ"
+    ],
+    "correct": 1,
+    "explain": "Bầu trời ban ngày có màu xanh."
+  },
+  {
+    "question": "Mặt trời mọc vào buổi ___. (Biến thể 3) (Biến thể 5) (Biến thể 6)",
+    "options": [
+      "tối",
+      "trưa",
+      "chiều",
+      "sáng"
+    ],
+    "correct": 3,
+    "explain": "Mặt trời mọc vào buổi sáng."
+  },
+  {
+    "question": "Con mèo kêu ___. (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "meo meo",
+      "cạc cạc",
+      "gâu gâu",
+      "ò ó o"
+    ],
+    "correct": 0,
+    "explain": "Con mèo kêu 'meo meo'."
+  },
+  {
+    "question": "Con chó kêu ___. (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "ò ó o",
+      "meo meo",
+      "gâu gâu",
+      "cạc cạc"
+    ],
+    "correct": 2,
+    "explain": "Con chó kêu 'gâu gâu'."
+  },
+  {
+    "question": "Quả chuối có màu ___. (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "xanh lá",
+      "tím",
+      "đỏ",
+      "vàng"
+    ],
+    "correct": 3,
+    "explain": "Quả chuối chín có màu vàng."
+  },
+  {
+    "question": "Chúng ta rửa tay trước khi ___. (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "ăn",
+      "nhảy",
+      "ngủ",
+      "chạy"
+    ],
+    "correct": 0,
+    "explain": "Rửa tay trước khi ăn để phòng bệnh."
+  },
+  {
+    "question": "Bảng chữ cái tiếng Việt có ___ chữ cái. (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "26",
+      "30",
+      "24",
+      "29"
+    ],
+    "correct": 3,
+    "explain": "Bảng chữ cái tiếng Việt có 29 chữ cái."
+  },
+  {
+    "question": "Câu văn bắt đầu bằng chữ ___. (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "viết thường",
+      "viết hoa",
+      "viết in",
+      "viết tắt"
+    ],
+    "correct": 1,
+    "explain": "Chữ đầu câu phải viết hoa."
+  },
+  {
+    "question": "Câu hỏi kết thúc bằng dấu ___. (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "chấm (.)",
+      "hỏi (?)",
+      "phẩy (,)",
+      "chấm than (!)"
+    ],
+    "correct": 1,
+    "explain": "Câu hỏi kết thúc bằng dấu hỏi (?)."
+  },
+  {
+    "question": "Chọn chữ cái 'O' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Ă",
+      "Â",
+      "O",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'O' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ô' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "A",
+      "Ă",
+      "Â",
+      "Ô"
+    ],
+    "correct": 3,
+    "explain": "'Ô' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Ơ",
+      "Â",
+      "A",
+      "Ă"
+    ],
+    "correct": 0,
     "explain": "'Ơ' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'P' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7)",
     "options": [
-      "A",
-      "Â",
       "Ă",
+      "Â",
+      "A",
       "P"
     ],
     "correct": 3,
     "explain": "'P' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Q' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7)",
     "options": [
-      "Ă",
-      "Q",
       "A",
-      "Â"
+      "Â",
+      "Ă",
+      "Q"
     ],
-    "correct": 1,
+    "correct": 3,
     "explain": "'Q' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'R' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7)",
     "options": [
+      "Ă",
+      "Â",
       "R",
-      "Ă",
-      "A",
-      "Â"
+      "A"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'R' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "S",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'S' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "T"
-    ],
-    "correct": 3,
-    "explain": "'T' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Ă",
-      "U"
-    ],
-    "correct": 3,
-    "explain": "'U' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Ư",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'Ư' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
-    "options": [
-      "V",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'V' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "X",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'X' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Y",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'Y' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "B",
-      "A"
-    ],
-    "correct": 3,
-    "explain": "'A' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "B",
-      "Ă",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'Ă' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
-    "options": [
-      "B",
-      "A",
-      "Â",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'Â' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "B",
-      "Ă",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'B' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'S' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7)",
     "options": [
       "A",
       "Ă",
-      "C",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'C' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
-    "options": [
-      "A",
-      "D",
       "Â",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'D' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Ă",
-      "Đ"
-    ],
-    "correct": 3,
-    "explain": "'Đ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "E",
-      "A",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'E' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "Ê",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'Ê' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
-    "options": [
-      "G",
-      "Ă",
-      "Â",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'G' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "H",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'H' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "I",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'I' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "K",
-      "Â",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'K' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
-    "options": [
-      "A",
-      "L",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'L' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "M",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'M' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Ă",
-      "N"
-    ],
-    "correct": 3,
-    "explain": "'N' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "O"
-    ],
-    "correct": 3,
-    "explain": "'O' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Ô",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'Ô' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
-    "options": [
-      "Ơ",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'Ơ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "P",
-      "Â",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'P' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Q",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'Q' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "R"
-    ],
-    "correct": 3,
-    "explain": "'R' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
       "S"
     ],
     "correct": 3,
     "explain": "'S' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'T' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Ă",
+      "Â",
+      "T",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'T' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'U' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Ă",
+      "A",
+      "Â",
+      "U"
+    ],
+    "correct": 3,
+    "explain": "'U' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ư' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7)",
     "options": [
       "A",
-      "T",
+      "Ư",
       "Ă",
       "Â"
     ],
     "correct": 1,
-    "explain": "'T' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "U",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'U' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
-    "options": [
-      "Ư",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
     "explain": "'Ư' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'V' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7)",
     "options": [
       "Â",
       "Ă",
@@ -3168,10 +3498,10 @@
     "explain": "'V' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'X' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
-      "A",
       "Â",
+      "A",
       "Ă",
       "X"
     ],
@@ -3179,128 +3509,304 @@
     "explain": "'X' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Y' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
+      "Â",
       "A",
       "Y",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'Y' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
-    "options": [
-      "B",
-      "A",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'A' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'Ă' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'Â' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "B",
-      "Â",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'B' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "C",
-      "Â",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'C' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "D",
       "Ă"
     ],
     "correct": 2,
-    "explain": "'D' là chữ cái tiếng Việt."
+    "explain": "'Y' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'A' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
-      "A",
-      "Ă",
-      "Đ",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'Đ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
-    "options": [
+      "B",
       "Ă",
       "Â",
-      "E",
+      "A"
+    ],
+    "correct": 3,
+    "explain": "'A' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ă' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "B",
+      "Â",
+      "Ă",
       "A"
     ],
     "correct": 2,
-    "explain": "'E' là chữ cái tiếng Việt."
+    "explain": "'Ă' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Â' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Â",
+      "Ă",
+      "B",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'Â' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'B' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "B",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'B' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'C' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "A",
+      "Ă",
+      "Â",
+      "C"
+    ],
+    "correct": 3,
+    "explain": "'C' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'D' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
       "Â",
       "Ă",
       "A",
-      "Ê"
+      "D"
     ],
     "correct": 3,
+    "explain": "'D' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Đ' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "A",
+      "Đ",
+      "Â",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'Đ' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'E' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Â",
+      "E",
+      "A",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'E' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ê' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Ê",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
     "explain": "'Ê' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'G' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
     "options": [
       "Ă",
+      "Â",
       "A",
-      "G",
-      "Â"
+      "G"
     ],
-    "correct": 2,
+    "correct": 3,
     "explain": "'G' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'H' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Ă",
+      "Â",
+      "A",
+      "H"
+    ],
+    "correct": 3,
+    "explain": "'H' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'I' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Â",
+      "A",
+      "I",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'I' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'K' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "Â",
+      "K",
+      "Ă",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'K' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'L' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7)",
+    "options": [
+      "L",
+      "Â",
+      "Ă",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'L' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'M' trong các đáp án sau: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "Â",
+      "M",
+      "Ă",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'M' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'N' trong các đáp án sau: (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "N",
+      "Ă",
+      "A",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'N' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'A'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "A",
+      "B",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'A' là chữ thứ 1 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ă'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "A",
+      "Â",
+      "Ă",
+      "B"
+    ],
+    "correct": 2,
+    "explain": "'Ă' là chữ thứ 2 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Â'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "Ă",
+      "A",
+      "B",
+      "Â"
+    ],
+    "correct": 3,
+    "explain": "'Â' là chữ thứ 3 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'B'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "A",
+      "B",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'B' là chữ thứ 4 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'C'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "Ă",
+      "A",
+      "Â",
+      "C"
+    ],
+    "correct": 3,
+    "explain": "'C' là chữ thứ 5 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'D'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "Â",
+      "A",
+      "Ă",
+      "D"
+    ],
+    "correct": 3,
+    "explain": "'D' là chữ thứ 6 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Đ'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "Ă",
+      "Â",
+      "Đ",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'Đ' là chữ thứ 7 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'E'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "E",
+      "Â",
+      "A",
+      "Ă"
+    ],
+    "correct": 0,
+    "explain": "'E' là chữ thứ 8 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ê'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "Â",
+      "Ă",
+      "Ê",
+      "A"
+    ],
+    "correct": 2,
+    "explain": "'Ê' là chữ thứ 9 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'G'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "Â",
+      "A",
+      "G",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'G' là chữ thứ 10 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'H'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
     "options": [
       "H",
       "Ă",
@@ -3308,87 +3814,516 @@
       "A"
     ],
     "correct": 0,
-    "explain": "'H' là chữ cái tiếng Việt."
+    "explain": "'H' là chữ thứ 11 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'I'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
     "options": [
+      "Â",
+      "A",
+      "I",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'I' là chữ thứ 12 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'K'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "Ă",
+      "K",
+      "A",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'K' là chữ thứ 13 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'L'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7)",
+    "options": [
+      "L",
       "A",
       "Ă",
-      "I",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'L' là chữ thứ 14 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'M'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "Â",
+      "A",
+      "M",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'M' là chữ thứ 15 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'N'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "A",
+      "N",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'N' là chữ thứ 16 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'O'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "Â",
+      "O",
+      "A",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'O' là chữ thứ 17 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ô'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "Â",
+      "A",
+      "Ô",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'Ô' là chữ thứ 18 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ơ'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "Ă",
+      "Ơ",
+      "A",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'Ơ' là chữ thứ 19 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'P'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "Ă",
+      "A",
+      "P",
       "Â"
     ],
     "correct": 2,
-    "explain": "'I' là chữ cái tiếng Việt."
+    "explain": "'P' là chữ thứ 20 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'Q'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
     "options": [
-      "K",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'K' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "L",
-      "Â",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'L' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
-    "options": [
-      "M",
       "A",
-      "Â",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'M' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "N",
-      "Ă"
+      "Ă",
+      "Q",
+      "Â"
     ],
     "correct": 2,
-    "explain": "'N' là chữ cái tiếng Việt."
+    "explain": "'Q' là chữ thứ 21 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'R'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
     "options": [
-      "O",
+      "R",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'R' là chữ thứ 22 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'S'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "A",
+      "S",
+      "Â",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'S' là chữ thứ 23 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'T'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "Ă",
+      "A",
+      "Â",
+      "T"
+    ],
+    "correct": 3,
+    "explain": "'T' là chữ thứ 24 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'U'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "U",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'U' là chữ thứ 25 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ư'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "Ư",
+      "Ă",
+      "A",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'Ư' là chữ thứ 26 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'V'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "Â",
+      "A",
+      "Ă",
+      "V"
+    ],
+    "correct": 3,
+    "explain": "'V' là chữ thứ 27 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'X'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "Ă",
+      "X",
+      "A",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'X' là chữ thứ 28 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Y'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "Y",
       "Â",
       "A",
       "Ă"
     ],
     "correct": 0,
+    "explain": "'Y' là chữ thứ 29 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Từ nào có không có dấu thanh? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bá",
+      "bà",
+      "ba",
+      "bả"
+    ],
+    "correct": 2,
+    "explain": "'ba' đọc với không có dấu thanh"
+  },
+  {
+    "question": "Từ nào có dấu huyền (\\`)? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bá",
+      "ba",
+      "bả",
+      "bà"
+    ],
+    "correct": 3,
+    "explain": "'bà' đọc với dấu huyền (\\`)"
+  },
+  {
+    "question": "Từ nào có dấu sắc (')? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bả",
+      "bá",
+      "ba",
+      "bà"
+    ],
+    "correct": 1,
+    "explain": "'bá' đọc với dấu sắc (')"
+  },
+  {
+    "question": "Từ nào có dấu hỏi (?)? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bá",
+      "bà",
+      "bả",
+      "ba"
+    ],
+    "correct": 2,
+    "explain": "'bả' đọc với dấu hỏi (?)"
+  },
+  {
+    "question": "Từ nào có dấu ngã (~)? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "bà",
+      "bã",
+      "bá",
+      "ba"
+    ],
+    "correct": 1,
+    "explain": "'bã' đọc với dấu ngã (~)"
+  },
+  {
+    "question": "Từ nào có dấu thanh đúng? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "cả",
+      "cà",
+      "ca",
+      "cá"
+    ],
+    "correct": 2,
+    "explain": "'ca' đọc với "
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "nhỏ",
+      "toa",
+      "tob",
+      "toc"
+    ],
+    "correct": 0,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "thấp",
+      "caoa",
+      "caob",
+      "caoc"
+    ],
+    "correct": 0,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "chậm",
+      "nhanha",
+      "nhanhb",
+      "nhanhc"
+    ],
+    "correct": 0,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "tối",
+      "sánga",
+      "sángb",
+      "sángc"
+    ],
+    "correct": 0,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "lạnh",
+      "nónga",
+      "nóngb",
+      "nóngc"
+    ],
+    "correct": 0,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "buồn",
+      "vuia",
+      "vuib",
+      "vuic"
+    ],
+    "correct": 0,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "cũ",
+      "mớia",
+      "mớib",
+      "mớic"
+    ],
+    "correct": 0,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "ít",
+      "nhiềua",
+      "nhiềub",
+      "nhiềuc"
+    ],
+    "correct": 0,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "ngắn",
+      "dàia",
+      "dàib",
+      "dàic"
+    ],
+    "correct": 0,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "hẹp",
+      "rộnga",
+      "rộngb",
+      "rộngc"
+    ],
+    "correct": 0,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Em ___ bài tập về nhà mỗi ngày. (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "chơi",
+      "làm",
+      "ăn",
+      "ngủ"
+    ],
+    "correct": 1,
+    "explain": "'làm' bài tập là đúng ngữ cảnh."
+  },
+  {
+    "question": "Bầu trời buổi sáng có màu ___. (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "xanh",
+      "tím",
+      "đỏ",
+      "đen"
+    ],
+    "correct": 0,
+    "explain": "Bầu trời ban ngày có màu xanh."
+  },
+  {
+    "question": "Mặt trời mọc vào buổi ___. (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8)",
+    "options": [
+      "trưa",
+      "chiều",
+      "sáng",
+      "tối"
+    ],
+    "correct": 2,
+    "explain": "Mặt trời mọc vào buổi sáng."
+  },
+  {
+    "question": "Con mèo kêu ___. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
+    "options": [
+      "cạc cạc",
+      "gâu gâu",
+      "ò ó o",
+      "meo meo"
+    ],
+    "correct": 3,
+    "explain": "Con mèo kêu 'meo meo'."
+  },
+  {
+    "question": "Con chó kêu ___. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
+    "options": [
+      "meo meo",
+      "gâu gâu",
+      "cạc cạc",
+      "ò ó o"
+    ],
+    "correct": 1,
+    "explain": "Con chó kêu 'gâu gâu'."
+  },
+  {
+    "question": "Quả chuối có màu ___. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
+    "options": [
+      "tím",
+      "đỏ",
+      "vàng",
+      "xanh lá"
+    ],
+    "correct": 2,
+    "explain": "Quả chuối chín có màu vàng."
+  },
+  {
+    "question": "Chúng ta rửa tay trước khi ___. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
+    "options": [
+      "nhảy",
+      "ngủ",
+      "chạy",
+      "ăn"
+    ],
+    "correct": 3,
+    "explain": "Rửa tay trước khi ăn để phòng bệnh."
+  },
+  {
+    "question": "Bảng chữ cái tiếng Việt có ___ chữ cái. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
+    "options": [
+      "30",
+      "24",
+      "29",
+      "26"
+    ],
+    "correct": 2,
+    "explain": "Bảng chữ cái tiếng Việt có 29 chữ cái."
+  },
+  {
+    "question": "Câu văn bắt đầu bằng chữ ___. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
+    "options": [
+      "viết hoa",
+      "viết in",
+      "viết tắt",
+      "viết thường"
+    ],
+    "correct": 0,
+    "explain": "Chữ đầu câu phải viết hoa."
+  },
+  {
+    "question": "Câu hỏi kết thúc bằng dấu ___. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
+    "options": [
+      "hỏi (?)",
+      "phẩy (,)",
+      "chấm than (!)",
+      "chấm (.)"
+    ],
+    "correct": 0,
+    "explain": "Câu hỏi kết thúc bằng dấu hỏi (?)."
+  },
+  {
+    "question": "Chọn chữ cái 'O' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
+    "options": [
+      "Â",
+      "O",
+      "A",
+      "Ă"
+    ],
+    "correct": 1,
     "explain": "'O' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Ô' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
-      "A",
-      "Ô",
+      "Ă",
       "Â",
-      "Ă"
+      "Ô",
+      "A"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'Ô' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
       "Â",
       "A",
@@ -3399,1220 +4334,263 @@
     "explain": "'Ơ' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'P' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
-      "P",
-      "Ă",
       "Â",
-      "A"
+      "A",
+      "P",
+      "Ă"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'P' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Q' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
       "Â",
+      "Ă",
       "Q",
-      "Ă",
       "A"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'Q' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'R' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
-      "A",
-      "Â",
-      "Ă",
-      "R"
-    ],
-    "correct": 3,
-    "explain": "'R' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "S"
-    ],
-    "correct": 3,
-    "explain": "'S' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Â",
-      "T"
-    ],
-    "correct": 3,
-    "explain": "'T' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "U",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'U' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
-    "options": [
-      "Ư",
-      "Ă",
-      "A",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'Ư' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "V",
-      "A",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'V' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "X",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'X' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Ă",
-      "Y"
-    ],
-    "correct": 3,
-    "explain": "'Y' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
-    "options": [
-      "A",
-      "B",
-      "Ă",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'A' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
-    "options": [
-      "A",
-      "B",
-      "Ă",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'Ă' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "B",
-      "A",
-      "Â"
-    ],
-    "correct": 3,
-    "explain": "'Â' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
-    "options": [
-      "A",
-      "B",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'B' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "C"
-    ],
-    "correct": 3,
-    "explain": "'C' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "D",
-      "Â",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'D' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
-    "options": [
-      "Đ",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'Đ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "E"
-    ],
-    "correct": 3,
-    "explain": "'E' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ê",
-      "Â",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'Ê' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "G",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'G' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
-    "options": [
-      "H",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'H' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "I",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'I' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "K",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'K' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
-    "options": [
-      "L",
-      "Ă",
-      "Â",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'L' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
-    "options": [
-      "M",
-      "Â",
-      "A",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'M' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "N"
-    ],
-    "correct": 3,
-    "explain": "'N' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "O",
-      "A",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'O' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "Ă",
-      "Ô"
-    ],
-    "correct": 3,
-    "explain": "'Ô' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Ơ",
-      "Â",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'Ơ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "P",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'P' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "Q"
-    ],
-    "correct": 3,
-    "explain": "'Q' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
-    "options": [
-      "Ă",
       "Â",
       "R",
-      "A"
+      "A",
+      "Ă"
     ],
-    "correct": 2,
+    "correct": 1,
     "explain": "'R' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'S' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
-      "A",
+      "Ă",
       "Â",
       "S",
-      "Ă"
+      "A"
     ],
     "correct": 2,
     "explain": "'S' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'T' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
       "Â",
-      "A",
       "T",
+      "A",
       "Ă"
     ],
-    "correct": 2,
+    "correct": 1,
     "explain": "'T' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'U' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8)",
     "options": [
+      "A",
       "Â",
       "U",
-      "A",
       "Ă"
-    ],
-    "correct": 1,
-    "explain": "'U' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ư",
-      "Ă",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'Ư' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Â",
-      "V"
-    ],
-    "correct": 3,
-    "explain": "'V' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "X",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'X' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Y",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'Y' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "B",
-      "A",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'A' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'Ă' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'Â' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
-    "options": [
-      "A",
-      "B",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'B' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
-    "options": [
-      "C",
-      "Ă",
-      "A",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'C' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Â",
-      "D"
-    ],
-    "correct": 3,
-    "explain": "'D' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Đ",
-      "A",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'Đ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "E",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'E' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
-    "options": [
-      "Ê",
-      "A",
-      "Ă",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'Ê' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "G",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'G' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "H",
-      "A",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'H' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
-    "options": [
-      "A",
-      "I",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'I' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "K",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'K' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
-    "options": [
-      "L",
-      "Ă",
-      "A",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'L' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
-    "options": [
-      "M",
-      "A",
-      "Ă",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'M' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "N",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'N' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "O",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'O' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "Ă",
-      "Ô"
-    ],
-    "correct": 3,
-    "explain": "'Ô' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Ơ",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'Ơ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
-    "options": [
-      "P",
-      "Ă",
-      "Â",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'P' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
-    "options": [
-      "Q",
-      "Â",
-      "A",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'Q' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "R"
-    ],
-    "correct": 3,
-    "explain": "'R' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "S",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'S' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
-    "options": [
-      "T",
-      "A",
-      "Ă",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'T' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "U",
-      "A"
     ],
     "correct": 2,
     "explain": "'U' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Ư' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "A",
-      "Ă",
       "Ư",
-      "Â"
+      "Ă",
+      "Â",
+      "A"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'Ư' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'V' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
+      "Ă",
       "V",
-      "Â",
       "A",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'V' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "Ă",
-      "X"
-    ],
-    "correct": 3,
-    "explain": "'X' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
-    "options": [
-      "Y",
-      "A",
-      "Â",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'Y' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "B",
       "Â"
     ],
     "correct": 1,
+    "explain": "'V' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'X' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "A",
+      "Ă",
+      "X",
+      "Â"
+    ],
+    "correct": 2,
+    "explain": "'X' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Y' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "A",
+      "Y",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'Y' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'A' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "Ă",
+      "Â",
+      "A",
+      "B"
+    ],
+    "correct": 2,
     "explain": "'A' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Ă' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "A",
       "Â",
-      "B",
-      "Ă"
+      "Ă",
+      "A",
+      "B"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'Ă' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Â' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
       "Ă",
-      "Â",
       "B",
-      "A"
+      "A",
+      "Â"
     ],
-    "correct": 1,
+    "correct": 3,
     "explain": "'Â' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'B' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
       "A",
-      "Â",
       "Ă",
+      "Â",
       "B"
     ],
     "correct": 3,
     "explain": "'B' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'C' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
+      "Ă",
       "Â",
       "C",
-      "A",
-      "Ă"
+      "A"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'C' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'D' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
+      "Ă",
       "A",
       "D",
-      "Â",
-      "Ă"
+      "Â"
     ],
-    "correct": 1,
+    "correct": 2,
     "explain": "'D' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Đ' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
       "Đ",
+      "Â",
       "Ă",
-      "A",
-      "Â"
+      "A"
     ],
     "correct": 0,
     "explain": "'Đ' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'E' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "Â",
-      "Ă",
-      "A",
-      "E"
-    ],
-    "correct": 3,
-    "explain": "'E' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
-    "options": [
-      "Ê",
-      "Â",
-      "A",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'Ê' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "G",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'G' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
-    "options": [
-      "H",
-      "Ă",
-      "A",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'H' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "I",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'I' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "K",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'K' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
-    "options": [
-      "A",
-      "L",
-      "Â",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'L' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "M"
-    ],
-    "correct": 3,
-    "explain": "'M' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "N",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'N' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "O",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'O' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "Ô",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'Ô' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Ơ",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'Ơ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "P",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'P' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "Q"
-    ],
-    "correct": 3,
-    "explain": "'Q' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "R"
-    ],
-    "correct": 3,
-    "explain": "'R' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "S"
-    ],
-    "correct": 3,
-    "explain": "'S' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Â",
-      "T"
-    ],
-    "correct": 3,
-    "explain": "'T' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "U",
-      "A",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'U' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Ư",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'Ư' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "V",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'V' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "X",
-      "A",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'X' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Y",
-      "Â",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'Y' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'A' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Â",
-      "B"
-    ],
-    "correct": 1,
-    "explain": "'Ă' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "B",
-      "Â"
-    ],
-    "correct": 3,
-    "explain": "'Â' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "B"
-    ],
-    "correct": 3,
-    "explain": "'B' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "C",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'C' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ă",
-      "Â",
-      "D"
-    ],
-    "correct": 3,
-    "explain": "'D' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "Đ"
-    ],
-    "correct": 3,
-    "explain": "'Đ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
       "E",
-      "A"
+      "A",
+      "Ă",
+      "Â"
     ],
-    "correct": 2,
+    "correct": 0,
     "explain": "'E' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ê",
-      "A",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'Ê' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Ê' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
       "A",
       "Ă",
+      "Â",
+      "Ê"
+    ],
+    "correct": 3,
+    "explain": "'Ê' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'G' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "Â",
+      "A",
       "G",
-      "Â"
+      "Ă"
     ],
     "correct": 2,
     "explain": "'G' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'H' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
       "Â",
       "A",
-      "Ă",
-      "H"
+      "H",
+      "Ă"
     ],
-    "correct": 3,
+    "correct": 2,
     "explain": "'H' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'I' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "I",
-      "Â",
       "A",
-      "Ă"
+      "I",
+      "Ă",
+      "Â"
     ],
-    "correct": 0,
+    "correct": 1,
     "explain": "'I' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'K' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "Â",
-      "A",
+      "K",
       "Ă",
-      "K"
+      "A",
+      "Â"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'K' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'L' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "Ă",
       "Â",
+      "Ă",
       "A",
       "L"
     ],
@@ -4620,7 +4598,7 @@
     "explain": "'L' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'M' trong các đáp án sau: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
     "options": [
       "M",
       "Ă",
@@ -4631,51 +4609,227 @@
     "explain": "'M' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'N' trong các đáp án sau: (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
     "options": [
-      "A",
       "Ă",
-      "N",
-      "Â"
+      "A",
+      "Â",
+      "N"
     ],
-    "correct": 2,
+    "correct": 3,
     "explain": "'N' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'A'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "B",
+      "Ă",
+      "Â",
+      "A"
+    ],
+    "correct": 3,
+    "explain": "'A' là chữ thứ 1 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ă'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "Â",
+      "Ă",
+      "B",
+      "A"
+    ],
+    "correct": 1,
+    "explain": "'Ă' là chữ thứ 2 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Â'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "A",
+      "B",
+      "Â",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'Â' là chữ thứ 3 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'B'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "B",
+      "Ă",
+      "Â",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'B' là chữ thứ 4 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'C'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "A",
+      "Â",
+      "C",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'C' là chữ thứ 5 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'D'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "A",
+      "Ă",
+      "D",
+      "Â"
+    ],
+    "correct": 2,
+    "explain": "'D' là chữ thứ 6 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Đ'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "Â",
+      "Đ",
+      "A",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'Đ' là chữ thứ 7 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'E'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "Â",
+      "A",
+      "Ă",
+      "E"
+    ],
+    "correct": 3,
+    "explain": "'E' là chữ thứ 8 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ê'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
     "options": [
       "Ă",
-      "O",
+      "Ê",
       "A",
       "Â"
     ],
     "correct": 1,
-    "explain": "'O' là chữ cái tiếng Việt."
+    "explain": "'Ê' là chữ thứ 9 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "Ô",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'Ô' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'G'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
     "options": [
       "A",
-      "Ơ",
+      "G",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'G' là chữ thứ 10 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'H'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "Ă",
+      "Â",
+      "A",
+      "H"
+    ],
+    "correct": 3,
+    "explain": "'H' là chữ thứ 11 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'I'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "A",
+      "I",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'I' là chữ thứ 12 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'K'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "K",
+      "A",
       "Â",
       "Ă"
     ],
-    "correct": 1,
-    "explain": "'Ơ' là chữ cái tiếng Việt."
+    "correct": 0,
+    "explain": "'K' là chữ thứ 13 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'L'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 7) (Biến thể 9)",
+    "options": [
+      "A",
+      "Ă",
+      "Â",
+      "L"
+    ],
+    "correct": 3,
+    "explain": "'L' là chữ thứ 14 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'M'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "A",
+      "M",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'M' là chữ thứ 15 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'N'? (Biến thể 2) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "N",
+      "Ă",
+      "Â",
+      "A"
+    ],
+    "correct": 0,
+    "explain": "'N' là chữ thứ 16 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'O'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "O",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'O' là chữ thứ 17 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ô'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "A",
+      "Ô",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'Ô' là chữ thứ 18 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ơ'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "Ơ",
+      "A",
+      "Â",
+      "Ă"
+    ],
+    "correct": 0,
+    "explain": "'Ơ' là chữ thứ 19 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'P'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
     "options": [
       "A",
       "P",
@@ -4683,43 +4837,43 @@
       "Ă"
     ],
     "correct": 1,
-    "explain": "'P' là chữ cái tiếng Việt."
+    "explain": "'P' là chữ thứ 20 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'Q'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
     "options": [
-      "A",
       "Ă",
       "Q",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'Q' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
-    "options": [
       "Â",
-      "R",
-      "Ă",
       "A"
     ],
     "correct": 1,
-    "explain": "'R' là chữ cái tiếng Việt."
+    "explain": "'Q' là chữ thứ 21 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'R'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
     "options": [
-      "S",
+      "A",
       "Ă",
       "Â",
+      "R"
+    ],
+    "correct": 3,
+    "explain": "'R' là chữ thứ 22 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'S'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "S",
+      "Â",
+      "Ă",
       "A"
     ],
     "correct": 0,
-    "explain": "'S' là chữ cái tiếng Việt."
+    "explain": "'S' là chữ thứ 23 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'T'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
     "options": [
       "A",
       "Â",
@@ -4727,24 +4881,453 @@
       "Ă"
     ],
     "correct": 2,
-    "explain": "'T' là chữ cái tiếng Việt."
+    "explain": "'T' là chữ thứ 24 trong bảng chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
+    "question": "Chữ nào là chữ 'U'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
     "options": [
-      "Ă",
       "A",
+      "Ă",
       "Â",
       "U"
     ],
     "correct": 3,
+    "explain": "'U' là chữ thứ 25 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Ư'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "Ă",
+      "A",
+      "Â",
+      "Ư"
+    ],
+    "correct": 3,
+    "explain": "'Ư' là chữ thứ 26 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'V'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "A",
+      "Ă",
+      "V",
+      "Â"
+    ],
+    "correct": 2,
+    "explain": "'V' là chữ thứ 27 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'X'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "X",
+      "A",
+      "Â",
+      "Ă"
+    ],
+    "correct": 0,
+    "explain": "'X' là chữ thứ 28 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chữ nào là chữ 'Y'? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "Â",
+      "A",
+      "Ă",
+      "Y"
+    ],
+    "correct": 3,
+    "explain": "'Y' là chữ thứ 29 trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "question": "Từ nào có không có dấu thanh? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 9)",
+    "options": [
+      "bà",
+      "ba",
+      "bả",
+      "bá"
+    ],
+    "correct": 1,
+    "explain": "'ba' đọc với không có dấu thanh"
+  },
+  {
+    "question": "Từ nào có dấu huyền (\\`)? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "ba",
+      "bả",
+      "bà",
+      "bá"
+    ],
+    "correct": 2,
+    "explain": "'bà' đọc với dấu huyền (\\`)"
+  },
+  {
+    "question": "Từ nào có dấu sắc (')? (Biến thể 3) (Biến thể 4) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "bá",
+      "ba",
+      "bà",
+      "bả"
+    ],
+    "correct": 0,
+    "explain": "'bá' đọc với dấu sắc (')"
+  },
+  {
+    "question": "Từ nào có dấu hỏi (?)? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "bà",
+      "bả",
+      "ba",
+      "bá"
+    ],
+    "correct": 1,
+    "explain": "'bả' đọc với dấu hỏi (?)"
+  },
+  {
+    "question": "Từ nào có dấu ngã (~)? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "bã",
+      "bá",
+      "ba",
+      "bà"
+    ],
+    "correct": 0,
+    "explain": "'bã' đọc với dấu ngã (~)"
+  },
+  {
+    "question": "Từ nào có dấu thanh đúng? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "cà",
+      "ca",
+      "cá",
+      "cả"
+    ],
+    "correct": 1,
+    "explain": "'ca' đọc với "
+  },
+  {
+    "question": "Từ trái nghĩa với 'to' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "toa",
+      "tob",
+      "toc",
+      "nhỏ"
+    ],
+    "correct": 3,
+    "explain": "'to' và 'nhỏ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'cao' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "caoa",
+      "caob",
+      "caoc",
+      "thấp"
+    ],
+    "correct": 3,
+    "explain": "'cao' và 'thấp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhanh' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "nhanha",
+      "nhanhb",
+      "nhanhc",
+      "chậm"
+    ],
+    "correct": 3,
+    "explain": "'nhanh' và 'chậm' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'sáng' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "sánga",
+      "sángb",
+      "sángc",
+      "tối"
+    ],
+    "correct": 3,
+    "explain": "'sáng' và 'tối' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nóng' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "nónga",
+      "nóngb",
+      "nóngc",
+      "lạnh"
+    ],
+    "correct": 3,
+    "explain": "'nóng' và 'lạnh' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'vui' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "vuia",
+      "vuib",
+      "vuic",
+      "buồn"
+    ],
+    "correct": 3,
+    "explain": "'vui' và 'buồn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'mới' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "mớia",
+      "mớib",
+      "mớic",
+      "cũ"
+    ],
+    "correct": 3,
+    "explain": "'mới' và 'cũ' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'nhiều' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "nhiềua",
+      "nhiềub",
+      "nhiềuc",
+      "ít"
+    ],
+    "correct": 3,
+    "explain": "'nhiều' và 'ít' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'dài' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "dàia",
+      "dàib",
+      "dàic",
+      "ngắn"
+    ],
+    "correct": 3,
+    "explain": "'dài' và 'ngắn' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Từ trái nghĩa với 'rộng' là? (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "rộnga",
+      "rộngb",
+      "rộngc",
+      "hẹp"
+    ],
+    "correct": 3,
+    "explain": "'rộng' và 'hẹp' là cặp từ trái nghĩa."
+  },
+  {
+    "question": "Em ___ bài tập về nhà mỗi ngày. (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "làm",
+      "ăn",
+      "ngủ",
+      "chơi"
+    ],
+    "correct": 0,
+    "explain": "'làm' bài tập là đúng ngữ cảnh."
+  },
+  {
+    "question": "Bầu trời buổi sáng có màu ___. (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "tím",
+      "đỏ",
+      "đen",
+      "xanh"
+    ],
+    "correct": 3,
+    "explain": "Bầu trời ban ngày có màu xanh."
+  },
+  {
+    "question": "Mặt trời mọc vào buổi ___. (Biến thể 3) (Biến thể 5) (Biến thể 6) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "chiều",
+      "sáng",
+      "tối",
+      "trưa"
+    ],
+    "correct": 1,
+    "explain": "Mặt trời mọc vào buổi sáng."
+  },
+  {
+    "question": "Con mèo kêu ___. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "gâu gâu",
+      "ò ó o",
+      "meo meo",
+      "cạc cạc"
+    ],
+    "correct": 2,
+    "explain": "Con mèo kêu 'meo meo'."
+  },
+  {
+    "question": "Con chó kêu ___. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "gâu gâu",
+      "cạc cạc",
+      "ò ó o",
+      "meo meo"
+    ],
+    "correct": 0,
+    "explain": "Con chó kêu 'gâu gâu'."
+  },
+  {
+    "question": "Quả chuối có màu ___. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "đỏ",
+      "vàng",
+      "xanh lá",
+      "tím"
+    ],
+    "correct": 1,
+    "explain": "Quả chuối chín có màu vàng."
+  },
+  {
+    "question": "Chúng ta rửa tay trước khi ___. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "ngủ",
+      "chạy",
+      "ăn",
+      "nhảy"
+    ],
+    "correct": 2,
+    "explain": "Rửa tay trước khi ăn để phòng bệnh."
+  },
+  {
+    "question": "Bảng chữ cái tiếng Việt có ___ chữ cái. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "24",
+      "29",
+      "26",
+      "30"
+    ],
+    "correct": 1,
+    "explain": "Bảng chữ cái tiếng Việt có 29 chữ cái."
+  },
+  {
+    "question": "Câu văn bắt đầu bằng chữ ___. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "viết in",
+      "viết tắt",
+      "viết thường",
+      "viết hoa"
+    ],
+    "correct": 3,
+    "explain": "Chữ đầu câu phải viết hoa."
+  },
+  {
+    "question": "Câu hỏi kết thúc bằng dấu ___. (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "phẩy (,)",
+      "chấm than (!)",
+      "chấm (.)",
+      "hỏi (?)"
+    ],
+    "correct": 3,
+    "explain": "Câu hỏi kết thúc bằng dấu hỏi (?)."
+  },
+  {
+    "question": "Chọn chữ cái 'O' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "O",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'O' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ô' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "Â",
+      "Ô",
+      "A",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'Ô' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "A",
+      "Ă",
+      "Ơ",
+      "Â"
+    ],
+    "correct": 2,
+    "explain": "'Ơ' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'P' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "A",
+      "P",
+      "Ă",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'P' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Q' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "Ă",
+      "Q",
+      "A",
+      "Â"
+    ],
+    "correct": 1,
+    "explain": "'Q' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'R' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "R",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'R' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'S' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "Â",
+      "S",
+      "A",
+      "Ă"
+    ],
+    "correct": 1,
+    "explain": "'S' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'T' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "T",
+      "A",
+      "Ă",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'T' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'U' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 8) (Biến thể 10)",
+    "options": [
+      "Â",
+      "U",
+      "Ă",
+      "A"
+    ],
+    "correct": 1,
     "explain": "'U' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Ư' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
-      "Â",
       "Ă",
+      "Â",
       "A",
       "Ư"
     ],
@@ -4752,95 +5335,95 @@
     "explain": "'Ư' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'V' trong các đáp án sau: (Biến thể 3) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
+      "V",
       "A",
-      "Ă",
       "Â",
-      "V"
+      "Ă"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'V' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'X' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
-      "Â",
+      "Ă",
       "X",
-      "A",
-      "Ă"
+      "Â",
+      "A"
     ],
     "correct": 1,
     "explain": "'X' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Y' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
-      "Ă",
-      "A",
       "Y",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'Y' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
-    "options": [
-      "A",
       "Ă",
       "Â",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'A' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
-    "options": [
-      "B",
-      "Â",
-      "A",
-      "Ă"
-    ],
-    "correct": 3,
-    "explain": "'Ă' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "B",
       "A"
     ],
     "correct": 0,
-    "explain": "'Â' là chữ cái tiếng Việt."
+    "explain": "'Y' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'A' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
       "Â",
-      "B",
       "A",
+      "B",
       "Ă"
     ],
     "correct": 1,
+    "explain": "'A' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Ă' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
+    "options": [
+      "Ă",
+      "A",
+      "B",
+      "Â"
+    ],
+    "correct": 0,
+    "explain": "'Ă' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'Â' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
+    "options": [
+      "B",
+      "A",
+      "Â",
+      "Ă"
+    ],
+    "correct": 2,
+    "explain": "'Â' là chữ cái tiếng Việt."
+  },
+  {
+    "question": "Chọn chữ cái 'B' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
+    "options": [
+      "Ă",
+      "Â",
+      "B",
+      "A"
+    ],
+    "correct": 2,
     "explain": "'B' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'C' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
-      "A",
-      "C",
       "Â",
+      "C",
+      "A",
       "Ă"
     ],
     "correct": 1,
     "explain": "'C' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'D' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
       "A",
       "D",
@@ -4851,652 +5434,69 @@
     "explain": "'D' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Đ' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
+      "Â",
       "Ă",
       "A",
-      "Đ",
-      "Â"
+      "Đ"
     ],
-    "correct": 2,
+    "correct": 3,
     "explain": "'Đ' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'E' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
       "A",
-      "Â",
       "Ă",
+      "Â",
       "E"
     ],
     "correct": 3,
     "explain": "'E' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "Ê"
-    ],
-    "correct": 3,
-    "explain": "'Ê' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
-    "options": [
-      "G",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'G' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "H",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'H' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Â",
-      "I",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'I' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "K",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'K' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
-    "options": [
-      "L",
-      "A",
-      "Â",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'L' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
-    "options": [
-      "A",
-      "M",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'M' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
-    "options": [
-      "N",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'N' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "O"
-    ],
-    "correct": 3,
-    "explain": "'O' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
-    "options": [
-      "Ô",
-      "Â",
-      "A",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'Ô' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
-    "options": [
-      "Ơ",
-      "A",
-      "Ă",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'Ơ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "P",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'P' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'Ê' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
       "Ă",
       "Â",
-      "A",
-      "Q"
-    ],
-    "correct": 3,
-    "explain": "'Q' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "R"
-    ],
-    "correct": 3,
-    "explain": "'R' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "S",
-      "Ă",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'S' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "T",
-      "A",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'T' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "U",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'U' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ư",
-      "Ă",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'Ư' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Ă",
-      "V"
-    ],
-    "correct": 3,
-    "explain": "'V' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
-    "options": [
-      "X",
-      "Ă",
-      "A",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'X' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "Y"
-    ],
-    "correct": 3,
-    "explain": "'Y' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
-    "options": [
-      "B",
-      "Ă",
-      "Â",
-      "A"
-    ],
-    "correct": 3,
-    "explain": "'A' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
-    "options": [
-      "B",
-      "A",
-      "Ă",
-      "Â"
-    ],
-    "correct": 2,
-    "explain": "'Ă' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "B"
-    ],
-    "correct": 0,
-    "explain": "'Â' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "B",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'B' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "C",
-      "Ă"
-    ],
-    "correct": 2,
-    "explain": "'C' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
-    "options": [
-      "A",
-      "D",
-      "Â",
-      "Ă"
-    ],
-    "correct": 1,
-    "explain": "'D' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
-    "options": [
-      "Đ",
-      "A",
-      "Ă",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'Đ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'E' trong các đáp án sau:",
-    "options": [
-      "E",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'E' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ê' trong các đáp án sau:",
-    "options": [
       "Ê",
-      "Â",
-      "A",
-      "Ă"
+      "A"
     ],
-    "correct": 0,
+    "correct": 2,
     "explain": "'Ê' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'G' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'G' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
-      "Ă",
       "A",
       "G",
+      "Ă",
       "Â"
     ],
-    "correct": 2,
+    "correct": 1,
     "explain": "'G' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'H' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'H' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
-      "Ă",
       "A",
-      "Â",
-      "H"
+      "H",
+      "Ă",
+      "Â"
     ],
-    "correct": 3,
+    "correct": 1,
     "explain": "'H' là chữ cái tiếng Việt."
   },
   {
-    "question": "Chọn chữ cái 'I' trong các đáp án sau:",
+    "question": "Chọn chữ cái 'I' trong các đáp án sau: (Biến thể 4) (Biến thể 5) (Biến thể 7) (Biến thể 9) (Biến thể 10)",
     "options": [
-      "A",
-      "Â",
+      "I",
       "Ă",
-      "I"
+      "Â",
+      "A"
     ],
-    "correct": 3,
+    "correct": 0,
     "explain": "'I' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'K' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "K"
-    ],
-    "correct": 3,
-    "explain": "'K' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'L' trong các đáp án sau:",
-    "options": [
-      "L",
-      "Â",
-      "A",
-      "Ă"
-    ],
-    "correct": 0,
-    "explain": "'L' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'M' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "M",
-      "Ă",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'M' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'N' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Â",
-      "A",
-      "N"
-    ],
-    "correct": 3,
-    "explain": "'N' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'O' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "O",
-      "Ă",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'O' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ô' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Ô",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'Ô' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ơ' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "Ơ"
-    ],
-    "correct": 3,
-    "explain": "'Ơ' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'P' trong các đáp án sau:",
-    "options": [
-      "P",
-      "Ă",
-      "Â",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'P' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Q' trong các đáp án sau:",
-    "options": [
-      "A",
-      "Q",
-      "Ă",
-      "Â"
-    ],
-    "correct": 1,
-    "explain": "'Q' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'R' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "R",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'R' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'S' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "S",
-      "A"
-    ],
-    "correct": 2,
-    "explain": "'S' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'T' trong các đáp án sau:",
-    "options": [
-      "T",
-      "Â",
-      "Ă",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'T' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'U' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "U"
-    ],
-    "correct": 3,
-    "explain": "'U' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ư' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "Ư",
-      "Â",
-      "A"
-    ],
-    "correct": 1,
-    "explain": "'Ư' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'V' trong các đáp án sau:",
-    "options": [
-      "V",
-      "Ă",
-      "Â",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'V' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'X' trong các đáp án sau:",
-    "options": [
-      "X",
-      "Ă",
-      "Â",
-      "A"
-    ],
-    "correct": 0,
-    "explain": "'X' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Y' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "Y"
-    ],
-    "correct": 3,
-    "explain": "'Y' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'A' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "B",
-      "Â",
-      "A"
-    ],
-    "correct": 3,
-    "explain": "'A' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Ă' trong các đáp án sau:",
-    "options": [
-      "B",
-      "Â",
-      "A",
-      "Ă"
-    ],
-    "correct": 3,
-    "explain": "'Ă' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Â' trong các đáp án sau:",
-    "options": [
-      "Ă",
-      "A",
-      "Â",
-      "B"
-    ],
-    "correct": 2,
-    "explain": "'Â' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'B' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "Ă",
-      "A",
-      "B"
-    ],
-    "correct": 3,
-    "explain": "'B' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'C' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Ă",
-      "C"
-    ],
-    "correct": 3,
-    "explain": "'C' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'D' trong các đáp án sau:",
-    "options": [
-      "D",
-      "A",
-      "Ă",
-      "Â"
-    ],
-    "correct": 0,
-    "explain": "'D' là chữ cái tiếng Việt."
-  },
-  {
-    "question": "Chọn chữ cái 'Đ' trong các đáp án sau:",
-    "options": [
-      "Â",
-      "A",
-      "Ă",
-      "Đ"
-    ],
-    "correct": 3,
-    "explain": "'Đ' là chữ cái tiếng Việt."
   }
 ]
