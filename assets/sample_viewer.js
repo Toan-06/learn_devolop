@@ -1,5 +1,5 @@
-// ===== SAMPLE EXERCISES VIEWER SYSTEM (PERFORMANCE & MOBILE OPTIMIZED) =====
-// Dynamic grade loader with zero Layout Shift (CLS) and Compact Section Tabs on Mobile
+// ===== SAMPLE EXERCISES VIEWER SYSTEM (MOBILE OPTIMIZED) =====
+// Problem statement (Đề bài) is positioned unconditionally at the VERY TOP of every modal view.
 
 function getSamplesForGrade(lvl) {
   const g = parseInt(lvl) || 6;
@@ -58,7 +58,7 @@ function openSampleLibraryModal(gradeOverride) {
           style="background:rgba(15,25,55,0.9);border:1.5px solid rgba(0,242,254,0.3);border-radius:16px;padding:6px 14px;font-size:.82rem;color:#f8fafc;outline:none;width:${isMobile ? '100%' : '200px'};margin-left:${isMobile ? '0' : 'auto'};" />
       </div>
 
-      <!-- CONTENT LIST (Fixed height container to eliminate CLS) -->
+      <!-- CONTENT LIST -->
       <div id="sample-list" style="overflow-y:auto;padding:${isMobile ? '10px 12px' : '16px 20px'};flex:1;-webkit-overflow-scrolling:touch;min-height:300px;">
         ${renderSampleCards(all, '', lvl)}
       </div>
@@ -149,9 +149,8 @@ function filterSamples(lvl) {
   document.getElementById('sample-list').innerHTML = renderSampleCards(items, q, lvl);
 }
 
-// Function to switch between article sections (Fixes Issue #1: Article modal too long on mobile)
 function switchArticleSectionTab(sec) {
-  ['problem', 'outline', 'essay'].forEach(s => {
+  ['essay', 'outline'].forEach(s => {
     const btn = document.getElementById('art-sec-tab-' + s);
     const box = document.getElementById('art-sec-box-' + s);
     if (btn) btn.classList.remove('active');
@@ -180,74 +179,85 @@ function openSingleSample(id, lvl) {
 
   const isMobile = window.innerWidth <= 768;
   const hasFullEssay = !!item.full_essay;
-  const hasAnalysisBreakdown = !!(item.analysis_breakdown || item.key_words);
 
   const html = `
   <div id="single-sample-modal" style="position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(5,10,25,.95);z-index:999999;display:flex;align-items:center;justify-content:center;padding:${isMobile ? '4px' : '16px'};animation:fadeIn .2s ease;">
     <div style="background:radial-gradient(circle at 50% 0%, rgba(15,25,55,0.99) 0%, rgba(6,12,30,1) 100%);border:1.5px solid rgba(0,242,254,0.35);border-radius:${isMobile ? '16px' : '24px'};max-width:840px;width:100%;height:${isMobile ? '98vh' : '92vh'};display:flex;flex-direction:column;padding:${isMobile ? '14px 12px' : '24px 28px'};position:relative;box-shadow:0 30px 80px rgba(0,0,0,.95);overflow:hidden;">
       
       <!-- TOP HEADER BAR -->
-      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;padding-right:36px;flex-shrink:0;">
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;padding-right:36px;flex-shrink:0;">
         <span style="background:rgba(0,242,254,0.12);color:#00f2fe;border:1px solid rgba(0,242,254,0.3);font-weight:800;font-size:.72rem;padding:3px 10px;border-radius:10px;">${item.tag || 'BÀI MẪU CHI TIẾT'}</span>
         <button onclick="document.getElementById('single-sample-modal').remove()" style="position:absolute;top:${isMobile ? '10px' : '18px'};right:${isMobile ? '10px' : '20px'};background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.3);width:38px;height:38px;border-radius:50%;cursor:pointer;font-size:1.1rem;color:#00f2fe;display:flex;align-items:center;justify-content:center;z-index:100;touch-action:manipulation;">✕</button>
       </div>
 
-      <h2 style="font-size:${isMobile ? '1.1rem' : '1.4rem'};font-weight:900;color:#f8fafc;margin:0 0 10px;line-height:1.35;flex-shrink:0;">${item.title}</h2>
-
-      <!-- COMPACT MOBILE SECTION TABS (SOLVES ISSUE 1: NO LONGER TOO LONG ON MOBILE) -->
-      ${hasFullEssay ? `
-      <div style="display:flex;gap:6px;margin-bottom:12px;overflow-x:auto;padding-bottom:4px;flex-shrink:0;-webkit-overflow-scrolling:touch;">
-        <button id="art-sec-tab-essay" class="article-sec-tab active" onclick="switchArticleSectionTab('essay')">📜 Bài Văn Mẫu (2,500 chữ)</button>
-        <button id="art-sec-tab-outline" class="article-sec-tab" onclick="switchArticleSectionTab('outline')">💡 Dàn Ý & Từ Khóa</button>
-        <button id="art-sec-tab-problem" class="article-sec-tab" onclick="switchArticleSectionTab('problem')">📋 Đề Bài & Ghi Chú</button>
-      </div>
-      ` : ''}
+      <h2 style="font-size:${isMobile ? '1.1rem' : '1.35rem'};font-weight:900;color:#f8fafc;margin:0 0 10px;line-height:1.35;flex-shrink:0;">${item.title}</h2>
 
       <!-- SCROLLABLE ARTICLE BODY CONTAINER -->
       <div style="flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding-right:4px;">
         
-        <!-- SECTION 1: ESSAY BODY (DEFAULT DISPLAY) -->
+        <!-- 1. 📋 ĐỀ BÀI / CÂU HỎI MẪU (ALWAYS AT THE VERY TOP!) -->
+        <div style="background:rgba(59,130,246,0.1);border:1.5px solid rgba(59,130,246,0.35);border-radius:14px;padding:${isMobile ? '12px' : '16px'};margin-bottom:12px;">
+          <div style="font-weight:900;color:#60a5fa;font-size:${isMobile ? '.85rem' : '.92rem'};margin-bottom:6px;display:flex;align-items:center;gap:8px;">
+            <i class="fas fa-clipboard-list"></i>
+            <span>📋 ĐỀ BÀI / CÂU HỎI MẪU:</span>
+          </div>
+          <div style="color:#f8fafc;font-size:${isMobile ? '.88rem' : '.95rem'};line-height:1.6;font-weight:600;">${item.problem || item.title}</div>
+        </div>
+
+        <!-- 2. ⚠️ LƯU Ý HỌC TẬP THAM KHẢO BANNER (AT THE TOP BELOW PROBLEM) -->
+        <div style="background:rgba(245,158,11,0.12);border:1.5px solid rgba(245,158,11,0.4);border-radius:14px;padding:${isMobile ? '10px 12px' : '12px 16px'};margin-bottom:14px;display:flex;align-items:center;gap:10px;color:#fcd34d;font-size:${isMobile ? '.76rem' : '.84rem'};line-height:1.5;">
+          <span style="font-size:1.2rem;flex-shrink:0;">⚠️</span>
+          <div>
+            <strong style="color:#fbbf24;font-size:${isMobile ? '.82rem' : '.88rem'};display:block;margin-bottom:2px;">LƯU Ý HỌC TẬP THAM KHẢO:</strong>
+            Đây chỉ là những bài tham khảo có thể có sai sót. Các bài giải mẫu và bài văn phân tích được tổng hợp hỗ trợ học sinh mở rộng tư duy ôn luyện, có thể tồn tại sơ sót nhỏ. Học sinh nên kết hợp đối chiếu với bài giảng chính thức của Thầy/Cô giáo trên lớp để đạt kết quả tốt nhất.
+          </div>
+        </div>
+
+        <!-- 3. SUB-TABS IF ESSAY HAS FULL ESSAY AND OUTLINE -->
+        ${hasFullEssay ? `
+        <div style="display:flex;gap:6px;margin-bottom:12px;overflow-x:auto;padding-bottom:4px;-webkit-overflow-scrolling:touch;">
+          <button id="art-sec-tab-essay" class="article-sec-tab active" onclick="switchArticleSectionTab('essay')">📜 Bài Văn Mẫu (2,500 chữ)</button>
+          <button id="art-sec-tab-outline" class="article-sec-tab" onclick="switchArticleSectionTab('outline')">💡 Dàn Ý & Từ Khóa</button>
+        </div>
+        ` : ''}
+
+        <!-- 4. LỜI GIẢI / BÀI VĂN PHÂN TÍCH SECTION -->
         <div id="art-sec-box-essay" style="display:block;">
           ${hasFullEssay ? `
             <div style="background:rgba(15,23,42,0.85);border:1px solid rgba(168,85,247,0.3);border-radius:14px;padding:${isMobile ? '12px' : '20px'};margin-bottom:14px;">
+              <div style="font-weight:900;color:#c084fc;font-size:${isMobile ? '.9rem' : '1.02rem'};margin-bottom:10px;display:flex;align-items:center;gap:8px;">
+                <i class="fas fa-file-alt"></i>
+                <span>BÀI VĂN PHÂN TÍCH HOÀN CHỈNH (FULL ESSAY):</span>
+              </div>
               <div style="color:#f1f5f9;font-size:${isMobile ? '.88rem' : '.96rem'};line-height:1.85;white-space:pre-line;text-align:left;word-break:break-word;">
                 ${item.full_essay}
               </div>
             </div>
           ` : `
             <div style="background:rgba(16,185,129,0.08);border:1.5px solid rgba(16,185,129,0.3);border-radius:14px;padding:${isMobile ? '12px' : '18px'};margin-bottom:14px;">
-              <div style="font-weight:900;color:#34d399;font-size:${isMobile ? '.88rem' : '1rem'};margin-bottom:8px;">LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</div>
+              <div style="font-weight:900;color:#34d399;font-size:${isMobile ? '.88rem' : '1rem'};margin-bottom:8px;display:flex;align-items:center;gap:8px;">
+                <i class="fas fa-check-circle"></i>
+                <span>LỜI GIẢI CHI TIẾT TỪNG BƯỚC / HƯỚNG DẪN HOÀN CHỈNH:</span>
+              </div>
               <div style="color:#f1f5f9;font-size:${isMobile ? '.85rem' : '.95rem'};line-height:1.75;">${item.solution}</div>
             </div>
           `}
         </div>
 
-        <!-- SECTION 2: OUTLINE & KEYWORDS -->
-        <div id="art-sec-box-outline" style="display:${hasFullEssay ? 'none' : 'block'};">
+        <!-- OPTIONAL DÀN Ý & TỪ KHÓA BOX FOR ESSAYS -->
+        ${hasFullEssay ? `
+        <div id="art-sec-box-outline" style="display:none;">
           <div style="background:rgba(0,242,254,0.06);border:1.5px solid rgba(0,242,254,0.3);border-radius:14px;padding:${isMobile ? '12px' : '18px'};margin-bottom:14px;">
-            <div style="font-weight:900;color:#00f2fe;font-size:${isMobile ? '.9rem' : '1rem'};margin-bottom:8px;">DÀN Ý PHÂN TÍCH & TỪ NGỮ NGHỆ THUẬT:</div>
+            <div style="font-weight:900;color:#00f2fe;font-size:${isMobile ? '.9rem' : '1rem'};margin-bottom:8px;display:flex;align-items:center;gap:8px;">
+              <i class="fas fa-search-plus"></i>
+              <span>DÀN Ý PHÂN TÍCH CHI TIẾT & TỪ NGỮ CHÌA KHÓA:</span>
+            </div>
             <div style="color:#e2e8f0;font-size:${isMobile ? '.85rem' : '.92rem'};line-height:1.7;">
               ${item.analysis_breakdown || item.solution}
             </div>
           </div>
         </div>
-
-        <!-- SECTION 3: PROBLEM & DISCLAIMER -->
-        <div id="art-sec-box-problem" style="display:${hasFullEssay ? 'none' : 'block'};">
-          <!-- EDUCATIONAL DISCLAIMER BANNER -->
-          <div style="background:rgba(245,158,11,0.12);border:1.5px solid rgba(245,158,11,0.4);border-radius:14px;padding:${isMobile ? '10px 12px' : '14px 18px'};margin-bottom:14px;display:flex;align-items:center;gap:10px;color:#fcd34d;font-size:${isMobile ? '.76rem' : '.85rem'};line-height:1.5;">
-            <span style="font-size:1.2rem;flex-shrink:0;">⚠️</span>
-            <div>
-              <strong style="color:#fbbf24;font-size:${isMobile ? '.82rem' : '.9rem'};display:block;margin-bottom:2px;">LƯU Ý HỌC TẬP THAM KHẢO:</strong>
-              Đây chỉ là những bài tham khảo có thể có sai sót. Các bài giải mẫu và bài văn phân tích được tổng hợp hỗ trợ học sinh mở rộng tư duy ôn luyện, có thể tồn tại sơ sót nhỏ. Học sinh nên kết hợp đối chiếu với bài giảng chính thức của Thầy/Cô giáo trên lớp để đạt kết quả tốt nhất.
-            </div>
-          </div>
-
-          <div style="background:rgba(59,130,246,0.08);border:1.5px solid rgba(59,130,246,0.3);border-radius:14px;padding:${isMobile ? '12px' : '18px'};margin-bottom:14px;">
-            <div style="font-weight:900;color:#60a5fa;font-size:${isMobile ? '.85rem' : '.9rem'};margin-bottom:6px;">📋 ĐỀ BÀI / CÂU HỎI MẪU:</div>
-            <div style="color:#f8fafc;font-size:${isMobile ? '.88rem' : '.95rem'};line-height:1.6;">${item.problem || item.title}</div>
-          </div>
-        </div>
+        ` : ''}
 
       </div>
 
