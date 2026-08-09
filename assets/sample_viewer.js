@@ -215,6 +215,15 @@ function openSingleSample(id, lvl) {
       <span style="background:rgba(0,242,254,0.12);color:#00f2fe;border:1px solid rgba(0,242,254,0.3);font-weight:800;font-size:.78rem;padding:5px 14px;border-radius:14px;display:inline-block;margin-bottom:14px;">${item.tag || 'BÀI MẪU CHI TIẾT'}</span>
       <h2 style="font-size:1.5rem;font-weight:900;color:#f8fafc;margin:0 0 22px;line-height:1.35;">${item.title}</h2>
 
+      
+      <!-- EDUCATIONAL DISCLAIMER BANNER -->
+      <div style="background:rgba(245,158,11,0.12);border:1.5px solid rgba(245,158,11,0.4);border-radius:18px;padding:12px 18px;margin-bottom:20px;display:flex;align-items:center;gap:12px;color:#fcd34d;font-size:0.85rem;line-height:1.5;">
+        <span style="font-size:1.3rem;">⚠️</span>
+        <div>
+          <strong>LƯU Ý HỌC TẬP THAM KHẢO:</strong> Cổng thông tin & kho tài liệu học tập mang tính chất <em>THAM KHẢO</em>. Các bài giải mẫu và bài văn phân tích được tổng hợp hỗ trợ học sinh mở rộng tư duy ôn luyện, có thể tồn tại sơ sót nhỏ. Học sinh nên kết hợp đối chiếu với bài giảng chính thức của Thầy/Cô giáo trên lớp để đạt kết quả tốt nhất.
+        </div>
+      </div>
+
       <!-- ĐỀ BÀI -->
       <div style="background:rgba(59,130,246,0.08);border:1.5px solid rgba(59,130,246,0.3);border-radius:20px;padding:20px;margin-bottom:24px;">
         <div style="font-weight:900;color:#60a5fa;font-size:.92rem;margin-bottom:8px;display:flex;align-items:center;gap:8px;">
