@@ -1,154 +1,749 @@
 // ===== BÀI MẪU LỚP 11 & LỚP 12 (ĐẠT CHUẨN THPT QUỐC GIA & HSG 9.5+) =====
 window.SAMPLES_GRADE_11 = {
-  math: [
-    { id:'g11m1', tag:'GIỚI HẠN', title:'Tính lim(x→2) của (x²−4)/(x−2)',
-      problem:'Tính giới hạn: L = lim(x→2) (x²−4)/(x−2)',
-      solution:`<b>Bước 1:</b> Phân tích tử thức thành nhân tử: x² − 4 = (x − 2)(x + 2)<br>
-<b>Bước 2:</b> Khử dạng vô định (0/0) bằng cách rút gọn (x − 2):<br>
-L = lim(x→2) [(x − 2)(x + 2) / (x − 2)] = lim(x→2) (x + 2)<br>
-<b>Bước 3:</b> Thay x = 2 vào biểu thức đã rút gọn: L = 2 + 2 = <b>4</b>`
+  "math": [
+    {
+      "id": "g11_m_1",
+      "tag": "ĐẠI SỐ",
+      "title": "Bài tập Đại số Chuyên sâu Lớp 11 - Dạng 1: Phép tính & Biểu thức",
+      "problem": "<b>Đề bài (Bài tập Đại số Chuyên sâu Lớp 11 - Dạng 1: Phép tính & Biểu thức):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>ĐẠI SỐ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
     },
-    { id:'g11m2', tag:'ĐẠO HÀM', title:'Tính đạo hàm f(x) = x³ − 3x² + 2x − 5',
-      problem:"Tính f'(x) với hàm số f(x) = x³ − 3x² + 2x − 5",
-      solution:`Áp dụng công thức (xⁿ)' = n·xⁿ⁻¹ và (c·u)' = c·u':<br>
-(x³)' = 3x²<br>
-(−3x²)' = −6x<br>
-(2x)' = 2<br>
-(−5)' = 0<br>
-→ Kết quả: <b>f'(x) = 3x² − 6x + 2</b>`
-    }
-  ],
-  literature: [
-    { id:'g11l1', tag:'PHÂN TÍCH THƠ 9.5+', title:'Phân Tích Chi Tiết 3 Khổ Thơ "Đây Thôn Vĩ Dạ" - Hàn Mặc Tử',
-      problem:'Phân tích chi tiết từng từ ngữ, biện pháp nghệ thuật và viết bài văn phân tích hoàn chỉnh bài thơ "Đây thôn Vĩ Dạ" của Hàn Mặc Tử.',
-      analysis_breakdown:`
-<div style="background:rgba(0,242,254,0.05);padding:14px;border-radius:14px;border-left:4px solid #00f2fe;">
-  <b style="color:#00f2fe;">Khổ 1: Bức tranh vườn Vĩ Dạ ban mai</b>
-  <p style="margin:6px 0 0;line-height:1.7;">"Sao anh không về thăm thôn Vĩ?" — Lời trách móc nhẹ nhàng của người xứ Huế và lời tự vấn xót xa của Hàn Mặc Tử. "Nắng hàng cau nắng mới lên" gợi ánh nắng tinh khôi của bình minh hắt qua lá cau.</p>
-</div>`,
-      full_essay:`<b>MỞ BÀI:</b> Hàn Mặc Tử là ngôi sao kì dị và chói lọi nhất trên bầu trời Thơ Mới Việt Nam. Bài thơ "Đây thôn Vĩ Dạ" là bức tranh thiên nhiên tuyệt mỹ và khúc ca đắm thắm tha thiết tình người.`
-    }
-  ],
-  english: [
-    { id:'g11e1', tag:'RELATIVE CLAUSES', title:'Combining sentences using Relative Pronouns (Who, Which, That)',
-      problem:'Combine the two sentences: "The girl is sitting next to me. She is a talented pianist."',
-      solution:`<b>Analysis:</b> The subject "The girl" is a person, and "She" in the second sentence refers to "The girl".<br>
-<b>Rule:</b> Use relative pronoun <b>"who"</b> to replace "She".<br>
-<b>Result:</b> "The girl <b>who is sitting next to me</b> is a talented pianist."`
+    {
+      "id": "g11_m_2",
+      "tag": "ĐẠI SỐ",
+      "title": "Bài tập Đại số Chuyên sâu Lớp 11 - Dạng 2: Phương trình & Bất phương trình",
+      "problem": "<b>Đề bài (Bài tập Đại số Chuyên sâu Lớp 11 - Dạng 2: Phương trình & Bất phương trình):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>ĐẠI SỐ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
     },
-    { id:'g11e2', tag:'CONDITIONALS', title:'Mixed Conditionals Type 2 & 3 Explanation',
-      problem:'Rewrite using Mixed Conditionals: "I didn't eat breakfast this morning, so I am hungry now."',
-      solution:`<b>Cause:</b> Past action ("didn't eat") → If-clause uses Past Perfect (Had + V3).<br>
-<b>Effect:</b> Present result ("am hungry now") → Main clause uses Would + Verb.<br>
-<b>Result:</b> "If I <b>had eaten</b> breakfast this morning, I <b>wouldn't be</b> hungry now."`
-    }
-  ],
-  science: [
-    { id:'g11s1', tag:'VẬT LÝ 11 - ĐIỆN TÍCH', title:'Tính lực tương tác Cu-lông giữa 2 điện tích q₁ và q₂',
-      problem:'Cho hai điện tích q₁ = 2×10⁻⁸ C, q₂ = -4×10⁻⁸ C đặt cách nhau r = 3 cm = 0,03 m trong chân không. Tính độ lớn lực Cu-lông F.',
-      solution:`<b>Công thức ĐL Cu-lông:</b> F = k · |q₁·q₂| / r²<br>
-• k = 9×10⁹ N·m²/C²<br>
-• |q₁·q₂| = |2×10⁻⁸ × (-4×10⁻⁸)| = 8×10⁻¹⁶ C²<br>
-• r² = (0,03)² = 9×10⁻⁴ m²<br>
-<b>Thay số:</b> F = (9×10⁹ × 8×10⁻¹⁶) / 9×10⁻⁴ = (72×10⁻⁷) / 9×10⁻⁴ = <b>8×10⁻³ N = 0,008 N</b>`
+    {
+      "id": "g11_m_3",
+      "tag": "HÌNH HỌC",
+      "title": "Bài tập Hình học Lớp 11 - Dạng 1: Chứng minh & Tính góc/Độ dài",
+      "problem": "<b>Đề bài (Bài tập Hình học Lớp 11 - Dạng 1: Chứng minh & Tính góc/Độ dài):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>HÌNH HỌC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
     },
-    { id:'g11s2', tag:'HÓA HỌC 11 - ANKAN', title:'Bài toán phản ứng thế Halogen của Ankan (Mêtan + Clo)',
-      problem:'Viết phương trình phản ứng thế tỉ lệ 1:1 giữa CH₄ và Cl₂ khi chiếu sáng, gọi tên sản phẩm.',
-      solution:`<b>Phương trình phản ứng thế:</b><br>
-CH₄ + Cl₂ $\\xrightarrow{ánh\\ sáng}$ CH₃Cl + HCl<br>
-• CH₃Cl: Đọc tên là <b>Clorometan</b> (hoặc Metyl clorua).<br>
-<b>Cơ chế:</b> Thế gốc tự do (SR), nguyên tử Cl thế 1 nguyên tử H trong CH₄.`
+    {
+      "id": "g11_m_4",
+      "tag": "HÌNH HỌC",
+      "title": "Bài tập Hình học Lớp 11 - Dạng 2: Diện tích & Thể tích hình học",
+      "problem": "<b>Đề bài (Bài tập Hình học Lớp 11 - Dạng 2: Diện tích & Thể tích hình học):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>HÌNH HỌC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g11_m_5",
+      "tag": "SỐ HỌC",
+      "title": "Bài tập Số học Lớp 11 - Dạng 1: Tối ưu & Ước bội / Phân số",
+      "problem": "<b>Đề bài (Bài tập Số học Lớp 11 - Dạng 1: Tối ưu & Ước bội / Phân số):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>SỐ HỌC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g11_m_6",
+      "tag": "SỐ HỌC",
+      "title": "Bài tập Số học Lớp 11 - Dạng 2: Biến đổi dãy số & Quy luật",
+      "problem": "<b>Đề bài (Bài tập Số học Lớp 11 - Dạng 2: Biến đổi dãy số & Quy luật):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>SỐ HỌC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g11_m_7",
+      "tag": "TOÁN THỰC TẾ",
+      "title": "Bài toán Thực tế Lớp 11 - Bài toán Lãi suất & Tối ưu hóa",
+      "problem": "<b>Đề bài (Bài toán Thực tế Lớp 11 - Bài toán Lãi suất & Tối ưu hóa):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>TOÁN THỰC TẾ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g11_m_8",
+      "tag": "TOÁN THỰC TẾ",
+      "title": "Bài toán Thực tế Lớp 11 - Bài toán Chuyển động & Vận tốc",
+      "problem": "<b>Đề bài (Bài toán Thực tế Lớp 11 - Bài toán Chuyển động & Vận tốc):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>TOÁN THỰC TẾ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g11_m_9",
+      "tag": "GIẢI TÍCH",
+      "title": "Bài tập Giải tích Lớp 11 - Khảo sát & Hàm số nâng cao",
+      "problem": "<b>Đề bài (Bài tập Giải tích Lớp 11 - Khảo sát & Hàm số nâng cao):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>GIẢI TÍCH</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g11_m_10",
+      "tag": "TÍCH PHÂN / LƯỢNG GIÁC",
+      "title": "Bài tập Chuyên đề Lớp 11 - Biến đổi nâng cao",
+      "problem": "<b>Đề bài (Bài tập Chuyên đề Lớp 11 - Biến đổi nâng cao):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>TÍCH PHÂN / LƯỢNG GIÁC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g11_m_11",
+      "tag": "XÁC SUẤT",
+      "title": "Bài tập Xác suất & Thống kê Lớp 11 - Quy tắc đếm & Biến cố",
+      "problem": "<b>Đề bài (Bài tập Xác suất & Thống kê Lớp 11 - Quy tắc đếm & Biến cố):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>XÁC SUẤT</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g11_m_12",
+      "tag": "LOGARIT",
+      "title": "Bài tập Mũ & Logarit Lớp 11 - Phương trình & Bất phương trình",
+      "problem": "<b>Đề bài (Bài tập Mũ & Logarit Lớp 11 - Phương trình & Bất phương trình):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>LOGARIT</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g11_m_13",
+      "tag": "SỐ PHỨC",
+      "title": "Bài tập Số phức Lớp 11 - Biểu diễn hình học & Tập hợp điểm",
+      "problem": "<b>Đề bài (Bài tập Số phức Lớp 11 - Biểu diễn hình học & Tập hợp điểm):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>SỐ PHỨC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g11_m_14",
+      "tag": "OXYZ",
+      "title": "Bài tập Hình học Oxyz Lớp 11 - Phương trình Mặt phẳng & Đường thẳng",
+      "problem": "<b>Đề bài (Bài tập Hình học Oxyz Lớp 11 - Phương trình Mặt phẳng & Đường thẳng):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>OXYZ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g11_m_15",
+      "tag": "CỰC TRỊ",
+      "title": "Bài tập Cực trị & Giá trị Lớn nhất / Nhỏ nhất Lớp 11",
+      "problem": "<b>Đề bài (Bài tập Cực trị & Giá trị Lớn nhất / Nhỏ nhất Lớp 11):</b><br>Cho bài toán thuộc chương trình Toán Lớp 11: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>CỰC TRỊ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 11. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
     }
   ],
-  social: [
-    { id:'g11so1', tag:'LỊCH SỬ 11', title:'Phân tích Ý nghĩa Lịch sử của Cách mạng Tháng Mười Nga 1917',
-      problem:'Phân tích ý nghĩa lịch sử của Cách mạng tháng Mười Nga năm 1917 đối với nước Nga và thế giới.',
-      solution:`<b>1. Đối với nước Nga:</b><br>
-• Lần đầu tiên trong lịch sử, giai cấp công nhân và nhân dân lao động lên nắm chính quyền.<br>
-• Đập tan ách áp bức của chế độ Phong kiến Nga hoàng và giai cấp tư sản.<br><br>
-<b>2. Đối với thế giới:</b><br>
-• Mở ra thời đại mới — Thời kỳ Lịch sử Thế giới Hiện đại.<br>
-• Cổ vũ mạnh mẽ phong trào giải phóng dân tộc ở các nước thuộc địa (trong đó có Việt Nam).`
+  "literature": [
+    {
+      "id": "g11_l_1",
+      "tag": "PHÂN TÍCH TÁC PHẨM",
+      "title": "Phân tích tác phẩm Ngữ Văn trọng tâm Lớp 11 - Bài 1",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 11:</b> Phân tích tác phẩm Ngữ Văn trọng tâm Lớp 11 - Bài 1. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 11.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 11, chủ đề \"Phân tích tác phẩm Ngữ Văn trọng tâm Lớp 11 - Bài 1\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 11."
+    },
+    {
+      "id": "g11_l_2",
+      "tag": "PHÂN TÍCH THƠ",
+      "title": "Phân tích thơ ca & Nghệ thuật biểu cảm Lớp 11 - Bài 2",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 11:</b> Phân tích thơ ca & Nghệ thuật biểu cảm Lớp 11 - Bài 2. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 11.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 11, chủ đề \"Phân tích thơ ca & Nghệ thuật biểu cảm Lớp 11 - Bài 2\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 11."
+    },
+    {
+      "id": "g11_l_3",
+      "tag": "VĂN NGHỊ LUẬN XÃ HỘI",
+      "title": "Nghị luận Xã hội 200 chữ: Ý chí kiên cường & Lý tưởng sống Lớp 11",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 11:</b> Nghị luận Xã hội 200 chữ: Ý chí kiên cường & Lý tưởng sống Lớp 11. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 11.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 11, chủ đề \"Nghị luận Xã hội 200 chữ: Ý chí kiên cường & Lý tưởng sống Lớp 11\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 11."
+    },
+    {
+      "id": "g11_l_4",
+      "tag": "VĂN NGHỊ LUẬN XÃ HỘI",
+      "title": "Nghị luận Xã hội: Tinh thần Tự học & Đổi mới sáng tạo Lớp 11",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 11:</b> Nghị luận Xã hội: Tinh thần Tự học & Đổi mới sáng tạo Lớp 11. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 11.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 11, chủ đề \"Nghị luận Xã hội: Tinh thần Tự học & Đổi mới sáng tạo Lớp 11\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 11."
+    },
+    {
+      "id": "g11_l_5",
+      "tag": "VĂN NGHỊ LUẬN VĂN HỌC",
+      "title": "Nghị luận Văn học: Vẻ đẹp tâm hồn & Khát vọng con người Lớp 11",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 11:</b> Nghị luận Văn học: Vẻ đẹp tâm hồn & Khát vọng con người Lớp 11. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 11.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 11, chủ đề \"Nghị luận Văn học: Vẻ đẹp tâm hồn & Khát vọng con người Lớp 11\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 11."
+    },
+    {
+      "id": "g11_l_6",
+      "tag": "PHÂN TÍCH NHÂN VẬT",
+      "title": "Phân tích Nhân vật điển hình trong Tác phẩm Văn học Lớp 11",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 11:</b> Phân tích Nhân vật điển hình trong Tác phẩm Văn học Lớp 11. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 11.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 11, chủ đề \"Phân tích Nhân vật điển hình trong Tác phẩm Văn học Lớp 11\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 11."
+    },
+    {
+      "id": "g11_l_7",
+      "tag": "VĂN BIỂU CẢM",
+      "title": "Văn biểu cảm về Mái trường, Thầy cô & Quê hương Lớp 11",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 11:</b> Văn biểu cảm về Mái trường, Thầy cô & Quê hương Lớp 11. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 11.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 11, chủ đề \"Văn biểu cảm về Mái trường, Thầy cô & Quê hương Lớp 11\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 11."
+    },
+    {
+      "id": "g11_l_8",
+      "tag": "VĂN THUYẾT MÌNH",
+      "title": "Thuyết minh về danh lam thắng cảnh & Di tích lịch sử Lớp 11",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 11:</b> Thuyết minh về danh lam thắng cảnh & Di tích lịch sử Lớp 11. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 11.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 11, chủ đề \"Thuyết minh về danh lam thắng cảnh & Di tích lịch sử Lớp 11\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 11."
+    },
+    {
+      "id": "g11_l_9",
+      "tag": "VĂN TỰ SỰ",
+      "title": "Văn tự sự kết hợp miêu tả nội tâm sâu sắc Lớp 11",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 11:</b> Văn tự sự kết hợp miêu tả nội tâm sâu sắc Lớp 11. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 11.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 11, chủ đề \"Văn tự sự kết hợp miêu tả nội tâm sâu sắc Lớp 11\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 11."
+    },
+    {
+      "id": "g11_l_10",
+      "tag": "ĐỌC HIỂU VĂN BẢN",
+      "title": "Hướng dẫn trả lời Đọc hiểu Văn bản đạt điểm tối đa Lớp 11",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 11:</b> Hướng dẫn trả lời Đọc hiểu Văn bản đạt điểm tối đa Lớp 11. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 11.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 11, chủ đề \"Hướng dẫn trả lời Đọc hiểu Văn bản đạt điểm tối đa Lớp 11\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 11."
+    },
+    {
+      "id": "g11_l_11",
+      "tag": "LÍ LUẬN VĂN HỌC",
+      "title": "Chủ đề Lý luận Văn học: Chức năng văn học & Sáng tạo nghệ thuật Lớp 11",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 11:</b> Chủ đề Lý luận Văn học: Chức năng văn học & Sáng tạo nghệ thuật Lớp 11. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 11.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 11, chủ đề \"Chủ đề Lý luận Văn học: Chức năng văn học & Sáng tạo nghệ thuật Lớp 11\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 11."
+    },
+    {
+      "id": "g11_l_12",
+      "tag": "TỔNG ÔN THI",
+      "title": "Bài văn Mẫu Học sinh Giỏi & Ôn thi Chuyển cấp Lớp 11",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 11:</b> Bài văn Mẫu Học sinh Giỏi & Ôn thi Chuyển cấp Lớp 11. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 11.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 11, chủ đề \"Bài văn Mẫu Học sinh Giỏi & Ôn thi Chuyển cấp Lớp 11\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 11."
+    }
+  ],
+  "english": [
+    {
+      "id": "g11_e_1",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 11 - Topic 1: Tenses & Time Expressions Breakdown",
+      "problem": "<b>English Practice Exercise (Grade 11):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 11 - Topic 1: Tenses & Time Expressions Breakdown</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 11 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g11_e_2",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 11 - Topic 2: Passive Voice & Causative Structures",
+      "problem": "<b>English Practice Exercise (Grade 11):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 11 - Topic 2: Passive Voice & Causative Structures</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 11 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g11_e_3",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 11 - Topic 3: Reported Speech & Backshifting Rules",
+      "problem": "<b>English Practice Exercise (Grade 11):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 11 - Topic 3: Reported Speech & Backshifting Rules</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 11 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g11_e_4",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 11 - Topic 4: Relative Clauses & Reduced Relative Clauses",
+      "problem": "<b>English Practice Exercise (Grade 11):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 11 - Topic 4: Relative Clauses & Reduced Relative Clauses</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 11 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g11_e_5",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 11 - Topic 5: Conditionals & Wish Sentences",
+      "problem": "<b>English Practice Exercise (Grade 11):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 11 - Topic 5: Conditionals & Wish Sentences</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 11 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g11_e_6",
+      "tag": "ESSAY WRITING",
+      "title": "English Grade 11 - Topic 6: Opinion Essay on Environmental Protection",
+      "problem": "<b>English Practice Exercise (Grade 11):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 11 - Topic 6: Opinion Essay on Environmental Protection</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 11 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g11_e_7",
+      "tag": "ESSAY WRITING",
+      "title": "English Grade 11 - Topic 7: Academic Paragraph on Technology in Education",
+      "problem": "<b>English Practice Exercise (Grade 11):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 11 - Topic 7: Academic Paragraph on Technology in Education</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 11 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g11_e_8",
+      "tag": "READING COMPREHENSION",
+      "title": "English Grade 11 - Topic 8: Reading Passage & Vocabulary Strategy",
+      "problem": "<b>English Practice Exercise (Grade 11):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 11 - Topic 8: Reading Passage & Vocabulary Strategy</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 11 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    }
+  ],
+  "science": [
+    {
+      "id": "g11_s_1",
+      "tag": "VẬT LÝ / KHTN",
+      "title": "Vật Lý Lớp 11 - Chuyên đề 1: Cơ học & Động lực học",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 11:</b> Vật Lý Lớp 11 - Chuyên đề 1: Cơ học & Động lực học. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g11_s_2",
+      "tag": "VẬT LÝ / KHTN",
+      "title": "Vật Lý Lớp 11 - Chuyên đề 2: Điện học & Quang học",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 11:</b> Vật Lý Lớp 11 - Chuyên đề 2: Điện học & Quang học. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g11_s_3",
+      "tag": "HÓA HỌC / KHTN",
+      "title": "Hóa Học Lớp 11 - Chuyên đề 1: Phản ứng hóa học & Bảo toàn khối lượng",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 11:</b> Hóa Học Lớp 11 - Chuyên đề 1: Phản ứng hóa học & Bảo toàn khối lượng. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g11_s_4",
+      "tag": "HÓA HỌC / KHTN",
+      "title": "Hóa Học Lớp 11 - Chuyên đề 2: Tính nồng độ dung dịch & Số mol",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 11:</b> Hóa Học Lớp 11 - Chuyên đề 2: Tính nồng độ dung dịch & Số mol. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g11_s_5",
+      "tag": "SINH HỌC / KHTN",
+      "title": "Sinh Học Lớp 11 - Chuyên đề 1: Tế bào & Di truyền học",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 11:</b> Sinh Học Lớp 11 - Chuyên đề 1: Tế bào & Di truyền học. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g11_s_6",
+      "tag": "SINH HỌC / KHTN",
+      "title": "Sinh Học Lớp 11 - Chuyên đề 2: Sinh thái học & Bối cảnh môi trường",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 11:</b> Sinh Học Lớp 11 - Chuyên đề 2: Sinh thái học & Bối cảnh môi trường. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g11_s_7",
+      "tag": "KHTN THỰC NGHIỆM",
+      "title": "Bài tập KHTN Thực nghiệm & Đo lường Lớp 11",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 11:</b> Bài tập KHTN Thực nghiệm & Đo lường Lớp 11. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g11_s_8",
+      "tag": "KHTN TỔNG HỢP",
+      "title": "Tổng ôn tập KHTN / Lý Hóa Sinh Chuyên sâu Lớp 11",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 11:</b> Tổng ôn tập KHTN / Lý Hóa Sinh Chuyên sâu Lớp 11. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    }
+  ],
+  "social": [
+    {
+      "id": "g11_so_1",
+      "tag": "LỊCH SỬ",
+      "title": "Lịch Sử Lớp 11 - Chủ đề 1: Tiến trình Lịch sử & Các cuộc chiến thắng lẫy lừng",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 11:</b> Lịch Sử Lớp 11 - Chủ đề 1: Tiến trình Lịch sử & Các cuộc chiến thắng lẫy lừng. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 11."
+    },
+    {
+      "id": "g11_so_2",
+      "tag": "LỊCH SỬ",
+      "title": "Lịch Sử Lớp 11 - Chủ đề 2: Nguyên nhân & Bài học kinh nghiệm Lịch sử",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 11:</b> Lịch Sử Lớp 11 - Chủ đề 2: Nguyên nhân & Bài học kinh nghiệm Lịch sử. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 11."
+    },
+    {
+      "id": "g11_so_3",
+      "tag": "ĐỊA LÝ",
+      "title": "Địa Lý Lớp 11 - Chủ đề 1: Địa lý Tự nhiên & Khí hậu Việt Nam",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 11:</b> Địa Lý Lớp 11 - Chủ đề 1: Địa lý Tự nhiên & Khí hậu Việt Nam. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 11."
+    },
+    {
+      "id": "g11_so_4",
+      "tag": "ĐỊA LÝ",
+      "title": "Địa Lý Lớp 11 - Chủ đề 2: Kỹ năng Phân tích Bảng số liệu & Biểu đồ",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 11:</b> Địa Lý Lớp 11 - Chủ đề 2: Kỹ năng Phân tích Bảng số liệu & Biểu đồ. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 11."
+    },
+    {
+      "id": "g11_so_5",
+      "tag": "GDCD / GDKT&PL",
+      "title": "GDCD / GDKT&PL Lớp 11 - Tình huống Pháp luật & Đạo đức",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 11:</b> GDCD / GDKT&PL Lớp 11 - Tình huống Pháp luật & Đạo đức. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 11."
+    },
+    {
+      "id": "g11_so_6",
+      "tag": "GDCD / GDKT&PL",
+      "title": "GDCD / GDKT&PL Lớp 11 - Kinh tế thị trường & Quyền công dân",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 11:</b> GDCD / GDKT&PL Lớp 11 - Kinh tế thị trường & Quyền công dân. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 11."
+    },
+    {
+      "id": "g11_so_7",
+      "tag": "KHXH TỔNG HỢP",
+      "title": "Bài tập Tổng hợp Khoa học Xã hội Lớp 11",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 11:</b> Bài tập Tổng hợp Khoa học Xã hội Lớp 11. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 11."
     }
   ]
 };
-
 window.SAMPLES_GRADE_12 = {
-  math: [
-    { id:'g12m1', tag:'TÍCH PHÂN', title:'Tính ∫₀¹ x·eˣ dx bằng phương pháp tích phân từng phần',
-      problem:'Tính tích phân xác định: I = ∫₀¹ x·eˣ dx',
-      solution:`Dùng phương pháp tích phân từng phần: ∫ u dv = u·v − ∫ v du<br>
-<b>Đặt:</b> u = x ⇒ du = dx<br>
-dv = eˣ dx ⇒ v = eˣ<br>
-<b>Khi đó:</b> I = [x·eˣ]₀¹ − ∫₀¹ eˣ dx<br>
-= (1·e¹ − 0·e⁰) − [eˣ]₀¹<br>
-= e − (e¹ − e⁰) = e − e + 1 = <b>1</b>`
+  "math": [
+    {
+      "id": "g12_m_1",
+      "tag": "ĐẠI SỐ",
+      "title": "Bài tập Đại số Chuyên sâu Lớp 12 - Dạng 1: Phép tính & Biểu thức",
+      "problem": "<b>Đề bài (Bài tập Đại số Chuyên sâu Lớp 12 - Dạng 1: Phép tính & Biểu thức):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>ĐẠI SỐ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_2",
+      "tag": "ĐẠI SỐ",
+      "title": "Bài tập Đại số Chuyên sâu Lớp 12 - Dạng 2: Phương trình & Bất phương trình",
+      "problem": "<b>Đề bài (Bài tập Đại số Chuyên sâu Lớp 12 - Dạng 2: Phương trình & Bất phương trình):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>ĐẠI SỐ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_3",
+      "tag": "HÌNH HỌC",
+      "title": "Bài tập Hình học Lớp 12 - Dạng 1: Chứng minh & Tính góc/Độ dài",
+      "problem": "<b>Đề bài (Bài tập Hình học Lớp 12 - Dạng 1: Chứng minh & Tính góc/Độ dài):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>HÌNH HỌC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_4",
+      "tag": "HÌNH HỌC",
+      "title": "Bài tập Hình học Lớp 12 - Dạng 2: Diện tích & Thể tích hình học",
+      "problem": "<b>Đề bài (Bài tập Hình học Lớp 12 - Dạng 2: Diện tích & Thể tích hình học):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>HÌNH HỌC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_5",
+      "tag": "SỐ HỌC",
+      "title": "Bài tập Số học Lớp 12 - Dạng 1: Tối ưu & Ước bội / Phân số",
+      "problem": "<b>Đề bài (Bài tập Số học Lớp 12 - Dạng 1: Tối ưu & Ước bội / Phân số):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>SỐ HỌC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_6",
+      "tag": "SỐ HỌC",
+      "title": "Bài tập Số học Lớp 12 - Dạng 2: Biến đổi dãy số & Quy luật",
+      "problem": "<b>Đề bài (Bài tập Số học Lớp 12 - Dạng 2: Biến đổi dãy số & Quy luật):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>SỐ HỌC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_7",
+      "tag": "TOÁN THỰC TẾ",
+      "title": "Bài toán Thực tế Lớp 12 - Bài toán Lãi suất & Tối ưu hóa",
+      "problem": "<b>Đề bài (Bài toán Thực tế Lớp 12 - Bài toán Lãi suất & Tối ưu hóa):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>TOÁN THỰC TẾ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_8",
+      "tag": "TOÁN THỰC TẾ",
+      "title": "Bài toán Thực tế Lớp 12 - Bài toán Chuyển động & Vận tốc",
+      "problem": "<b>Đề bài (Bài toán Thực tế Lớp 12 - Bài toán Chuyển động & Vận tốc):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>TOÁN THỰC TẾ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_9",
+      "tag": "GIẢI TÍCH",
+      "title": "Bài tập Giải tích Lớp 12 - Khảo sát & Hàm số nâng cao",
+      "problem": "<b>Đề bài (Bài tập Giải tích Lớp 12 - Khảo sát & Hàm số nâng cao):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>GIẢI TÍCH</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_10",
+      "tag": "TÍCH PHÂN / LƯỢNG GIÁC",
+      "title": "Bài tập Chuyên đề Lớp 12 - Biến đổi nâng cao",
+      "problem": "<b>Đề bài (Bài tập Chuyên đề Lớp 12 - Biến đổi nâng cao):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>TÍCH PHÂN / LƯỢNG GIÁC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_11",
+      "tag": "XÁC SUẤT",
+      "title": "Bài tập Xác suất & Thống kê Lớp 12 - Quy tắc đếm & Biến cố",
+      "problem": "<b>Đề bài (Bài tập Xác suất & Thống kê Lớp 12 - Quy tắc đếm & Biến cố):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>XÁC SUẤT</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_12",
+      "tag": "LOGARIT",
+      "title": "Bài tập Mũ & Logarit Lớp 12 - Phương trình & Bất phương trình",
+      "problem": "<b>Đề bài (Bài tập Mũ & Logarit Lớp 12 - Phương trình & Bất phương trình):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>LOGARIT</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_13",
+      "tag": "SỐ PHỨC",
+      "title": "Bài tập Số phức Lớp 12 - Biểu diễn hình học & Tập hợp điểm",
+      "problem": "<b>Đề bài (Bài tập Số phức Lớp 12 - Biểu diễn hình học & Tập hợp điểm):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>SỐ PHỨC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_14",
+      "tag": "OXYZ",
+      "title": "Bài tập Hình học Oxyz Lớp 12 - Phương trình Mặt phẳng & Đường thẳng",
+      "problem": "<b>Đề bài (Bài tập Hình học Oxyz Lớp 12 - Phương trình Mặt phẳng & Đường thẳng):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>OXYZ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g12_m_15",
+      "tag": "CỰC TRỊ",
+      "title": "Bài tập Cực trị & Giá trị Lớn nhất / Nhỏ nhất Lớp 12",
+      "problem": "<b>Đề bài (Bài tập Cực trị & Giá trị Lớn nhất / Nhỏ nhất Lớp 12):</b><br>Cho bài toán thuộc chương trình Toán Lớp 12: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>CỰC TRỊ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 12. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
     }
   ],
-  literature: [
-    { id:'g12l1', tag:'PHÂN TÍCH THƠ 9.5+', title:'Phân Tích Bức Tranh Thiên Nhiên & Hình Tượng Người Lính Tây Tiến - Quang Dũng',
-      problem:'Phân tích hoàn chỉnh bài thơ "Tây Tiến" của Quang Dũng.',
-      analysis_breakdown:`
-<div style="background:rgba(0,242,254,0.05);padding:14px;border-radius:14px;border-left:4px solid #00f2fe;">
-  <b style="color:#00f2fe;">Thiên nhiên dữ dội & Hào hoa bi tráng</b>
-  <p style="margin:6px 0 0;line-height:1.7;">"Dốc lên khúc khuỷu dốc thăm thẳm / Heo hút cồn mây súng ngửi trời" — Biện pháp nhân hóa hóm hỉnh "súng ngửi trời" thể hiện tinh thần kiên cường lạc quan của người chiến sĩ Hà Thành.</p>
-</div>`,
-      full_essay:`<b>MỞ BÀI:</b> "Tây Tiến" là tượng đài bất tử bằng thơ khắc họa chân dung thế hệ trẻ Việt Nam thời kỳ đầu kháng chiến chống Pháp.`
+  "literature": [
+    {
+      "id": "g12_l_1",
+      "tag": "PHÂN TÍCH TÁC PHẨM",
+      "title": "Phân tích tác phẩm Ngữ Văn trọng tâm Lớp 12 - Bài 1",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 12:</b> Phân tích tác phẩm Ngữ Văn trọng tâm Lớp 12 - Bài 1. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 12.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 12, chủ đề \"Phân tích tác phẩm Ngữ Văn trọng tâm Lớp 12 - Bài 1\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 12."
+    },
+    {
+      "id": "g12_l_2",
+      "tag": "PHÂN TÍCH THƠ",
+      "title": "Phân tích thơ ca & Nghệ thuật biểu cảm Lớp 12 - Bài 2",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 12:</b> Phân tích thơ ca & Nghệ thuật biểu cảm Lớp 12 - Bài 2. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 12.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 12, chủ đề \"Phân tích thơ ca & Nghệ thuật biểu cảm Lớp 12 - Bài 2\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 12."
+    },
+    {
+      "id": "g12_l_3",
+      "tag": "VĂN NGHỊ LUẬN XÃ HỘI",
+      "title": "Nghị luận Xã hội 200 chữ: Ý chí kiên cường & Lý tưởng sống Lớp 12",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 12:</b> Nghị luận Xã hội 200 chữ: Ý chí kiên cường & Lý tưởng sống Lớp 12. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 12.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 12, chủ đề \"Nghị luận Xã hội 200 chữ: Ý chí kiên cường & Lý tưởng sống Lớp 12\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 12."
+    },
+    {
+      "id": "g12_l_4",
+      "tag": "VĂN NGHỊ LUẬN XÃ HỘI",
+      "title": "Nghị luận Xã hội: Tinh thần Tự học & Đổi mới sáng tạo Lớp 12",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 12:</b> Nghị luận Xã hội: Tinh thần Tự học & Đổi mới sáng tạo Lớp 12. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 12.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 12, chủ đề \"Nghị luận Xã hội: Tinh thần Tự học & Đổi mới sáng tạo Lớp 12\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 12."
+    },
+    {
+      "id": "g12_l_5",
+      "tag": "VĂN NGHỊ LUẬN VĂN HỌC",
+      "title": "Nghị luận Văn học: Vẻ đẹp tâm hồn & Khát vọng con người Lớp 12",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 12:</b> Nghị luận Văn học: Vẻ đẹp tâm hồn & Khát vọng con người Lớp 12. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 12.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 12, chủ đề \"Nghị luận Văn học: Vẻ đẹp tâm hồn & Khát vọng con người Lớp 12\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 12."
+    },
+    {
+      "id": "g12_l_6",
+      "tag": "PHÂN TÍCH NHÂN VẬT",
+      "title": "Phân tích Nhân vật điển hình trong Tác phẩm Văn học Lớp 12",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 12:</b> Phân tích Nhân vật điển hình trong Tác phẩm Văn học Lớp 12. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 12.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 12, chủ đề \"Phân tích Nhân vật điển hình trong Tác phẩm Văn học Lớp 12\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 12."
+    },
+    {
+      "id": "g12_l_7",
+      "tag": "VĂN BIỂU CẢM",
+      "title": "Văn biểu cảm về Mái trường, Thầy cô & Quê hương Lớp 12",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 12:</b> Văn biểu cảm về Mái trường, Thầy cô & Quê hương Lớp 12. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 12.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 12, chủ đề \"Văn biểu cảm về Mái trường, Thầy cô & Quê hương Lớp 12\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 12."
+    },
+    {
+      "id": "g12_l_8",
+      "tag": "VĂN THUYẾT MÌNH",
+      "title": "Thuyết minh về danh lam thắng cảnh & Di tích lịch sử Lớp 12",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 12:</b> Thuyết minh về danh lam thắng cảnh & Di tích lịch sử Lớp 12. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 12.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 12, chủ đề \"Thuyết minh về danh lam thắng cảnh & Di tích lịch sử Lớp 12\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 12."
+    },
+    {
+      "id": "g12_l_9",
+      "tag": "VĂN TỰ SỰ",
+      "title": "Văn tự sự kết hợp miêu tả nội tâm sâu sắc Lớp 12",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 12:</b> Văn tự sự kết hợp miêu tả nội tâm sâu sắc Lớp 12. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 12.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 12, chủ đề \"Văn tự sự kết hợp miêu tả nội tâm sâu sắc Lớp 12\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 12."
+    },
+    {
+      "id": "g12_l_10",
+      "tag": "ĐỌC HIỂU VĂN BẢN",
+      "title": "Hướng dẫn trả lời Đọc hiểu Văn bản đạt điểm tối đa Lớp 12",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 12:</b> Hướng dẫn trả lời Đọc hiểu Văn bản đạt điểm tối đa Lớp 12. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 12.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 12, chủ đề \"Hướng dẫn trả lời Đọc hiểu Văn bản đạt điểm tối đa Lớp 12\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 12."
+    },
+    {
+      "id": "g12_l_11",
+      "tag": "LÍ LUẬN VĂN HỌC",
+      "title": "Chủ đề Lý luận Văn học: Chức năng văn học & Sáng tạo nghệ thuật Lớp 12",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 12:</b> Chủ đề Lý luận Văn học: Chức năng văn học & Sáng tạo nghệ thuật Lớp 12. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 12.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 12, chủ đề \"Chủ đề Lý luận Văn học: Chức năng văn học & Sáng tạo nghệ thuật Lớp 12\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 12."
+    },
+    {
+      "id": "g12_l_12",
+      "tag": "TỔNG ÔN THI",
+      "title": "Bài văn Mẫu Học sinh Giỏi & Ôn thi Chuyển cấp Lớp 12",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 12:</b> Bài văn Mẫu Học sinh Giỏi & Ôn thi Chuyển cấp Lớp 12. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 12.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 12, chủ đề \"Bài văn Mẫu Học sinh Giỏi & Ôn thi Chuyển cấp Lớp 12\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 12."
     }
   ],
-  english: [
-    { id:'g12e1', tag:'PASSIVE VOICE ADVANCED', title:'Special Passive Structures (It is said that... / Causative Form)',
-      problem:'Rewrite into Passive Voice: "People say that he won the lottery last night."',
-      solution:`<b>Form 1 (Impersonal Passive):</b> "It is said that he won the lottery last night."<br>
-<b>Form 2 (Personal Passive):</b> "He is said <b>to have won</b> the lottery last night." (Use "to have V3" because the winning action happened in the past relative to "is said").`
+  "english": [
+    {
+      "id": "g12_e_1",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 12 - Topic 1: Tenses & Time Expressions Breakdown",
+      "problem": "<b>English Practice Exercise (Grade 12):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 12 - Topic 1: Tenses & Time Expressions Breakdown</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 12 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
     },
-    { id:'g12e2', tag:'ESSAY WRITING THPTQG', title:'Sample Paragraph: The Benefits of Higher Education',
-      problem:'Write a paragraph (150-180 words) about the importance of going to university.',
-      solution:`<b>Topic Sentence:</b> Pursuing higher education plays a pivotal role in opening up numerous career opportunities and personal growth.<br>
-<b>Body Points:</b><br>
-1. Acquire specialized knowledge and practical skills.<br>
-2. Broaden social networks and improve critical thinking.<br>
-<b>Concluding Sentence:</b> In conclusion, university education serves as a solid stepping stone for young individuals to thrive in the modern world.`
+    {
+      "id": "g12_e_2",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 12 - Topic 2: Passive Voice & Causative Structures",
+      "problem": "<b>English Practice Exercise (Grade 12):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 12 - Topic 2: Passive Voice & Causative Structures</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 12 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g12_e_3",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 12 - Topic 3: Reported Speech & Backshifting Rules",
+      "problem": "<b>English Practice Exercise (Grade 12):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 12 - Topic 3: Reported Speech & Backshifting Rules</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 12 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g12_e_4",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 12 - Topic 4: Relative Clauses & Reduced Relative Clauses",
+      "problem": "<b>English Practice Exercise (Grade 12):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 12 - Topic 4: Relative Clauses & Reduced Relative Clauses</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 12 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g12_e_5",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 12 - Topic 5: Conditionals & Wish Sentences",
+      "problem": "<b>English Practice Exercise (Grade 12):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 12 - Topic 5: Conditionals & Wish Sentences</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 12 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g12_e_6",
+      "tag": "ESSAY WRITING",
+      "title": "English Grade 12 - Topic 6: Opinion Essay on Environmental Protection",
+      "problem": "<b>English Practice Exercise (Grade 12):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 12 - Topic 6: Opinion Essay on Environmental Protection</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 12 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g12_e_7",
+      "tag": "ESSAY WRITING",
+      "title": "English Grade 12 - Topic 7: Academic Paragraph on Technology in Education",
+      "problem": "<b>English Practice Exercise (Grade 12):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 12 - Topic 7: Academic Paragraph on Technology in Education</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 12 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g12_e_8",
+      "tag": "READING COMPREHENSION",
+      "title": "English Grade 12 - Topic 8: Reading Passage & Vocabulary Strategy",
+      "problem": "<b>English Practice Exercise (Grade 12):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 12 - Topic 8: Reading Passage & Vocabulary Strategy</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 12 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
     }
   ],
-  science: [
-    { id:'g12s1', tag:'VẬT LÝ 12 - MẠCH RLC', title:'Tính trở kháng Z và dòng điện hiệu dụng I trong mạch RLC nối tiếp',
-      problem:'Cho mạch RLC nối tiếp có R = 30 Ω, cảm kháng Z_L = 80 Ω, tụ điện Z_C = 40 Ω. Điện áp hiệu dụng U = 100 V. Tính I.',
-      solution:`<b>Bước 1:</b> Tính tổng trở Z của mạch:<br>
-Z = √[R² + (Z_L − Z_C)²] = √[30² + (80 − 40)²] = √[900 + 1600] = √[2500] = <b>50 Ω</b><br>
-<b>Bước 2:</b> Tính cường độ dòng điện hiệu dụng I:<br>
-I = U / Z = 100 / 50 = <b>2 A</b>`
+  "science": [
+    {
+      "id": "g12_s_1",
+      "tag": "VẬT LÝ / KHTN",
+      "title": "Vật Lý Lớp 12 - Chuyên đề 1: Cơ học & Động lực học",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 12:</b> Vật Lý Lớp 12 - Chuyên đề 1: Cơ học & Động lực học. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
     },
-    { id:'g12s2', tag:'HÓA HỌC 12 - ESTE', title:'Bài toán phản ứng xà phòng hóa Este Đơn Chức',
-      problem:'Cho 8,8g este X có công thức C₄H₈O₂ tác dụng vừa đủ với 100ml dung dịch NaOH 1M. Cô cạn dung dịch thu được m gram muối. Xác định tên X và m.',
-      solution:`<b>Bước 1:</b> Số mol NaOH = 0,1 × 1 = 0,1 mol.<br>
-<b>Bước 2:</b> M_X = 8,8 / 0,1 = 88 g/mol (Phù hợp C₄H₈O₂).<br>
-<b>Bước 3:</b> Vì n_este = n_NaOH = 0,1 mol ⇒ X là este đơn chức RCOOR'.<br>
-Nếu X là Etyl axetat (CH₃COOC₂H₅):<br>
-Muối thu được là CH₃COONa (M = 82 g/mol).<br>
-⇒ Khối lượng muối m = 0,1 × 82 = <b>8,2g</b>.`
+    {
+      "id": "g12_s_2",
+      "tag": "VẬT LÝ / KHTN",
+      "title": "Vật Lý Lớp 12 - Chuyên đề 2: Điện học & Quang học",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 12:</b> Vật Lý Lớp 12 - Chuyên đề 2: Điện học & Quang học. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
     },
-    { id:'g12s3', tag:'SINH HỌC 12 - ADN', title:'Bài toán tính chiều dài và số liên kết hiđrô của phân tử ADN',
-      problem:'Một gen có tổng số nuclêôtit N = 3000, trong đó A = 600. Tính chiều dài L và số liên kết hiđrô H.',
-      solution:`<b>1. Chiều dài gen (L):</b> L = (N / 2) × 3,4 Å = (3000 / 2) × 3,4 = 1500 × 3,4 = <b>5100 Å = 510 nm</b>.<br>
-<b>2. Theo nguyên tắc bổ sung:</b> A = T = 600 ⇒ G = X = (N/2) − A = 1500 − 600 = 900.<br>
-<b>3. Số liên kết hiđrô (H):</b> H = 2A + 3G = 2(600) + 3(900) = 1200 + 2700 = <b>3900 liên kết</b>.`
+    {
+      "id": "g12_s_3",
+      "tag": "HÓA HỌC / KHTN",
+      "title": "Hóa Học Lớp 12 - Chuyên đề 1: Phản ứng hóa học & Bảo toàn khối lượng",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 12:</b> Hóa Học Lớp 12 - Chuyên đề 1: Phản ứng hóa học & Bảo toàn khối lượng. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g12_s_4",
+      "tag": "HÓA HỌC / KHTN",
+      "title": "Hóa Học Lớp 12 - Chuyên đề 2: Tính nồng độ dung dịch & Số mol",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 12:</b> Hóa Học Lớp 12 - Chuyên đề 2: Tính nồng độ dung dịch & Số mol. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g12_s_5",
+      "tag": "SINH HỌC / KHTN",
+      "title": "Sinh Học Lớp 12 - Chuyên đề 1: Tế bào & Di truyền học",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 12:</b> Sinh Học Lớp 12 - Chuyên đề 1: Tế bào & Di truyền học. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g12_s_6",
+      "tag": "SINH HỌC / KHTN",
+      "title": "Sinh Học Lớp 12 - Chuyên đề 2: Sinh thái học & Bối cảnh môi trường",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 12:</b> Sinh Học Lớp 12 - Chuyên đề 2: Sinh thái học & Bối cảnh môi trường. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g12_s_7",
+      "tag": "KHTN THỰC NGHIỆM",
+      "title": "Bài tập KHTN Thực nghiệm & Đo lường Lớp 12",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 12:</b> Bài tập KHTN Thực nghiệm & Đo lường Lớp 12. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g12_s_8",
+      "tag": "KHTN TỔNG HỢP",
+      "title": "Tổng ôn tập KHTN / Lý Hóa Sinh Chuyên sâu Lớp 12",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 12:</b> Tổng ôn tập KHTN / Lý Hóa Sinh Chuyên sâu Lớp 12. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
     }
   ],
-  social: [
-    { id:'g12so1', tag:'LỊCH SỬ 12 - CM T8', title:'Phân tích Nguyên nhân thắng lợi của Cách mạng Tháng Bảy 1945',
-      problem:'Phân tích nguyên nhân chủ quan quyết định thắng lợi của Cách mạng tháng Tám năm 1945.',
-      solution:`<b>1. Sự lãnh đạo sáng suốt của Đảng & Chủ tịch Hồ Chí Minh:</b><br>
-• Đường lối cách mạng đúng đắn, chớp thời cơ ngàn năm có một khi Nhật đầu hàng Đồng minh.<br><br>
-<b>2. Khối đại đoàn kết toàn dân tộc:</b><br>
-• Sự chuẩn bị chu đáo suốt 15 năm (1930 - 1945) qua 3 phong trào cách mạng lớn.<br>
-• Mặt trận Việt Minh tập hợp mọi tầng lớp nhân dân yêu nước.`
+  "social": [
+    {
+      "id": "g12_so_1",
+      "tag": "LỊCH SỬ",
+      "title": "Lịch Sử Lớp 12 - Chủ đề 1: Tiến trình Lịch sử & Các cuộc chiến thắng lẫy lừng",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 12:</b> Lịch Sử Lớp 12 - Chủ đề 1: Tiến trình Lịch sử & Các cuộc chiến thắng lẫy lừng. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 12."
     },
-    { id:'g12so2', tag:'ĐỊA LÝ 12 - TỰ NHIÊN', title:'Phân tích Đặc điểm Thiên Nhiên Nhiệt Đới Ẩm Gió Mùa Việt Nam',
-      problem:'Tại sao khí hậu Việt Nam mang tính chất nhiệt đới ẩm gió mùa?',
-      solution:`<b>1. Tính chất Nhiệt đới:</b> Vị trí nằm trong vùng nội chí tuyến Bắc bán cầu → Góc chiếu lớn, tổng bức xạ dồi dào, nhiệt độ TB > 20°C.<br>
-<b>2. Tính chất Ẩm:</b> Giáp biển Đông rộng lớn, các khối khí đi qua biển mang lại lượng mưa lớn (1500 - 2000 mm/năm).<br>
-<b>3. Tính chất Gió mùa:</b> Nằm trong vùng hoạt động của gió mùa Đông Nam Á (Gió mùa mùa đông & Gió mùa mùa hạ).`
+    {
+      "id": "g12_so_2",
+      "tag": "LỊCH SỬ",
+      "title": "Lịch Sử Lớp 12 - Chủ đề 2: Nguyên nhân & Bài học kinh nghiệm Lịch sử",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 12:</b> Lịch Sử Lớp 12 - Chủ đề 2: Nguyên nhân & Bài học kinh nghiệm Lịch sử. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 12."
+    },
+    {
+      "id": "g12_so_3",
+      "tag": "ĐỊA LÝ",
+      "title": "Địa Lý Lớp 12 - Chủ đề 1: Địa lý Tự nhiên & Khí hậu Việt Nam",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 12:</b> Địa Lý Lớp 12 - Chủ đề 1: Địa lý Tự nhiên & Khí hậu Việt Nam. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 12."
+    },
+    {
+      "id": "g12_so_4",
+      "tag": "ĐỊA LÝ",
+      "title": "Địa Lý Lớp 12 - Chủ đề 2: Kỹ năng Phân tích Bảng số liệu & Biểu đồ",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 12:</b> Địa Lý Lớp 12 - Chủ đề 2: Kỹ năng Phân tích Bảng số liệu & Biểu đồ. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 12."
+    },
+    {
+      "id": "g12_so_5",
+      "tag": "GDCD / GDKT&PL",
+      "title": "GDCD / GDKT&PL Lớp 12 - Tình huống Pháp luật & Đạo đức",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 12:</b> GDCD / GDKT&PL Lớp 12 - Tình huống Pháp luật & Đạo đức. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 12."
+    },
+    {
+      "id": "g12_so_6",
+      "tag": "GDCD / GDKT&PL",
+      "title": "GDCD / GDKT&PL Lớp 12 - Kinh tế thị trường & Quyền công dân",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 12:</b> GDCD / GDKT&PL Lớp 12 - Kinh tế thị trường & Quyền công dân. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 12."
+    },
+    {
+      "id": "g12_so_7",
+      "tag": "KHXH TỔNG HỢP",
+      "title": "Bài tập Tổng hợp Khoa học Xã hội Lớp 12",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 12:</b> Bài tập Tổng hợp Khoa học Xã hội Lớp 12. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 12."
     }
   ]
 };

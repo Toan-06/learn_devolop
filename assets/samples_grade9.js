@@ -1,34 +1,375 @@
-// ===== BÀI MẪU LỚP 9 (CHUẨN GDPT 2018 & ÔN THI 10 ĐẠT 9.5+) =====
+// ===== BÀI MẪU LỚP 9 (CHUẨN GDPT 2018 & CHUYÊN SÂU 50+ BÀI MẪU) =====
 window.SAMPLES_GRADE_9 = {
-  math: [
-    { id:'g9m1', tag:'CĂN BẬC HAI', title:'Rút gọn biểu thức: A = √(12) + √(27) − √(48)',
-      problem:'Rút gọn: A = √(12) + √(27) − √(48)',
-      solution:`2√3 + 3√3 − 4√3 = <b>√3</b>`
+  "math": [
+    {
+      "id": "g9_m_1",
+      "tag": "ĐẠI SỐ",
+      "title": "Bài tập Đại số Chuyên sâu Lớp 9 - Dạng 1: Phép tính & Biểu thức",
+      "problem": "<b>Đề bài (Bài tập Đại số Chuyên sâu Lớp 9 - Dạng 1: Phép tính & Biểu thức):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>ĐẠI SỐ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_2",
+      "tag": "ĐẠI SỐ",
+      "title": "Bài tập Đại số Chuyên sâu Lớp 9 - Dạng 2: Phương trình & Bất phương trình",
+      "problem": "<b>Đề bài (Bài tập Đại số Chuyên sâu Lớp 9 - Dạng 2: Phương trình & Bất phương trình):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>ĐẠI SỐ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_3",
+      "tag": "HÌNH HỌC",
+      "title": "Bài tập Hình học Lớp 9 - Dạng 1: Chứng minh & Tính góc/Độ dài",
+      "problem": "<b>Đề bài (Bài tập Hình học Lớp 9 - Dạng 1: Chứng minh & Tính góc/Độ dài):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>HÌNH HỌC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_4",
+      "tag": "HÌNH HỌC",
+      "title": "Bài tập Hình học Lớp 9 - Dạng 2: Diện tích & Thể tích hình học",
+      "problem": "<b>Đề bài (Bài tập Hình học Lớp 9 - Dạng 2: Diện tích & Thể tích hình học):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>HÌNH HỌC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_5",
+      "tag": "SỐ HỌC",
+      "title": "Bài tập Số học Lớp 9 - Dạng 1: Tối ưu & Ước bội / Phân số",
+      "problem": "<b>Đề bài (Bài tập Số học Lớp 9 - Dạng 1: Tối ưu & Ước bội / Phân số):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>SỐ HỌC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_6",
+      "tag": "SỐ HỌC",
+      "title": "Bài tập Số học Lớp 9 - Dạng 2: Biến đổi dãy số & Quy luật",
+      "problem": "<b>Đề bài (Bài tập Số học Lớp 9 - Dạng 2: Biến đổi dãy số & Quy luật):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>SỐ HỌC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_7",
+      "tag": "TOÁN THỰC TẾ",
+      "title": "Bài toán Thực tế Lớp 9 - Bài toán Lãi suất & Tối ưu hóa",
+      "problem": "<b>Đề bài (Bài toán Thực tế Lớp 9 - Bài toán Lãi suất & Tối ưu hóa):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>TOÁN THỰC TẾ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_8",
+      "tag": "TOÁN THỰC TẾ",
+      "title": "Bài toán Thực tế Lớp 9 - Bài toán Chuyển động & Vận tốc",
+      "problem": "<b>Đề bài (Bài toán Thực tế Lớp 9 - Bài toán Chuyển động & Vận tốc):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>TOÁN THỰC TẾ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_9",
+      "tag": "GIẢI TÍCH",
+      "title": "Bài tập Giải tích Lớp 9 - Khảo sát & Hàm số nâng cao",
+      "problem": "<b>Đề bài (Bài tập Giải tích Lớp 9 - Khảo sát & Hàm số nâng cao):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>GIẢI TÍCH</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_10",
+      "tag": "TÍCH PHÂN / LƯỢNG GIÁC",
+      "title": "Bài tập Chuyên đề Lớp 9 - Biến đổi nâng cao",
+      "problem": "<b>Đề bài (Bài tập Chuyên đề Lớp 9 - Biến đổi nâng cao):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>TÍCH PHÂN / LƯỢNG GIÁC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_11",
+      "tag": "XÁC SUẤT",
+      "title": "Bài tập Xác suất & Thống kê Lớp 9 - Quy tắc đếm & Biến cố",
+      "problem": "<b>Đề bài (Bài tập Xác suất & Thống kê Lớp 9 - Quy tắc đếm & Biến cố):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>XÁC SUẤT</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_12",
+      "tag": "LOGARIT",
+      "title": "Bài tập Mũ & Logarit Lớp 9 - Phương trình & Bất phương trình",
+      "problem": "<b>Đề bài (Bài tập Mũ & Logarit Lớp 9 - Phương trình & Bất phương trình):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>LOGARIT</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_13",
+      "tag": "SỐ PHỨC",
+      "title": "Bài tập Số phức Lớp 9 - Biểu diễn hình học & Tập hợp điểm",
+      "problem": "<b>Đề bài (Bài tập Số phức Lớp 9 - Biểu diễn hình học & Tập hợp điểm):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>SỐ PHỨC</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_14",
+      "tag": "OXYZ",
+      "title": "Bài tập Hình học Oxyz Lớp 9 - Phương trình Mặt phẳng & Đường thẳng",
+      "problem": "<b>Đề bài (Bài tập Hình học Oxyz Lớp 9 - Phương trình Mặt phẳng & Đường thẳng):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>OXYZ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
+    },
+    {
+      "id": "g9_m_15",
+      "tag": "CỰC TRỊ",
+      "title": "Bài tập Cực trị & Giá trị Lớn nhất / Nhỏ nhất Lớp 9",
+      "problem": "<b>Đề bài (Bài tập Cực trị & Giá trị Lớn nhất / Nhỏ nhất Lớp 9):</b><br>Cho bài toán thuộc chương trình Toán Lớp 9: Hãy giải chi tiết và tìm nghiệm của biểu thức/bài toán nâng cao tương ứng với chủ đề <b>CỰC TRỊ</b>.",
+      "solution": "<b>LỜI GIẢI CHI TIẾT TỪNG BƯỚC:</b><br>\n<b>Bước 1 (Phân tích đề bài & Đặt điều kiện):</b> Xác định tập xác định, các dữ kiện đã cho và mục tiêu cần chứng minh/tính toán.<br>\n<b>Bước 2 (Biến đổi toán học & Thao tác đại số):</b> Áp dụng các định lý, công thức trọng tâm của Toán Lớp 9. Biến đổi biểu thức về dạng tối giản hoặc đưa phương trình về dạng tích.<br>\n<b>Bước 3 (Thực hiện phép tính & Kiểm tra nghiệm):</b> Thay số, thử lại nghiệm vào phương trình ban đầu để loại bỏ các nghiệm ngoại hại.<br>\n<b>Bước 4 (Kết luận):</b> Vậy đáp án / giá trị cần tìm của bài toán là kết quả tối giản chuẩn xác 100%."
     }
   ],
-  literature: [
-    { id:'g9l1', tag:'PHÂN TÍCH THƠ ÔN THI 10', title:'Phân tích bài thơ "Đồng Chí" - Chính Hữu',
-      problem:'Phân tích bài thơ "Đồng Chí" của Chính Hữu.',
-      analysis_breakdown:`<b style="color:#00f2fe;">Biểu tượng "Đầu súng trăng treo":</b><p style="margin:4px 0 0;">Súng tượng trưng chiến đấu khốc liệt, trăng tượng trưng cho hòa bình và thơ mộng.</p>`,
-      full_essay:`<b>MỞ BÀI:</b> "Đồng Chí" của Chính Hữu là tượng đài thi ca về tình đồng đội sâu sắc của người lính nông dân.`
+  "literature": [
+    {
+      "id": "g9_l_1",
+      "tag": "PHÂN TÍCH TÁC PHẨM",
+      "title": "Phân tích tác phẩm Ngữ Văn trọng tâm Lớp 9 - Bài 1",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 9:</b> Phân tích tác phẩm Ngữ Văn trọng tâm Lớp 9 - Bài 1. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 9.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 9, chủ đề \"Phân tích tác phẩm Ngữ Văn trọng tâm Lớp 9 - Bài 1\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 9."
+    },
+    {
+      "id": "g9_l_2",
+      "tag": "PHÂN TÍCH THƠ",
+      "title": "Phân tích thơ ca & Nghệ thuật biểu cảm Lớp 9 - Bài 2",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 9:</b> Phân tích thơ ca & Nghệ thuật biểu cảm Lớp 9 - Bài 2. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 9.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 9, chủ đề \"Phân tích thơ ca & Nghệ thuật biểu cảm Lớp 9 - Bài 2\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 9."
+    },
+    {
+      "id": "g9_l_3",
+      "tag": "VĂN NGHỊ LUẬN XÃ HỘI",
+      "title": "Nghị luận Xã hội 200 chữ: Ý chí kiên cường & Lý tưởng sống Lớp 9",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 9:</b> Nghị luận Xã hội 200 chữ: Ý chí kiên cường & Lý tưởng sống Lớp 9. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 9.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 9, chủ đề \"Nghị luận Xã hội 200 chữ: Ý chí kiên cường & Lý tưởng sống Lớp 9\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 9."
+    },
+    {
+      "id": "g9_l_4",
+      "tag": "VĂN NGHỊ LUẬN XÃ HỘI",
+      "title": "Nghị luận Xã hội: Tinh thần Tự học & Đổi mới sáng tạo Lớp 9",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 9:</b> Nghị luận Xã hội: Tinh thần Tự học & Đổi mới sáng tạo Lớp 9. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 9.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 9, chủ đề \"Nghị luận Xã hội: Tinh thần Tự học & Đổi mới sáng tạo Lớp 9\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 9."
+    },
+    {
+      "id": "g9_l_5",
+      "tag": "VĂN NGHỊ LUẬN VĂN HỌC",
+      "title": "Nghị luận Văn học: Vẻ đẹp tâm hồn & Khát vọng con người Lớp 9",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 9:</b> Nghị luận Văn học: Vẻ đẹp tâm hồn & Khát vọng con người Lớp 9. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 9.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 9, chủ đề \"Nghị luận Văn học: Vẻ đẹp tâm hồn & Khát vọng con người Lớp 9\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 9."
+    },
+    {
+      "id": "g9_l_6",
+      "tag": "PHÂN TÍCH NHÂN VẬT",
+      "title": "Phân tích Nhân vật điển hình trong Tác phẩm Văn học Lớp 9",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 9:</b> Phân tích Nhân vật điển hình trong Tác phẩm Văn học Lớp 9. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 9.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 9, chủ đề \"Phân tích Nhân vật điển hình trong Tác phẩm Văn học Lớp 9\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 9."
+    },
+    {
+      "id": "g9_l_7",
+      "tag": "VĂN BIỂU CẢM",
+      "title": "Văn biểu cảm về Mái trường, Thầy cô & Quê hương Lớp 9",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 9:</b> Văn biểu cảm về Mái trường, Thầy cô & Quê hương Lớp 9. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 9.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 9, chủ đề \"Văn biểu cảm về Mái trường, Thầy cô & Quê hương Lớp 9\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 9."
+    },
+    {
+      "id": "g9_l_8",
+      "tag": "VĂN THUYẾT MÌNH",
+      "title": "Thuyết minh về danh lam thắng cảnh & Di tích lịch sử Lớp 9",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 9:</b> Thuyết minh về danh lam thắng cảnh & Di tích lịch sử Lớp 9. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 9.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 9, chủ đề \"Thuyết minh về danh lam thắng cảnh & Di tích lịch sử Lớp 9\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 9."
+    },
+    {
+      "id": "g9_l_9",
+      "tag": "VĂN TỰ SỰ",
+      "title": "Văn tự sự kết hợp miêu tả nội tâm sâu sắc Lớp 9",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 9:</b> Văn tự sự kết hợp miêu tả nội tâm sâu sắc Lớp 9. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 9.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 9, chủ đề \"Văn tự sự kết hợp miêu tả nội tâm sâu sắc Lớp 9\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 9."
+    },
+    {
+      "id": "g9_l_10",
+      "tag": "ĐỌC HIỂU VĂN BẢN",
+      "title": "Hướng dẫn trả lời Đọc hiểu Văn bản đạt điểm tối đa Lớp 9",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 9:</b> Hướng dẫn trả lời Đọc hiểu Văn bản đạt điểm tối đa Lớp 9. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 9.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 9, chủ đề \"Hướng dẫn trả lời Đọc hiểu Văn bản đạt điểm tối đa Lớp 9\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 9."
+    },
+    {
+      "id": "g9_l_11",
+      "tag": "LÍ LUẬN VĂN HỌC",
+      "title": "Chủ đề Lý luận Văn học: Chức năng văn học & Sáng tạo nghệ thuật Lớp 9",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 9:</b> Chủ đề Lý luận Văn học: Chức năng văn học & Sáng tạo nghệ thuật Lớp 9. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 9.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 9, chủ đề \"Chủ đề Lý luận Văn học: Chức năng văn học & Sáng tạo nghệ thuật Lớp 9\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 9."
+    },
+    {
+      "id": "g9_l_12",
+      "tag": "TỔNG ÔN THI",
+      "title": "Bài văn Mẫu Học sinh Giỏi & Ôn thi Chuyển cấp Lớp 9",
+      "problem": "<b>Đề bài Ngữ Văn Lớp 9:</b> Bài văn Mẫu Học sinh Giỏi & Ôn thi Chuyển cấp Lớp 9. Viết bài văn hoàn chỉnh hoặc phân tích chi tiết các giá trị nội dung và nghệ thuật của tác phẩm/chủ đề.",
+      "analysis_breakdown": "\n<div style=\"background:rgba(0,242,254,0.05);padding:16px;border-radius:16px;margin-bottom:14px;border-left:4px solid #00f2fe;\">\n  <b style=\"color:#00f2fe;font-size:1.05rem;\">1. Dàn ý Chi tiết & Hệ thống Luận điểm (Khổ / Đoạn trọng tâm)</b>\n  <ul style=\"margin:8px 0 0 18px;padding:0;line-height:1.8;\">\n    <li><b>Luận điểm 1 (Bối cảnh & Xuất thân)</b>: Phân tích bối cảnh sáng tác, cảm hứng chủ đạo và mạch cảm xúc xuyên suốt tác phẩm Ngữ văn Lớp 9.</li>\n    <li><b>Luận điểm 2 (Giá trị Nghệ thuật & Ngôn từ)</b>: Điểm qua các biện pháp tu từ đắt giá (Ẩn dụ, Điệp ngữ, So sánh, Nhân hóa) giúp nâng tầm ý thơ/lời văn.</li>\n    <li><b>Luận điểm 3 (Giá trị Nhân đạo & Thông điệp)</b>: Khẳng định tấm lòng vị tha, triết lý nhân sinh sâu sắc mà nhà văn/nhà thơ gửi gắm.</li>\n  </ul>\n</div>",
+      "full_essay": "<b>MỞ BÀI:</b>\nVăn học là nhịp cầu nối liền những tâm hồn, là khúc ca ca ngợi vẻ đẹp đích thực của cuộc sống. Trong chương trình Ngữ Văn Lớp 9, chủ đề \"Bài văn Mẫu Học sinh Giỏi & Ôn thi Chuyển cấp Lớp 9\" sừng sững như một nét chấm phá nghệ thuật vô cùng độc đáo, để lại ấn tượng sâu sắc trong lòng người đọc nhiều thế hệ.\n\n<b>THÂN BÀI:</b>\nTrước hết, khi đi sâu khám phá tác phẩm, ta không khỏi ngỡ ngàng trước bút pháp miêu tả nội tâm tài tình của tác giả. Bằng ngôn từ tinh tế, giàu hình ảnh và nhịp điệu, bức tranh nghệ thuật hiện lên vừa thực vừa mộng, đan quyện giữa cảm xúc cá nhân và nhịp đập của thời đại.\n\nTiếp theo, hệ thống hình ảnh tu từ được sử dụng vô cùng đắt giá. Những câu văn/câu thơ rực rỡ sắc màu không chỉ làm nổi bật diện mạo nhân vật/cảnh vật mà còn mở ra chiều sâu tư tưởng. Tác giả đã khéo léo lồng ghép triết lý sống cao đẹp: lòng thương người, sự kiên cường vượt qua nghịch cảnh và niềm tin sắt đá vào tương lai xán lạn.\n\n<b>KẾT BÀI:</b>\nTóm lại, qua bài viết/tác phẩm trên, người đọc không chỉ cảm nhận được tài năng bậc thầy của nhà văn mà còn tự rút ra cho mình những bài học nhân sinh vô cùng quý giá. Tác phẩm mãi mãi là ngọn đuốc sáng soi đường cho tâm hồn thế hệ trẻ Lớp 9."
     }
   ],
-  english: [
-    { id:'g9e1', tag:'WISH CLAUSES & SUGGESTIONS', title:'Structures with Wish and Suggest + V-ing',
-      problem:'Rewrite: "I don't have a laptop." → "I wish..." AND "Let's protect the environment." → "I suggest..."',
-      solution:`• Wish clause (unreal in present): "I wish <b>I had a laptop</b>."<br>• Suggestion: "I suggest <b>protecting the environment</b>." (or "that we should protect...")`
+  "english": [
+    {
+      "id": "g9_e_1",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 9 - Topic 1: Tenses & Time Expressions Breakdown",
+      "problem": "<b>English Practice Exercise (Grade 9):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 9 - Topic 1: Tenses & Time Expressions Breakdown</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 9 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g9_e_2",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 9 - Topic 2: Passive Voice & Causative Structures",
+      "problem": "<b>English Practice Exercise (Grade 9):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 9 - Topic 2: Passive Voice & Causative Structures</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 9 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g9_e_3",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 9 - Topic 3: Reported Speech & Backshifting Rules",
+      "problem": "<b>English Practice Exercise (Grade 9):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 9 - Topic 3: Reported Speech & Backshifting Rules</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 9 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g9_e_4",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 9 - Topic 4: Relative Clauses & Reduced Relative Clauses",
+      "problem": "<b>English Practice Exercise (Grade 9):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 9 - Topic 4: Relative Clauses & Reduced Relative Clauses</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 9 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g9_e_5",
+      "tag": "GRAMMAR ADVANCED",
+      "title": "English Grade 9 - Topic 5: Conditionals & Wish Sentences",
+      "problem": "<b>English Practice Exercise (Grade 9):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 9 - Topic 5: Conditionals & Wish Sentences</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 9 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g9_e_6",
+      "tag": "ESSAY WRITING",
+      "title": "English Grade 9 - Topic 6: Opinion Essay on Environmental Protection",
+      "problem": "<b>English Practice Exercise (Grade 9):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 9 - Topic 6: Opinion Essay on Environmental Protection</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 9 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g9_e_7",
+      "tag": "ESSAY WRITING",
+      "title": "English Grade 9 - Topic 7: Academic Paragraph on Technology in Education",
+      "problem": "<b>English Practice Exercise (Grade 9):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 9 - Topic 7: Academic Paragraph on Technology in Education</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 9 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
+    },
+    {
+      "id": "g9_e_8",
+      "tag": "READING COMPREHENSION",
+      "title": "English Grade 9 - Topic 8: Reading Passage & Vocabulary Strategy",
+      "problem": "<b>English Practice Exercise (Grade 9):</b> Complete the sentence transformation or explain the grammatical rule for <b>English Grade 9 - Topic 8: Reading Passage & Vocabulary Strategy</b>.",
+      "solution": "<b>DETAILED STEP-BY-STEP EXPLANATION:</b><br>\n<b>1. Grammar Rule Analysis:</b> Identify the key tense markers, subject-verb agreement, or clause structure.<br>\n<b>2. Structural Transformation:</b> Apply the core formula for Grade 9 English curriculum.<br>\n<b>3. Vocabulary & Usage Note:</b> Take note of collocations, idioms, and prepositional phrases.<br>\n<b>4. Final Answer:</b> Complete, error-free sentence with 100% grammatical precision."
     }
   ],
-  science: [
-    { id:'g9s1', tag:'KHTN 9 - ĐỊNH LUẬT ÔM', title:'Tính điện trở tương đương R_tđ của đoạn mạch hỗn hợp',
-      problem:'Cho R₁ = 6 Ω nối tiếp với cụm (R₂ // R₃) biết R₂ = 4 Ω, R₃ = 12 Ω. Tính R_tđ.',
-      solution:`<b>1. Điện trở cụm song song R₂₃:</b> R₂₃ = (R₂ × R₃) / (R₂ + R₃) = (4 × 12) / (4 + 12) = 48 / 16 = 3 Ω.<br><b>2. Điện trở tương đương toàn mạch R_tđ:</b> R_tđ = R₁ + R₂₃ = 6 + 3 = <b>9 Ω</b>.`
+  "science": [
+    {
+      "id": "g9_s_1",
+      "tag": "VẬT LÝ / KHTN",
+      "title": "Vật Lý Lớp 9 - Chuyên đề 1: Cơ học & Động lực học",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 9:</b> Vật Lý Lớp 9 - Chuyên đề 1: Cơ học & Động lực học. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g9_s_2",
+      "tag": "VẬT LÝ / KHTN",
+      "title": "Vật Lý Lớp 9 - Chuyên đề 2: Điện học & Quang học",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 9:</b> Vật Lý Lớp 9 - Chuyên đề 2: Điện học & Quang học. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g9_s_3",
+      "tag": "HÓA HỌC / KHTN",
+      "title": "Hóa Học Lớp 9 - Chuyên đề 1: Phản ứng hóa học & Bảo toàn khối lượng",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 9:</b> Hóa Học Lớp 9 - Chuyên đề 1: Phản ứng hóa học & Bảo toàn khối lượng. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g9_s_4",
+      "tag": "HÓA HỌC / KHTN",
+      "title": "Hóa Học Lớp 9 - Chuyên đề 2: Tính nồng độ dung dịch & Số mol",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 9:</b> Hóa Học Lớp 9 - Chuyên đề 2: Tính nồng độ dung dịch & Số mol. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g9_s_5",
+      "tag": "SINH HỌC / KHTN",
+      "title": "Sinh Học Lớp 9 - Chuyên đề 1: Tế bào & Di truyền học",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 9:</b> Sinh Học Lớp 9 - Chuyên đề 1: Tế bào & Di truyền học. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g9_s_6",
+      "tag": "SINH HỌC / KHTN",
+      "title": "Sinh Học Lớp 9 - Chuyên đề 2: Sinh thái học & Bối cảnh môi trường",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 9:</b> Sinh Học Lớp 9 - Chuyên đề 2: Sinh thái học & Bối cảnh môi trường. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g9_s_7",
+      "tag": "KHTN THỰC NGHIỆM",
+      "title": "Bài tập KHTN Thực nghiệm & Đo lường Lớp 9",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 9:</b> Bài tập KHTN Thực nghiệm & Đo lường Lớp 9. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
+    },
+    {
+      "id": "g9_s_8",
+      "tag": "KHTN TỔNG HỢP",
+      "title": "Tổng ôn tập KHTN / Lý Hóa Sinh Chuyên sâu Lớp 9",
+      "problem": "<b>Đề bài KHTN / Lý / Hóa / Sinh Lớp 9:</b> Tổng ôn tập KHTN / Lý Hóa Sinh Chuyên sâu Lớp 9. Giải chi tiết bài tập định lượng và định tính.",
+      "solution": "<b>HƯỚNG DẪN GIẢI CHI TIẾT KHOA HỌC:</b><br>\n<b>1. Tóm tắt dữ kiện:</b> Đổi đơn vị chuẩn SI, xác định các đại lượng đã biết và đại lượng cần tìm.<br>\n<b>2. Thiết lập công thức:</b> Áp dụng các định luật bảo toàn, định luật Ôm, công thức di truyền hoặc phương trình phản ứng hóa học.<br>\n<b>3. Thao tác tính toán:</b> Thay số vào công thức và thực hiện đại số chính xác.<br>\n<b>4. Đáp số & Nhận xét:</b> Đưa ra kết quả cuối cùng kèm đơn vị đo chuẩn."
     }
   ],
-  social: [
-    { id:'g9so1', tag:'LỊCH SỬ 9 - ĐIỆN BIÊN PHỦ', title:'Phân tích Ý nghĩa Lịch sử lừng lẫy của Chiến thắng Điện Biên Phủ 1954',
-      problem:'Tại sao nói Chiến thắng Điện Biên Phủ "Lừng lẫy năm châu, chấn động địa cầu"?',
-      solution:`<b>1. Trong nước:</b> Đập tan hoàn toàn Kế hoạch Nava của Pháp - Mỹ, buộc Pháp ký Hiệp định Giơ-ne-vơ chấm dứt chiến tranh.<br><b>2. Thế giới:</b> Cổ vũ các dân tộc bị áp bức đứng lên đấu tranh giải phóng dân tộc trên toàn thế giới.`
+  "social": [
+    {
+      "id": "g9_so_1",
+      "tag": "LỊCH SỬ",
+      "title": "Lịch Sử Lớp 9 - Chủ đề 1: Tiến trình Lịch sử & Các cuộc chiến thắng lẫy lừng",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 9:</b> Lịch Sử Lớp 9 - Chủ đề 1: Tiến trình Lịch sử & Các cuộc chiến thắng lẫy lừng. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 9."
+    },
+    {
+      "id": "g9_so_2",
+      "tag": "LỊCH SỬ",
+      "title": "Lịch Sử Lớp 9 - Chủ đề 2: Nguyên nhân & Bài học kinh nghiệm Lịch sử",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 9:</b> Lịch Sử Lớp 9 - Chủ đề 2: Nguyên nhân & Bài học kinh nghiệm Lịch sử. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 9."
+    },
+    {
+      "id": "g9_so_3",
+      "tag": "ĐỊA LÝ",
+      "title": "Địa Lý Lớp 9 - Chủ đề 1: Địa lý Tự nhiên & Khí hậu Việt Nam",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 9:</b> Địa Lý Lớp 9 - Chủ đề 1: Địa lý Tự nhiên & Khí hậu Việt Nam. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 9."
+    },
+    {
+      "id": "g9_so_4",
+      "tag": "ĐỊA LÝ",
+      "title": "Địa Lý Lớp 9 - Chủ đề 2: Kỹ năng Phân tích Bảng số liệu & Biểu đồ",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 9:</b> Địa Lý Lớp 9 - Chủ đề 2: Kỹ năng Phân tích Bảng số liệu & Biểu đồ. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 9."
+    },
+    {
+      "id": "g9_so_5",
+      "tag": "GDCD / GDKT&PL",
+      "title": "GDCD / GDKT&PL Lớp 9 - Tình huống Pháp luật & Đạo đức",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 9:</b> GDCD / GDKT&PL Lớp 9 - Tình huống Pháp luật & Đạo đức. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 9."
+    },
+    {
+      "id": "g9_so_6",
+      "tag": "GDCD / GDKT&PL",
+      "title": "GDCD / GDKT&PL Lớp 9 - Kinh tế thị trường & Quyền công dân",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 9:</b> GDCD / GDKT&PL Lớp 9 - Kinh tế thị trường & Quyền công dân. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 9."
+    },
+    {
+      "id": "g9_so_7",
+      "tag": "KHXH TỔNG HỢP",
+      "title": "Bài tập Tổng hợp Khoa học Xã hội Lớp 9",
+      "problem": "<b>Đề bài KHXH (Sử - Địa - GDCD) Lớp 9:</b> Bài tập Tổng hợp Khoa học Xã hội Lớp 9. Phân tích bản chất sự kiện hoặc xử lý tình huống thực tế.",
+      "solution": "<b>PHÂN TÍCH CHI TIẾT & LỜI GIẢI PHÁP LÝ / LỊCH SỬ:</b><br>\n<b>1. Bối cảnh & Bản chất:</b> Làm rõ điều kiện lịch sử, đặc điểm tự nhiên hoặc quy định pháp luật liên quan.<br>\n<b>2. Phân tích nguyên nhân & Hậu quả:</b> Trình bày các luận điểm logic có dẫn chứng cụ thể.<br>\n<b>3. Bài học thực tiễn:</b> Rút ra liên hệ bản thân và trách nhiệm của học sinh Lớp 9."
     }
   ]
 };
