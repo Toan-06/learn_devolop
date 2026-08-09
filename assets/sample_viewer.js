@@ -217,10 +217,11 @@ function openSingleSample(id, lvl) {
 
       
       <!-- EDUCATIONAL DISCLAIMER BANNER -->
-      <div style="background:rgba(245,158,11,0.12);border:1.5px solid rgba(245,158,11,0.4);border-radius:18px;padding:12px 18px;margin-bottom:20px;display:flex;align-items:center;gap:12px;color:#fcd34d;font-size:0.85rem;line-height:1.5;">
-        <span style="font-size:1.3rem;">⚠️</span>
+      <div style="background:rgba(245,158,11,0.12);border:1.5px solid rgba(245,158,11,0.4);border-radius:18px;padding:14px 20px;margin-bottom:20px;display:flex;align-items:center;gap:14px;color:#fcd34d;font-size:0.88rem;line-height:1.6;">
+        <span style="font-size:1.5rem;flex-shrink:0;">⚠️</span>
         <div>
-          <strong>LƯU Ý HỌC TẬP THAM KHẢO:</strong> Cổng thông tin & kho tài liệu học tập mang tính chất <em>THAM KHẢO</em>. Các bài giải mẫu và bài văn phân tích được tổng hợp hỗ trợ học sinh mở rộng tư duy ôn luyện, có thể tồn tại sơ sót nhỏ. Học sinh nên kết hợp đối chiếu với bài giảng chính thức của Thầy/Cô giáo trên lớp để đạt kết quả tốt nhất.
+          <strong style="color:#fbbf24;font-size:0.95rem;display:block;margin-bottom:4px;">LƯU Ý HỌC TẬP THAM KHẢO:</strong>
+          Đây chỉ là những bài tham khảo có thể có sai sót. Các bài giải mẫu và bài văn phân tích được tổng hợp hỗ trợ học sinh mở rộng tư duy ôn luyện, có thể tồn tại sơ sót nhỏ. Học sinh nên kết hợp đối chiếu với bài giảng chính thức của Thầy/Cô giáo trên lớp để đạt kết quả tốt nhất.
         </div>
       </div>
 
